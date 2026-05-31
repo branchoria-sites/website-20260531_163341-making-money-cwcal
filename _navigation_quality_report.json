@@ -1,0 +1,1022 @@
+{
+  "generated_at_utc": "2026-05-31T15:32:05.770305Z",
+  "summary": {
+    "total_pages_with_permalink": 65,
+    "visible_pages": 55,
+    "hidden_pages": 10,
+    "visible_pages_without_inbound_links": 0,
+    "visible_orphan_pages": 0,
+    "visible_pages_with_empty_branch_sections": 0,
+    "visible_pages_with_missing_parent_target": 0,
+    "branch_navigation_coverage_percent": 100.0,
+    "sample_edge_count": 200
+  },
+  "samples": {
+    "visible_without_inbound_links": [],
+    "visible_orphan_pages": [],
+    "visible_empty_branch_sections": [],
+    "visible_missing_parent_target": [],
+    "edge_samples": [
+      {
+        "from": "making_money_from_cr_f649af",
+        "to": "making_money_from_cr_f649af_affiliate_disclosure_249c42",
+        "type": "child"
+      },
+      {
+        "from": "making_money_from_cr_f649af",
+        "to": "making_money_from_cr_f649af_best_of_pages_dd07ed",
+        "type": "child"
+      },
+      {
+        "from": "making_money_from_cr_f649af",
+        "to": "making_money_from_cr_f649af_commercial_intent_to_bcfe92",
+        "type": "child"
+      },
+      {
+        "from": "making_money_from_cr_f649af",
+        "to": "making_money_from_cr_f649af_comparison_pages_2aff90",
+        "type": "child"
+      },
+      {
+        "from": "making_money_from_cr_f649af",
+        "to": "making_money_from_cr_f649af_index",
+        "type": "child"
+      },
+      {
+        "from": "making_money_from_cr_f649af",
+        "to": "making_money_from_cr_f649af_informational_suppor_3ecae4",
+        "type": "child"
+      },
+      {
+        "from": "making_money_from_cr_f649af",
+        "to": "making_money_from_cr_f649af_internal_linking_use_8b6d36",
+        "type": "child"
+      },
+      {
+        "from": "making_money_from_cr_f649af",
+        "to": "making_money_from_cr_f649af_offer_matching_ddab07",
+        "type": "child"
+      },
+      {
+        "from": "making_money_from_cr_f649af",
+        "to": "making_money_from_cr_f649af_revenue_per_visitor_c37335",
+        "type": "child"
+      },
+      {
+        "from": "making_money_from_cr_f649af",
+        "to": "making_money_from_cr_f649af_review_pages_0fc8c2",
+        "type": "child"
+      },
+      {
+        "from": "making_money_from_cr_f649af_review_pages_0fc8c2",
+        "to": "making_money_from_cr_f649af",
+        "type": "parent"
+      },
+      {
+        "from": "making_money_from_cr_f649af_review_pages_0fc8c2",
+        "to": "making_money_from_cr_f649af_affiliate_disclosure_249c42",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_review_pages_0fc8c2",
+        "to": "making_money_from_cr_f649af_best_of_pages_dd07ed",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_review_pages_0fc8c2",
+        "to": "making_money_from_cr_f649af_commercial_intent_to_bcfe92",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_review_pages_0fc8c2",
+        "to": "making_money_from_cr_f649af_comparison_pages_2aff90",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_review_pages_0fc8c2",
+        "to": "making_money_from_cr_f649af_informational_suppor_3ecae4",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_review_pages_0fc8c2",
+        "to": "making_money_from_cr_f649af_internal_linking_use_8b6d36",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_review_pages_0fc8c2",
+        "to": "making_money_from_cr_f649af_offer_matching_ddab07",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_review_pages_0fc8c2",
+        "to": "making_money_from_cr_f649af_revenue_per_visitor_c37335",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_review_pages_0fc8c2",
+        "to": "making_money_from_cr_f649af_review_pages_0fc8c2_affiliate_disclosure_cef0d8",
+        "type": "child"
+      },
+      {
+        "from": "making_money_from_cr_f649af_review_pages_0fc8c2",
+        "to": "making_money_from_cr_f649af_review_pages_0fc8c2_credible_limitations_dce7d3",
+        "type": "child"
+      },
+      {
+        "from": "making_money_from_cr_f649af_review_pages_0fc8c2",
+        "to": "making_money_from_cr_f649af_review_pages_0fc8c2_fit_summaries_66df65",
+        "type": "child"
+      },
+      {
+        "from": "making_money_from_cr_f649af_review_pages_0fc8c2",
+        "to": "making_money_from_cr_f649af_review_pages_0fc8c2_index",
+        "type": "child"
+      },
+      {
+        "from": "making_money_from_cr_f649af_review_pages_0fc8c2",
+        "to": "making_money_from_cr_f649af_review_pages_0fc8c2_reassurance_blocks_82bc87",
+        "type": "child"
+      },
+      {
+        "from": "making_money_from_cr_f649af_review_pages_0fc8c2",
+        "to": "making_money_from_cr_f649af_review_pages_0fc8c2_review_evidence_bloc_f24101",
+        "type": "child"
+      },
+      {
+        "from": "making_money_from_cr_f649af_review_pages_0fc8c2",
+        "to": "making_money_from_cr_f649af",
+        "type": "ancestor"
+      },
+      {
+        "from": "making_money_from_cr_f649af_best_of_pages_dd07ed",
+        "to": "making_money_from_cr_f649af",
+        "type": "parent"
+      },
+      {
+        "from": "making_money_from_cr_f649af_best_of_pages_dd07ed",
+        "to": "making_money_from_cr_f649af_affiliate_disclosure_249c42",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_best_of_pages_dd07ed",
+        "to": "making_money_from_cr_f649af_commercial_intent_to_bcfe92",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_best_of_pages_dd07ed",
+        "to": "making_money_from_cr_f649af_comparison_pages_2aff90",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_best_of_pages_dd07ed",
+        "to": "making_money_from_cr_f649af_informational_suppor_3ecae4",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_best_of_pages_dd07ed",
+        "to": "making_money_from_cr_f649af_internal_linking_use_8b6d36",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_best_of_pages_dd07ed",
+        "to": "making_money_from_cr_f649af_offer_matching_ddab07",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_best_of_pages_dd07ed",
+        "to": "making_money_from_cr_f649af_revenue_per_visitor_c37335",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_best_of_pages_dd07ed",
+        "to": "making_money_from_cr_f649af_review_pages_0fc8c2",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_best_of_pages_dd07ed",
+        "to": "making_money_from_cr_f649af_best_of_pages_dd07ed_best_for_labels_183749",
+        "type": "child"
+      },
+      {
+        "from": "making_money_from_cr_f649af_best_of_pages_dd07ed",
+        "to": "making_money_from_cr_f649af_best_of_pages_dd07ed_comparison_tables_cc4a40",
+        "type": "child"
+      },
+      {
+        "from": "making_money_from_cr_f649af_best_of_pages_dd07ed",
+        "to": "making_money_from_cr_f649af_best_of_pages_dd07ed_index",
+        "type": "child"
+      },
+      {
+        "from": "making_money_from_cr_f649af_best_of_pages_dd07ed",
+        "to": "making_money_from_cr_f649af_best_of_pages_dd07ed_selection_criteria_3c3afd",
+        "type": "child"
+      },
+      {
+        "from": "making_money_from_cr_f649af_best_of_pages_dd07ed",
+        "to": "making_money_from_cr_f649af_best_of_pages_dd07ed_shortlist_link_paths_fff52e",
+        "type": "child"
+      },
+      {
+        "from": "making_money_from_cr_f649af_best_of_pages_dd07ed",
+        "to": "making_money_from_cr_f649af_best_of_pages_dd07ed_thin_best_of_pages_06ee25",
+        "type": "child"
+      },
+      {
+        "from": "making_money_from_cr_f649af_best_of_pages_dd07ed",
+        "to": "making_money_from_cr_f649af",
+        "type": "ancestor"
+      },
+      {
+        "from": "making_money_from_cr_f649af_offer_matching_ddab07",
+        "to": "making_money_from_cr_f649af",
+        "type": "parent"
+      },
+      {
+        "from": "making_money_from_cr_f649af_offer_matching_ddab07",
+        "to": "making_money_from_cr_f649af_affiliate_disclosure_249c42",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_offer_matching_ddab07",
+        "to": "making_money_from_cr_f649af_best_of_pages_dd07ed",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_offer_matching_ddab07",
+        "to": "making_money_from_cr_f649af_commercial_intent_to_bcfe92",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_offer_matching_ddab07",
+        "to": "making_money_from_cr_f649af_comparison_pages_2aff90",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_offer_matching_ddab07",
+        "to": "making_money_from_cr_f649af_informational_suppor_3ecae4",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_offer_matching_ddab07",
+        "to": "making_money_from_cr_f649af_internal_linking_use_8b6d36",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_offer_matching_ddab07",
+        "to": "making_money_from_cr_f649af_revenue_per_visitor_c37335",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_offer_matching_ddab07",
+        "to": "making_money_from_cr_f649af_review_pages_0fc8c2",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_offer_matching_ddab07",
+        "to": "making_money_from_cr_f649af_offer_matching_ddab07_amazon_offer_reliabi_52117c",
+        "type": "child"
+      },
+      {
+        "from": "making_money_from_cr_f649af_offer_matching_ddab07",
+        "to": "making_money_from_cr_f649af_offer_matching_ddab07_cleaning_guides_smal_c2b7c9",
+        "type": "child"
+      },
+      {
+        "from": "making_money_from_cr_f649af_offer_matching_ddab07",
+        "to": "making_money_from_cr_f649af_offer_matching_ddab07_epc_offer_tests_8fdf2d",
+        "type": "child"
+      },
+      {
+        "from": "making_money_from_cr_f649af_offer_matching_ddab07",
+        "to": "making_money_from_cr_f649af_offer_matching_ddab07_index",
+        "type": "child"
+      },
+      {
+        "from": "making_money_from_cr_f649af_offer_matching_ddab07",
+        "to": "making_money_from_cr_f649af_offer_matching_ddab07_merchant_checkout_fr_4eef4d",
+        "type": "child"
+      },
+      {
+        "from": "making_money_from_cr_f649af_offer_matching_ddab07",
+        "to": "making_money_from_cr_f649af_offer_matching_ddab07_reader_intent_offer_479889",
+        "type": "child"
+      },
+      {
+        "from": "making_money_from_cr_f649af_offer_matching_ddab07",
+        "to": "making_money_from_cr_f649af",
+        "type": "ancestor"
+      },
+      {
+        "from": "making_money_from_cr_f649af_comparison_pages_2aff90",
+        "to": "making_money_from_cr_f649af",
+        "type": "parent"
+      },
+      {
+        "from": "making_money_from_cr_f649af_comparison_pages_2aff90",
+        "to": "making_money_from_cr_f649af_affiliate_disclosure_249c42",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_comparison_pages_2aff90",
+        "to": "making_money_from_cr_f649af_best_of_pages_dd07ed",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_comparison_pages_2aff90",
+        "to": "making_money_from_cr_f649af_commercial_intent_to_bcfe92",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_comparison_pages_2aff90",
+        "to": "making_money_from_cr_f649af_informational_suppor_3ecae4",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_comparison_pages_2aff90",
+        "to": "making_money_from_cr_f649af_internal_linking_use_8b6d36",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_comparison_pages_2aff90",
+        "to": "making_money_from_cr_f649af_offer_matching_ddab07",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_comparison_pages_2aff90",
+        "to": "making_money_from_cr_f649af_revenue_per_visitor_c37335",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_comparison_pages_2aff90",
+        "to": "making_money_from_cr_f649af_review_pages_0fc8c2",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_comparison_pages_2aff90",
+        "to": "making_money_from_cr_f649af_comparison_pages_2aff90_affiliate_disclosure_804e5a",
+        "type": "child"
+      },
+      {
+        "from": "making_money_from_cr_f649af_comparison_pages_2aff90",
+        "to": "making_money_from_cr_f649af_comparison_pages_2aff90_affiliate_exits_e255b9",
+        "type": "child"
+      },
+      {
+        "from": "making_money_from_cr_f649af_comparison_pages_2aff90",
+        "to": "making_money_from_cr_f649af_comparison_pages_2aff90_comparison_verdict_b_1a7c15",
+        "type": "child"
+      },
+      {
+        "from": "making_money_from_cr_f649af_comparison_pages_2aff90",
+        "to": "making_money_from_cr_f649af_comparison_pages_2aff90_decision_attributes_f835b6",
+        "type": "child"
+      },
+      {
+        "from": "making_money_from_cr_f649af_comparison_pages_2aff90",
+        "to": "making_money_from_cr_f649af_comparison_pages_2aff90_index",
+        "type": "child"
+      },
+      {
+        "from": "making_money_from_cr_f649af_comparison_pages_2aff90",
+        "to": "making_money_from_cr_f649af_comparison_pages_2aff90_use_case_winners_dc84cc",
+        "type": "child"
+      },
+      {
+        "from": "making_money_from_cr_f649af_comparison_pages_2aff90",
+        "to": "making_money_from_cr_f649af",
+        "type": "ancestor"
+      },
+      {
+        "from": "making_money_from_cr_f649af_revenue_per_visitor_c37335",
+        "to": "making_money_from_cr_f649af",
+        "type": "parent"
+      },
+      {
+        "from": "making_money_from_cr_f649af_revenue_per_visitor_c37335",
+        "to": "making_money_from_cr_f649af_affiliate_disclosure_249c42",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_revenue_per_visitor_c37335",
+        "to": "making_money_from_cr_f649af_best_of_pages_dd07ed",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_revenue_per_visitor_c37335",
+        "to": "making_money_from_cr_f649af_commercial_intent_to_bcfe92",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_revenue_per_visitor_c37335",
+        "to": "making_money_from_cr_f649af_comparison_pages_2aff90",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_revenue_per_visitor_c37335",
+        "to": "making_money_from_cr_f649af_informational_suppor_3ecae4",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_revenue_per_visitor_c37335",
+        "to": "making_money_from_cr_f649af_internal_linking_use_8b6d36",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_revenue_per_visitor_c37335",
+        "to": "making_money_from_cr_f649af_offer_matching_ddab07",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_revenue_per_visitor_c37335",
+        "to": "making_money_from_cr_f649af_review_pages_0fc8c2",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_revenue_per_visitor_c37335",
+        "to": "making_money_from_cr_f649af_revenue_per_visitor_c37335_affiliate_click_thro_d68e4b",
+        "type": "child"
+      },
+      {
+        "from": "making_money_from_cr_f649af_revenue_per_visitor_c37335",
+        "to": "making_money_from_cr_f649af_revenue_per_visitor_c37335_index",
+        "type": "child"
+      },
+      {
+        "from": "making_money_from_cr_f649af_revenue_per_visitor_c37335",
+        "to": "making_money_from_cr_f649af_revenue_per_visitor_c37335_merchant_conversion_e3735e",
+        "type": "child"
+      },
+      {
+        "from": "making_money_from_cr_f649af_revenue_per_visitor_c37335",
+        "to": "making_money_from_cr_f649af_revenue_per_visitor_c37335_problem_pages_buying_42e3c5",
+        "type": "child"
+      },
+      {
+        "from": "making_money_from_cr_f649af_revenue_per_visitor_c37335",
+        "to": "making_money_from_cr_f649af_revenue_per_visitor_c37335_revenue_chain_diagno_2bf290",
+        "type": "child"
+      },
+      {
+        "from": "making_money_from_cr_f649af_revenue_per_visitor_c37335",
+        "to": "making_money_from_cr_f649af_revenue_per_visitor_c37335_rpv_page_prioritisat_1d3a1c",
+        "type": "child"
+      },
+      {
+        "from": "making_money_from_cr_f649af_revenue_per_visitor_c37335",
+        "to": "making_money_from_cr_f649af",
+        "type": "ancestor"
+      },
+      {
+        "from": "making_money_from_cr_f649af_affiliate_disclosure_249c42",
+        "to": "making_money_from_cr_f649af",
+        "type": "parent"
+      },
+      {
+        "from": "making_money_from_cr_f649af_affiliate_disclosure_249c42",
+        "to": "making_money_from_cr_f649af_best_of_pages_dd07ed",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_affiliate_disclosure_249c42",
+        "to": "making_money_from_cr_f649af_commercial_intent_to_bcfe92",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_affiliate_disclosure_249c42",
+        "to": "making_money_from_cr_f649af_comparison_pages_2aff90",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_affiliate_disclosure_249c42",
+        "to": "making_money_from_cr_f649af_informational_suppor_3ecae4",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_affiliate_disclosure_249c42",
+        "to": "making_money_from_cr_f649af_internal_linking_use_8b6d36",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_affiliate_disclosure_249c42",
+        "to": "making_money_from_cr_f649af_offer_matching_ddab07",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_affiliate_disclosure_249c42",
+        "to": "making_money_from_cr_f649af_revenue_per_visitor_c37335",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_affiliate_disclosure_249c42",
+        "to": "making_money_from_cr_f649af_review_pages_0fc8c2",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_affiliate_disclosure_249c42",
+        "to": "making_money_from_cr_f649af_affiliate_disclosure_249c42_affiliate_trust_sign_9b06ce",
+        "type": "child"
+      },
+      {
+        "from": "making_money_from_cr_f649af_affiliate_disclosure_249c42",
+        "to": "making_money_from_cr_f649af_affiliate_disclosure_249c42_before_click_disclos_ee9ffd",
+        "type": "child"
+      },
+      {
+        "from": "making_money_from_cr_f649af_affiliate_disclosure_249c42",
+        "to": "making_money_from_cr_f649af_affiliate_disclosure_249c42_clear_affiliate_word_ac25e8",
+        "type": "child"
+      },
+      {
+        "from": "making_money_from_cr_f649af_affiliate_disclosure_249c42",
+        "to": "making_money_from_cr_f649af_affiliate_disclosure_249c42_index",
+        "type": "child"
+      },
+      {
+        "from": "making_money_from_cr_f649af_affiliate_disclosure_249c42",
+        "to": "making_money_from_cr_f649af_affiliate_disclosure_249c42_per_page_disclosure_bed7b0",
+        "type": "child"
+      },
+      {
+        "from": "making_money_from_cr_f649af_affiliate_disclosure_249c42",
+        "to": "making_money_from_cr_f649af_affiliate_disclosure_249c42_social_affiliate_dis_3b6ed1",
+        "type": "child"
+      },
+      {
+        "from": "making_money_from_cr_f649af_affiliate_disclosure_249c42",
+        "to": "making_money_from_cr_f649af",
+        "type": "ancestor"
+      },
+      {
+        "from": "making_money_from_cr_f649af_commercial_intent_to_bcfe92",
+        "to": "making_money_from_cr_f649af",
+        "type": "parent"
+      },
+      {
+        "from": "making_money_from_cr_f649af_commercial_intent_to_bcfe92",
+        "to": "making_money_from_cr_f649af_affiliate_disclosure_249c42",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_commercial_intent_to_bcfe92",
+        "to": "making_money_from_cr_f649af_best_of_pages_dd07ed",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_commercial_intent_to_bcfe92",
+        "to": "making_money_from_cr_f649af_comparison_pages_2aff90",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_commercial_intent_to_bcfe92",
+        "to": "making_money_from_cr_f649af_informational_suppor_3ecae4",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_commercial_intent_to_bcfe92",
+        "to": "making_money_from_cr_f649af_internal_linking_use_8b6d36",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_commercial_intent_to_bcfe92",
+        "to": "making_money_from_cr_f649af_offer_matching_ddab07",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_commercial_intent_to_bcfe92",
+        "to": "making_money_from_cr_f649af_revenue_per_visitor_c37335",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_commercial_intent_to_bcfe92",
+        "to": "making_money_from_cr_f649af_review_pages_0fc8c2",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_commercial_intent_to_bcfe92",
+        "to": "making_money_from_cr_f649af_commercial_intent_to_bcfe92_best_page_shortlists_3a11de",
+        "type": "child"
+      },
+      {
+        "from": "making_money_from_cr_f649af_commercial_intent_to_bcfe92",
+        "to": "making_money_from_cr_f649af_commercial_intent_to_bcfe92_buyer_intent_ladder_6ae267",
+        "type": "child"
+      },
+      {
+        "from": "making_money_from_cr_f649af_commercial_intent_to_bcfe92",
+        "to": "making_money_from_cr_f649af_commercial_intent_to_bcfe92_commission_revenue_p_1388ec",
+        "type": "child"
+      },
+      {
+        "from": "making_money_from_cr_f649af_commercial_intent_to_bcfe92",
+        "to": "making_money_from_cr_f649af_commercial_intent_to_bcfe92_index",
+        "type": "child"
+      },
+      {
+        "from": "making_money_from_cr_f649af_commercial_intent_to_bcfe92",
+        "to": "making_money_from_cr_f649af_commercial_intent_to_bcfe92_offer_availability_c_cf45e4",
+        "type": "child"
+      },
+      {
+        "from": "making_money_from_cr_f649af_commercial_intent_to_bcfe92",
+        "to": "making_money_from_cr_f649af_commercial_intent_to_bcfe92_versus_pages_fbd582",
+        "type": "child"
+      },
+      {
+        "from": "making_money_from_cr_f649af_commercial_intent_to_bcfe92",
+        "to": "making_money_from_cr_f649af",
+        "type": "ancestor"
+      },
+      {
+        "from": "making_money_from_cr_f649af_informational_suppor_3ecae4",
+        "to": "making_money_from_cr_f649af",
+        "type": "parent"
+      },
+      {
+        "from": "making_money_from_cr_f649af_informational_suppor_3ecae4",
+        "to": "making_money_from_cr_f649af_affiliate_disclosure_249c42",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_informational_suppor_3ecae4",
+        "to": "making_money_from_cr_f649af_best_of_pages_dd07ed",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_informational_suppor_3ecae4",
+        "to": "making_money_from_cr_f649af_commercial_intent_to_bcfe92",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_informational_suppor_3ecae4",
+        "to": "making_money_from_cr_f649af_comparison_pages_2aff90",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_informational_suppor_3ecae4",
+        "to": "making_money_from_cr_f649af_internal_linking_use_8b6d36",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_informational_suppor_3ecae4",
+        "to": "making_money_from_cr_f649af_offer_matching_ddab07",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_informational_suppor_3ecae4",
+        "to": "making_money_from_cr_f649af_revenue_per_visitor_c37335",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_informational_suppor_3ecae4",
+        "to": "making_money_from_cr_f649af_review_pages_0fc8c2",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_informational_suppor_3ecae4",
+        "to": "making_money_from_cr_f649af_informational_suppor_3ecae4_decision_tools_buyin_4f698e",
+        "type": "child"
+      },
+      {
+        "from": "making_money_from_cr_f649af_informational_suppor_3ecae4",
+        "to": "making_money_from_cr_f649af_informational_suppor_3ecae4_diagnosis_pages_solu_d7919b",
+        "type": "child"
+      },
+      {
+        "from": "making_money_from_cr_f649af_informational_suppor_3ecae4",
+        "to": "making_money_from_cr_f649af_informational_suppor_3ecae4_index",
+        "type": "child"
+      },
+      {
+        "from": "making_money_from_cr_f649af_informational_suppor_3ecae4",
+        "to": "making_money_from_cr_f649af_informational_suppor_3ecae4_info_pages_not_revie_167b36",
+        "type": "child"
+      },
+      {
+        "from": "making_money_from_cr_f649af_informational_suppor_3ecae4",
+        "to": "making_money_from_cr_f649af_informational_suppor_3ecae4_question_pages_buyin_ed3044",
+        "type": "child"
+      },
+      {
+        "from": "making_money_from_cr_f649af_informational_suppor_3ecae4",
+        "to": "making_money_from_cr_f649af_informational_suppor_3ecae4_reader_certainty_int_43a48b",
+        "type": "child"
+      },
+      {
+        "from": "making_money_from_cr_f649af_informational_suppor_3ecae4",
+        "to": "making_money_from_cr_f649af",
+        "type": "ancestor"
+      },
+      {
+        "from": "making_money_from_cr_f649af_internal_linking_use_8b6d36",
+        "to": "making_money_from_cr_f649af",
+        "type": "parent"
+      },
+      {
+        "from": "making_money_from_cr_f649af_internal_linking_use_8b6d36",
+        "to": "making_money_from_cr_f649af_affiliate_disclosure_249c42",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_internal_linking_use_8b6d36",
+        "to": "making_money_from_cr_f649af_best_of_pages_dd07ed",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_internal_linking_use_8b6d36",
+        "to": "making_money_from_cr_f649af_commercial_intent_to_bcfe92",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_internal_linking_use_8b6d36",
+        "to": "making_money_from_cr_f649af_comparison_pages_2aff90",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_internal_linking_use_8b6d36",
+        "to": "making_money_from_cr_f649af_informational_suppor_3ecae4",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_internal_linking_use_8b6d36",
+        "to": "making_money_from_cr_f649af_offer_matching_ddab07",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_internal_linking_use_8b6d36",
+        "to": "making_money_from_cr_f649af_revenue_per_visitor_c37335",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_internal_linking_use_8b6d36",
+        "to": "making_money_from_cr_f649af_review_pages_0fc8c2",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_internal_linking_use_8b6d36",
+        "to": "making_money_from_cr_f649af_internal_linking_use_8b6d36_index",
+        "type": "child"
+      },
+      {
+        "from": "making_money_from_cr_f649af_internal_linking_use_8b6d36",
+        "to": "making_money_from_cr_f649af_internal_linking_use_8b6d36_informational_to_com_285a73",
+        "type": "child"
+      },
+      {
+        "from": "making_money_from_cr_f649af_internal_linking_use_8b6d36",
+        "to": "making_money_from_cr_f649af_internal_linking_use_8b6d36_intent_aligned_linki_bd0a68",
+        "type": "child"
+      },
+      {
+        "from": "making_money_from_cr_f649af_internal_linking_use_8b6d36",
+        "to": "making_money_from_cr_f649af_internal_linking_use_8b6d36_link_trust_managemen_51657f",
+        "type": "child"
+      },
+      {
+        "from": "making_money_from_cr_f649af_internal_linking_use_8b6d36",
+        "to": "making_money_from_cr_f649af_internal_linking_use_8b6d36_linking_templates_3f3b1f",
+        "type": "child"
+      },
+      {
+        "from": "making_money_from_cr_f649af_internal_linking_use_8b6d36",
+        "to": "making_money_from_cr_f649af_internal_linking_use_8b6d36_review_cluster_linki_990eea",
+        "type": "child"
+      },
+      {
+        "from": "making_money_from_cr_f649af_internal_linking_use_8b6d36",
+        "to": "making_money_from_cr_f649af",
+        "type": "ancestor"
+      },
+      {
+        "from": "making_money_from_cr_f649af_review_pages_0fc8c2_fit_summaries_66df65",
+        "to": "making_money_from_cr_f649af_review_pages_0fc8c2",
+        "type": "parent"
+      },
+      {
+        "from": "making_money_from_cr_f649af_review_pages_0fc8c2_fit_summaries_66df65",
+        "to": "making_money_from_cr_f649af_review_pages_0fc8c2_affiliate_disclosure_cef0d8",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_review_pages_0fc8c2_fit_summaries_66df65",
+        "to": "making_money_from_cr_f649af_review_pages_0fc8c2_credible_limitations_dce7d3",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_review_pages_0fc8c2_fit_summaries_66df65",
+        "to": "making_money_from_cr_f649af_review_pages_0fc8c2_reassurance_blocks_82bc87",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_review_pages_0fc8c2_fit_summaries_66df65",
+        "to": "making_money_from_cr_f649af_review_pages_0fc8c2_review_evidence_bloc_f24101",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_review_pages_0fc8c2_fit_summaries_66df65",
+        "to": "making_money_from_cr_f649af",
+        "type": "ancestor"
+      },
+      {
+        "from": "making_money_from_cr_f649af_review_pages_0fc8c2_fit_summaries_66df65",
+        "to": "making_money_from_cr_f649af_review_pages_0fc8c2",
+        "type": "ancestor"
+      },
+      {
+        "from": "making_money_from_cr_f649af_best_of_pages_dd07ed_best_for_labels_183749",
+        "to": "making_money_from_cr_f649af_best_of_pages_dd07ed",
+        "type": "parent"
+      },
+      {
+        "from": "making_money_from_cr_f649af_best_of_pages_dd07ed_best_for_labels_183749",
+        "to": "making_money_from_cr_f649af_best_of_pages_dd07ed_comparison_tables_cc4a40",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_best_of_pages_dd07ed_best_for_labels_183749",
+        "to": "making_money_from_cr_f649af_best_of_pages_dd07ed_selection_criteria_3c3afd",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_best_of_pages_dd07ed_best_for_labels_183749",
+        "to": "making_money_from_cr_f649af_best_of_pages_dd07ed_shortlist_link_paths_fff52e",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_best_of_pages_dd07ed_best_for_labels_183749",
+        "to": "making_money_from_cr_f649af_best_of_pages_dd07ed_thin_best_of_pages_06ee25",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_best_of_pages_dd07ed_best_for_labels_183749",
+        "to": "making_money_from_cr_f649af",
+        "type": "ancestor"
+      },
+      {
+        "from": "making_money_from_cr_f649af_best_of_pages_dd07ed_best_for_labels_183749",
+        "to": "making_money_from_cr_f649af_best_of_pages_dd07ed",
+        "type": "ancestor"
+      },
+      {
+        "from": "making_money_from_cr_f649af_offer_matching_ddab07_epc_offer_tests_8fdf2d",
+        "to": "making_money_from_cr_f649af_offer_matching_ddab07",
+        "type": "parent"
+      },
+      {
+        "from": "making_money_from_cr_f649af_offer_matching_ddab07_epc_offer_tests_8fdf2d",
+        "to": "making_money_from_cr_f649af_offer_matching_ddab07_amazon_offer_reliabi_52117c",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_offer_matching_ddab07_epc_offer_tests_8fdf2d",
+        "to": "making_money_from_cr_f649af_offer_matching_ddab07_cleaning_guides_smal_c2b7c9",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_offer_matching_ddab07_epc_offer_tests_8fdf2d",
+        "to": "making_money_from_cr_f649af_offer_matching_ddab07_merchant_checkout_fr_4eef4d",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_offer_matching_ddab07_epc_offer_tests_8fdf2d",
+        "to": "making_money_from_cr_f649af_offer_matching_ddab07_reader_intent_offer_479889",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_offer_matching_ddab07_epc_offer_tests_8fdf2d",
+        "to": "making_money_from_cr_f649af",
+        "type": "ancestor"
+      },
+      {
+        "from": "making_money_from_cr_f649af_offer_matching_ddab07_epc_offer_tests_8fdf2d",
+        "to": "making_money_from_cr_f649af_offer_matching_ddab07",
+        "type": "ancestor"
+      },
+      {
+        "from": "making_money_from_cr_f649af_best_of_pages_dd07ed_comparison_tables_cc4a40",
+        "to": "making_money_from_cr_f649af_best_of_pages_dd07ed",
+        "type": "parent"
+      },
+      {
+        "from": "making_money_from_cr_f649af_best_of_pages_dd07ed_comparison_tables_cc4a40",
+        "to": "making_money_from_cr_f649af_best_of_pages_dd07ed_best_for_labels_183749",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_best_of_pages_dd07ed_comparison_tables_cc4a40",
+        "to": "making_money_from_cr_f649af_best_of_pages_dd07ed_selection_criteria_3c3afd",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_best_of_pages_dd07ed_comparison_tables_cc4a40",
+        "to": "making_money_from_cr_f649af_best_of_pages_dd07ed_shortlist_link_paths_fff52e",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_best_of_pages_dd07ed_comparison_tables_cc4a40",
+        "to": "making_money_from_cr_f649af_best_of_pages_dd07ed_thin_best_of_pages_06ee25",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_best_of_pages_dd07ed_comparison_tables_cc4a40",
+        "to": "making_money_from_cr_f649af",
+        "type": "ancestor"
+      },
+      {
+        "from": "making_money_from_cr_f649af_best_of_pages_dd07ed_comparison_tables_cc4a40",
+        "to": "making_money_from_cr_f649af_best_of_pages_dd07ed",
+        "type": "ancestor"
+      },
+      {
+        "from": "making_money_from_cr_f649af_review_pages_0fc8c2_reassurance_blocks_82bc87",
+        "to": "making_money_from_cr_f649af_review_pages_0fc8c2",
+        "type": "parent"
+      },
+      {
+        "from": "making_money_from_cr_f649af_review_pages_0fc8c2_reassurance_blocks_82bc87",
+        "to": "making_money_from_cr_f649af_review_pages_0fc8c2_affiliate_disclosure_cef0d8",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_review_pages_0fc8c2_reassurance_blocks_82bc87",
+        "to": "making_money_from_cr_f649af_review_pages_0fc8c2_credible_limitations_dce7d3",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_review_pages_0fc8c2_reassurance_blocks_82bc87",
+        "to": "making_money_from_cr_f649af_review_pages_0fc8c2_fit_summaries_66df65",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_review_pages_0fc8c2_reassurance_blocks_82bc87",
+        "to": "making_money_from_cr_f649af_review_pages_0fc8c2_review_evidence_bloc_f24101",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_review_pages_0fc8c2_reassurance_blocks_82bc87",
+        "to": "making_money_from_cr_f649af",
+        "type": "ancestor"
+      },
+      {
+        "from": "making_money_from_cr_f649af_review_pages_0fc8c2_reassurance_blocks_82bc87",
+        "to": "making_money_from_cr_f649af_review_pages_0fc8c2",
+        "type": "ancestor"
+      },
+      {
+        "from": "making_money_from_cr_f649af_best_of_pages_dd07ed_selection_criteria_3c3afd",
+        "to": "making_money_from_cr_f649af_best_of_pages_dd07ed",
+        "type": "parent"
+      },
+      {
+        "from": "making_money_from_cr_f649af_best_of_pages_dd07ed_selection_criteria_3c3afd",
+        "to": "making_money_from_cr_f649af_best_of_pages_dd07ed_best_for_labels_183749",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_best_of_pages_dd07ed_selection_criteria_3c3afd",
+        "to": "making_money_from_cr_f649af_best_of_pages_dd07ed_comparison_tables_cc4a40",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_best_of_pages_dd07ed_selection_criteria_3c3afd",
+        "to": "making_money_from_cr_f649af_best_of_pages_dd07ed_shortlist_link_paths_fff52e",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_best_of_pages_dd07ed_selection_criteria_3c3afd",
+        "to": "making_money_from_cr_f649af_best_of_pages_dd07ed_thin_best_of_pages_06ee25",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_best_of_pages_dd07ed_selection_criteria_3c3afd",
+        "to": "making_money_from_cr_f649af",
+        "type": "ancestor"
+      },
+      {
+        "from": "making_money_from_cr_f649af_best_of_pages_dd07ed_selection_criteria_3c3afd",
+        "to": "making_money_from_cr_f649af_best_of_pages_dd07ed",
+        "type": "ancestor"
+      },
+      {
+        "from": "making_money_from_cr_f649af_best_of_pages_dd07ed_thin_best_of_pages_06ee25",
+        "to": "making_money_from_cr_f649af_best_of_pages_dd07ed",
+        "type": "parent"
+      },
+      {
+        "from": "making_money_from_cr_f649af_best_of_pages_dd07ed_thin_best_of_pages_06ee25",
+        "to": "making_money_from_cr_f649af_best_of_pages_dd07ed_best_for_labels_183749",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_best_of_pages_dd07ed_thin_best_of_pages_06ee25",
+        "to": "making_money_from_cr_f649af_best_of_pages_dd07ed_comparison_tables_cc4a40",
+        "type": "sibling"
+      },
+      {
+        "from": "making_money_from_cr_f649af_best_of_pages_dd07ed_thin_best_of_pages_06ee25",
+        "to": "making_money_from_cr_f649af_best_of_pages_dd07ed_selection_criteria_3c3afd",
+        "type": "sibling"
+      }
+    ]
+  }
+}
