@@ -34,7 +34,7 @@ sidebar_expanded_urls:
 - /making-money-from-creating-websites/
 nav_short_title: Support Pages
 title: Can Informational Pages Still Earn Revenue?
-title_full: Can Informational Pages Still Earn Revenue? | Affiliate Engines
+title_full: Can Informational Pages Still Earn Revenue?
 display_title_short: Support Pages
 display_title: Support Pages
 heading_title: Can Informational Pages Still Earn Revenue?
@@ -318,9 +318,8 @@ image: /assets/images/making_money_from_cr_f649af_informational_suppor_3ecae4-ov
 
 Yes, informational pages can still earn revenue, but usually not by behaving like product roundups in disguise. Their job is to answer earlier-stage questions, build trust, and move readers towards a buying page only when the next decision is genuinely clearer. In an affiliate website system, these support pages are not “filler” around the money pages. They are the pages that catch people before they know what to buy, explain the problem in terms they can use, and create a sensible route into [comparisons]({{ 'comparisons/' | relative_url }}), [reviews]({{ 'reviews/' | relative_url }}), calculators, checklists, or buying guides.
 
-
 <img src="{{ "/assets/images/making_money_from_cr_f649af_informational_suppor_3ecae4-overview.webp" | relative_url }}" alt="Overview image for Support Pages" loading="eager" decoding="sync" fetchpriority="high">
-That matters because affiliate marketing is paid on performance, not on attention alone: a publisher earns when referred visitors generate sales, leads, clicks, or other tracked actions under the programme’s rules. UK advertising guidance describes affiliate marketing as a performance-based arrangement where the affiliate is rewarded for customers attracted through their marketing, usually measured through clicks or sales. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.asa.org.uk/advice-online/affiliate-marketing.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asa.org.uk">[ASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asa.org.uk</span><span class="citation-popover-title">affiliate marketing</span><span class="citation-popover-snippet">ASAOnline Affiliate Marketing22 Mar 2023 — Affiliate marketing is a type of performance-based marketing where an affiliate is rewarded by...</span></span></span> The practical challenge is therefore not just producing traffic, but designing pages that help the right readers take the next useful step.
+That matters because affiliate marketing is paid on performance, not on attention alone: a publisher earns when referred visitors generate sales, leads, clicks, or other tracked actions under the programme’s rules. UK advertising guidance describes affiliate marketing as a performance-based arrangement where the affiliate is rewarded for customers attracted through their marketing, usually measured through clicks or sales. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.asa.org.uk/advice-online/affiliate-marketing.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asa.org.uk">[ASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asa.org.uk</span><span class="citation-popover-title">affiliate marketing</span><span class="citation-popover-snippet">Online Affiliate Marketing22 Mar 2023 — Affiliate marketing is a type of performance-based marketing where an affiliate is rewarded by...</span></span></span> The practical challenge is therefore not just producing traffic, but designing pages that help the right readers take the next useful step.
 
 ## Earlier-stage questions with later-stage value
 
@@ -351,7 +350,6 @@ The better mechanism is to match the link to the reader’s current level of cer
 
 A good informational page therefore works like a bridge:
 
-
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
 1. **It recognises the reader’s current question.** The page should answer the query directly before introducing commercial choices.
@@ -362,11 +360,10 @@ A good informational page therefore works like a bridge:
 
 For example, a page on “what is a HEPA filter?” should not simply list air purifiers with affiliate buttons. It should explain what HEPA means, what it does not mean, when filtration grade matters, and which other factors affect performance. Only then does it make sense to offer links such as “best air purifiers for allergies”, “air purifier CADR explained”, or “HEPA vs carbon filters”.
 
-
 <img src="{{ "/assets/images/making_money_from_cr_f649af_informational_suppor_3ecae4-Illustration-1-dark.svg" | relative_url }}" alt="Support Pages illustration 1" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_informational_suppor_3ecae4-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_informational_suppor_3ecae4-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Internal links from guides to buying pages
 
-[Internal linking]({{ 'user-journeys/' | relative_url }}) is where informational pages become part of a revenue system rather than a loose collection of articles. Search tools and SEO platforms often describe internal links as a way to help users and search engines understand site structure, find related pages and move through a site. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ahrefs.com/blog/internal-links-for-seo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ahrefs.com">[Ahrefs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ahrefs.com</span><span class="citation-popover-title">Internal Links for SEO: An Actionable Guide</span><span class="citation-popover-snippet">Internal Links for SEO: An Actionable Guide</span></span></span> For affiliate websites, their commercial role is more specific: they move readers from question-answering pages into pages where affiliate offers are more appropriate.
+Internal linking is where informational pages become part of a revenue system rather than a loose collection of articles. Search tools and SEO platforms often describe internal links as a way to help users and search engines understand site structure, find related pages and move through a site. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ahrefs.com/blog/internal-links-for-seo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ahrefs.com">[Ahrefs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ahrefs.com</span><span class="citation-popover-title">Internal Links for SEO: An Actionable Guide</span><span class="citation-popover-snippet">Internal Links for SEO: An Actionable Guide</span></span></span> For affiliate websites, their commercial role is more specific: they move readers from question-answering pages into pages where affiliate offers are more appropriate.
 
 The important design choice is not simply “add more links”. It is deciding which buying page each informational page should feed. A scalable system can classify support pages by the decision they unlock:
 
@@ -388,7 +385,6 @@ Example: “What does tog mean in duvets?” can link to “best duvets by seaso
 
 This structure also avoids overloading every support page with the same generic money-page links. A page about “how long do cordless drill batteries last?” should not link to every drill article on the site. It should link to the pages most directly shaped by that issue: drill battery comparisons, spare battery availability, best cordless drills for heavy use, or buying a drill kit versus a bare tool.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Xx75loJvFhg" title="The Marketing Funnel Explained: What Is It &amp; How To Write One" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Xx75loJvFhg" target="_blank" rel="noopener noreferrer">The Marketing Funnel Explained: What Is It &amp; How To Write One</a></p><p class="youtube-embed-meta">Channel: Alex Cattoni &middot; Views: 172.4K &middot; Uploaded: April 2022 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Xx75loJvFhg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Xx75loJvFhg">Open on YouTube</a></p></div></div></div>
 
 ## The best affiliate links on support pages are often indirect
@@ -398,7 +394,6 @@ Informational pages can contain affiliate links, but the best revenue path is of
 This is where page type matters. Google’s guidance for high-quality reviews says review content should provide useful evidence, comparisons and information that helps readers make decisions, and it notes that reviews often use affiliate links. <span class="citation-chip-wrap"><a class="citation-chip" href="https://developers.google.com/search/docs/specialty/ecommerce/write-high-quality-reviews" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> But an informational page is not always a review page. If the page has not assessed products, compared alternatives, or explained why one option fits better than another, it should not pretend to be making a recommendation.
 
 A support page can still create revenue opportunities through:
-
 
 <div class="content-enhancement content-enhancement--checklist" markdown="1">
 
@@ -438,8 +433,7 @@ If there is no reputable merchant, poor stock, low-quality products, low commiss
 
 Some pages need a complete explanation before the buying path appears. Interrupting a troubleshooting process with product buttons can make the article feel less helpful, especially if the reader has not yet confirmed that buying something is the right solution.
 
-This restraint is also a compliance issue. UK advertising guidance says affiliate marketing content must be obviously identifiable as advertising where required, and that the nature of the content and the affiliate arrangement affect whether all or part of the content needs to be labelled. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.asa.org.uk/news/get-yourself-affiliated-with-the-rules-on-affiliate-marketing.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asa.org.uk">[ASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asa.org.uk</span><span class="citation-popover-title">get yourself affiliated with the rules on affiliate marketing</span><span class="citation-popover-snippet">get yourself affiliated with the rules on affiliate marketing</span></span></span> Amazon UK’s Associates guidance also says affiliates must include a legally compliant disclosure with affiliate links and identify themselves as Associates. <span class="citation-chip-wrap"><a class="citation-chip" href="https://affiliate-program.amazon.co.uk/help/node/topic/GPXFHVYZMTGPUMPE" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: affiliate-program.amazon.co.uk">[Amazon Associates]</a><span class="citation-popover" role="note"><span class="citation-popover-source">affiliate-program.amazon.co.uk</span><span class="citation-popover-title">Amazon Associates Amazon.co.uk Associates Central</span><span class="citation-popover-snippet">Amazon Associates Amazon.co.uk Associates Central</span></span></span> A support page that hides [commercial intent]({{ 'intent-topics/' | relative_url }}) inside neutral-looking advice risks both user distrust and regulatory problems.
-
+This restraint is also a compliance issue. UK advertising guidance says affiliate marketing content must be obviously identifiable as advertising where required, and that the nature of the content and the affiliate arrangement affect whether all or part of the content needs to be labelled. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.asa.org.uk/news/get-yourself-affiliated-with-the-rules-on-affiliate-marketing.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asa.org.uk">[ASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asa.org.uk</span><span class="citation-popover-title">get yourself affiliated with the rules on affiliate marketing</span><span class="citation-popover-snippet">get yourself affiliated with the rules on affiliate marketing</span></span></span> Amazon UK’s Associates guidance also says affiliates must include a legally compliant [disclosure]({{ 'disclosure/' | relative_url }}) with affiliate links and identify themselves as Associates. <span class="citation-chip-wrap"><a class="citation-chip" href="https://affiliate-program.amazon.co.uk/help/node/topic/GPXFHVYZMTGPUMPE" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: affiliate-program.amazon.co.uk">[Amazon Associates]</a><span class="citation-popover" role="note"><span class="citation-popover-source">affiliate-program.amazon.co.uk</span><span class="citation-popover-title">Amazon Associates Amazon.co.uk Associates Central</span><span class="citation-popover-snippet">Amazon Associates Amazon.co.uk Associates Central</span></span></span> A support page that hides commercial intent inside neutral-looking advice risks both user distrust and regulatory problems.
 
 <img src="{{ "/assets/images/making_money_from_cr_f649af_informational_suppor_3ecae4-Illustration-2-dark.svg" | relative_url }}" alt="Support Pages illustration 2" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_informational_suppor_3ecae4-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_informational_suppor_3ecae4-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How to decide which support pages are worth creating
@@ -448,21 +442,15 @@ Not every informational keyword deserves a page. In a high-volume website system
 
 A practical scoring model can use five checks:
 
-
-<div class="content-enhancement content-enhancement--step-flow" markdown="1">
-
 1. **Decision proximity:** Does the query sit near a purchase decision, replacement decision, comparison, repair decision or compatibility question?
 2. **Criteria creation:** Will the answer produce criteria that can be reused on commercial pages?
-3. **Internal-link fit:** Is there a clear buying guide, review, comparison, calculator or category page that this article can feed?
+3. **Internal-[link fit]({{ 'link-fit/' | relative_url }}):** Is there a clear buying guide, review, comparison, calculator or category page that this article can feed?
 4. **Offer relevance:** Are there reputable affiliate offers that genuinely solve the problem once the reader is ready?
 5. **Template repeatability:** Can the pattern be reused across adjacent topics without producing thin or repetitive pages?
-
-</div>
 
 For example, “what is the best thread count for sheets?” is stronger than “history of cotton bedding” for an affiliate bedding site because it turns into a buying criterion. It can feed pages about best cotton sheets, percale vs sateen sheets, cooling bedding, hotel-style bedding, and budget sheet sets. “What is an SDS drill?” is strong for a DIY tools site because it helps beginners distinguish between ordinary hammer drills and heavier masonry tools before comparing products.
 
 This is also where informational pages help with cluster expansion. A successful support pattern in one category can be adapted across related categories: “what size X do I need?”, “X vs Y”, “is X worth it?”, “how long does X last?”, “can X be repaired?”, “when should I replace X?” and “what features matter for X?” The page template can be standardised, but the answer must still be specific to the product category. Standardisation should improve consistency, not create generic filler.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_2H7OlHkv1w" title="How to Build a Marketing Funnel that Actually Works for your Business" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_2H7OlHkv1w" target="_blank" rel="noopener noreferrer">How to Build a Marketing Funnel that Actually Works for your Business</a></p><p class="youtube-embed-meta">Channel: HubSpot Marketing &middot; Views: 79.9K &middot; Uploaded: January 2025 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_2H7OlHkv1w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_2H7OlHkv1w">Open on YouTube</a></p></div></div></div>
 
@@ -494,14 +482,12 @@ Best for confusing alternatives such as “ceramic vs tourmaline hair straighten
 
 Baymard’s ecommerce UX research repeatedly highlights that product finding depends on users being able to navigate, search, filter and evaluate products effectively; its benchmarks show many ecommerce sites still perform poorly on product list and search UX. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.linkedin.com/posts/baymard-institute_ux-ecommerce-uxr-activity-7382369333504659457-SKP-" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: linkedin.com">[Baymard Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">linkedin.com</span><span class="citation-popover-snippet">Baymard Institute</span></span></span> Affiliate support pages can reduce that burden before the reader reaches the merchant by clarifying the category, narrowing the choice set, and explaining the filters that matter.
 
-
 <img src="{{ "/assets/images/making_money_from_cr_f649af_informational_suppor_3ecae4-Illustration-3-dark.svg" | relative_url }}" alt="Support Pages illustration 3" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_informational_suppor_3ecae4-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_informational_suppor_3ecae4-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What to measure on support pages
 
 A support page should not be judged only by affiliate clicks. If the page is earlier in the journey, its job may be to move readers deeper into the site, not to convert immediately. The right measurements depend on the intended step.
 
 Useful metrics include:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -523,7 +509,6 @@ Informational affiliate pages have a built-in tension: readers arrive for help, 
 Disclosure matters because affiliate content can otherwise look like ordinary editorial content. The US Federal Trade Commission’s endorsement guidance answers common questions for bloggers, advertisers and creators, while UK ASA guidance requires affiliate marketing to be identifiable where the commercial relationship affects the content. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-title">s endorsement guides what people are asking</span><span class="citation-popover-snippet">s endorsement guides what people are asking</span></span></span> Research on affiliate disclosures on YouTube and Pinterest found low disclosure rates and found that users often failed to understand short, non-explanatory disclosures, showing why clear wording is more useful than vague labels. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1809.00620" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 For public-facing affiliate websites, this creates a simple rule: disclosure should not be treated as a footer technicality. If a support page includes affiliate links, the reader should understand that the site may earn a commission and still be able to see why the recommendation or internal link is relevant. Clear disclosure and useful page design support each other. A page that explains its commercial relationship plainly and then gives careful, specific guidance is more credible than one that hides affiliate intent behind vague “recommended” buttons.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/G9UqlJ9LFKs" title="How to Write Informational Content for an Affiliate Site [4.3]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=G9UqlJ9LFKs" target="_blank" rel="noopener noreferrer">How to Write Informational Content for an Affiliate Site [4.3]</a></p><p class="youtube-embed-meta">Channel: Ahrefs &middot; Views: 21.4K &middot; Uploaded: April 2023 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=G9UqlJ9LFKs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=G9UqlJ9LFKs">Open on YouTube</a></p></div></div></div>
 
@@ -969,335 +954,335 @@ The central rule is simple: an informational page earns revenue by making the ne
 1. <a id="endnote-1"></a>
    Source: asa.org.uk  
    Title: affiliate marketing  
-   Link: [https://www.asa.org.uk/advice-online/affiliate-marketing.html](https://www.asa.org.uk/advice-online/affiliate-marketing.html)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ASAOnline Affiliate Marketing22 Mar 2023 — Affiliate marketing is a type of performance-based marketing where an affiliate is rewarded by...</p></details>
+   Link: <a href="https://www.asa.org.uk/advice-online/affiliate-marketing.html" target="_blank" rel="noopener noreferrer nofollow">https://www.asa.org.uk/advice-online/affiliate-marketing.html</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Online Affiliate Marketing22 Mar 2023 — Affiliate marketing is a type of performance-based marketing where an affiliate is rewarded by...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: business.google.com  
-   Link: [https://business.google.com/uk/think/consumer-insights/navigating-purchase-behavior-and-decision-making/](https://business.google.com/uk/think/consumer-insights/navigating-purchase-behavior-and-decision-making/)  
+   Link: <a href="https://business.google.com/uk/think/consumer-insights/navigating-purchase-behavior-and-decision-making/" target="_blank" rel="noopener noreferrer nofollow">https://business.google.com/uk/think/consumer-insights/navigating-purchase-behavior-and-decision-making/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>As people explore and evaluate in the messy middle, cognitive biases shape their shopping behavior and...Read more...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: ahrefs.com  
    Title: Internal Links for SEO: An Actionable Guide  
-   Link: [https://ahrefs.com/blog/internal-links-for-seo/](https://ahrefs.com/blog/internal-links-for-seo/)  
+   Link: <a href="https://ahrefs.com/blog/internal-links-for-seo/" target="_blank" rel="noopener noreferrer nofollow">https://ahrefs.com/blog/internal-links-for-seo/</a>  
 
 4. <a id="endnote-4"></a>
    Source: developers.google.com  
-   Link: [https://developers.google.com/search/docs/specialty/ecommerce/write-high-quality-reviews](https://developers.google.com/search/docs/specialty/ecommerce/write-high-quality-reviews)  
+   Link: <a href="https://developers.google.com/search/docs/specialty/ecommerce/write-high-quality-reviews" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/docs/specialty/ecommerce/write-high-quality-reviews</a>  
 
 5. <a id="endnote-5"></a>
    Source: developers.google.com  
    Title: affiliate programs and added value  
-   Link: [https://developers.google.com/search/blog/2014/01/affiliate-programs-and-added-value](https://developers.google.com/search/blog/2014/01/affiliate-programs-and-added-value)  
+   Link: <a href="https://developers.google.com/search/blog/2014/01/affiliate-programs-and-added-value" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/blog/2014/01/affiliate-programs-and-added-value</a>  
 
 6. <a id="endnote-6"></a>
    Source: asa.org.uk  
    Title: get yourself affiliated with the rules on affiliate marketing  
-   Link: [https://www.asa.org.uk/news/get-yourself-affiliated-with-the-rules-on-affiliate-marketing.html](https://www.asa.org.uk/news/get-yourself-affiliated-with-the-rules-on-affiliate-marketing.html)  
+   Link: <a href="https://www.asa.org.uk/news/get-yourself-affiliated-with-the-rules-on-affiliate-marketing.html" target="_blank" rel="noopener noreferrer nofollow">https://www.asa.org.uk/news/get-yourself-affiliated-with-the-rules-on-affiliate-marketing.html</a>  
 
 7. <a id="endnote-7"></a>
    Source: baymard.com  
    Title: current state product list and filtering  
-   Link: [https://baymard.com/blog/current-state-product-list-and-filtering](https://baymard.com/blog/current-state-product-list-and-filtering)  
+   Link: <a href="https://baymard.com/blog/current-state-product-list-and-filtering" target="_blank" rel="noopener noreferrer nofollow">https://baymard.com/blog/current-state-product-list-and-filtering</a>  
 
 8. <a id="endnote-8"></a>
    Source: baymard.com  
    Title: ecommerce search query types  
-   Link: [https://baymard.com/blog/ecommerce-search-query-types](https://baymard.com/blog/ecommerce-search-query-types)  
+   Link: <a href="https://baymard.com/blog/ecommerce-search-query-types" target="_blank" rel="noopener noreferrer nofollow">https://baymard.com/blog/ecommerce-search-query-types</a>  
 
 9. <a id="endnote-9"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/1809.00620](https://arxiv.org/abs/1809.00620)  
+   Link: <a href="https://arxiv.org/abs/1809.00620" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1809.00620</a>  
 
 10. <a id="endnote-10"></a>
    Source: baymard.com  
-   Link: [https://baymard.com/](https://baymard.com/)  
+   Link: <a href="https://baymard.com/" target="_blank" rel="noopener noreferrer nofollow">https://baymard.com/</a>  
 
 11. <a id="endnote-11"></a>
    Source: baymard.com  
-   Link: [https://baymard.com/research/ecommerce-product-lists](https://baymard.com/research/ecommerce-product-lists)  
+   Link: <a href="https://baymard.com/research/ecommerce-product-lists" target="_blank" rel="noopener noreferrer nofollow">https://baymard.com/research/ecommerce-product-lists</a>  
 
 12. <a id="endnote-12"></a>
    Source: baymard.com  
-   Link: [https://baymard.com/research/ecommerce-search](https://baymard.com/research/ecommerce-search)  
+   Link: <a href="https://baymard.com/research/ecommerce-search" target="_blank" rel="noopener noreferrer nofollow">https://baymard.com/research/ecommerce-search</a>  
 
 13. <a id="endnote-13"></a>
    Source: baymard.com  
-   Link: [https://baymard.com/research/homepage-and-category-usability](https://baymard.com/research/homepage-and-category-usability)  
+   Link: <a href="https://baymard.com/research/homepage-and-category-usability" target="_blank" rel="noopener noreferrer nofollow">https://baymard.com/research/homepage-and-category-usability</a>  
 
 14. <a id="endnote-14"></a>
    Source: baymard.com  
    Title: current state ecommerce product page ux  
-   Link: [https://baymard.com/blog/current-state-ecommerce-product-page-ux](https://baymard.com/blog/current-state-ecommerce-product-page-ux)  
+   Link: <a href="https://baymard.com/blog/current-state-ecommerce-product-page-ux" target="_blank" rel="noopener noreferrer nofollow">https://baymard.com/blog/current-state-ecommerce-product-page-ux</a>  
 
 15. <a id="endnote-15"></a>
    Source: baymard.com  
    Title: desktop ux ecommerce  
-   Link: [https://baymard.com/blog/desktop-ux-ecommerce](https://baymard.com/blog/desktop-ux-ecommerce)  
+   Link: <a href="https://baymard.com/blog/desktop-ux-ecommerce" target="_blank" rel="noopener noreferrer nofollow">https://baymard.com/blog/desktop-ux-ecommerce</a>  
 
 16. <a id="endnote-16"></a>
    Source: baymard.com  
-   Link: [https://baymard.com/blog](https://baymard.com/blog)  
+   Link: <a href="https://baymard.com/blog" target="_blank" rel="noopener noreferrer nofollow">https://baymard.com/blog</a>  
 
 17. <a id="endnote-17"></a>
    Source: baymard.com  
    Title: have filters for list item info  
-   Link: [https://baymard.com/blog/have-filters-for-list-item-info](https://baymard.com/blog/have-filters-for-list-item-info)  
+   Link: <a href="https://baymard.com/blog/have-filters-for-list-item-info" target="_blank" rel="noopener noreferrer nofollow">https://baymard.com/blog/have-filters-for-list-item-info</a>  
 
 18. <a id="endnote-18"></a>
    Source: baymard.com  
    Title: apparel search  
-   Link: [https://baymard.com/blog/apparel-search](https://baymard.com/blog/apparel-search)  
+   Link: <a href="https://baymard.com/blog/apparel-search" target="_blank" rel="noopener noreferrer nofollow">https://baymard.com/blog/apparel-search</a>  
 
 19. <a id="endnote-19"></a>
    Source: developers.google.com  
    Title: creating helpful content  
-   Link: [https://developers.google.com/search/docs/fundamentals/creating-helpful-content](https://developers.google.com/search/docs/fundamentals/creating-helpful-content)  
+   Link: <a href="https://developers.google.com/search/docs/fundamentals/creating-helpful-content" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/docs/fundamentals/creating-helpful-content</a>  
 
 20. <a id="endnote-20"></a>
    Source: support.google.com  
-   Link: [https://support.google.com/webmasters/thread/302446608/provide-details-about-the-affiliate-products-review-guidelines-and-can-we-used-more-than-ads-network?hl=en](https://support.google.com/webmasters/thread/302446608/provide-details-about-the-affiliate-products-review-guidelines-and-can-we-used-more-than-ads-network?hl=en)  
+   Link: <a href="https://support.google.com/webmasters/thread/302446608/provide-details-about-the-affiliate-products-review-guidelines-and-can-we-used-more-than-ads-network?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/webmasters/thread/302446608/provide-details-about-the-affiliate-products-review-guidelines-and-can-we-used-more-than-ads-network?hl=en</a>  
 
 21. <a id="endnote-21"></a>
    Source: support.google.com  
    Title: low traffic affiliate site what can i do better  
-   Link: [https://support.google.com/webmasters/thread/112211009/low-traffic-affiliate-site-what-can-i-do-better?hl=en](https://support.google.com/webmasters/thread/112211009/low-traffic-affiliate-site-what-can-i-do-better?hl=en)  
+   Link: <a href="https://support.google.com/webmasters/thread/112211009/low-traffic-affiliate-site-what-can-i-do-better?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/webmasters/thread/112211009/low-traffic-affiliate-site-what-can-i-do-better?hl=en</a>  
 
 22. <a id="endnote-22"></a>
    Source: developers.google.com  
    Title: qualify outbound links  
-   Link: [https://developers.google.com/search/docs/crawling-indexing/qualify-outbound-links](https://developers.google.com/search/docs/crawling-indexing/qualify-outbound-links)  
+   Link: <a href="https://developers.google.com/search/docs/crawling-indexing/qualify-outbound-links" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/docs/crawling-indexing/qualify-outbound-links</a>  
 
 23. <a id="endnote-23"></a>
    Source: support.google.com  
    Title: sponsored links rel attribute  
-   Link: [https://support.google.com/webmasters/thread/118842020/sponsored-links-rel-attribute?hl=en](https://support.google.com/webmasters/thread/118842020/sponsored-links-rel-attribute?hl=en)  
+   Link: <a href="https://support.google.com/webmasters/thread/118842020/sponsored-links-rel-attribute?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/webmasters/thread/118842020/sponsored-links-rel-attribute?hl=en</a>  
 
 24. <a id="endnote-24"></a>
    Source: developers.google.com  
    Title: helpful content update  
-   Link: [https://developers.google.com/search/blog/2022/08/helpful-content-update](https://developers.google.com/search/blog/2022/08/helpful-content-update)  
+   Link: <a href="https://developers.google.com/search/blog/2022/08/helpful-content-update" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/blog/2022/08/helpful-content-update</a>  
 
 25. <a id="endnote-25"></a>
    Source: developers.google.com  
    Title: search and ai content  
-   Link: [https://developers.google.com/search/blog/2023/02/google-search-and-ai-content](https://developers.google.com/search/blog/2023/02/google-search-and-ai-content)  
+   Link: <a href="https://developers.google.com/search/blog/2023/02/google-search-and-ai-content" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/blog/2023/02/google-search-and-ai-content</a>  
 
 26. <a id="endnote-26"></a>
    Source: support.google.com  
    Title: thin or pure affiliate blog  
-   Link: [https://support.google.com/webmasters/thread/20577817/thin-or-pure-affiliate-blog?hl=en](https://support.google.com/webmasters/thread/20577817/thin-or-pure-affiliate-blog?hl=en)  
+   Link: <a href="https://support.google.com/webmasters/thread/20577817/thin-or-pure-affiliate-blog?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/webmasters/thread/20577817/thin-or-pure-affiliate-blog?hl=en</a>  
 
 27. <a id="endnote-27"></a>
    Source: workspace.google.com  
    Title: affiliate program  
-   Link: [https://workspace.google.com/intl/en_uk/affiliate-program/](https://workspace.google.com/intl/en_uk/affiliate-program/)  
+   Link: <a href="https://workspace.google.com/intl/en_uk/affiliate-program/" target="_blank" rel="noopener noreferrer nofollow">https://workspace.google.com/intl/en_uk/affiliate-program/</a>  
 
 28. <a id="endnote-28"></a>
    Source: business.google.com  
    Title: messy middle 2023  
-   Link: [https://business.google.com/en-all/think/consumer-insights/messy-middle-2023/](https://business.google.com/en-all/think/consumer-insights/messy-middle-2023/)  
+   Link: <a href="https://business.google.com/en-all/think/consumer-insights/messy-middle-2023/" target="_blank" rel="noopener noreferrer nofollow">https://business.google.com/en-all/think/consumer-insights/messy-middle-2023/</a>  
 
 29. <a id="endnote-29"></a>
    Source: affiliate-program.amazon.com  
-   Link: [https://affiliate-program.amazon.com/help/operating/agreement](https://affiliate-program.amazon.com/help/operating/agreement)  
+   Link: <a href="https://affiliate-program.amazon.com/help/operating/agreement" target="_blank" rel="noopener noreferrer nofollow">https://affiliate-program.amazon.com/help/operating/agreement</a>  
 
 30. <a id="endnote-30"></a>
    Source: ahrefs.com  
-   Link: [https://ahrefs.com/academy/affiliate-marketing-course/lesson-4-1](https://ahrefs.com/academy/affiliate-marketing-course/lesson-4-1)  
+   Link: <a href="https://ahrefs.com/academy/affiliate-marketing-course/lesson-4-1" target="_blank" rel="noopener noreferrer nofollow">https://ahrefs.com/academy/affiliate-marketing-course/lesson-4-1</a>  
 
 31. <a id="endnote-31"></a>
    Source: ahrefs.com  
-   Link: [https://ahrefs.com/seo/link-building](https://ahrefs.com/seo/link-building)  
+   Link: <a href="https://ahrefs.com/seo/link-building" target="_blank" rel="noopener noreferrer nofollow">https://ahrefs.com/seo/link-building</a>  
 
 32. <a id="endnote-32"></a>
    Source: ahrefs.com  
    Title: prioritize internal linking  
-   Link: [https://ahrefs.com/blog/prioritize-internal-linking/](https://ahrefs.com/blog/prioritize-internal-linking/)  
+   Link: <a href="https://ahrefs.com/blog/prioritize-internal-linking/" target="_blank" rel="noopener noreferrer nofollow">https://ahrefs.com/blog/prioritize-internal-linking/</a>  
 
 33. <a id="endnote-33"></a>
    Source: ahrefs.com  
    Title: affiliate marketing tools  
-   Link: [https://ahrefs.com/blog/affiliate-marketing-tools/](https://ahrefs.com/blog/affiliate-marketing-tools/)  
+   Link: <a href="https://ahrefs.com/blog/affiliate-marketing-tools/" target="_blank" rel="noopener noreferrer nofollow">https://ahrefs.com/blog/affiliate-marketing-tools/</a>  
 
 34. <a id="endnote-34"></a>
    Source: ahrefs.com  
    Title: create affiliate marketing website  
-   Link: [https://ahrefs.com/blog/create-affiliate-marketing-website/](https://ahrefs.com/blog/create-affiliate-marketing-website/)  
+   Link: <a href="https://ahrefs.com/blog/create-affiliate-marketing-website/" target="_blank" rel="noopener noreferrer nofollow">https://ahrefs.com/blog/create-affiliate-marketing-website/</a>  
 
 35. <a id="endnote-35"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=-c9AUhXAFD8](https://www.youtube.com/watch?v=-c9AUhXAFD8)  
+   Link: <a href="https://www.youtube.com/watch?v=-c9AUhXAFD8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-c9AUhXAFD8</a>  
 
 36. <a id="endnote-36"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=khLXlseXffs](https://www.youtube.com/watch?v=khLXlseXffs)  
+   Link: <a href="https://www.youtube.com/watch?v=khLXlseXffs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=khLXlseXffs</a>  
 
 37. <a id="endnote-37"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=Z0RkLSgwQS4](https://www.youtube.com/watch?v=Z0RkLSgwQS4)  
+   Link: <a href="https://www.youtube.com/watch?v=Z0RkLSgwQS4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Z0RkLSgwQS4</a>  
 
 38. <a id="endnote-38"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=5tmRy4G7HfA](https://www.youtube.com/watch?v=5tmRy4G7HfA)  
+   Link: <a href="https://www.youtube.com/watch?v=5tmRy4G7HfA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5tmRy4G7HfA</a>  
 
 39. <a id="endnote-39"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=_xGmA7SeoqA](https://www.youtube.com/watch?v=_xGmA7SeoqA)  
+   Link: <a href="https://www.youtube.com/watch?v=_xGmA7SeoqA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_xGmA7SeoqA</a>  
 
 40. <a id="endnote-40"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=G9UqlJ9LFKs](https://www.youtube.com/watch?v=G9UqlJ9LFKs)  
+   Link: <a href="https://www.youtube.com/watch?v=G9UqlJ9LFKs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=G9UqlJ9LFKs</a>  
 
 41. <a id="endnote-41"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=DSOfPEyeMNg](https://www.youtube.com/watch?v=DSOfPEyeMNg)  
+   Link: <a href="https://www.youtube.com/watch?v=DSOfPEyeMNg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DSOfPEyeMNg</a>  
 
 42. <a id="endnote-42"></a>
    Source: keyword.com  
    Title: affiliate links seo rankings  
-   Link: [https://keyword.com/blog/affiliate-links-seo-rankings/](https://keyword.com/blog/affiliate-links-seo-rankings/)  
+   Link: <a href="https://keyword.com/blog/affiliate-links-seo-rankings/" target="_blank" rel="noopener noreferrer nofollow">https://keyword.com/blog/affiliate-links-seo-rankings/</a>  
 
 43. <a id="endnote-43"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/nature-index/topics/l4/consumer-information-search-behavior-and-decision-making](https://www.nature.com/nature-index/topics/l4/consumer-information-search-behavior-and-decision-making)  
+   Link: <a href="https://www.nature.com/nature-index/topics/l4/consumer-information-search-behavior-and-decision-making" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/nature-index/topics/l4/consumer-information-search-behavior-and-decision-making</a>  
 
 44. <a id="endnote-44"></a>
    Source: youtube.com  
    Title: How to Build a Marketing Funnel that Actually Works for your Business  
-   Link: [http://www.youtube.com/watch?v=_2H7OlHkv1w](http://www.youtube.com/watch?v=_2H7OlHkv1w)  
+   Link: <a href="http://www.youtube.com/watch?v=_2H7OlHkv1w" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=_2H7OlHkv1w</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Marketing Funnel Explained: What Is It &amp; How To Write One...</p></details>
 
 45. <a id="endnote-45"></a>
    Source: youtube.com  
    Title: The Marketing Funnel Explained: What Is It & How To Write One  
-   Link: [http://www.youtube.com/watch?v=Xx75loJvFhg](http://www.youtube.com/watch?v=Xx75loJvFhg)  
+   Link: <a href="http://www.youtube.com/watch?v=Xx75loJvFhg" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=Xx75loJvFhg</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Topical Authority Map Tutorial (Step‑by‑Step) for 2025...</p></details>
 
 46. <a id="endnote-46"></a>
    Source: youtube.com  
-   Link: [http://www.youtube.com/watch?v=JA4KnGvfXAo](http://www.youtube.com/watch?v=JA4KnGvfXAo)  
+   Link: <a href="http://www.youtube.com/watch?v=JA4KnGvfXAo" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=JA4KnGvfXAo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Aligning Your Content Marketing Strategy With the Customer Journey...</p></details>
 
 47. <a id="endnote-47"></a>
    Source: youtube.com  
    Title: Aligning Your Content Marketing Strategy With the Customer Journey  
-   Link: [http://www.youtube.com/watch?v=8todAcg84Nw](http://www.youtube.com/watch?v=8todAcg84Nw)  
+   Link: <a href="http://www.youtube.com/watch?v=8todAcg84Nw" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=8todAcg84Nw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How to do SEO when your website is new...</p></details>
 
 48. <a id="endnote-48"></a>
    Source: youtube.com  
    Title: How to do SEO when your website is new  
-   Link: [http://www.youtube.com/watch?v=XKWYFN6DbdY](http://www.youtube.com/watch?v=XKWYFN6DbdY)  
+   Link: <a href="http://www.youtube.com/watch?v=XKWYFN6DbdY" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=XKWYFN6DbdY</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Affiliate marketing informational content funnel buying journey website strategy How to Build a Marketing Funnel that Actually Works for...</p></details>
 
 49. <a id="endnote-49"></a>
    Source: thinkwithgoogle.com  
-   Link: [https://www.thinkwithgoogle.com/_qs/documents/9998/Decoding_Decisions_The_Messy_Middle_of_Purchase_Behavior.pdf](https://www.thinkwithgoogle.com/_qs/documents/9998/Decoding_Decisions_The_Messy_Middle_of_Purchase_Behavior.pdf)  
+   Link: <a href="https://www.thinkwithgoogle.com/_qs/documents/9998/Decoding_Decisions_The_Messy_Middle_of_Purchase_Behavior.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.thinkwithgoogle.com/_qs/documents/9998/Decoding_Decisions_The_Messy_Middle_of_Purchase_Behavior.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Google BusinessDecoding DecisionsIn our model, between the twin poles of trigger and purchase, sits the messy middle, in which consumers...</p></details>
 
 50. <a id="endnote-50"></a>
    Source: nngroup.com  
    Title: information scent  
-   Link: [https://www.nngroup.com/articles/information-scent/](https://www.nngroup.com/articles/information-scent/)  
+   Link: <a href="https://www.nngroup.com/articles/information-scent/" target="_blank" rel="noopener noreferrer nofollow">https://www.nngroup.com/articles/information-scent/</a>  
 
 51. <a id="endnote-51"></a>
    Source: nngroup.com  
    Title: information foraging  
-   Link: [https://www.nngroup.com/articles/information-foraging/](https://www.nngroup.com/articles/information-foraging/)  
+   Link: <a href="https://www.nngroup.com/articles/information-foraging/" target="_blank" rel="noopener noreferrer nofollow">https://www.nngroup.com/articles/information-foraging/</a>  
 
 52. <a id="endnote-52"></a>
    Source: databox.com  
    Title: Ahrefs Internal Links  
-   Link: [https://databox.com/metric-library/metrics/ahrefs/internal-links](https://databox.com/metric-library/metrics/ahrefs/internal-links)  
+   Link: <a href="https://databox.com/metric-library/metrics/ahrefs/internal-links" target="_blank" rel="noopener noreferrer nofollow">https://databox.com/metric-library/metrics/ahrefs/internal-links</a>  
 
 53. <a id="endnote-53"></a>
    Source: affiliate-program.amazon.co.uk  
    Title: Amazon Associates Amazon.co.uk Associates Central  
-   Link: [https://affiliate-program.amazon.co.uk/help/node/topic/GPXFHVYZMTGPUMPE](https://affiliate-program.amazon.co.uk/help/node/topic/GPXFHVYZMTGPUMPE)  
+   Link: <a href="https://affiliate-program.amazon.co.uk/help/node/topic/GPXFHVYZMTGPUMPE" target="_blank" rel="noopener noreferrer nofollow">https://affiliate-program.amazon.co.uk/help/node/topic/GPXFHVYZMTGPUMPE</a>  
 
 54. <a id="endnote-54"></a>
    Source: ftc.gov  
    Title: s endorsement guides what people are asking  
-   Link: [https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking](https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking)  
+   Link: <a href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking</a>  
 
 55. <a id="endnote-55"></a>
    Source: linkedin.com  
    Title: Baymard Institute  
-   Link: [https://www.linkedin.com/posts/baymard-institute_ux-ecommerce-uxr-activity-7382369333504659457-SKP-](https://www.linkedin.com/posts/baymard-institute_ux-ecommerce-uxr-activity-7382369333504659457-SKP-)  
+   Link: <a href="https://www.linkedin.com/posts/baymard-institute_ux-ecommerce-uxr-activity-7382369333504659457-SKP-" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/baymard-institute_ux-ecommerce-uxr-activity-7382369333504659457-SKP-</a>  
 
 56. <a id="endnote-56"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/baymard-institute_product-list-ux-best-practices-2025-baymard-activity-7371921940611231744-8YD1](https://www.linkedin.com/posts/baymard-institute_product-list-ux-best-practices-2025-baymard-activity-7371921940611231744-8YD1)  
+   Link: <a href="https://www.linkedin.com/posts/baymard-institute_product-list-ux-best-practices-2025-baymard-activity-7371921940611231744-8YD1" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/baymard-institute_product-list-ux-best-practices-2025-baymard-activity-7371921940611231744-8YD1</a>  
 
 57. <a id="endnote-57"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/baymard-institute_the-4-sorting-options-every-e-commerce-site-activity-7318304746816036866-OKxi](https://www.linkedin.com/posts/baymard-institute_the-4-sorting-options-every-e-commerce-site-activity-7318304746816036866-OKxi)  
+   Link: <a href="https://www.linkedin.com/posts/baymard-institute_the-4-sorting-options-every-e-commerce-site-activity-7318304746816036866-OKxi" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/baymard-institute_the-4-sorting-options-every-e-commerce-site-activity-7318304746816036866-OKxi</a>  
 
 58. <a id="endnote-58"></a>
    Source: neveralwaysbook.com  
    Title: messy middle  
-   Link: [https://neveralwaysbook.com/learn/messy-middle](https://neveralwaysbook.com/learn/messy-middle)  
+   Link: <a href="https://neveralwaysbook.com/learn/messy-middle" target="_blank" rel="noopener noreferrer nofollow">https://neveralwaysbook.com/learn/messy-middle</a>  
 
 59. <a id="endnote-59"></a>
    Source: geniuslink.com  
    Title: amazon associates requirements  
-   Link: [https://geniuslink.com/blog/amazon-associates-requirements/](https://geniuslink.com/blog/amazon-associates-requirements/)  
+   Link: <a href="https://geniuslink.com/blog/amazon-associates-requirements/" target="_blank" rel="noopener noreferrer nofollow">https://geniuslink.com/blog/amazon-associates-requirements/</a>  
 
 60. <a id="endnote-60"></a>
    Source: digitallytop.com  
    Title: ahrefs internal links opportunities a complete beginners guide  
-   Link: [https://digitallytop.com/digital-marketing/ahrefs-internal-links-opportunities-a-complete-beginners-guide/](https://digitallytop.com/digital-marketing/ahrefs-internal-links-opportunities-a-complete-beginners-guide/)  
+   Link: <a href="https://digitallytop.com/digital-marketing/ahrefs-internal-links-opportunities-a-complete-beginners-guide/" target="_blank" rel="noopener noreferrer nofollow">https://digitallytop.com/digital-marketing/ahrefs-internal-links-opportunities-a-complete-beginners-guide/</a>  
 
 61. <a id="endnote-61"></a>
    Source: uxtigers.com  
    Title: information scent  
-   Link: [https://www.uxtigers.com/post/information-scent](https://www.uxtigers.com/post/information-scent)  
+   Link: <a href="https://www.uxtigers.com/post/information-scent" target="_blank" rel="noopener noreferrer nofollow">https://www.uxtigers.com/post/information-scent</a>  
 
 62. <a id="endnote-62"></a>
    Source: Wikipedia  
    Title: Affiliate marketing  
-   Link: [https://en.wikipedia.org/wiki/Affiliate_marketing](https://en.wikipedia.org/wiki/Affiliate_marketing)  
+   Link: <a href="https://en.wikipedia.org/wiki/Affiliate_marketing" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Affiliate_marketing</a>  
 
 ### Additional References
 
 63. <a id="endnote-63"></a>
    Source: ftc.gov  
-   Link: [https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews](https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews)  
+   Link: <a href="https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews</a>  
 
 64. <a id="endnote-64"></a>
    Source: iab.com  
-   Link: [https://www.iab.com/wp-content/uploads/2016/11/IAB-Affiliate-Marketing-Handbook_2016.pdf](https://www.iab.com/wp-content/uploads/2016/11/IAB-Affiliate-Marketing-Handbook_2016.pdf)  
+   Link: <a href="https://www.iab.com/wp-content/uploads/2016/11/IAB-Affiliate-Marketing-Handbook_2016.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.iab.com/wp-content/uploads/2016/11/IAB-Affiliate-Marketing-Handbook_2016.pdf</a>  
 
 65. <a id="endnote-65"></a>
    Source: britexotics.co.uk  
-   Link: [https://britexotics.co.uk/affiliate-disclosure](https://britexotics.co.uk/affiliate-disclosure)  
+   Link: <a href="https://britexotics.co.uk/affiliate-disclosure" target="_blank" rel="noopener noreferrer nofollow">https://britexotics.co.uk/affiliate-disclosure</a>  
 
 66. <a id="endnote-66"></a>
    Source: bigcommerce.co.uk  
-   Link: [https://www.bigcommerce.co.uk/articles/ecommerce/affiliate-marketing/](https://www.bigcommerce.co.uk/articles/ecommerce/affiliate-marketing/)  
+   Link: <a href="https://www.bigcommerce.co.uk/articles/ecommerce/affiliate-marketing/" target="_blank" rel="noopener noreferrer nofollow">https://www.bigcommerce.co.uk/articles/ecommerce/affiliate-marketing/</a>  
 
 67. <a id="endnote-67"></a>
    Source: innovationvisual.com  
-   Link: [https://www.innovationvisual.com/knowledge-hub/knowledge/mapping-content-for-different-stages-of-buyer-journey](https://www.innovationvisual.com/knowledge-hub/knowledge/mapping-content-for-different-stages-of-buyer-journey)  
+   Link: <a href="https://www.innovationvisual.com/knowledge-hub/knowledge/mapping-content-for-different-stages-of-buyer-journey" target="_blank" rel="noopener noreferrer nofollow">https://www.innovationvisual.com/knowledge-hub/knowledge/mapping-content-for-different-stages-of-buyer-journey</a>  
 
 68. <a id="endnote-68"></a>
    Source: geniuslink.com  
-   Link: [https://geniuslink.com/blog/amazon-affiliate-disclosure-guide/](https://geniuslink.com/blog/amazon-affiliate-disclosure-guide/)  
+   Link: <a href="https://geniuslink.com/blog/amazon-affiliate-disclosure-guide/" target="_blank" rel="noopener noreferrer nofollow">https://geniuslink.com/blog/amazon-affiliate-disclosure-guide/</a>  
 
 69. <a id="endnote-69"></a>
    Source: iubenda.com  
-   Link: [https://www.iubenda.com/en/blog/amazon-affiliate-disclosure-example/](https://www.iubenda.com/en/blog/amazon-affiliate-disclosure-example/)  
+   Link: <a href="https://www.iubenda.com/en/blog/amazon-affiliate-disclosure-example/" target="_blank" rel="noopener noreferrer nofollow">https://www.iubenda.com/en/blog/amazon-affiliate-disclosure-example/</a>  
 
 70. <a id="endnote-70"></a>
    Source: wpvip.com  
-   Link: [https://wpvip.com/resource/content-marketing-funnel-guide/](https://wpvip.com/resource/content-marketing-funnel-guide/)  
+   Link: <a href="https://wpvip.com/resource/content-marketing-funnel-guide/" target="_blank" rel="noopener noreferrer nofollow">https://wpvip.com/resource/content-marketing-funnel-guide/</a>  
 
 71. <a id="endnote-71"></a>
    Source: nngroup.com  
-   Link: [https://www.nngroup.com/videos/better-link-labels/](https://www.nngroup.com/videos/better-link-labels/)  
+   Link: <a href="https://www.nngroup.com/videos/better-link-labels/" target="_blank" rel="noopener noreferrer nofollow">https://www.nngroup.com/videos/better-link-labels/</a>  
 
 72. <a id="endnote-72"></a>
    Source: taylorfrancis.com  
-   Link: [https://www.taylorfrancis.com/chapters/edit/10.4324/9780203047613-14/consumer-decision-making-prepurchase-information-search](https://www.taylorfrancis.com/chapters/edit/10.4324/9780203047613-14/consumer-decision-making-prepurchase-information-search)  
+   Link: <a href="https://www.taylorfrancis.com/chapters/edit/10.4324/9780203047613-14/consumer-decision-making-prepurchase-information-search" target="_blank" rel="noopener noreferrer nofollow">https://www.taylorfrancis.com/chapters/edit/10.4324/9780203047613-14/consumer-decision-making-prepurchase-information-search</a>

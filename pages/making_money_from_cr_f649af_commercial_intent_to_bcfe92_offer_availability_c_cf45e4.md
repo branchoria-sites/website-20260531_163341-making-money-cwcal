@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /intent-topics/
 nav_short_title: Offer checks
 title: Can this topic actually pay?
-title_full: Can this topic actually pay? | Intent Topics
+title_full: Can this topic actually pay?
 display_title_short: Offer checks
 display_title: Offer checks
 heading_title: Can this topic actually pay?
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-31 13:13:55'
-parent_title: Which Affiliate Topics Are Worth Building? | Affiliate Engines
+parent_title: Which Affiliate Topics Are Worth Building?
 parent_permalink: /intent-topics/
 parent_nav_short_title: Intent Topics
 parent_heading_title: Which Affiliate Topics Are Worth Building?
@@ -274,8 +274,7 @@ image: /assets/images/making_money_from_cr_f649af_commercial_intent_to_bcfe92_of
 
 ## Introduction
 
-A commercial-intent keyword is not automatically a profitable affiliate keyword. Many affiliate sites fail because they assume that buyer intent alone creates revenue. In practice, a page only earns when there is a suitable merchant, an active affiliate programme, a product that can actually be bought, and a conversion path that matches what visitors want to do next. A topic can attract motivated buyers and still produce almost no affiliate income if stock is unreliable, commissions are weak, the merchant does not serve the target market, or the programme closes unexpectedly. Before producing affiliate content at scale, offer availability checks should be treated as a mandatory commercial validation step rather than an afterthought. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.coursera.org/gb/articles/affiliate-marketing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: coursera.org">[Coursera]</a><span class="citation-popover" role="note"><span class="citation-popover-source">coursera.org</span><span class="citation-popover-title">affiliate marketing</span><span class="citation-popover-snippet">CourseraAffiliate Marketing: What It Is and How to Get Started7 May 2026 — Affiliate marketing is a marketing model in which third-party...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
-
+A commercial-intent keyword is not automatically a profitable affiliate keyword. Many affiliate sites fail because they assume that buyer intent alone creates revenue. In practice, a page only earns when there is a suitable merchant, an active affiliate programme, a product that can actually be bought, and a conversion path that matches what visitors want to do next. A topic can attract motivated buyers and still produce almost no affiliate income if stock is unreliable, commissions are weak, the merchant does not serve the target market, or the programme closes unexpectedly. Before producing affiliate content at scale, offer availability checks should be treated as a mandatory commercial validation step rather than an afterthought. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.coursera.org/gb/articles/affiliate-marketing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: coursera.org">[Coursera]</a><span class="citation-popover" role="note"><span class="citation-popover-source">coursera.org</span><span class="citation-popover-title">affiliate marketing</span><span class="citation-popover-snippet">Affiliate Marketing: What It Is and How to Get Started7 May 2026 — Affiliate marketing is a marketing model in which third-party...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
 
 <img src="{{ "/assets/images/making_money_from_cr_f649af_commercial_intent_to_bcfe92_offer_availability_c_cf45e4-Illustration-1-dark.svg" | relative_url }}" alt="Offer checks illustration 1" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_commercial_intent_to_bcfe92_offer_availability_c_cf45e4-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_commercial_intent_to_bcfe92_offer_availability_c_cf45e4-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Can this topic actually pay?
@@ -291,7 +290,7 @@ Both may show purchase intent. However, the first may have multiple active merch
 
 From a monetisation perspective, the first topic is often worth far more despite similar intent levels.
 
-For a website-generation system, this means topic qualification should include offer qualification. A page should not move into production simply because search demand and [commercial intent]({{ 'intent-topics/' | relative_url }}) exist. It should first pass a merchant and programme viability check.
+For a website-generation system, this means topic qualification should include offer qualification. A page should not move into production simply because search demand and commercial intent exist. It should first pass a merchant and programme viability check.
 
 ## Merchant and programme checks before content production
 
@@ -302,7 +301,6 @@ Before investing in content, verify that the underlying commercial ecosystem sup
 Some products and brands are commercially attractive but offer no affiliate programme at all. Others may operate through networks such as Awin, CJ, ShareASale, Impact, or direct partnerships.
 
 A topic becomes difficult to monetise when:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -325,7 +323,6 @@ TopicBuyer IntentTypical Conversion DifficultyRevenue PotentialBudget consumer e
 
 The important metric is not traffic but expected [revenue per visitor]({{ 'revenue-model/' | relative_url }}).
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/iccsLJmylJQ" title="How to Find the Perfect Niche for an Affiliate Marketing Site [2.2]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=iccsLJmylJQ" target="_blank" rel="noopener noreferrer">How to Find the Perfect Niche for an Affiliate Marketing Site [2.2]</a></p><p class="youtube-embed-meta">Channel: Ahrefs &middot; Views: 94.4K &middot; Uploaded: March 2023 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=iccsLJmylJQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=iccsLJmylJQ">Open on YouTube</a></p></div></div></div>
 
 ### Can multiple merchants support the page?
@@ -333,7 +330,6 @@ The important metric is not traffic but expected [revenue per visitor]({{ 'reven
 A page dependent on one merchant creates concentration risk.
 
 If a merchant:
-
 
 <div class="content-enhancement content-enhancement--decision" markdown="1">
 
@@ -362,7 +358,6 @@ Product availability should be checked before content production and monitored a
 
 Warning signs include:
 
-
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
 * Chronic out-of-stock products
@@ -376,14 +371,12 @@ Recent affiliate commerce guidance increasingly treats stock and offer validatio
 
 For a scalable publishing system, topics built around permanently available categories are often more valuable than topics built around products that regularly disappear.
 
-
 <img src="{{ "/assets/images/making_money_from_cr_f649af_commercial_intent_to_bcfe92_offer_availability_c_cf45e4-Illustration-2-dark.svg" | relative_url }}" alt="Offer checks illustration 2" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_commercial_intent_to_bcfe92_offer_availability_c_cf45e4-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_commercial_intent_to_bcfe92_offer_availability_c_cf45e4-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Delivery restrictions can destroy conversions
 
 A merchant may appear suitable until delivery [limitations]({{ 'limitations/' | relative_url }}) are examined.
 
 Common issues include:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -399,7 +392,6 @@ A UK visitor who reaches a merchant that only serves North America is unlikely t
 
 This is particularly important for websites targeting multiple countries. Topic selection should account for merchant coverage before content is produced.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/wLm-yYco8tQ" title="Affiliate Marketing Tutorial For Beginners 2026 (Ultimate Step-By-Step Guide)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=wLm-yYco8tQ" target="_blank" rel="noopener noreferrer">Affiliate Marketing Tutorial For Beginners 2026 (Ultimate Step-By-Step Guide)</a></p><p class="youtube-embed-meta">Channel: Josh Burns Tech &middot; Views: 84.2K &middot; Uploaded: June 2025 &middot; Length: 1 hour 3 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=wLm-yYco8tQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=wLm-yYco8tQ">Open on YouTube</a></p></div></div></div>
 
 ### Product-market mismatch
@@ -407,7 +399,6 @@ This is particularly important for websites targeting multiple countries. Topic 
 Some programmes technically exist but convert poorly because the offer does not match visitor expectations.
 
 Examples include:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -431,8 +422,7 @@ A topic may fail commercial viability checks even when intent is strong.
 
 People want to buy a specialised product.
 
-<span class="citation-chip-wrap"><a class="citation-chip" href="https://trackdesk.com/blog/how-set-affiliate-commission-rate-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trackdesk.com">[However:]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trackdesk.com</span><span class="citation-popover-title">how set affiliate commission rate guide</span><span class="citation-popover-snippet">However, affiliate commission rates vary by industry. Some niches have commissions between 10% and...Read more...</span></span></span>
-
+However: <span class="citation-chip-wrap"><a class="citation-chip" href="https://trackdesk.com/blog/how-set-affiliate-commission-rate-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trackdesk.com">[trackdesk.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trackdesk.com</span><span class="citation-popover-title">how set affiliate commission rate guide</span><span class="citation-popover-snippet">However, affiliate commission rates vary by industry. Some niches have commissions between 10% and...Read more...</span></span></span>
 
 <div class="content-enhancement content-enhancement--example" markdown="1">
 
@@ -445,13 +435,12 @@ People want to buy a specialised product.
 
 The topic may attract buyers but still produce disappointing revenue.
 
-
 <img src="{{ "/assets/images/making_money_from_cr_f649af_commercial_intent_to_bcfe92_offer_availability_c_cf45e4-Illustration-3-dark.svg" | relative_url }}" alt="Offer checks illustration 3" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_commercial_intent_to_bcfe92_offer_availability_c_cf45e4-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_commercial_intent_to_bcfe92_offer_availability_c_cf45e4-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Scenario 2: Strong intent, poor conversion path
 
 Visitors are ready to purchase.
 
-<span class="citation-chip-wrap"><a class="citation-chip" href="https://trackdesk.com/blog/how-set-affiliate-commission-rate-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trackdesk.com">[However:]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trackdesk.com</span><span class="citation-popover-title">how set affiliate commission rate guide</span><span class="citation-popover-snippet">However, affiliate commission rates vary by industry. Some niches have commissions between 10% and...Read more...</span></span></span>
+However: <span class="citation-chip-wrap"><a class="citation-chip" href="https://trackdesk.com/blog/how-set-affiliate-commission-rate-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trackdesk.com">[trackdesk.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trackdesk.com</span><span class="citation-popover-title">how set affiliate commission rate guide</span><span class="citation-popover-snippet">However, affiliate commission rates vary by industry. Some niches have commissions between 10% and...Read more...</span></span></span>
 
 * The available merchant is expensive.
 * Delivery is slow.
@@ -473,7 +462,6 @@ Then:
 
 Affiliate programme terms can change at any time, making long-term dependency risky. Diversification and ongoing programme review help reduce this exposure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://impact.com/affiliate/5-effective-affiliate-commission-structures/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: impact.com">[impact.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">impact.com</span><span class="citation-popover-title">5 Affiliate Commission Structures: Models &amp; Benefits</span><span class="citation-popover-snippet">January 7, 2025 — Discover 5 affiliate commission models to boost loyalty, motivation, and program success. Read this blog today...</span><span class="citation-popover-meta">Published: January 7, 2025</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Qj2zwEx4Ye8" title="How to Find Profitable Niches - Affiliate Marketing Niche Research Tutorial" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Qj2zwEx4Ye8" target="_blank" rel="noopener noreferrer">How to Find Profitable Niches - Affiliate Marketing Niche Research Tutorial</a></p><p class="youtube-embed-meta">Channel: Powerhouse Affiliate &middot; Views: 2.0K &middot; Uploaded: October 2024 &middot; Length: 22 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Qj2zwEx4Ye8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Qj2zwEx4Ye8">Open on YouTube</a></p></div></div></div>
 
 ## A practical pre-publication offer screen
@@ -490,6 +478,15 @@ A topic should ideally pass all of the following checks:
 6. Delivery terms are commercially reasonable.
 7. The offer matches search intent.
 8. Programme terms appear stable and sustainable.
+9. Compliance and [disclosure]({{ 'disclosure/' | relative_url }}) requirements can be met clearly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.asa.org.uk/news/get-yourself-affiliated-with-the-rules-on-affiliate-marketing.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asa.org.uk">[ASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asa.org.uk</span><span class="citation-popover-title">get yourself affiliated with the rules on affiliate marketing</span><span class="citation-popover-snippet">Get yourself affiliated with the rules on affiliate marketing10 Oct 2024 — This CAP Advice explains the circumstances under which diff...</span></span></span>
+
+If several of these checks fail, high purchase intent alone is usually insufficient justification for creating the page.
+
+## The real purpose of offer validation
+
+Offer checks are fundamentally a revenue-protection process. They prevent a website from investing resources into pages that cannot reliably monetise.
+
+For affiliate publishers building scalable website systems, the most valuable commercial topics are not simply those where people want to buy. They are the topics where buyer intent, merchant availability, programme economics, stock reliability, geographic fit, and conversion potential all align. When those factors are present together, traffic has a realistic path to becoming affiliate revenue. When they are absent, even highly commercial keywords can become expensive content assets that generate little return.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -908,116 +905,106 @@ A topic should ideally pass all of the following checks:
 </script>
 </section>
 
-9. Compliance and [disclosure]({{ 'disclosure/' | relative_url }}) requirements can be met clearly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.asa.org.uk/news/get-yourself-affiliated-with-the-rules-on-affiliate-marketing.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asa.org.uk">[ASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asa.org.uk</span><span class="citation-popover-title">get yourself affiliated with the rules on affiliate marketing</span><span class="citation-popover-snippet">ASAGet yourself affiliated with the rules on affiliate marketing10 Oct 2024 — This CAP Advice explains the circumstances under which diff...</span></span></span>
-
-If several of these checks fail, high purchase intent alone is usually insufficient justification for creating the page.
-
-## The real purpose of offer validation
-
-Offer checks are fundamentally a revenue-protection process. They prevent a website from investing resources into pages that cannot reliably monetise.
-
-For affiliate publishers building scalable website systems, the most valuable commercial topics are not simply those where people want to buy. They are the topics where buyer intent, merchant availability, programme economics, stock reliability, geographic fit, and conversion potential all align. When those factors are present together, traffic has a realistic path to becoming affiliate revenue. When they are absent, even highly commercial keywords can become expensive content assets that generate little return.
-
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: coursera.org  
    Title: affiliate marketing  
-   Link: [https://www.coursera.org/gb/articles/affiliate-marketing](https://www.coursera.org/gb/articles/affiliate-marketing)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CourseraAffiliate Marketing: What It Is and How to Get Started7 May 2026 — Affiliate marketing is a marketing model in which third-party...</p></details>
+   Link: <a href="https://www.coursera.org/gb/articles/affiliate-marketing" target="_blank" rel="noopener noreferrer nofollow">https://www.coursera.org/gb/articles/affiliate-marketing</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Affiliate Marketing: What It Is and How to Get Started7 May 2026 — Affiliate marketing is a marketing model in which third-party...</p></details>
    Published: May 2026  
 
 2. <a id="endnote-2"></a>
    Source: impact.com  
    Title: 5 Affiliate Commission Structures: Models & Benefits  
-   Link: [https://impact.com/affiliate/5-effective-affiliate-commission-structures/](https://impact.com/affiliate/5-effective-affiliate-commission-structures/)  
+   Link: <a href="https://impact.com/affiliate/5-effective-affiliate-commission-structures/" target="_blank" rel="noopener noreferrer nofollow">https://impact.com/affiliate/5-effective-affiliate-commission-structures/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>January 7, 2025 — Discover 5 affiliate commission models to boost loyalty, motivation, and program success. Read this blog today...</p></details>
    Published: January 7, 2025  
 
 3. <a id="endnote-3"></a>
    Source: trackdesk.com  
    Title: how set affiliate commission rate guide  
-   Link: [https://trackdesk.com/blog/how-set-affiliate-commission-rate-guide](https://trackdesk.com/blog/how-set-affiliate-commission-rate-guide)  
+   Link: <a href="https://trackdesk.com/blog/how-set-affiliate-commission-rate-guide" target="_blank" rel="noopener noreferrer nofollow">https://trackdesk.com/blog/how-set-affiliate-commission-rate-guide</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>However, affiliate commission rates vary by industry. Some niches have commissions between 10% and...Read more...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/Affiliatemarketing/comments/jayqx3/what_happens_when_amazon_eventually_stops_its/](https://www.reddit.com/r/Affiliatemarketing/comments/jayqx3/what_happens_when_amazon_eventually_stops_its/)  
+   Link: <a href="https://www.reddit.com/r/Affiliatemarketing/comments/jayqx3/what_happens_when_amazon_eventually_stops_its/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Affiliatemarketing/comments/jayqx3/what_happens_when_amazon_eventually_stops_its/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>There are so many other affiliate programs that pay up to as much as 50% commissions...Read more...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: blog.affiliate.com  
    Title: validate identifiers offers stock and merchant scope  
-   Link: [https://blog.affiliate.com/validate-identifiers-offers-stock-and-merchant-scope/](https://blog.affiliate.com/validate-identifiers-offers-stock-and-merchant-scope/)  
+   Link: <a href="https://blog.affiliate.com/validate-identifiers-offers-stock-and-merchant-scope/" target="_blank" rel="noopener noreferrer nofollow">https://blog.affiliate.com/validate-identifiers-offers-stock-and-merchant-scope/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Identifiers, Offers, Stock, and Merchant ScopeMay 13, 2026 — 12 May 2026 — In affiliate commerce, QA means checking whether products are...</p></details>
    Published: May 13, 2026  
 
 6. <a id="endnote-6"></a>
    Source: asa.org.uk  
    Title: get yourself affiliated with the rules on affiliate marketing  
-   Link: [https://www.asa.org.uk/news/get-yourself-affiliated-with-the-rules-on-affiliate-marketing.html](https://www.asa.org.uk/news/get-yourself-affiliated-with-the-rules-on-affiliate-marketing.html)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ASAGet yourself affiliated with the rules on affiliate marketing10 Oct 2024 — This CAP Advice explains the circumstances under which diff...</p></details>
+   Link: <a href="https://www.asa.org.uk/news/get-yourself-affiliated-with-the-rules-on-affiliate-marketing.html" target="_blank" rel="noopener noreferrer nofollow">https://www.asa.org.uk/news/get-yourself-affiliated-with-the-rules-on-affiliate-marketing.html</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Get yourself affiliated with the rules on affiliate marketing10 Oct 2024 — This CAP Advice explains the circumstances under which diff...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: rewardful.com  
    Title: affiliate commission explained  
-   Link: [https://www.rewardful.com/articles/affiliate-commission-explained](https://www.rewardful.com/articles/affiliate-commission-explained)  
+   Link: <a href="https://www.rewardful.com/articles/affiliate-commission-explained" target="_blank" rel="noopener noreferrer nofollow">https://www.rewardful.com/articles/affiliate-commission-explained</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Affiliate Commission Guide for 2026 (Standard Rate &amp;...30 Jun 2023 — According to Rewardful&#x27;s own revenue data report, most SaaS affilia...</p></details>
 
 ### Additional References
 
 8. <a id="endnote-8"></a>
    Source: bigcommerce.co.uk  
-   Link: [https://www.bigcommerce.co.uk/articles/ecommerce/affiliate-marketing/](https://www.bigcommerce.co.uk/articles/ecommerce/affiliate-marketing/)  
+   Link: <a href="https://www.bigcommerce.co.uk/articles/ecommerce/affiliate-marketing/" target="_blank" rel="noopener noreferrer nofollow">https://www.bigcommerce.co.uk/articles/ecommerce/affiliate-marketing/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Affiliate Marketing 101: What it is and How to Get StartedInterested in affiliate marketing and not sure where to start? Learn everything...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: bigcommerce.co.uk  
-   Link: [https://www.bigcommerce.co.uk/articles/ecommerce/affiliate-programs/](https://www.bigcommerce.co.uk/articles/ecommerce/affiliate-programs/)  
+   Link: <a href="https://www.bigcommerce.co.uk/articles/ecommerce/affiliate-programs/" target="_blank" rel="noopener noreferrer nofollow">https://www.bigcommerce.co.uk/articles/ecommerce/affiliate-programs/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Affiliate Programs: A Step-by-Step Guide for Ecommerce SitesThis step-by-step beginner&#x27;s guide will walk you through how to launch your a...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: oneeducation.org.uk  
-   Link: [https://www.oneeducation.org.uk/affiliate-programs/](https://www.oneeducation.org.uk/affiliate-programs/)  
+   Link: <a href="https://www.oneeducation.org.uk/affiliate-programs/" target="_blank" rel="noopener noreferrer nofollow">https://www.oneeducation.org.uk/affiliate-programs/</a>  
 
 11. <a id="endnote-11"></a>
    Source: youtube.com  
    Title: How to Find Profitable Niches  
-   Link: [https://www.youtube.com/watch?v=Qj2zwEx4Ye8](https://www.youtube.com/watch?v=Qj2zwEx4Ye8)  
+   Link: <a href="https://www.youtube.com/watch?v=Qj2zwEx4Ye8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Qj2zwEx4Ye8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How to choose an affiliate program niche product research How to Find a Profitable Niche for Affiliate Marketing Matt Diggity...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: wise.com  
    Title: affiliate marketing vs dropshipping  
-   Link: [https://wise.com/gb/blog/affiliate-marketing-vs-dropshipping](https://wise.com/gb/blog/affiliate-marketing-vs-dropshipping)  
+   Link: <a href="https://wise.com/gb/blog/affiliate-marketing-vs-dropshipping" target="_blank" rel="noopener noreferrer nofollow">https://wise.com/gb/blog/affiliate-marketing-vs-dropshipping</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The complete guide23 Sept 2025 — Discover everything you need to know about affiliate marketing and dropshipping, including how to succee...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: shopify.com  
    Title: affiliate marketing for beginners  
-   Link: [https://www.shopify.com/uk/blog/affiliate-marketing-for-beginners](https://www.shopify.com/uk/blog/affiliate-marketing-for-beginners)  
+   Link: <a href="https://www.shopify.com/uk/blog/affiliate-marketing-for-beginners" target="_blank" rel="noopener noreferrer nofollow">https://www.shopify.com/uk/blog/affiliate-marketing-for-beginners</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Start Affiliate Marketing for Beginners: Step by Step21 Nov 2025 — You&#x27;ll discover how to find the best affiliate programs, create...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: luthor.ai  
    Title: affiliate marketing compliance  
-   Link: [https://www.luthor.ai/resources/affiliate-marketing-compliance](https://www.luthor.ai/resources/affiliate-marketing-compliance)  
+   Link: <a href="https://www.luthor.ai/resources/affiliate-marketing-compliance" target="_blank" rel="noopener noreferrer nofollow">https://www.luthor.ai/resources/affiliate-marketing-compliance</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Definitive Guide to Affiliate Marketing Compliance | Luthor5 Jan 2026 — Learn best practices of affiliate marketing compliance, types...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: digivate.com  
    Title: best affiliate programs uk  
-   Link: [https://www.digivate.com/blog/affiliate-marketing/best-affiliate-programs-uk/](https://www.digivate.com/blog/affiliate-marketing/best-affiliate-programs-uk/)  
+   Link: <a href="https://www.digivate.com/blog/affiliate-marketing/best-affiliate-programs-uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.digivate.com/blog/affiliate-marketing/best-affiliate-programs-uk/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The 17 Best Affiliate Programs in the UK3 Feb 2026 — Good commission rates: Commissions can range anywhere from 5% to 50%, depending on t...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: business.adobe.com  
    Title: affiliate marketing guide  
-   Link: [https://business.adobe.com/uk/blog/basics/affiliate-marketing-guide](https://business.adobe.com/uk/blog/basics/affiliate-marketing-guide)  
+   Link: <a href="https://business.adobe.com/uk/blog/basics/affiliate-marketing-guide" target="_blank" rel="noopener noreferrer nofollow">https://business.adobe.com/uk/blog/basics/affiliate-marketing-guide</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>marketing guide — strategies for growth and ROI12 Jan 2025 — Your definitive 2025 affiliate marketing guide. Learn how it works, its data...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: youtube.com  
    Title: How to Find the Perfect Niche for an Affiliate Marketing Site [2.2]  
-   Link: [https://www.youtube.com/watch?v=iccsLJmylJQ](https://www.youtube.com/watch?v=iccsLJmylJQ)  
+   Link: <a href="https://www.youtube.com/watch?v=iccsLJmylJQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=iccsLJmylJQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Find the Best Niche for Affiliate Marketing (5 Simple Steps)...</p></details>

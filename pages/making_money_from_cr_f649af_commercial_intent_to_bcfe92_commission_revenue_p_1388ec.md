@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /intent-topics/
 nav_short_title: Commission math
 title: Why traffic alone does not equal earnings
-title_full: Why traffic alone does not equal earnings | Intent Topics
+title_full: Why traffic alone does not equal earnings
 display_title_short: Commission math
 display_title: Commission math
 heading_title: Why traffic alone does not equal earnings
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-31 13:14:01'
-parent_title: Which Affiliate Topics Are Worth Building? | Affiliate Engines
+parent_title: Which Affiliate Topics Are Worth Building?
 parent_permalink: /intent-topics/
 parent_nav_short_title: Intent Topics
 parent_heading_title: Which Affiliate Topics Are Worth Building?
@@ -276,9 +276,8 @@ image: /assets/images/making_money_from_cr_f649af_commercial_intent_to_bcfe92_co
 
 Traffic is not what generates affiliate income. [Revenue per visitor]({{ 'revenue-model/' | relative_url }}) does. Two topics can attract the same number of visitors and produce dramatically different earnings because the underlying economics are different. A page promoting a low-margin retail product may convert well but generate only a small commission per sale, while a page targeting business software may convert fewer visitors yet earn substantially more from each customer acquired.
 
-
 <img src="{{ "/assets/images/making_money_from_cr_f649af_commercial_intent_to_bcfe92_commission_revenue_p_1388ec-Illustration-1-dark.svg" | relative_url }}" alt="Commission math illustration 1" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_commercial_intent_to_bcfe92_commission_revenue_p_1388ec-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_commercial_intent_to_bcfe92_commission_revenue_p_1388ec-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-For affiliate websites, the key question is not "How much traffic can this topic attract?" but "How much revenue is each visitor likely to produce?" Revenue per visitor (RPV) is influenced by several connected variables: commission rate, average order value, conversion rate, refund rates, customer retention, and whether commissions recur over time. Understanding these economics helps explain why some commercial-[intent topics]({{ 'intent-topics/' | relative_url }}) scale into substantial revenue businesses while others struggle despite strong traffic numbers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.shopify.com/uk/blog/affiliate-marketing-metrics" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shopify.com">[Shopify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shopify.com</span><span class="citation-popover-title">affiliate marketing metrics</span><span class="citation-popover-snippet">Shopify20 Affiliate Marketing Metrics Worth Tracking in 2026November 25, 2025 — 25 Nov 2025 — Focus on indicators such as conversion rate...</span><span class="citation-popover-meta">Published: November 25, 2025</span></span></span>
+For affiliate websites, the key question is not "How much traffic can this topic attract?" but "How much revenue is each visitor likely to produce?" Revenue per visitor (RPV) is influenced by several connected variables: commission rate, average order value, conversion rate, refund rates, customer retention, and whether commissions recur over time. Understanding these economics helps explain why some commercial-[intent topics]({{ 'intent-topics/' | relative_url }}) scale into substantial revenue businesses while others struggle despite strong traffic numbers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.shopify.com/uk/blog/affiliate-marketing-metrics" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shopify.com">[Shopify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shopify.com</span><span class="citation-popover-title">affiliate marketing metrics</span><span class="citation-popover-snippet">20 Affiliate Marketing Metrics Worth Tracking in 2026November 25, 2025 — 25 Nov 2025 — Focus on indicators such as conversion rate...</span><span class="citation-popover-meta">Published: November 25, 2025</span></span></span>
 
 ## Why traffic alone does not equal earnings
 
@@ -287,7 +286,6 @@ A useful way to think about affiliate monetisation is:
 **Revenue per visitor = conversion rate × commission earned per conversion** <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.optimonk.com/affiliate-marketing-conversion-rate" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: optimonk.com">[optimonk.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">optimonk.com</span><span class="citation-popover-title">affiliate marketing conversion rate</span><span class="citation-popover-snippet">Benchmarks &amp; Best...19 Feb 2026 — If you can achieve an average conversion rate of 1% to 5%, that&#x27;s generally considered “good.” However...</span></span></span>
 
 In practice, the calculation becomes more complex because commission earned per conversion depends on multiple factors:
-
 
 <div class="content-enhancement content-enhancement--decision" markdown="1">
 
@@ -304,20 +302,19 @@ A website sending 1,000 visitors per month to an offer that converts at 3% and p
 
 This distinction explains why affiliate publishers often prioritise earnings potential over raw search volume. A lower-volume keyword with stronger economics can be more valuable than a high-volume keyword attached to weak commissions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://elementor.com/blog/how-much-do-affiliate-marketers-make/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: elementor.com">[Elementor]</a><span class="citation-popover" role="note"><span class="citation-popover-source">elementor.com</span><span class="citation-popover-title">How Much Do Affiliate Marketers Make?</span><span class="citation-popover-snippet">A Realistic 2026...January 29, 2026 — 29 Jan 2026 — The Math: Let&#x27;s say you get 10,000 visitors per month and your average commission is...</span><span class="citation-popover-meta">Published: January 29, 2026</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/N7nyWQc6E1c" title="13 Best Affiliate Programs You NEED to Join in 2026 (High Paying for Beginners)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=N7nyWQc6E1c" target="_blank" rel="noopener noreferrer">13 Best Affiliate Programs You NEED to Join in 2026 (High Paying for Beginners)</a></p><p class="youtube-embed-meta">Channel: Adam Enfroy &middot; Views: 32.5K &middot; Uploaded: December 2025 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=N7nyWQc6E1c" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=N7nyWQc6E1c">Open on YouTube</a></p></div></div></div>
 
 ### The variables that change affiliate revenue per visitor
 
 Several variables combine to determine how valuable a visitor is.
 
-<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.shopify.com/uk/blog/affiliate-marketing-metrics" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shopify.com">[**Conversion rate**]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shopify.com</span><span class="citation-popover-title">affiliate marketing metrics</span><span class="citation-popover-snippet">Shopify20 Affiliate Marketing Metrics Worth Tracking in 2026November 25, 2025 — 25 Nov 2025 — Focus on indicators such as conversion rate...</span><span class="citation-popover-meta">Published: November 25, 2025</span></span></span>
+**Conversion rate** <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.shopify.com/uk/blog/affiliate-marketing-metrics" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shopify.com">[shopify.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shopify.com</span><span class="citation-popover-title">affiliate marketing metrics</span><span class="citation-popover-snippet">20 Affiliate Marketing Metrics Worth Tracking in 2026November 25, 2025 — 25 Nov 2025 — Focus on indicators such as conversion rate...</span><span class="citation-popover-meta">Published: November 25, 2025</span></span></span>
 
 Conversion rate measures the percentage of visitors who complete the desired action after clicking an affiliate link. Industry benchmarks vary widely, but affiliate conversion rates often fall between roughly 1% and 5%, with higher rates typically associated with highly targeted, high-intent traffic. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.partnero.com/articles/21-essential-affiliate-marketing-benchmarks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: partnero.com">[partnero.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">partnero.com</span><span class="citation-popover-snippet">21 Affiliate Marketing Benchmarks &amp; KPIs - PartneroAugust 12, 2024 — Average conversion rates typically range from 1% to 3% across differ...</span><span class="citation-popover-meta">Published: August 12, 2024</span></span></span>
 
 A visitor searching for "best CRM software for small business" is usually closer to purchase than someone searching "what is customer relationship management". Even if both topics receive traffic, the former often produces more revenue per visitor because purchase intent is stronger.
 
-<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.shopify.com/uk/blog/affiliate-marketing-metrics" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shopify.com">[**Average order value**]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shopify.com</span><span class="citation-popover-title">affiliate marketing metrics</span><span class="citation-popover-snippet">Shopify20 Affiliate Marketing Metrics Worth Tracking in 2026November 25, 2025 — 25 Nov 2025 — Focus on indicators such as conversion rate...</span><span class="citation-popover-meta">Published: November 25, 2025</span></span></span>
+**Average order value** <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.shopify.com/uk/blog/affiliate-marketing-metrics" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shopify.com">[shopify.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shopify.com</span><span class="citation-popover-title">affiliate marketing metrics</span><span class="citation-popover-snippet">20 Affiliate Marketing Metrics Worth Tracking in 2026November 25, 2025 — 25 Nov 2025 — Focus on indicators such as conversion rate...</span><span class="citation-popover-meta">Published: November 25, 2025</span></span></span>
 
 Higher-priced products create larger commission opportunities. A 10% commission on a £1,000 purchase is worth more than a 10% commission on a £50 purchase. This is one reason why software, finance, business services, and premium equipment often attract affiliate publishers despite lower search volumes.
 
@@ -329,14 +326,13 @@ Commission rates vary dramatically across sectors. Ecommerce programmes commonly
 
 A commission only matters if it survives. High refund rates can make apparently lucrative programmes less attractive than lower-paying offers with stable customer retention. Revenue per visitor should therefore be calculated using net commissions rather than headline commission rates.
 
-<span class="citation-chip-wrap"><a class="citation-chip" href="https://happierleads.com/blog/b2b-saas-affiliate-programs-recurring-revenue-comparison" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: happierleads.com">[**Recurring revenue**]</a><span class="citation-popover" role="note"><span class="citation-popover-source">happierleads.com</span><span class="citation-popover-title">B2B Saa S Affiliate Programs with Recurring Revenue</span><span class="citation-popover-snippet">Recurring commission, not one-off. Lifetime attribution (or at least 6–12 months), not 30-day.Read more...</span></span></span>
+**Recurring revenue** <span class="citation-chip-wrap"><a class="citation-chip" href="https://happierleads.com/blog/b2b-saas-affiliate-programs-recurring-revenue-comparison" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: happierleads.com">[happierleads.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">happierleads.com</span><span class="citation-popover-title">B2B Saa S Affiliate Programs with Recurring Revenue</span><span class="citation-popover-snippet">Recurring commission, not one-off. Lifetime attribution (or at least 6–12 months), not 30-day.Read more...</span></span></span>
 
-Subscription products introduce a different economic model. Instead of receiving a single payment, affiliates may earn a percentage of monthly revenue for months or years. This changes the value of each acquired customer and can dramatically increase revenue per visitor over time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://trackier.com/ultimate-guide-to-saas-affiliate-marketing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trackier.com">[Trackier]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trackier.com</span><span class="citation-popover-snippet">TrackierUltimate Guide to SaaS Affiliate Marketing in 2026March 28, 2026 — 28 Mar 2026 — Typically ranges between 20–40% per billing cycl...</span><span class="citation-popover-meta">Published: March 28, 2026</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://payproglobal.com/answers/what-is-saas-affiliate-program/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: payproglobal.com">[PayPro Global]</a><span class="citation-popover" role="note"><span class="citation-popover-source">payproglobal.com</span><span class="citation-popover-title">what is saas affiliate program</span><span class="citation-popover-snippet">What is a SaaS Affiliate Program?3 Apr 2026 — Learn how SaaS affiliate programs offer recurring income, unlike traditional one-time payou...</span></span></span>
+Subscription products introduce a different economic model. Instead of receiving a single payment, affiliates may earn a percentage of monthly revenue for months or years. This changes the value of each acquired customer and can dramatically increase revenue per visitor over time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://trackier.com/ultimate-guide-to-saas-affiliate-marketing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trackier.com">[Trackier]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trackier.com</span><span class="citation-popover-snippet">Ultimate Guide to SaaS Affiliate Marketing in 2026March 28, 2026 — 28 Mar 2026 — Typically ranges between 20–40% per billing cycl...</span><span class="citation-popover-meta">Published: March 28, 2026</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://payproglobal.com/answers/what-is-saas-affiliate-program/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: payproglobal.com">[PayPro Global]</a><span class="citation-popover" role="note"><span class="citation-popover-source">payproglobal.com</span><span class="citation-popover-title">what is saas affiliate program</span><span class="citation-popover-snippet">What is a SaaS Affiliate Program?3 Apr 2026 — Learn how SaaS affiliate programs offer recurring income, unlike traditional one-time payou...</span></span></span>
 
 ## Retail products versus software and service offers
 
 The contrast between retail and subscription offers illustrates why commission economics matter.
-
 
 <img src="{{ "/assets/images/making_money_from_cr_f649af_commercial_intent_to_bcfe92_commission_revenue_p_1388ec-Illustration-2-dark.svg" | relative_url }}" alt="Commission math illustration 2" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_commercial_intent_to_bcfe92_commission_revenue_p_1388ec-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_commercial_intent_to_bcfe92_commission_revenue_p_1388ec-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Traditional retail economics
@@ -344,7 +340,6 @@ The contrast between retail and subscription offers illustrates why commission e
 Retail affiliate programmes typically rely on one-off purchases. The customer buys a product, the affiliate receives a commission, and the relationship ends.
 
 Advantages include:
-
 
 <div class="content-enhancement content-enhancement--decision" markdown="1">
 
@@ -357,7 +352,6 @@ Advantages include:
 
 However, retail often faces constraints:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Lower commission percentages
@@ -369,20 +363,19 @@ However, retail often faces constraints:
 
 A publisher promoting consumer electronics, home goods, or everyday products may require significant traffic before commissions become meaningful because each conversion generates relatively modest earnings.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rv01CKLsaY0" title="How to ACTUALLY Make Your First $1,000 with High Ticket Affiliate Marketing... Works in 2026" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rv01CKLsaY0" target="_blank" rel="noopener noreferrer">How to ACTUALLY Make Your First $1,000 with High Ticket Affiliate Marketing... Works in 2026</a></p><p class="youtube-embed-meta">Channel: Adam Enfroy &middot; Views: 8.7K &middot; Uploaded: February 2026 &middot; Length: 19 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rv01CKLsaY0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rv01CKLsaY0">Open on YouTube</a></p></div></div></div>
 
 ### Software and service economics
 
 Subscription software and business services operate differently. A single customer may remain active for months or years, creating recurring revenue.
 
-Many SaaS affiliate programmes offer recurring commissions in the 20%–40% range, while some programmes continue paying throughout the customer's subscription life. Industry discussions and benchmark studies consistently show recurring structures as one of the major economic advantages of software affiliate marketing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://trackier.com/ultimate-guide-to-saas-affiliate-marketing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trackier.com">[Trackier]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trackier.com</span><span class="citation-popover-snippet">TrackierUltimate Guide to SaaS Affiliate Marketing in 2026March 28, 2026 — 28 Mar 2026 — Typically ranges between 20–40% per billing cycl...</span><span class="citation-popover-meta">Published: March 28, 2026</span></span></span> LinkJolt This creates a different revenue profile: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.linkjolt.io/blog/recurring-commission-affiliate-programs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: linkjolt.io">[linkjolt.io]</a><span class="citation-popover" role="note"><span class="citation-popover-source">linkjolt.io</span><span class="citation-popover-snippet">LinkJoltRecurring Commission Affiliate Programs a Guide for SaaS26 Dec 2025 — SMB SaaS tools often land in the 20-40% recurring commissio...</span></span></span>
+Many SaaS affiliate programmes offer recurring commissions in the 20%–40% range, while some programmes continue paying throughout the customer's subscription life. Industry discussions and benchmark studies consistently show recurring structures as one of the major economic advantages of software affiliate marketing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://trackier.com/ultimate-guide-to-saas-affiliate-marketing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trackier.com">[Trackier]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trackier.com</span><span class="citation-popover-snippet">Ultimate Guide to SaaS Affiliate Marketing in 2026March 28, 2026 — 28 Mar 2026 — Typically ranges between 20–40% per billing cycl...</span><span class="citation-popover-meta">Published: March 28, 2026</span></span></span> LinkJolt This creates a different revenue profile: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.linkjolt.io/blog/recurring-commission-affiliate-programs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: linkjolt.io">[linkjolt.io]</a><span class="citation-popover" role="note"><span class="citation-popover-source">linkjolt.io</span><span class="citation-popover-snippet">Recurring Commission Affiliate Programs a Guide for SaaS26 Dec 2025 — SMB SaaS tools often land in the 20-40% recurring commissio...</span></span></span>
 
 FactorTypical Retail OfferTypical SaaS OfferPurchase frequencyOne-offSubscriptionCustomer value horizonSingle transactionMonths or yearsCommission typeUsually one-timeOften recurringDependence on traffic volumeHigherLowerPotential revenue per visitorOften lowerOften higher
 
 The key insight is not that software is always better. Poorly matched software offers can convert badly, and some retail sectors have excellent economics. The lesson is that commission rate alone is insufficient. The entire customer value chain matters.
 
-A 30% recurring commission on a product with high churn may ultimately be worth less than a lower recurring rate on a service customers keep for years. <span class="citation-chip-wrap"><a class="citation-chip" href="https://happierleads.com/blog/b2b-saas-affiliate-programs-recurring-revenue-comparison" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: happierleads.com">[Happierleads]</a><span class="citation-popover" role="note"><span class="citation-popover-source">happierleads.com</span><span class="citation-popover-title">B2B Saa S Affiliate Programs with Recurring Revenue</span><span class="citation-popover-snippet">Recurring commission, not one-off. Lifetime attribution (or at least 6–12 months), not 30-day.Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.rewardful.com/articles/saas-affiliate-program-benchmarks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rewardful.com">[Rewardful]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rewardful.com</span><span class="citation-popover-snippet">RewardfulSaaS Affiliate Program Benchmarks by Industry (2025...28 Aug 2025 — Affiliate revenue contribution ranges from 10–20% MRR, with...</span></span></span>
+A 30% recurring commission on a product with high churn may ultimately be worth less than a lower recurring rate on a service customers keep for years. <span class="citation-chip-wrap"><a class="citation-chip" href="https://happierleads.com/blog/b2b-saas-affiliate-programs-recurring-revenue-comparison" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: happierleads.com">[Happierleads]</a><span class="citation-popover" role="note"><span class="citation-popover-source">happierleads.com</span><span class="citation-popover-title">B2B Saa S Affiliate Programs with Recurring Revenue</span><span class="citation-popover-snippet">Recurring commission, not one-off. Lifetime attribution (or at least 6–12 months), not 30-day.Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.rewardful.com/articles/saas-affiliate-program-benchmarks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rewardful.com">[Rewardful]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rewardful.com</span><span class="citation-popover-snippet">SaaS Affiliate Program Benchmarks by Industry (2025...28 Aug 2025 — Affiliate revenue contribution ranges from 10–20% MRR, with...</span></span></span>
 
 ## How commission economics shape a scalable topic mix
 
@@ -390,20 +383,44 @@ For a website-generation system, revenue per visitor provides a more useful topi
 
 A scalable affiliate portfolio typically contains a mixture of topic types:
 
+<div class="content-enhancement content-enhancement--decision" markdown="1">
+
 * High-volume informational content that introduces visitors to a market.
-* Commercial [comparison pages]({{ 'comparisons/' | relative_url }}) that capture decision-stage users.
-* [Review pages]({{ 'reviews/' | relative_url }}) focused on individual products.
+* Commercial comparison pages that capture decision-stage users.
+* Review pages focused on individual products.
 * High-value service and software pages where commissions are larger.
 * Supporting content that channels users toward revenue-generating pages.
 
-When evaluating new topic opportunities, several questions become more useful than raw traffic estimates:
+</div>
 
+When evaluating new topic opportunities, several questions become more useful than raw traffic estimates:
 
 <img src="{{ "/assets/images/making_money_from_cr_f649af_commercial_intent_to_bcfe92_commission_revenue_p_1388ec-Illustration-3-dark.svg" | relative_url }}" alt="Commission math illustration 3" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_commercial_intent_to_bcfe92_commission_revenue_p_1388ec-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_commercial_intent_to_bcfe92_commission_revenue_p_1388ec-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
 1. What is the likely commission per conversion?
+2. What conversion rate is realistic for this intent level? <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.optimonk.com/affiliate-marketing-conversion-rate" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: optimonk.com">[optimonk.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">optimonk.com</span><span class="citation-popover-title">affiliate marketing conversion rate</span><span class="citation-popover-snippet">Benchmarks &amp; Best...19 Feb 2026 — If you can achieve an average conversion rate of 1% to 5%, that&#x27;s generally considered “good.” However...</span></span></span>
+3. Does the programme offer recurring commissions?
+4. How long do customers typically remain active?
+5. Are refunds or cancellations common?
+6. Can successful page patterns be repeated across a broader cluster?
+
+</div>
+
+A topic with modest traffic but strong revenue per visitor may justify dozens of adjacent pages. For example, a profitable software category can often support comparison pages, alternatives pages, migration guides, pricing pages, industry-specific [use cases]({{ 'use-cases/' | relative_url }}), and feature [comparisons]({{ 'comparisons/' | relative_url }}). Each page targets a different commercial decision while feeding visitors toward the same high-value offers.
+
+By contrast, a topic built around low-value commissions may require substantially more traffic before expansion becomes worthwhile.
+
+### Revenue per visitor as a topic-selection filter
+
+The most scalable affiliate websites increasingly evaluate opportunities through expected earnings rather than traffic forecasts alone.
+
+Commission rate, average order value, conversion rate, customer retention, and recurring revenue all influence the economic value of a visitor. A topic attracting fewer visitors can outperform a larger market if each visitor is worth more.
+
+For affiliate publishers building repeatable website systems, this shifts topic selection away from simple search-volume chasing and towards identifying clusters where commercial intent aligns with strong commission economics. The result is a portfolio of pages designed not merely to attract visitors, but to maximise the revenue generated by each one. <span class="citation-chip-wrap"><a class="citation-chip" href="https://trackier.com/ultimate-guide-to-saas-affiliate-marketing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trackier.com">[Trackier]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trackier.com</span><span class="citation-popover-snippet">Ultimate Guide to SaaS Affiliate Marketing in 2026March 28, 2026 — 28 Mar 2026 — Typically ranges between 20–40% per billing cycl...</span><span class="citation-popover-meta">Published: March 28, 2026</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.shopify.com/uk/blog/affiliate-marketing-metrics" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shopify.com">[Shopify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shopify.com</span><span class="citation-popover-title">affiliate marketing metrics</span><span class="citation-popover-snippet">20 Affiliate Marketing Metrics Worth Tracking in 2026November 25, 2025 — 25 Nov 2025 — Focus on indicators such as conversion rate...</span><span class="citation-popover-meta">Published: November 25, 2025</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://impact.com/partnerships/the-holy-grail-of-affiliate-marketing-metrics/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: impact.com">[3impact.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">impact.com</span><span class="citation-popover-snippet">The Holy Grail of Affiliate Marketing MetricsMost affiliate managers recognize that more revenues are better, higher conversion rates and...</span></span></span>
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qjm7jWb8nCM" title="How To Actually Make First $5K With High Ticket Affiliate Marketing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qjm7jWb8nCM" target="_blank" rel="noopener noreferrer">How To Actually Make First $5K With High Ticket Affiliate Marketing</a></p><p class="youtube-embed-meta">Channel: Alston Godbolt &middot; Views: 782 &middot; Uploaded: January 2026 &middot; Length: 25 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qjm7jWb8nCM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qjm7jWb8nCM">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -822,156 +839,133 @@ When evaluating new topic opportunities, several questions become more useful th
 </script>
 </section>
 
-2. What conversion rate is realistic for this intent level? <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.optimonk.com/affiliate-marketing-conversion-rate" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: optimonk.com">[optimonk.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">optimonk.com</span><span class="citation-popover-title">affiliate marketing conversion rate</span><span class="citation-popover-snippet">Benchmarks &amp; Best...19 Feb 2026 — If you can achieve an average conversion rate of 1% to 5%, that&#x27;s generally considered “good.” However...</span></span></span>
-3. Does the programme offer recurring commissions?
-4. How long do customers typically remain active?
-5. Are refunds or cancellations common?
-6. Can successful page patterns be repeated across a broader cluster?
-
-</div>
-
-A topic with modest traffic but strong revenue per visitor may justify dozens of adjacent pages. For example, a profitable software category can often support comparison pages, alternatives pages, migration guides, pricing pages, industry-specific [use cases]({{ 'use-cases/' | relative_url }}), and feature [comparisons]({{ 'comparisons/' | relative_url }}). Each page targets a different commercial decision while feeding visitors toward the same high-value offers.
-
-By contrast, a topic built around low-value commissions may require substantially more traffic before expansion becomes worthwhile.
-
-### Revenue per visitor as a topic-selection filter
-
-The most scalable affiliate websites increasingly evaluate opportunities through expected earnings rather than traffic forecasts alone.
-
-Commission rate, average order value, conversion rate, customer retention, and recurring revenue all influence the economic value of a visitor. A topic attracting fewer visitors can outperform a larger market if each visitor is worth more.
-
-For affiliate publishers building repeatable website systems, this shifts topic selection away from simple search-volume chasing and towards identifying clusters where [commercial intent]({{ 'intent-topics/' | relative_url }}) aligns with strong commission economics. The result is a portfolio of pages designed not merely to attract visitors, but to maximise the revenue generated by each one. <span class="citation-chip-wrap"><a class="citation-chip" href="https://trackier.com/ultimate-guide-to-saas-affiliate-marketing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trackier.com">[Trackier]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trackier.com</span><span class="citation-popover-snippet">TrackierUltimate Guide to SaaS Affiliate Marketing in 2026March 28, 2026 — 28 Mar 2026 — Typically ranges between 20–40% per billing cycl...</span><span class="citation-popover-meta">Published: March 28, 2026</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.shopify.com/uk/blog/affiliate-marketing-metrics" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shopify.com">[Shopify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shopify.com</span><span class="citation-popover-title">affiliate marketing metrics</span><span class="citation-popover-snippet">Shopify20 Affiliate Marketing Metrics Worth Tracking in 2026November 25, 2025 — 25 Nov 2025 — Focus on indicators such as conversion rate...</span><span class="citation-popover-meta">Published: November 25, 2025</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://impact.com/partnerships/the-holy-grail-of-affiliate-marketing-metrics/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: impact.com">[3impact.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">impact.com</span><span class="citation-popover-snippet">The Holy Grail of Affiliate Marketing MetricsMost affiliate managers recognize that more revenues are better, higher conversion rates and...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qjm7jWb8nCM" title="How To Actually Make First $5K With High Ticket Affiliate Marketing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qjm7jWb8nCM" target="_blank" rel="noopener noreferrer">How To Actually Make First $5K With High Ticket Affiliate Marketing</a></p><p class="youtube-embed-meta">Channel: Alston Godbolt &middot; Views: 782 &middot; Uploaded: January 2026 &middot; Length: 25 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qjm7jWb8nCM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qjm7jWb8nCM">Open on YouTube</a></p></div></div></div>
-
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: shopify.com  
    Title: affiliate marketing metrics  
-   Link: [https://www.shopify.com/uk/blog/affiliate-marketing-metrics](https://www.shopify.com/uk/blog/affiliate-marketing-metrics)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Shopify20 Affiliate Marketing Metrics Worth Tracking in 2026November 25, 2025 — 25 Nov 2025 — Focus on indicators such as conversion rate...</p></details>
+   Link: <a href="https://www.shopify.com/uk/blog/affiliate-marketing-metrics" target="_blank" rel="noopener noreferrer nofollow">https://www.shopify.com/uk/blog/affiliate-marketing-metrics</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>20 Affiliate Marketing Metrics Worth Tracking in 2026November 25, 2025 — 25 Nov 2025 — Focus on indicators such as conversion rate...</p></details>
    Published: November 25, 2025  
 
 2. <a id="endnote-2"></a>
    Source: impact.com  
-   Link: [https://impact.com/partnerships/the-holy-grail-of-affiliate-marketing-metrics/](https://impact.com/partnerships/the-holy-grail-of-affiliate-marketing-metrics/)  
+   Link: <a href="https://impact.com/partnerships/the-holy-grail-of-affiliate-marketing-metrics/" target="_blank" rel="noopener noreferrer nofollow">https://impact.com/partnerships/the-holy-grail-of-affiliate-marketing-metrics/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Holy Grail of Affiliate Marketing MetricsMost affiliate managers recognize that more revenues are better, higher conversion rates and...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: elementor.com  
    Title: How Much Do Affiliate Marketers Make?  
-   Link: [https://elementor.com/blog/how-much-do-affiliate-marketers-make/](https://elementor.com/blog/how-much-do-affiliate-marketers-make/)  
+   Link: <a href="https://elementor.com/blog/how-much-do-affiliate-marketers-make/" target="_blank" rel="noopener noreferrer nofollow">https://elementor.com/blog/how-much-do-affiliate-marketers-make/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Realistic 2026...January 29, 2026 — 29 Jan 2026 — The Math: Let&#x27;s say you get 10,000 visitors per month and your average commission is...</p></details>
    Published: January 29, 2026  
 
 4. <a id="endnote-4"></a>
    Source: partnero.com  
-   Link: [https://www.partnero.com/articles/21-essential-affiliate-marketing-benchmarks](https://www.partnero.com/articles/21-essential-affiliate-marketing-benchmarks)  
+   Link: <a href="https://www.partnero.com/articles/21-essential-affiliate-marketing-benchmarks" target="_blank" rel="noopener noreferrer nofollow">https://www.partnero.com/articles/21-essential-affiliate-marketing-benchmarks</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>21 Affiliate Marketing Benchmarks &amp; KPIs - PartneroAugust 12, 2024 — Average conversion rates typically range from 1% to 3% across differ...</p></details>
    Published: August 12, 2024  
 
 5. <a id="endnote-5"></a>
    Source: trackier.com  
-   Link: [https://trackier.com/ultimate-guide-to-saas-affiliate-marketing/](https://trackier.com/ultimate-guide-to-saas-affiliate-marketing/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>TrackierUltimate Guide to SaaS Affiliate Marketing in 2026March 28, 2026 — 28 Mar 2026 — Typically ranges between 20–40% per billing cycl...</p></details>
+   Link: <a href="https://trackier.com/ultimate-guide-to-saas-affiliate-marketing/" target="_blank" rel="noopener noreferrer nofollow">https://trackier.com/ultimate-guide-to-saas-affiliate-marketing/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ultimate Guide to SaaS Affiliate Marketing in 2026March 28, 2026 — 28 Mar 2026 — Typically ranges between 20–40% per billing cycl...</p></details>
    Published: March 28, 2026  
 
 6. <a id="endnote-6"></a>
    Source: linkjolt.io  
-   Link: [https://www.linkjolt.io/blog/recurring-commission-affiliate-programs](https://www.linkjolt.io/blog/recurring-commission-affiliate-programs)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LinkJoltRecurring Commission Affiliate Programs a Guide for SaaS26 Dec 2025 — SMB SaaS tools often land in the 20-40% recurring commissio...</p></details>
+   Link: <a href="https://www.linkjolt.io/blog/recurring-commission-affiliate-programs" target="_blank" rel="noopener noreferrer nofollow">https://www.linkjolt.io/blog/recurring-commission-affiliate-programs</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Recurring Commission Affiliate Programs a Guide for SaaS26 Dec 2025 — SMB SaaS tools often land in the 20-40% recurring commissio...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: happierleads.com  
    Title: B2B Saa S Affiliate Programs with Recurring Revenue  
-   Link: [https://happierleads.com/blog/b2b-saas-affiliate-programs-recurring-revenue-comparison](https://happierleads.com/blog/b2b-saas-affiliate-programs-recurring-revenue-comparison)  
+   Link: <a href="https://happierleads.com/blog/b2b-saas-affiliate-programs-recurring-revenue-comparison" target="_blank" rel="noopener noreferrer nofollow">https://happierleads.com/blog/b2b-saas-affiliate-programs-recurring-revenue-comparison</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Recurring commission, not one-off. Lifetime attribution (or at least 6–12 months), not 30-day.Read more...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: rewardful.com  
-   Link: [https://www.rewardful.com/articles/saas-affiliate-program-benchmarks](https://www.rewardful.com/articles/saas-affiliate-program-benchmarks)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RewardfulSaaS Affiliate Program Benchmarks by Industry (2025...28 Aug 2025 — Affiliate revenue contribution ranges from 10–20% MRR, with...</p></details>
+   Link: <a href="https://www.rewardful.com/articles/saas-affiliate-program-benchmarks" target="_blank" rel="noopener noreferrer nofollow">https://www.rewardful.com/articles/saas-affiliate-program-benchmarks</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>SaaS Affiliate Program Benchmarks by Industry (2025...28 Aug 2025 — Affiliate revenue contribution ranges from 10–20% MRR, with...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: digitalapplied.com  
    Title: affiliate marketing statistics 2026 data points  
-   Link: [https://www.digitalapplied.com/blog/affiliate-marketing-statistics-2026-data-points](https://www.digitalapplied.com/blog/affiliate-marketing-statistics-2026-data-points)  
+   Link: <a href="https://www.digitalapplied.com/blog/affiliate-marketing-statistics-2026-data-points" target="_blank" rel="noopener noreferrer nofollow">https://www.digitalapplied.com/blog/affiliate-marketing-statistics-2026-data-points</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Digital AppliedAffiliate Marketing Statistics 2026: 130+ Data PointsApril 21, 2026 — 21 Apr 2026 — Median ecommerce commission settles at...</p></details>
    Published: April 21, 2026  
 
 10. <a id="endnote-10"></a>
    Source: payproglobal.com  
    Title: what is saas affiliate program  
-   Link: [https://payproglobal.com/answers/what-is-saas-affiliate-program/](https://payproglobal.com/answers/what-is-saas-affiliate-program/)  
+   Link: <a href="https://payproglobal.com/answers/what-is-saas-affiliate-program/" target="_blank" rel="noopener noreferrer nofollow">https://payproglobal.com/answers/what-is-saas-affiliate-program/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What is a SaaS Affiliate Program?3 Apr 2026 — Learn how SaaS affiliate programs offer recurring income, unlike traditional one-time payou...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: close.com  
    Title: saas affiliate programs  
-   Link: [https://close.com/blog/saas-affiliate-programs](https://close.com/blog/saas-affiliate-programs)  
+   Link: <a href="https://close.com/blog/saas-affiliate-programs" target="_blank" rel="noopener noreferrer nofollow">https://close.com/blog/saas-affiliate-programs</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>21 Top SaaS Affiliate Programs for 202619 Jan 2026 — Commission rate: Unbounce offers a customer lifetime recurring commission of 20 perc...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: thrivecart.com  
    Title: Conversion rates of 0.5% to 1% are considered average.Read more  
-   Link: [https://thrivecart.com/blog/affiliate-marketers-everything-you-need-to-know-about-conversion-rates/?srsltid=AfmBOopUR6M3qHN161nNXYRtrJ260Qt6w6yJB0x3787UzaKVPjih_Uat](https://thrivecart.com/blog/affiliate-marketers-everything-you-need-to-know-about-conversion-rates/?srsltid=AfmBOopUR6M3qHN161nNXYRtrJ260Qt6w6yJB0x3787UzaKVPjih_Uat)  
+   Link: <a href="https://thrivecart.com/blog/affiliate-marketers-everything-you-need-to-know-about-conversion-rates/?srsltid=AfmBOopUR6M3qHN161nNXYRtrJ260Qt6w6yJB0x3787UzaKVPjih_Uat" target="_blank" rel="noopener noreferrer nofollow">https://thrivecart.com/blog/affiliate-marketers-everything-you-need-to-know-about-conversion-rates/?srsltid=AfmBOopUR6M3qHN161nNXYRtrJ260Qt6w6yJB0x3787UzaKVPjih_Uat</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Compute Affiliate Marketing Conversion Rate31 Mar 2026 — As a general guideline, conversion rates for affiliate marketing may seem...</p></details>
 
 ### Additional References
 
 13. <a id="endnote-13"></a>
    Source: monsterclaw.com  
-   Link: [https://monsterclaw.com/best-saas-affiliate-programs/](https://monsterclaw.com/best-saas-affiliate-programs/)  
+   Link: <a href="https://monsterclaw.com/best-saas-affiliate-programs/" target="_blank" rel="noopener noreferrer nofollow">https://monsterclaw.com/best-saas-affiliate-programs/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>MonsterClaw LLCBest SaaS Affiliate Programs 2026: High Recurring...13 May 2026 — What is a good commission rate for a SaaS affiliate pro...</p></details>
    Published: May 2026  
 
 14. <a id="endnote-14"></a>
    Source: sqmagazine.co.uk  
-   Link: [https://sqmagazine.co.uk/affiliate-marketing-statistics/](https://sqmagazine.co.uk/affiliate-marketing-statistics/)  
+   Link: <a href="https://sqmagazine.co.uk/affiliate-marketing-statistics/" target="_blank" rel="noopener noreferrer nofollow">https://sqmagazine.co.uk/affiliate-marketing-statistics/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Affiliate Marketing Statistics 2026: Biggest Niches...Affiliate marketing represents 16% of total global eCommerce revenue in 2025...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: fyresite.com  
    Title: ecommerce conversion rate by industry benchmarks  
-   Link: [https://www.fyresite.com/ecommerce-conversion-rate-by-industry-benchmarks/](https://www.fyresite.com/ecommerce-conversion-rate-by-industry-benchmarks/)  
+   Link: <a href="https://www.fyresite.com/ecommerce-conversion-rate-by-industry-benchmarks/" target="_blank" rel="noopener noreferrer nofollow">https://www.fyresite.com/ecommerce-conversion-rate-by-industry-benchmarks/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ecommerce Conversion Rate by Industry: 2026 Benchmarks30 Jan 2026 — See average ecommerce conversion rates by industry, realistic targets...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: help.getreditus.com  
    Title: saas checklist launching an affiliate program  
-   Link: [https://help.getreditus.com/saas-checklist-launching-an-affiliate-program](https://help.getreditus.com/saas-checklist-launching-an-affiliate-program)  
+   Link: <a href="https://help.getreditus.com/saas-checklist-launching-an-affiliate-program" target="_blank" rel="noopener noreferrer nofollow">https://help.getreditus.com/saas-checklist-launching-an-affiliate-program</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Affiliate Program Checklist: Your Step-by-Step Guide to...You should launch your SaaS affiliate program once you have solid product-mark...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/SaaS/comments/1p70quo/what_is_the_standard_affiliate_recurring_revenue/](https://www.reddit.com/r/SaaS/comments/1p70quo/what_is_the_standard_affiliate_recurring_revenue/)  
+   Link: <a href="https://www.reddit.com/r/SaaS/comments/1p70quo/what_is_the_standard_affiliate_recurring_revenue/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/SaaS/comments/1p70quo/what_is_the_standard_affiliate_recurring_revenue/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Reddit, I found nearly no affiliate works for just 30% recurring...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: supademo.com  
-   Link: [https://supademo.com/blog/saas-affiliate-programs](https://supademo.com/blog/saas-affiliate-programs)  
+   Link: <a href="https://supademo.com/blog/saas-affiliate-programs" target="_blank" rel="noopener noreferrer nofollow">https://supademo.com/blog/saas-affiliate-programs</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>27 Best SaaS Affiliate Programs in 2026 (High Recurring...3 Mar 2026 — Affiliate program details: Commission: 30% recurring revenue for...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/pulse/how-affiliate-marketing-e-commerce-drives-scalable-revenue-xmcif](https://www.linkedin.com/pulse/how-affiliate-marketing-e-commerce-drives-scalable-revenue-xmcif)  
+   Link: <a href="https://www.linkedin.com/pulse/how-affiliate-marketing-e-commerce-drives-scalable-revenue-xmcif" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/how-affiliate-marketing-e-commerce-drives-scalable-revenue-xmcif</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ing to expand their reach, boost sales, and scale revenue...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: optimonk.com  
    Title: affiliate marketing conversion rate  
-   Link: [https://www.optimonk.com/affiliate-marketing-conversion-rate](https://www.optimonk.com/affiliate-marketing-conversion-rate)  
+   Link: <a href="https://www.optimonk.com/affiliate-marketing-conversion-rate" target="_blank" rel="noopener noreferrer nofollow">https://www.optimonk.com/affiliate-marketing-conversion-rate</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Benchmarks &amp; Best...19 Feb 2026 — If you can achieve an average conversion rate of 1% to 5%, that&#x27;s generally considered “good.” However...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: valcaresystems.com  
-   Link: [https://valcaresystems.com/blog/recurring-commissions-explained-why-saas-affiliate-programs-are-the-most-profitable/](https://valcaresystems.com/blog/recurring-commissions-explained-why-saas-affiliate-programs-are-the-most-profitable/)  
+   Link: <a href="https://valcaresystems.com/blog/recurring-commissions-explained-why-saas-affiliate-programs-are-the-most-profitable/" target="_blank" rel="noopener noreferrer nofollow">https://valcaresystems.com/blog/recurring-commissions-explained-why-saas-affiliate-programs-are-the-most-profitable/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Valcare Systems -Recurring Commissions Explained: Why SaaS Affiliate...12 Mar 2026 — Recurring commissions are the closest thing affilia...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: postaffiliatepro.com  
    Title: saas affiliate commission rates  
-   Link: [https://www.postaffiliatepro.com/blog/saas-affiliate-commission-rates/](https://www.postaffiliatepro.com/blog/saas-affiliate-commission-rates/)  
+   Link: <a href="https://www.postaffiliatepro.com/blog/saas-affiliate-commission-rates/" target="_blank" rel="noopener noreferrer nofollow">https://www.postaffiliatepro.com/blog/saas-affiliate-commission-rates/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>SaaS Affiliate Marketing Commission Rates and Structures28 Dec 2025 — The SaaS affiliate commission landscape typically ranges from 5% to...</p></details>

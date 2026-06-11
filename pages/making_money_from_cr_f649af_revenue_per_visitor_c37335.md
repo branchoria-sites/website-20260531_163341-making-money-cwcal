@@ -34,7 +34,7 @@ sidebar_expanded_urls:
 - /making-money-from-creating-websites/
 nav_short_title: Revenue Model
 title: Why Equal Traffic Does Not Mean Equal Earnings
-title_full: Why Equal Traffic Does Not Mean Equal Earnings | Affiliate Engines
+title_full: Why Equal Traffic Does Not Mean Equal Earnings
 display_title_short: Revenue Model
 display_title: Revenue Model
 heading_title: Why Equal Traffic Does Not Mean Equal Earnings
@@ -318,13 +318,12 @@ image: /assets/images/making_money_from_cr_f649af_revenue_per_visitor_c37335-ove
 
 Revenue per visitor is a decision model for affiliate websites because it explains why equal traffic does not produce equal earnings. A page earns only when the visitor’s intent, the page’s click-through behaviour, the merchant’s conversion ability, and the commission value work together. In simple terms, a page with 1,000 visitors can outperform a page with 10,000 visitors if its readers are closer to buying, its affiliate links are better placed, its merchants convert reliably, and its payout per sale is higher.
 
-
 <img src="{{ "/assets/images/making_money_from_cr_f649af_revenue_per_visitor_c37335-overview.webp" | relative_url }}" alt="Overview image for Revenue Model" loading="eager" decoding="sync" fetchpriority="high">
-For websites built around affiliate links, this model is more useful than traffic volume alone. Affiliate networks track clicks, conversions, basket values and commission outcomes, which means the publisher can judge pages by commercial performance rather than page views alone. Awin describes affiliate tracking as a way to see which online activity generates visitors, conversions and clicks, while Amazon Associates pays commission only on qualifying purchases made after users follow tracked links from an Associate’s site. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.awin.com/gb/affiliate-marketing/everything-you-need-to-know-about-affiliate-tracking" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: awin.com">[Awin]</a><span class="citation-popover" role="note"><span class="citation-popover-source">awin.com</span><span class="citation-popover-title">What is affiliate link tracking and how to use it?</span><span class="citation-popover-snippet">AwinWhat is affiliate link tracking and how to use it?June 4, 2020 — 22 Nov 2022 — Why is affiliate tracking important? Find out how to t...</span><span class="citation-popover-meta">Published: June 4, 2020</span></span></span>
+For websites built around affiliate links, this model is more useful than traffic volume alone. Affiliate networks track clicks, conversions, basket values and commission outcomes, which means the publisher can judge pages by commercial performance rather than page views alone. Awin describes affiliate tracking as a way to see which online activity generates visitors, conversions and clicks, while Amazon Associates pays commission only on qualifying purchases made after users follow tracked links from an Associate’s site. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.awin.com/gb/affiliate-marketing/everything-you-need-to-know-about-affiliate-tracking" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: awin.com">[Awin]</a><span class="citation-popover" role="note"><span class="citation-popover-source">awin.com</span><span class="citation-popover-title">What is affiliate link tracking and how to use it?</span><span class="citation-popover-snippet">What is affiliate link tracking and how to use it?June 4, 2020 — 22 Nov 2022 — Why is affiliate tracking important? Find out how to t...</span><span class="citation-popover-meta">Published: June 4, 2020</span></span></span>
 
 The practical model is:
 
-**Revenue per visitor = affiliate click-through rate × [merchant conversion]({{ 'merchant-risk/' | relative_url }}) rate × commission per conversion**
+**Revenue per visitor = affiliate click-through rate × merchant conversion rate × commission per conversion**
 
 That simple chain turns affiliate publishing into a prioritisation system. It helps decide which topics deserve more pages, which page types should be standardised, which offers should be tested, and where a website-generation system should send internal links.
 
@@ -333,7 +332,6 @@ That simple chain turns affiliate publishing into a prioritisation system. It he
 Revenue per visitor starts before the affiliate link appears. It starts with the reason the person arrived. A visitor searching for “best trail running shoes for muddy paths” is usually more commercially useful than a visitor searching for “history of running shoes”, even if the second page attracts more traffic. The first reader is comparing options; the second may simply be learning. This is why keyword intent cannot be separated from monetisation.
 
 A useful affiliate page therefore has four linked parts:
-
 
 <div class="content-enhancement content-enhancement--decision" markdown="1">
 
@@ -349,7 +347,6 @@ Affiliate platforms make this chain measurable. Awin says advertisers can record
 This matters because a page can be strong at one part of the chain and weak at another. A well-written guide may attract engaged readers but generate few clicks because the buying moment is hidden. A product roundup may get clicks but send users to a merchant with weak product pages, poor stock or unattractive prices. A high-commission programme may still produce low revenue per visitor if the merchant converts poorly.
 
 The key is to avoid treating “traffic”, “clicks” and “sales” as separate reports. They are connected stages in one commercial path. A page’s job is not merely to receive a visitor. It must move the right visitor towards a tracked action.
-
 
 <img src="{{ "/assets/images/making_money_from_cr_f649af_revenue_per_visitor_c37335-Illustration-1-dark.svg" | relative_url }}" alt="Revenue Model illustration 1" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_revenue_per_visitor_c37335-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_revenue_per_visitor_c37335-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why equal traffic does not mean equal earnings
@@ -378,7 +375,6 @@ Baymard has warned against comparing conversion rates without accounting for tra
 
 For affiliate sites, this means topic selection should score the buying situation, not just the keyword volume. Queries containing words such as “best”, “review”, “alternatives”, “vs”, “for”, “discount”, “cheap”, “near me”, “compatible with” or “replacement” often indicate a decision point. A page generation system should treat those as different commercial classes from “what is”, “history of”, “meaning of” or “how does”.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bpPY5wGy5mQ" title="Earnings Per Click? Pay Attention to This Metric!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bpPY5wGy5mQ" target="_blank" rel="noopener noreferrer">Earnings Per Click? Pay Attention to This Metric!</a></p><p class="youtube-embed-meta">Channel: ClickBank &middot; Views: 10.0K &middot; Uploaded: December 2020 &middot; Length: 4 minutes 50 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bpPY5wGy5mQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bpPY5wGy5mQ">Open on YouTube</a></p></div></div></div>
 
 ### The page answers the question but fails to create a commercial next step
@@ -391,7 +387,7 @@ Nielsen Norman Group’s ecommerce product-page guidance emphasises that online 
 
 ### The merchant receives clicks but loses the sale
 
-Affiliate publishers do not control the [merchant checkout]({{ 'checkout-friction/' | relative_url }}), product stock, delivery promise or [trust signals]({{ 'trust-signals/' | relative_url }}). Yet those factors still affect publisher earnings because the commission depends on the merchant converting the referred visitor.
+Affiliate publishers do not control the merchant checkout, product stock, delivery promise or [trust signals]({{ 'trust-signals/' | relative_url }}). Yet those factors still affect publisher earnings because the commission depends on the merchant converting the referred visitor.
 
 This is why offer selection should not be based only on commission percentage. A merchant paying 12% can be worse than one paying 4% if the higher-paying merchant has poor availability, weak product pages, confusing delivery information or a checkout flow that users abandon. Baymard’s product-page UX benchmark found that only 49% of ecommerce sites had “decent” or “good” product-page UX, with 51% rated mediocre or worse, so merchant-side friction is a real variable rather than a theoretical detail. <span class="citation-chip-wrap"><a class="citation-chip" href="https://baymard.com/blog/comparing-conversion-rates-is-nonsense" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: baymard.com">[Baymard Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">baymard.com</span><span class="citation-popover-title">Institute Comparing Conversion Rates is Nonsense</span><span class="citation-popover-snippet">Institute Comparing Conversion Rates is Nonsense</span></span></span>
 
@@ -411,14 +407,13 @@ A revenue per visitor model helps decide what to build next. It prevents a websi
 
 A practical prioritisation approach is to classify pages into four groups:
 
-Page groupWhat the data suggestsBest next decisionHigh traffic, low revenue per visitorIntent mismatch, weak link placement, poor offer fit or low commissionDiagnose the weakest stage before producing more similar pagesLow traffic, high revenue per visitorStrong [commercial intent]({{ 'intent-topics/' | relative_url }}) or strong offer fitExpand into adjacent keywords and internal linksHigh traffic, high revenue per visitorScalable winning patternStandardise the page template and replicate carefullyLow traffic, low revenue per visitorWeak demand and weak monetisationDeprioritise unless it supports topical authority or [internal linking]({{ 'user-journeys/' | relative_url }})
+Page groupWhat the data suggestsBest next decisionHigh traffic, low revenue per visitorIntent mismatch, weak link placement, poor [offer fit]({{ 'offer-fit/' | relative_url }}) or low commissionDiagnose the weakest stage before producing more similar pagesLow traffic, high revenue per visitorStrong commercial intent or strong offer fitExpand into adjacent keywords and internal linksHigh traffic, high revenue per visitorScalable winning patternStandardise the page template and replicate carefullyLow traffic, low revenue per visitorWeak demand and weak monetisationDeprioritise unless it supports topical authority or internal linking
 
 This is where revenue per visitor becomes more than an analytics metric. It becomes a page-production rule. If “best X for Y” pages in one cluster repeatedly produce higher revenue per visitor than broad “how to” explainers, the system should create more specific comparison and buying-guide pages. If review pages get clicks but low merchant conversion, the system should test different merchants or place stronger pre-click qualification on the page.
 
 The model also helps avoid a common affiliate mistake: chasing the highest commission first. A high payout is only one part of the equation. A niche software offer may pay far more per conversion than a low-cost physical product, but if the traffic is early-stage and the merchant requires a long sign-up journey, the page may not produce the expected revenue per visitor. Conversely, a lower-commission retailer with strong brand trust and fast checkout may outperform a generous but unfamiliar merchant.
 
 Awin’s pricing examples show how affiliate payouts can be set as a percentage of transaction value, while Amazon’s policies show how rates vary by product category. These programme economics should be combined with page-level behaviour, not read in isolation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.awin.com/gb/publishers/tools" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: awin.com">[Awin]</a><span class="citation-popover" role="note"><span class="citation-popover-source">awin.com</span><span class="citation-popover-snippet">Open source on awin.com.</span></span></span>
-
 
 <img src="{{ "/assets/images/making_money_from_cr_f649af_revenue_per_visitor_c37335-Illustration-2-dark.svg" | relative_url }}" alt="Revenue Model illustration 2" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_revenue_per_visitor_c37335-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_revenue_per_visitor_c37335-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The page type should match the commercial moment
@@ -437,7 +432,6 @@ A **definition or background page** usually has lower direct revenue per visitor
 
 Nielsen Norman Group notes that ecommerce pages should help users compare products and start the purchase process; Baymard’s research similarly shows that product-page UX problems can cause users to abandon otherwise suitable products. For affiliate publishers, the lesson is that page templates should reduce decision friction before the visitor leaves the site. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nngroup.com/articles/ecommerce-product-pages/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nngroup.com">[Nielsen Norman Group]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nngroup.com</span><span class="citation-popover-title">Nielsen Norman Group UX Guidelines for Ecommerce Product Pages</span><span class="citation-popover-snippet">Nielsen Norman Group UX Guidelines for Ecommerce Product Pages</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/pufJdX8XVSE" title="312% + Your Affiliate Marketing Income Using EPC formula" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=pufJdX8XVSE" target="_blank" rel="noopener noreferrer">312% + Your Affiliate Marketing Income Using EPC formula</a></p><p class="youtube-embed-meta">Channel: Harsh Agrawal - AI &amp; Digital Transformation &middot; Views: 2.3K &middot; Uploaded: February 2023 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=pufJdX8XVSE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=pufJdX8XVSE">Open on YouTube</a></p></div></div></div>
 
 ## Offer matching is not the same as adding more links
@@ -446,8 +440,7 @@ More affiliate links do not automatically raise revenue per visitor. They can re
 
 A visitor reading “best cordless vacuum for pet hair” does not simply need any vacuum link. They need offers that match pet hair performance, floor type, battery life, filtration, weight, replacement parts and price sensitivity. A visitor reading “Dyson V15 vs Shark Stratos” needs a different path: direct comparison, best current merchant options, warranty differences and reasons to choose one over the other.
 
-[Offer matching]({{ 'offer-fit/' | relative_url }}) should consider:
-
+Offer matching should consider:
 
 <div class="content-enhancement content-enhancement--decision" markdown="1">
 
@@ -459,10 +452,9 @@ A visitor reading “best cordless vacuum for pet hair” does not simply need a
 
 </div>
 
-The compliance point is not separate from revenue. In the UK, the Advertising Standards Authority says affiliate content may need additional disclosure so that it is obviously identifiable as a marketing communication, especially where the wider context looks editorial. The UK government’s guidance for creators similarly says commercial content must be correctly labelled and clearly identifiable, and that affiliate links alone are not enough. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.asa.org.uk/advice-online/affiliate-marketing.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asa.org.uk">[Asa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asa.org.uk</span><span class="citation-popover-title">affiliate marketing</span><span class="citation-popover-snippet">affiliate marketing</span></span></span>
+The compliance point is not separate from revenue. In the UK, the Advertising Standards Authority says affiliate content may need additional [disclosure]({{ 'disclosure/' | relative_url }}) so that it is obviously identifiable as a marketing communication, especially where the wider context looks editorial. The UK government’s guidance for creators similarly says commercial content must be correctly labelled and clearly identifiable, and that affiliate links alone are not enough. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.asa.org.uk/advice-online/affiliate-marketing.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asa.org.uk">[Asa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asa.org.uk</span><span class="citation-popover-title">affiliate marketing</span><span class="citation-popover-snippet">affiliate marketing</span></span></span>
 
 For a scalable website system, disclosure should be standardised rather than improvised page by page. Clear disclosure protects trust and prevents the commercial model from being hidden in a way that undermines the reader’s ability to judge recommendations.
-
 
 <img src="{{ "/assets/images/making_money_from_cr_f649af_revenue_per_visitor_c37335-Illustration-3-dark.svg" | relative_url }}" alt="Revenue Model illustration 3" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_revenue_per_visitor_c37335-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_revenue_per_visitor_c37335-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Evidence beats assumptions when deciding what to scale
@@ -471,22 +463,16 @@ Revenue per visitor is valuable because it replaces attractive guesses with evid
 
 The most useful evidence is not one metric in isolation. It is the pattern across the chain:
 
-
-<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
-
 * **Search impressions and visits** show whether the topic can attract readers.
 * **Affiliate click-through rate** shows whether the page creates a commercial next step.
 * **EPC or revenue per affiliate click** shows how valuable the referred clicks are.
 * **Revenue per visitor** combines page behaviour and merchant performance.
 * **Refunds, reversals and excluded transactions** show whether gross earnings are reliable.
-* **Internal-link paths** show which supporting pages feed commercial pages.
-
-</div>
+* **Internal-[link paths]({{ 'link-paths/' | relative_url }})** show which supporting pages feed commercial pages.
 
 Affiliate attribution also complicates the picture. Rakuten Advertising explains that different programmes may use last-click, first-click or multi-touch attribution models to decide which partner receives credit for a conversion. Awin’s publisher tools also refer to “influence contribution”, where a publisher had a touchpoint in a sale but did not secure the last click. <span class="citation-chip-wrap"><a class="citation-chip" href="https://blog.rakutenadvertising.com/marketing-strategies/how-affiliate-tracking-works-the-complete-guide-for-brands-publishers/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.rakutenadvertising.com">[Rakuten Advertising Blog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.rakutenadvertising.com</span><span class="citation-popover-title">Rakuten Advertising Blog How Affiliate Tracking Works</span><span class="citation-popover-snippet">Rakuten Advertising Blog How Affiliate Tracking Works</span></span></span>
 
 That means a page may be commercially useful even if it is not always the final converting page. A buying guide may introduce a reader to a category, while a later coupon, brand search or retargeting touchpoint captures the last click. For internal decision-making, the site should still distinguish direct revenue pages from assist pages. Both can be useful, but they should not be judged by the same narrow metric.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/I-O2_L-xD1U" title="EPC Explained: The Secret to God-Tier Affiliate Commissions" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=I-O2_L-xD1U" target="_blank" rel="noopener noreferrer">EPC Explained: The Secret to God-Tier Affiliate Commissions</a></p><p class="youtube-embed-meta">Channel: Deadbeat Super Affiliate &middot; Views: 483 &middot; Uploaded: October 2024 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=I-O2_L-xD1U" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=I-O2_L-xD1U">Open on YouTube</a></p></div></div></div>
 
@@ -515,7 +501,7 @@ A page that works for “best X for small flats” may scale into other product 
 
 Links, page types and offers should be tagged well enough to compare patterns later.
 
-After data arrives, the decision changes from “Should we publish this?” to “Should we expand this pattern?” A high-revenue-per-visitor page may justify more internal links, more adjacent [comparisons]({{ 'comparisons/' | relative_url }}), fresher product coverage, richer tables, or additional merchant tests. A low-revenue-per-visitor page may need a different offer, a clearer buying path, or demotion in the content plan.
+After data arrives, the decision changes from “Should we publish this?” to “Should we expand this pattern?” A high-revenue-per-visitor page may justify more internal links, more adjacent [comparisons]({{ 'comparisons/' | relative_url }}), fresher product coverage, richer [tables]({{ 'tables/' | relative_url }}), or additional merchant tests. A low-revenue-per-visitor page may need a different offer, a clearer buying path, or demotion in the content plan.
 
 The central discipline is to avoid scaling traffic for its own sake. A website-generation system should scale patterns that repeatedly turn the right visits into tracked commercial outcomes.
 
@@ -523,7 +509,7 @@ The central discipline is to avoid scaling traffic for its own sake. A website-g
 
 Revenue per visitor can sound purely mechanical, but it has an editorial consequence: the page must be genuinely useful at the moment where money could be made. If the content does not help the reader decide, the click is weak. If the recommendation does not fit the intent, the merchant may not convert. If the commercial relationship is hidden, trust and compliance suffer.
 
-Research into affiliate disclosures on YouTube and Pinterest found that only around one-tenth of affiliate marketing content contained any disclosure, and that users often failed to understand short, non-explanatory disclosures. That study was about social platforms rather than affiliate websites, but it underlines a broader point: monetised recommendations work best when users can recognise the commercial relationship and still find the advice useful. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1809.00620" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Research into affiliate [disclosures]({{ 'disclosures/' | relative_url }}) on YouTube and Pinterest found that only around one-tenth of affiliate marketing content contained any disclosure, and that users often failed to understand short, non-explanatory disclosures. That study was about social platforms rather than affiliate websites, but it underlines a broader point: monetised recommendations work best when users can recognise the commercial relationship and still find the advice useful. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1809.00620" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 For public-facing affiliate websites, the durable approach is not to maximise clicks at any cost. It is to maximise qualified clicks: clicks from readers who understand the recommendation, know there may be a commission, and are being sent to a merchant that fits their decision. Those are the clicks most likely to convert, produce commission, and justify building more pages in the same pattern.
 
@@ -951,231 +937,231 @@ Revenue per visitor is therefore a practical decision model for affiliate publis
 1. <a id="endnote-1"></a>
    Source: awin.com  
    Title: What is affiliate link tracking and how to use it?  
-   Link: [https://www.awin.com/gb/affiliate-marketing/everything-you-need-to-know-about-affiliate-tracking](https://www.awin.com/gb/affiliate-marketing/everything-you-need-to-know-about-affiliate-tracking)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AwinWhat is affiliate link tracking and how to use it?June 4, 2020 — 22 Nov 2022 — Why is affiliate tracking important? Find out how to t...</p></details>
+   Link: <a href="https://www.awin.com/gb/affiliate-marketing/everything-you-need-to-know-about-affiliate-tracking" target="_blank" rel="noopener noreferrer nofollow">https://www.awin.com/gb/affiliate-marketing/everything-you-need-to-know-about-affiliate-tracking</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>What is affiliate link tracking and how to use it?June 4, 2020 — 22 Nov 2022 — Why is affiliate tracking important? Find out how to t...</p></details>
    Published: June 4, 2020  
 
 2. <a id="endnote-2"></a>
    Source: awin.com  
-   Link: [https://www.awin.com/gb/advertisers/tools](https://www.awin.com/gb/advertisers/tools)  
+   Link: <a href="https://www.awin.com/gb/advertisers/tools" target="_blank" rel="noopener noreferrer nofollow">https://www.awin.com/gb/advertisers/tools</a>  
 
 3. <a id="endnote-3"></a>
    Source: awin.com  
-   Link: [https://www.awin.com/gb/publishers/tools](https://www.awin.com/gb/publishers/tools)  
+   Link: <a href="https://www.awin.com/gb/publishers/tools" target="_blank" rel="noopener noreferrer nofollow">https://www.awin.com/gb/publishers/tools</a>  
 
 4. <a id="endnote-4"></a>
    Source: partnerstack.com  
-   Link: [https://partnerstack.com/glossary/earnings-per-click-epc](https://partnerstack.com/glossary/earnings-per-click-epc)  
+   Link: <a href="https://partnerstack.com/glossary/earnings-per-click-epc" target="_blank" rel="noopener noreferrer nofollow">https://partnerstack.com/glossary/earnings-per-click-epc</a>  
 
 5. <a id="endnote-5"></a>
    Source: baymard.com  
    Title: Institute Comparing Conversion Rates is Nonsense  
-   Link: [https://baymard.com/blog/comparing-conversion-rates-is-nonsense](https://baymard.com/blog/comparing-conversion-rates-is-nonsense)  
+   Link: <a href="https://baymard.com/blog/comparing-conversion-rates-is-nonsense" target="_blank" rel="noopener noreferrer nofollow">https://baymard.com/blog/comparing-conversion-rates-is-nonsense</a>  
 
 6. <a id="endnote-6"></a>
    Source: baymard.com  
-   Link: [https://baymard.com/research/product-page](https://baymard.com/research/product-page)  
+   Link: <a href="https://baymard.com/research/product-page" target="_blank" rel="noopener noreferrer nofollow">https://baymard.com/research/product-page</a>  
 
 7. <a id="endnote-7"></a>
    Source: awin.com  
-   Link: [https://www.awin.com/gb/pricing/advertisers](https://www.awin.com/gb/pricing/advertisers)  
+   Link: <a href="https://www.awin.com/gb/pricing/advertisers" target="_blank" rel="noopener noreferrer nofollow">https://www.awin.com/gb/pricing/advertisers</a>  
 
 8. <a id="endnote-8"></a>
    Source: baymard.com  
    Title: current state ecommerce product page ux  
-   Link: [https://baymard.com/blog/current-state-ecommerce-product-page-ux](https://baymard.com/blog/current-state-ecommerce-product-page-ux)  
+   Link: <a href="https://baymard.com/blog/current-state-ecommerce-product-page-ux" target="_blank" rel="noopener noreferrer nofollow">https://baymard.com/blog/current-state-ecommerce-product-page-ux</a>  
 
 9. <a id="endnote-9"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/1809.00620](https://arxiv.org/abs/1809.00620)  
+   Link: <a href="https://arxiv.org/abs/1809.00620" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1809.00620</a>  
 
 10. <a id="endnote-10"></a>
    Source: baymard.com  
-   Link: [https://baymard.com/](https://baymard.com/)  
+   Link: <a href="https://baymard.com/" target="_blank" rel="noopener noreferrer nofollow">https://baymard.com/</a>  
 
 11. <a id="endnote-11"></a>
    Source: baymard.com  
-   Link: [https://baymard.com/research/checkout-usability](https://baymard.com/research/checkout-usability)  
+   Link: <a href="https://baymard.com/research/checkout-usability" target="_blank" rel="noopener noreferrer nofollow">https://baymard.com/research/checkout-usability</a>  
 
 12. <a id="endnote-12"></a>
    Source: baymard.com  
-   Link: [https://baymard.com/research/mcommerce-usability](https://baymard.com/research/mcommerce-usability)  
+   Link: <a href="https://baymard.com/research/mcommerce-usability" target="_blank" rel="noopener noreferrer nofollow">https://baymard.com/research/mcommerce-usability</a>  
 
 13. <a id="endnote-13"></a>
    Source: baymard.com  
-   Link: [https://baymard.com/resources](https://baymard.com/resources)  
+   Link: <a href="https://baymard.com/resources" target="_blank" rel="noopener noreferrer nofollow">https://baymard.com/resources</a>  
 
 14. <a id="endnote-14"></a>
    Source: baymard.com  
-   Link: [https://baymard.com/ux-benchmark](https://baymard.com/ux-benchmark)  
+   Link: <a href="https://baymard.com/ux-benchmark" target="_blank" rel="noopener noreferrer nofollow">https://baymard.com/ux-benchmark</a>  
 
 15. <a id="endnote-15"></a>
    Source: affiliate-program.amazon.com  
-   Link: [https://affiliate-program.amazon.com/help/node/topic/GRXPHT8U84RAYDXZ](https://affiliate-program.amazon.com/help/node/topic/GRXPHT8U84RAYDXZ)  
+   Link: <a href="https://affiliate-program.amazon.com/help/node/topic/GRXPHT8U84RAYDXZ" target="_blank" rel="noopener noreferrer nofollow">https://affiliate-program.amazon.com/help/node/topic/GRXPHT8U84RAYDXZ</a>  
 
 16. <a id="endnote-16"></a>
    Source: awin.com  
    Title: how to use affiliate marketing to drive low cost conversions for your brand  
-   Link: [https://www.awin.com/us/how-to-use-awin/how-to-use-affiliate-marketing-to-drive-low-cost-conversions-for-your-brand](https://www.awin.com/us/how-to-use-awin/how-to-use-affiliate-marketing-to-drive-low-cost-conversions-for-your-brand)  
+   Link: <a href="https://www.awin.com/us/how-to-use-awin/how-to-use-affiliate-marketing-to-drive-low-cost-conversions-for-your-brand" target="_blank" rel="noopener noreferrer nofollow">https://www.awin.com/us/how-to-use-awin/how-to-use-affiliate-marketing-to-drive-low-cost-conversions-for-your-brand</a>  
 
 17. <a id="endnote-17"></a>
    Source: success.awin.com  
    Title: how are transactions tracked and correctly allocated to publishers  
-   Link: [https://success.awin.com/s/article/how-are-transactions-tracked-and-correctly-allocated-to-publishers](https://success.awin.com/s/article/how-are-transactions-tracked-and-correctly-allocated-to-publishers)  
+   Link: <a href="https://success.awin.com/s/article/how-are-transactions-tracked-and-correctly-allocated-to-publishers" target="_blank" rel="noopener noreferrer nofollow">https://success.awin.com/s/article/how-are-transactions-tracked-and-correctly-allocated-to-publishers</a>  
 
 18. <a id="endnote-18"></a>
    Source: awin.com  
-   Link: [https://www.awin.com/](https://www.awin.com/)  
+   Link: <a href="https://www.awin.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.awin.com/</a>  
 
 19. <a id="endnote-19"></a>
    Source: success.awin.com  
    Title: How can I see the sales commissions I am earning  
-   Link: [https://success.awin.com/s/article/How-can-I-see-the-sales-commissions-I-am-earning](https://success.awin.com/s/article/How-can-I-see-the-sales-commissions-I-am-earning)  
+   Link: <a href="https://success.awin.com/s/article/How-can-I-see-the-sales-commissions-I-am-earning" target="_blank" rel="noopener noreferrer nofollow">https://success.awin.com/s/article/How-can-I-see-the-sales-commissions-I-am-earning</a>  
 
 20. <a id="endnote-20"></a>
    Source: help.awin.com  
    Title: understanding affiliate tracking  
-   Link: [https://help.awin.com/docs/understanding-affiliate-tracking](https://help.awin.com/docs/understanding-affiliate-tracking)  
+   Link: <a href="https://help.awin.com/docs/understanding-affiliate-tracking" target="_blank" rel="noopener noreferrer nofollow">https://help.awin.com/docs/understanding-affiliate-tracking</a>  
 
 21. <a id="endnote-21"></a>
    Source: success.awin.com  
    Title: How can I ensure my affiliate sales are tracked correctly  
-   Link: [https://success.awin.com/s/article/How-can-I-ensure-my-affiliate-sales-are-tracked-correctly](https://success.awin.com/s/article/How-can-I-ensure-my-affiliate-sales-are-tracked-correctly)  
+   Link: <a href="https://success.awin.com/s/article/How-can-I-ensure-my-affiliate-sales-are-tracked-correctly" target="_blank" rel="noopener noreferrer nofollow">https://success.awin.com/s/article/How-can-I-ensure-my-affiliate-sales-are-tracked-correctly</a>  
 
 22. <a id="endnote-22"></a>
    Source: awin.com  
-   Link: [https://www.awin.com/gb/publishers/content-creator-influencer](https://www.awin.com/gb/publishers/content-creator-influencer)  
+   Link: <a href="https://www.awin.com/gb/publishers/content-creator-influencer" target="_blank" rel="noopener noreferrer nofollow">https://www.awin.com/gb/publishers/content-creator-influencer</a>  
 
 23. <a id="endnote-23"></a>
    Source: awin.com  
    Title: affiliate tracking masterclass  
-   Link: [https://www.awin.com/gb/sector-insights/affiliate-tracking-masterclass](https://www.awin.com/gb/sector-insights/affiliate-tracking-masterclass)  
+   Link: <a href="https://www.awin.com/gb/sector-insights/affiliate-tracking-masterclass" target="_blank" rel="noopener noreferrer nofollow">https://www.awin.com/gb/sector-insights/affiliate-tracking-masterclass</a>  
 
 24. <a id="endnote-24"></a>
    Source: awin.com  
    Title: what the cap code means for affiliates  
-   Link: [https://www.awin.com/gb/compliance-and-regulations/what-the-cap-code-means-for-affiliates](https://www.awin.com/gb/compliance-and-regulations/what-the-cap-code-means-for-affiliates)  
+   Link: <a href="https://www.awin.com/gb/compliance-and-regulations/what-the-cap-code-means-for-affiliates" target="_blank" rel="noopener noreferrer nofollow">https://www.awin.com/gb/compliance-and-regulations/what-the-cap-code-means-for-affiliates</a>  
 
 25. <a id="endnote-25"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=I-O2_L-xD1U](https://www.youtube.com/watch?v=I-O2_L-xD1U)  
+   Link: <a href="https://www.youtube.com/watch?v=I-O2_L-xD1U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=I-O2_L-xD1U</a>  
 
 26. <a id="endnote-26"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=YjdQHuG_Fbs](https://www.youtube.com/watch?v=YjdQHuG_Fbs)  
+   Link: <a href="https://www.youtube.com/watch?v=YjdQHuG_Fbs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=YjdQHuG_Fbs</a>  
 
 27. <a id="endnote-27"></a>
    Source: youtube.com  
    Title: 312% + Your Affiliate Marketing Income Using EPC formula Affiliate e Book  
-   Link: [https://www.youtube.com/watch?v=pufJdX8XVSE](https://www.youtube.com/watch?v=pufJdX8XVSE)  
+   Link: <a href="https://www.youtube.com/watch?v=pufJdX8XVSE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=pufJdX8XVSE</a>  
 
 28. <a id="endnote-28"></a>
    Source: youtube.com  
    Title: EPC and How to Use it in the Affiliate Channel  
-   Link: [https://www.youtube.com/watch?v=1dmLqgfT4IU](https://www.youtube.com/watch?v=1dmLqgfT4IU)  
+   Link: <a href="https://www.youtube.com/watch?v=1dmLqgfT4IU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1dmLqgfT4IU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Earnings Per Click Explained - How Conversion Rates Help Your EPC...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: youtube.com  
    Title: Earnings Per Click Explained  
-   Link: [https://www.youtube.com/watch?v=tkiUM_pp7G4](https://www.youtube.com/watch?v=tkiUM_pp7G4)  
+   Link: <a href="https://www.youtube.com/watch?v=tkiUM_pp7G4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tkiUM_pp7G4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>3x Affiliate Marketing Revenue by Calculating EPC (Earning Per Click)...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: youtube.com  
    Title: 3x Affiliate Marketing Revenue by Calculating EPC (Earning Per Click)  
-   Link: [https://www.youtube.com/watch?v=sGTd0szG9YM](https://www.youtube.com/watch?v=sGTd0szG9YM)  
+   Link: <a href="https://www.youtube.com/watch?v=sGTd0szG9YM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sGTd0szG9YM</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Earnings Per Click? Pay Attention to This Metric...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: youtube.com  
    Title: Earnings Per Click? Pay Attention to This Metric!  
-   Link: [https://www.youtube.com/watch?v=bpPY5wGy5mQ](https://www.youtube.com/watch?v=bpPY5wGy5mQ)  
+   Link: <a href="https://www.youtube.com/watch?v=bpPY5wGy5mQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bpPY5wGy5mQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mastering Affiliate Marketing: Essential KPIs for Success in 2024 | Wati...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=PYrfMu72UpA](https://www.youtube.com/watch?v=PYrfMu72UpA)  
+   Link: <a href="https://www.youtube.com/watch?v=PYrfMu72UpA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PYrfMu72UpA</a>  
 
 33. <a id="endnote-33"></a>
    Source: affiliate-program.amazon.co.uk  
-   Link: [https://affiliate-program.amazon.co.uk/help/node/topic/GWJ4AHCH7U5LCL86](https://affiliate-program.amazon.co.uk/help/node/topic/GWJ4AHCH7U5LCL86)  
+   Link: <a href="https://affiliate-program.amazon.co.uk/help/node/topic/GWJ4AHCH7U5LCL86" target="_blank" rel="noopener noreferrer nofollow">https://affiliate-program.amazon.co.uk/help/node/topic/GWJ4AHCH7U5LCL86</a>  
 
 34. <a id="endnote-34"></a>
    Source: nngroup.com  
    Title: Nielsen Norman Group UX Guidelines for Ecommerce Product Pages  
-   Link: [https://www.nngroup.com/articles/ecommerce-product-pages/](https://www.nngroup.com/articles/ecommerce-product-pages/)  
+   Link: <a href="https://www.nngroup.com/articles/ecommerce-product-pages/" target="_blank" rel="noopener noreferrer nofollow">https://www.nngroup.com/articles/ecommerce-product-pages/</a>  
 
 35. <a id="endnote-35"></a>
    Source: affiliate-program.amazon.co.uk  
-   Link: [https://affiliate-program.amazon.co.uk/help/operating/policies](https://affiliate-program.amazon.co.uk/help/operating/policies)  
+   Link: <a href="https://affiliate-program.amazon.co.uk/help/operating/policies" target="_blank" rel="noopener noreferrer nofollow">https://affiliate-program.amazon.co.uk/help/operating/policies</a>  
 
 36. <a id="endnote-36"></a>
    Source: affiliate-program.amazon.co.uk  
-   Link: [https://affiliate-program.amazon.co.uk/help/node/topic/GRXPHT8U84RAYDXZ](https://affiliate-program.amazon.co.uk/help/node/topic/GRXPHT8U84RAYDXZ)  
+   Link: <a href="https://affiliate-program.amazon.co.uk/help/node/topic/GRXPHT8U84RAYDXZ" target="_blank" rel="noopener noreferrer nofollow">https://affiliate-program.amazon.co.uk/help/node/topic/GRXPHT8U84RAYDXZ</a>  
 
 37. <a id="endnote-37"></a>
    Source: asa.org.uk  
    Title: affiliate marketing  
-   Link: [https://www.asa.org.uk/advice-online/affiliate-marketing.html](https://www.asa.org.uk/advice-online/affiliate-marketing.html)  
+   Link: <a href="https://www.asa.org.uk/advice-online/affiliate-marketing.html" target="_blank" rel="noopener noreferrer nofollow">https://www.asa.org.uk/advice-online/affiliate-marketing.html</a>  
 
 38. <a id="endnote-38"></a>
    Source: blog.rakutenadvertising.com  
    Title: Rakuten Advertising Blog How Affiliate Tracking Works  
-   Link: [https://blog.rakutenadvertising.com/marketing-strategies/how-affiliate-tracking-works-the-complete-guide-for-brands-publishers/](https://blog.rakutenadvertising.com/marketing-strategies/how-affiliate-tracking-works-the-complete-guide-for-brands-publishers/)  
+   Link: <a href="https://blog.rakutenadvertising.com/marketing-strategies/how-affiliate-tracking-works-the-complete-guide-for-brands-publishers/" target="_blank" rel="noopener noreferrer nofollow">https://blog.rakutenadvertising.com/marketing-strategies/how-affiliate-tracking-works-the-complete-guide-for-brands-publishers/</a>  
 
 39. <a id="endnote-39"></a>
    Source: omr.com  
    Title: affiliate tracking  
-   Link: [https://omr.com/en/[reviews](https://omr.com/en/[reviews)  
+   Link: <a href="https://omr.com/en/[reviews" target="_blank" rel="noopener noreferrer nofollow">https://omr.com/en/[reviews</a>  
 
 40. <a id="endnote-40"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/baymard-institute_product-list-ux-best-practices-2025-baymard-activity-7371921940611231744-8YD1](https://www.linkedin.com/posts/baymard-institute_product-list-ux-best-practices-2025-baymard-activity-7371921940611231744-8YD1)  
+   Link: <a href="https://www.linkedin.com/posts/baymard-institute_product-list-ux-best-practices-2025-baymard-activity-7371921940611231744-8YD1" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/baymard-institute_product-list-ux-best-practices-2025-baymard-activity-7371921940611231744-8YD1</a>  
 
 41. <a id="endnote-41"></a>
    Source: pwskills.com  
    Title: amazon associates  
-   Link: [https://pwskills.com/blog/digital-marketing/amazon-associates](https://pwskills.com/blog/digital-marketing/amazon-associates)  
+   Link: <a href="https://pwskills.com/blog/digital-marketing/amazon-associates" target="_blank" rel="noopener noreferrer nofollow">https://pwskills.com/blog/digital-marketing/amazon-associates</a>  
 
 ### Additional References
 
 42. <a id="endnote-42"></a>
    Source: ftc.gov  
-   Link: [https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews](https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews)  
+   Link: <a href="https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews</a>  
 
 43. <a id="endnote-43"></a>
    Source: impact.com  
-   Link: [https://impact.com/affiliate/5-effective-affiliate-commission-structures/](https://impact.com/affiliate/5-effective-affiliate-commission-structures/)  
+   Link: <a href="https://impact.com/affiliate/5-effective-affiliate-commission-structures/" target="_blank" rel="noopener noreferrer nofollow">https://impact.com/affiliate/5-effective-affiliate-commission-structures/</a>  
 
 44. <a id="endnote-44"></a>
    Source: wecantrack.com  
-   Link: [https://wecantrack.com/insights/affiliate-conversion-statistics/](https://wecantrack.com/insights/affiliate-conversion-statistics/)  
+   Link: <a href="https://wecantrack.com/insights/affiliate-conversion-statistics/" target="_blank" rel="noopener noreferrer nofollow">https://wecantrack.com/insights/affiliate-conversion-statistics/</a>  
 
 45. <a id="endnote-45"></a>
    Source: theapma.co.uk  
-   Link: [https://theapma.co.uk/wp-content/uploads/2024/01/The-APMA-Tracking-Guide-2021.pdf](https://theapma.co.uk/wp-content/uploads/2024/01/The-APMA-Tracking-Guide-2021.pdf)  
+   Link: <a href="https://theapma.co.uk/wp-content/uploads/2024/01/The-APMA-Tracking-Guide-2021.pdf" target="_blank" rel="noopener noreferrer nofollow">https://theapma.co.uk/wp-content/uploads/2024/01/The-APMA-Tracking-Guide-2021.pdf</a>  
 
 46. <a id="endnote-46"></a>
    Source: trackier.com  
-   Link: [https://trackier.com/affiliate-attribution-modelstypes-and-how-it-works/](https://trackier.com/affiliate-attribution-modelstypes-and-how-it-works/)  
+   Link: <a href="https://trackier.com/affiliate-attribution-modelstypes-and-how-it-works/" target="_blank" rel="noopener noreferrer nofollow">https://trackier.com/affiliate-attribution-modelstypes-and-how-it-works/</a>  
 
 47. <a id="endnote-47"></a>
    Source: wecantrack.com  
-   Link: [https://wecantrack.com/insights/affiliate-click-through-rate-statistics/](https://wecantrack.com/insights/affiliate-click-through-rate-statistics/)  
+   Link: <a href="https://wecantrack.com/insights/affiliate-click-through-rate-statistics/" target="_blank" rel="noopener noreferrer nofollow">https://wecantrack.com/insights/affiliate-click-through-rate-statistics/</a>  
 
 48. <a id="endnote-48"></a>
    Source: affonso.io  
-   Link: [https://affonso.io/resources/affiliate-commission-calculator](https://affonso.io/resources/affiliate-commission-calculator)  
+   Link: <a href="https://affonso.io/resources/affiliate-commission-calculator" target="_blank" rel="noopener noreferrer nofollow">https://affonso.io/resources/affiliate-commission-calculator</a>  
 
 49. <a id="endnote-49"></a>
    Source: salsify.com  
-   Link: [https://www.salsify.com/glossary/affiliate-commission-rate-meaning](https://www.salsify.com/glossary/affiliate-commission-rate-meaning)  
+   Link: <a href="https://www.salsify.com/glossary/affiliate-commission-rate-meaning" target="_blank" rel="noopener noreferrer nofollow">https://www.salsify.com/glossary/affiliate-commission-rate-meaning</a>  
 
 50. <a id="endnote-50"></a>
    Source: coinis.com  
-   Link: [https://coinis.com/glossary/affiliate-network](https://coinis.com/glossary/affiliate-network)  
+   Link: <a href="https://coinis.com/glossary/affiliate-network" target="_blank" rel="noopener noreferrer nofollow">https://coinis.com/glossary/affiliate-network</a>  
 
 51. <a id="endnote-51"></a>
    Source: thebcma.info  
-   Link: [https://www.thebcma.info/onewebmedia/DOWNLOADABLE%20DOCUMENTS/BCMA%20Influencer%20Marketing%20Guidelines%20and%20Best%20Practice%20UK.pdf](https://www.thebcma.info/onewebmedia/DOWNLOADABLE%20DOCUMENTS/BCMA%20Influencer%20Marketing%20Guidelines%20and%20Best%20Practice%20UK.pdf)  
+   Link: <a href="https://www.thebcma.info/onewebmedia/DOWNLOADABLE%20DOCUMENTS/BCMA%20Influencer%20Marketing%20Guidelines%20and%20Best%20Practice%20UK.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.thebcma.info/onewebmedia/DOWNLOADABLE%20DOCUMENTS/BCMA%20Influencer%20Marketing%20Guidelines%20and%20Best%20Practice%20UK.pdf</a>

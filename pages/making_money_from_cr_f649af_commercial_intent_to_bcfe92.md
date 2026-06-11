@@ -34,7 +34,7 @@ sidebar_expanded_urls:
 - /making-money-from-creating-websites/
 nav_short_title: Intent Topics
 title: Which Affiliate Topics Are Worth Building?
-title_full: Which Affiliate Topics Are Worth Building? | Affiliate Engines
+title_full: Which Affiliate Topics Are Worth Building?
 display_title_short: Intent Topics
 display_title: Intent Topics
 heading_title: Which Affiliate Topics Are Worth Building?
@@ -318,7 +318,6 @@ image: /assets/images/making_money_from_cr_f649af_commercial_intent_to_bcfe92-ov
 
 Affiliate topics are worth building when they attract people who are already close to a commercial decision: comparing options, replacing something, checking whether a product is suitable, looking for alternatives, or preparing to buy. That is the difference between traffic that merely looks impressive and traffic that can realistically earn. A large informational page may bring visitors who are curious; a smaller “best X for Y”, “X vs Y”, “X alternatives”, or “is X worth it?” page may bring readers who are actively deciding where their money should go.
 
-
 <img src="{{ "/assets/images/making_money_from_cr_f649af_commercial_intent_to_bcfe92-overview.webp" | relative_url }}" alt="Overview image for Intent Topics" loading="eager" decoding="sync" fetchpriority="high">
 For affiliate websites, commercial intent is the bridge between search demand and revenue. The page must match a decision moment, show useful differences between options, and connect the reader to relevant merchants or programmes. Google’s own guidance acknowledges that [reviews]({{ 'reviews/' | relative_url }}) often use affiliate links, but it also stresses that good reviews should provide useful evidence, [comparisons]({{ 'comparisons/' | relative_url }}), and decision help rather than thin summaries of other people’s product listings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://developers.google.com/search/docs/specialty/ecommerce/write-high-quality-reviews" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-snippet">Google for DevelopersWrite high quality reviewsReviews often use affiliate links, so that if someone finds a review useful and follows th...</span></span></span>
 
@@ -326,10 +325,9 @@ For affiliate websites, commercial intent is the bridge between search demand an
 
 A topic earns more when the reader is nearer to action. “How does an air purifier work?” may be useful, but it usually captures early research. “Best air purifier for allergies in a small bedroom” is closer to purchase because the reader has a problem, a use case, and a product category in mind. “Dyson Purifier Cool vs Levoit Core 400S” is closer still because the reader has narrowed the field and needs help choosing.
 
-This buyer closeness is why commercial intent cannot be judged by search volume alone. A high-volume definition keyword can sit far from revenue, while a lower-volume comparison keyword can send better-qualified visitors to affiliate offers. Commercial intent keywords are commonly associated with readers researching a brand, product, or service before buying, and third-party comparison content often appears because searchers want information that feels less partial than a brand’s own sales page. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.semrush.com/blog/commercial-intent-keywords/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: semrush.com">[Semrush]</a><span class="citation-popover" role="note"><span class="citation-popover-source">semrush.com</span><span class="citation-popover-title">commercial intent keywords</span><span class="citation-popover-snippet">SemrushCommercial Intent Keywords: The Complete Guide for...3 Dec 2025 — Commercial intent keywords are search terms used to research a...</span></span></span>
+This buyer closeness is why commercial intent cannot be judged by search volume alone. A high-volume definition keyword can sit far from revenue, while a lower-volume comparison keyword can send better-qualified visitors to affiliate offers. Commercial intent keywords are commonly associated with readers researching a brand, product, or service before buying, and third-party comparison content often appears because searchers want information that feels less partial than a brand’s own sales page. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.semrush.com/blog/commercial-intent-keywords/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: semrush.com">[Semrush]</a><span class="citation-popover" role="note"><span class="citation-popover-source">semrush.com</span><span class="citation-popover-title">commercial intent keywords</span><span class="citation-popover-snippet">Commercial Intent Keywords: The Complete Guide for...3 Dec 2025 — Commercial intent keywords are search terms used to research a...</span></span></span>
 
 For a scalable affiliate site, the practical [intent ladder]({{ 'intent-ladder/' | relative_url }}) looks like this:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -347,14 +345,13 @@ The key mechanism is not simply that commercial keywords convert better. It is t
 
 A common mistake in affiliate publishing is to choose a keyword, then force it into a standard article format. Commercial intent topics work better when the page type follows the decision being made.
 
-A “best” page suits a reader who wants a shortlist. It should explain [selection criteria]({{ 'criteria/' | relative_url }}), separate use cases, and give quick routes to the right offer. A “versus” page suits a reader choosing between two or more named products. It should make the differences obvious, ideally with a comparison table that uses attributes readers genuinely care about. Nielsen Norman Group defines comparison tables as a structure where products or services appear in columns and attributes appear in rows, allowing people to compare features quickly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nngroup.com/articles/comparison-tables/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nngroup.com">[Nielsen Norman Group]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nngroup.com</span><span class="citation-popover-snippet">Nielsen Norman GroupComparison Tables for Products, Services, and FeaturesFebruary 9, 2024 — 9 Feb 2024 — A table that uses columns for p...</span><span class="citation-popover-meta">Published: February 9, 2024</span></span></span>
+A “best” page suits a reader who wants a shortlist. It should explain selection criteria, separate use cases, and give quick routes to the right offer. A “versus” page suits a reader choosing between two or more named products. It should make the differences obvious, ideally with a comparison table that uses [attributes]({{ 'attributes/' | relative_url }}) readers genuinely care about. Nielsen Norman Group defines comparison tables as a structure where products or services appear in columns and attributes appear in rows, allowing people to compare features quickly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nngroup.com/articles/comparison-tables/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nngroup.com">[Nielsen Norman Group]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nngroup.com</span><span class="citation-popover-snippet">Nielsen Norman GroupComparison Tables for Products, Services, and FeaturesFebruary 9, 2024 — 9 Feb 2024 — A table that uses columns for p...</span><span class="citation-popover-meta">Published: February 9, 2024</span></span></span>
 
 A review page suits a reader asking whether one product is good enough, safe enough, durable enough, or worth the price. Google’s guidance on high-quality reviews asks publishers to show what a product is like physically, explain how it performs, compare it with competitors, discuss benefits and drawbacks, and help readers choose among alternatives. Those are not decorative details; they are the trust material that turns a commercial page from a thin affiliate bridge into a useful decision page. <span class="citation-chip-wrap"><a class="citation-chip" href="https://developers.google.com/search/docs/specialty/ecommerce/write-high-quality-reviews" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-snippet">Google for DevelopersWrite high quality reviewsReviews often use affiliate links, so that if someone finds a review useful and follows th...</span></span></span>
 
 An alternatives page suits a reader who already knows a product but is dissatisfied with price, features, availability, complexity, reputation, or suitability. For example, “Mailchimp alternatives for small charities” can support affiliate software offers because the reader is not merely learning about email marketing; they are looking for a replacement. A “best X for Y” page can then link naturally to individual reviews, comparison pages, and related use-case pages, creating a structured commercial cluster rather than a set of isolated posts.
 
 The page type should also control the internal linking. A broad guide can send readers to “best” pages. A “best” page can send readers to reviews and “versus” pages. A review can send readers to alternatives if the product is not the right fit. The goal is to move the reader along a decision path without pretending every page has the same earning role.
-
 
 <img src="{{ "/assets/images/making_money_from_cr_f649af_commercial_intent_to_bcfe92-Illustration-1-dark.svg" | relative_url }}" alt="Intent Topics illustration 1" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_commercial_intent_to_bcfe92-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_commercial_intent_to_bcfe92-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Offer availability decides whether intent can become revenue
@@ -370,7 +367,6 @@ That does not mean low-commission topics should always be avoided. A low-rate pr
 A simple commercial check before building a topic is:
 
 QuestionWhy it mattersAre there reputable merchants or networks for the topic?Without credible offers, the page may attract buyers but fail to monetise.Does the commission justify the content cost and maintenance?Low rates need high volume, high conversion, or strong basket size.Is the offer available in the reader’s market?UK search intent needs UK-relevant prices, stock, delivery, and compliance.Does the merchant’s page convert well?A good affiliate page loses value if the merchant page is confusing or untrusted.Are returns, cancellations, or approval rules harsh?Some apparent earnings disappear through reversals or programme terms.Can the topic be refreshed efficiently?Price-led and fast-changing categories need more maintenance than evergreen comparison logic.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/K3X-AQyzMGM" title="How to Find the Best Niche for Affiliate Marketing (5 Simple Steps)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=K3X-AQyzMGM" target="_blank" rel="noopener noreferrer">How to Find the Best Niche for Affiliate Marketing (5 Simple Steps)</a></p><p class="youtube-embed-meta">Channel: Metics Media &middot; Views: 12.3K &middot; Uploaded: April 2025 &middot; Length: 16 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=K3X-AQyzMGM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=K3X-AQyzMGM">Open on YouTube</a></p></div></div></div>
 
@@ -403,8 +399,7 @@ For physical products, friction often involves fit, quality, durability, compati
 
 This is where affiliate content can add value beyond a merchant page. Merchant pages are usually built to sell one offer. Affiliate pages can compare several options against the reader’s situation. Google’s review guidance explicitly encourages content that explains advantages and disadvantages, shows how products differ from competitors, and discusses important decision factors. <span class="citation-chip-wrap"><a class="citation-chip" href="https://developers.google.com/search/docs/specialty/ecommerce/write-high-quality-reviews" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-snippet">Google for DevelopersWrite high quality reviewsReviews often use affiliate links, so that if someone finds a review useful and follows th...</span></span></span>
 
-Commercial intent topics that solve decision friction include: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.semrush.com/blog/commercial-intent-keywords/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: semrush.com">[semrush.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">semrush.com</span><span class="citation-popover-title">commercial intent keywords</span><span class="citation-popover-snippet">SemrushCommercial Intent Keywords: The Complete Guide for...3 Dec 2025 — Commercial intent keywords are search terms used to research a...</span></span></span>
-
+Commercial intent topics that solve decision friction include: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.semrush.com/blog/commercial-intent-keywords/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: semrush.com">[semrush.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">semrush.com</span><span class="citation-popover-title">commercial intent keywords</span><span class="citation-popover-snippet">Commercial Intent Keywords: The Complete Guide for...3 Dec 2025 — Commercial intent keywords are search terms used to research a...</span></span></span>
 
 <div class="content-enhancement content-enhancement--decision" markdown="1">
 
@@ -420,7 +415,6 @@ Commercial intent topics that solve decision friction include: <span class="cita
 </div>
 
 These topics can earn because they are not just content themes. They are decision points with natural affiliate placements.
-
 
 <img src="{{ "/assets/images/making_money_from_cr_f649af_commercial_intent_to_bcfe92-Illustration-2-dark.svg" | relative_url }}" alt="Intent Topics illustration 2" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_commercial_intent_to_bcfe92-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_commercial_intent_to_bcfe92-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Thin commercial pages are a long-term risk
@@ -447,7 +441,6 @@ A scalable affiliate site should therefore standardise quality, not just format.
 </div>
 
 This is especially important because search behaviour is increasingly selective. SparkToro’s 2024 zero-click study found that for every 1,000 Google searches, only a minority of resulting clicks went to the open web in the US and EU, which raises the value of visits that do arrive with clear commercial intent. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sparktoro.com/blog/2024-zero-click-search-study-for-every-1000-us-google-searches-only-374-clicks-go-to-the-open-web-in-the-eu-its-360/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sparktoro.com">[SparkToro]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sparktoro.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_xGmA7SeoqA" title="Ask a Rearcher: How do we decode the messy middle of the consumer purchase journey?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_xGmA7SeoqA" target="_blank" rel="noopener noreferrer">Ask a Rearcher: How do we decode the messy middle of the consumer purchase journey?</a></p><p class="youtube-embed-meta">Channel: Think with Google &middot; Views: 5.9K &middot; Uploaded: February 2021 &middot; Length: 3 minutes 17 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_xGmA7SeoqA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_xGmA7SeoqA">Open on YouTube</a></p></div></div></div>
 
@@ -489,11 +482,10 @@ Can the topic support a cluster? “Best CRM for estate agents” can connect to
 
 A simple score might rate each dimension from 1 to 5. Topics scoring high on intent, offers, economics, and repeatability deserve priority. Topics high in traffic but low in commercial fit can still be useful as support pages, but they should not be treated as primary earning pages.
 
-
 <img src="{{ "/assets/images/making_money_from_cr_f649af_commercial_intent_to_bcfe92-Illustration-3-dark.svg" | relative_url }}" alt="Intent Topics illustration 3" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_commercial_intent_to_bcfe92-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_commercial_intent_to_bcfe92-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Examples of topics that can earn
 
-The following examples show how commercial intent changes the earning mechanism. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.semrush.com/blog/commercial-intent-keywords/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: semrush.com">[semrush.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">semrush.com</span><span class="citation-popover-title">commercial intent keywords</span><span class="citation-popover-snippet">SemrushCommercial Intent Keywords: The Complete Guide for...3 Dec 2025 — Commercial intent keywords are search terms used to research a...</span></span></span>
+The following examples show how commercial intent changes the earning mechanism. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.semrush.com/blog/commercial-intent-keywords/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: semrush.com">[semrush.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">semrush.com</span><span class="citation-popover-title">commercial intent keywords</span><span class="citation-popover-snippet">Commercial Intent Keywords: The Complete Guide for...3 Dec 2025 — Commercial intent keywords are search terms used to research a...</span></span></span>
 
 **“Best meal delivery services for one person UK”**
 
@@ -517,8 +509,7 @@ This is risk-resolution intent. The reader is interested but hesitant. The page 
 
 Each example has a conversion path because the reader is not merely browsing information. They are deciding.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Z0RkLSgwQS4" title="How to Disclose Brand Deals and Affiliate Links on YouTube — FTC Endorsement Guidelines" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Z0RkLSgwQS4" target="_blank" rel="noopener noreferrer">How to Disclose Brand Deals and Affiliate Links on YouTube — FTC Endorsement Guidelines</a></p><p class="youtube-embed-meta">Channel: Video Influencers &middot; Views: 22.8K &middot; Uploaded: December 2016 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Z0RkLSgwQS4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Z0RkLSgwQS4">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/r3nAlpXHP58" title="Keyword Intent Explained: The 4 Search Types Every Small Business Must Know" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=r3nAlpXHP58" target="_blank" rel="noopener noreferrer">Keyword Intent Explained: The 4 Search Types Every Small Business Must Know</a></p><p class="youtube-embed-meta">Channel: SF Digital Studios &middot; Views: 51 &middot; Uploaded: January 2026 &middot; Length: 3 minutes 17 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=r3nAlpXHP58" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=r3nAlpXHP58">Open on YouTube</a></p></div></div></div>
 
 ## What to avoid when choosing commercial topics
 
@@ -957,340 +948,340 @@ This makes commercial intent topic selection both an SEO decision and a monetisa
 
 1. <a id="endnote-1"></a>
    Source: developers.google.com  
-   Link: [https://developers.google.com/search/docs/specialty/ecommerce/write-high-quality-reviews](https://developers.google.com/search/docs/specialty/ecommerce/write-high-quality-reviews)  
+   Link: <a href="https://developers.google.com/search/docs/specialty/ecommerce/write-high-quality-reviews" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/docs/specialty/ecommerce/write-high-quality-reviews</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Google for DevelopersWrite high quality reviewsReviews often use affiliate links, so that if someone finds a review useful and follows th...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: developers.google.com  
-   Link: [https://developers.google.com/search/docs/fundamentals/creating-helpful-content](https://developers.google.com/search/docs/fundamentals/creating-helpful-content)  
+   Link: <a href="https://developers.google.com/search/docs/fundamentals/creating-helpful-content" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/docs/fundamentals/creating-helpful-content</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Google for DevelopersCreating Helpful, Reliable, People-First ContentGoogle&#x27;s ranking systems are designed to present helpful, reliable i...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: semrush.com  
    Title: commercial intent keywords  
-   Link: [https://www.semrush.com/blog/commercial-intent-keywords/](https://www.semrush.com/blog/commercial-intent-keywords/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SemrushCommercial Intent Keywords: The Complete Guide for...3 Dec 2025 — Commercial intent keywords are search terms used to research a...</p></details>
+   Link: <a href="https://www.semrush.com/blog/commercial-intent-keywords/" target="_blank" rel="noopener noreferrer nofollow">https://www.semrush.com/blog/commercial-intent-keywords/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Commercial Intent Keywords: The Complete Guide for...3 Dec 2025 — Commercial intent keywords are search terms used to research a...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: asa.org.uk  
    Title: affiliate marketing  
-   Link: [https://www.asa.org.uk/advice-online/affiliate-marketing.html](https://www.asa.org.uk/advice-online/affiliate-marketing.html)  
+   Link: <a href="https://www.asa.org.uk/advice-online/affiliate-marketing.html" target="_blank" rel="noopener noreferrer nofollow">https://www.asa.org.uk/advice-online/affiliate-marketing.html</a>  
 
 5. <a id="endnote-5"></a>
    Source: help.awin.com  
    Title: best practices for setting commission rates  
-   Link: [https://help.awin.com/docs/best-practices-for-setting-commission-rates](https://help.awin.com/docs/best-practices-for-setting-commission-rates)  
+   Link: <a href="https://help.awin.com/docs/best-practices-for-setting-commission-rates" target="_blank" rel="noopener noreferrer nofollow">https://help.awin.com/docs/best-practices-for-setting-commission-rates</a>  
 
 6. <a id="endnote-6"></a>
    Source: developers.google.com  
    Title: affiliate programs and added value  
-   Link: [https://developers.google.com/search/blog/2014/01/affiliate-programs-and-added-value](https://developers.google.com/search/blog/2014/01/affiliate-programs-and-added-value)  
+   Link: <a href="https://developers.google.com/search/blog/2014/01/affiliate-programs-and-added-value" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/blog/2014/01/affiliate-programs-and-added-value</a>  
 
 7. <a id="endnote-7"></a>
    Source: sparktoro.com  
-   Link: [https://sparktoro.com/blog/2024-zero-click-search-study-for-every-1000-us-google-searches-only-374-clicks-go-to-the-open-web-in-the-eu-its-360/](https://sparktoro.com/blog/2024-zero-click-search-study-for-every-1000-us-google-searches-only-374-clicks-go-to-the-open-web-in-the-eu-its-360/)  
+   Link: <a href="https://sparktoro.com/blog/2024-zero-click-search-study-for-every-1000-us-google-searches-only-374-clicks-go-to-the-open-web-in-the-eu-its-360/" target="_blank" rel="noopener noreferrer nofollow">https://sparktoro.com/blog/2024-zero-click-search-study-for-every-1000-us-google-searches-only-374-clicks-go-to-the-open-web-in-the-eu-its-360/</a>  
 
 8. <a id="endnote-8"></a>
    Source: asa.org.uk  
    Title: get yourself affiliated with the rules on affiliate marketing  
-   Link: [https://www.asa.org.uk/news/get-yourself-affiliated-with-the-rules-on-affiliate-marketing.html](https://www.asa.org.uk/news/get-yourself-affiliated-with-the-rules-on-affiliate-marketing.html)  
+   Link: <a href="https://www.asa.org.uk/news/get-yourself-affiliated-with-the-rules-on-affiliate-marketing.html" target="_blank" rel="noopener noreferrer nofollow">https://www.asa.org.uk/news/get-yourself-affiliated-with-the-rules-on-affiliate-marketing.html</a>  
 
 9. <a id="endnote-9"></a>
    Source: GOV.UK  
    Title: Social media endorsements: guidance for content creators  
-   Link: [https://www.gov.uk/government/publications/social-media-endorsements-guidance-for-content-creators/social-media-endorsements-being-transparent-with-your-followers](https://www.gov.uk/government/publications/social-media-endorsements-guidance-for-content-creators/social-media-endorsements-being-transparent-with-your-followers)  
+   Link: <a href="https://www.gov.uk/government/publications/social-media-endorsements-guidance-for-content-creators/social-media-endorsements-being-transparent-with-your-followers" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/social-media-endorsements-guidance-for-content-creators/social-media-endorsements-being-transparent-with-your-followers</a>  
 
 10. <a id="endnote-10"></a>
    Source: ftc.gov  
    Title: Federal Trade Commission FTC's Endorsement Guides: What People Are Asking  
-   Link: [https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking](https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking)  
+   Link: <a href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking</a>  
 
 11. <a id="endnote-11"></a>
    Source: ftc.gov  
    Title: [disclosures](&#123;&#123; 'disclosures/' | relative_url &#125;&#125;) 101 social media influencers  
-   Link: [https://www.ftc.gov/business-guidance/resources/disclosures-101-social-media-influencers](https://www.ftc.gov/business-guidance/resources/disclosures-101-social-media-influencers)  
+   Link: <a href="https://www.ftc.gov/business-guidance/resources/disclosures-101-social-media-influencers" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/resources/disclosures-101-social-media-influencers</a>  
 
 12. <a id="endnote-12"></a>
    Source: awin.com  
    Title: affiliate marketing trends 2026  
-   Link: [https://www.awin.com/gb/sector-insights/affiliate-marketing-trends-2026](https://www.awin.com/gb/sector-insights/affiliate-marketing-trends-2026)  
+   Link: <a href="https://www.awin.com/gb/sector-insights/affiliate-marketing-trends-2026" target="_blank" rel="noopener noreferrer nofollow">https://www.awin.com/gb/sector-insights/affiliate-marketing-trends-2026</a>  
 
 13. <a id="endnote-13"></a>
    Source: awin.com  
    Title: affiliate marketing global views  
-   Link: [https://www.awin.com/gb/sector-insights/affiliate-marketing-global-views](https://www.awin.com/gb/sector-insights/affiliate-marketing-global-views)  
+   Link: <a href="https://www.awin.com/gb/sector-insights/affiliate-marketing-global-views" target="_blank" rel="noopener noreferrer nofollow">https://www.awin.com/gb/sector-insights/affiliate-marketing-global-views</a>  
 
 14. <a id="endnote-14"></a>
    Source: awin.com  
-   Link: [https://www.awin.com/gb/pricing/affiliate-partners](https://www.awin.com/gb/pricing/affiliate-partners)  
+   Link: <a href="https://www.awin.com/gb/pricing/affiliate-partners" target="_blank" rel="noopener noreferrer nofollow">https://www.awin.com/gb/pricing/affiliate-partners</a>  
 
 15. <a id="endnote-15"></a>
    Source: awin.com  
-   Link: [https://www.awin.com/gb/market-insights](https://www.awin.com/gb/market-insights)  
+   Link: <a href="https://www.awin.com/gb/market-insights" target="_blank" rel="noopener noreferrer nofollow">https://www.awin.com/gb/market-insights</a>  
 
 16. <a id="endnote-16"></a>
    Source: awin.com  
-   Link: [https://www.awin.com/gb/](https://www.awin.com/gb/)  
+   Link: <a href="https://www.awin.com/gb/" target="_blank" rel="noopener noreferrer nofollow">https://www.awin.com/gb/</a>  
 
 17. <a id="endnote-17"></a>
    Source: asa.org.uk  
-   Link: [https://www.asa.org.uk/static/uploaded/3af39c72-76e1-4a59-b2b47e81a034cd1d.pdf](https://www.asa.org.uk/static/uploaded/3af39c72-76e1-4a59-b2b47e81a034cd1d.pdf)  
+   Link: <a href="https://www.asa.org.uk/static/uploaded/3af39c72-76e1-4a59-b2b47e81a034cd1d.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.asa.org.uk/static/uploaded/3af39c72-76e1-4a59-b2b47e81a034cd1d.pdf</a>  
 
 18. <a id="endnote-18"></a>
    Source: asa.org.uk  
    Title: recognising ads social media  
-   Link: [https://www.asa.org.uk/advice-online/recognising-ads-social-media.html](https://www.asa.org.uk/advice-online/recognising-ads-social-media.html)  
+   Link: <a href="https://www.asa.org.uk/advice-online/recognising-ads-social-media.html" target="_blank" rel="noopener noreferrer nofollow">https://www.asa.org.uk/advice-online/recognising-ads-social-media.html</a>  
 
 19. <a id="endnote-19"></a>
    Source: asa.org.uk  
-   Link: [https://www.asa.org.uk/static/790d2e01-e3f8-4fea-b3c99ef91a9f04dc/Influencerguidance2023v4-FINAL.pdf](https://www.asa.org.uk/static/790d2e01-e3f8-4fea-b3c99ef91a9f04dc/Influencerguidance2023v4-FINAL.pdf)  
+   Link: <a href="https://www.asa.org.uk/static/790d2e01-e3f8-4fea-b3c99ef91a9f04dc/Influencerguidance2023v4-FINAL.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.asa.org.uk/static/790d2e01-e3f8-4fea-b3c99ef91a9f04dc/Influencerguidance2023v4-FINAL.pdf</a>  
 
 20. <a id="endnote-20"></a>
    Source: asa.org.uk  
-   Link: [https://www.asa.org.uk/static/9cc1fb3f-1288-405d-af3468ff18277299/INFLUENCERGuidanceupdatev6HR.pdf](https://www.asa.org.uk/static/9cc1fb3f-1288-405d-af3468ff18277299/INFLUENCERGuidanceupdatev6HR.pdf)  
+   Link: <a href="https://www.asa.org.uk/static/9cc1fb3f-1288-405d-af3468ff18277299/INFLUENCERGuidanceupdatev6HR.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.asa.org.uk/static/9cc1fb3f-1288-405d-af3468ff18277299/INFLUENCERGuidanceupdatev6HR.pdf</a>  
 
 21. <a id="endnote-21"></a>
    Source: asa.org.uk  
    Title: like follow and subscribe to our influencer marketing advice  
-   Link: [https://www.asa.org.uk/news/like-follow-and-subscribe-to-our-influencer-marketing-advice.html](https://www.asa.org.uk/news/like-follow-and-subscribe-to-our-influencer-marketing-advice.html)  
+   Link: <a href="https://www.asa.org.uk/news/like-follow-and-subscribe-to-our-influencer-marketing-advice.html" target="_blank" rel="noopener noreferrer nofollow">https://www.asa.org.uk/news/like-follow-and-subscribe-to-our-influencer-marketing-advice.html</a>  
 
 22. <a id="endnote-22"></a>
    Source: asa.org.uk  
    Title: updated guidance for influencer marketing  
-   Link: [https://www.asa.org.uk/news/updated-guidance-for-influencer-marketing.html](https://www.asa.org.uk/news/updated-guidance-for-influencer-marketing.html)  
+   Link: <a href="https://www.asa.org.uk/news/updated-guidance-for-influencer-marketing.html" target="_blank" rel="noopener noreferrer nofollow">https://www.asa.org.uk/news/updated-guidance-for-influencer-marketing.html</a>  
 
 23. <a id="endnote-23"></a>
    Source: asa.org.uk  
    Title: Influencing Responsibly  
-   Link: [https://www.asa.org.uk/news/influencingresponsibly-make-clear-upfront-when-ads-are-ads.html](https://www.asa.org.uk/news/influencingresponsibly-make-clear-upfront-when-ads-are-ads.html)  
+   Link: <a href="https://www.asa.org.uk/news/influencingresponsibly-make-clear-upfront-when-ads-are-ads.html" target="_blank" rel="noopener noreferrer nofollow">https://www.asa.org.uk/news/influencingresponsibly-make-clear-upfront-when-ads-are-ads.html</a>  
 
 24. <a id="endnote-24"></a>
    Source: asa.org.uk  
    Title: Influencer Marketing  
-   Link: [https://www.asa.org.uk/advice-and-resources/resource-library/influencer-marketing-key-advice-resources.html](https://www.asa.org.uk/advice-and-resources/resource-library/influencer-marketing-key-advice-resources.html)  
+   Link: <a href="https://www.asa.org.uk/advice-and-resources/resource-library/influencer-marketing-key-advice-resources.html" target="_blank" rel="noopener noreferrer nofollow">https://www.asa.org.uk/advice-and-resources/resource-library/influencer-marketing-key-advice-resources.html</a>  
 
 25. <a id="endnote-25"></a>
    Source: support.google.com  
    Title: low traffic affiliate site what can i do better  
-   Link: [https://support.google.com/webmasters/thread/112211009/low-traffic-affiliate-site-what-can-i-do-better?hl=en](https://support.google.com/webmasters/thread/112211009/low-traffic-affiliate-site-what-can-i-do-better?hl=en)  
+   Link: <a href="https://support.google.com/webmasters/thread/112211009/low-traffic-affiliate-site-what-can-i-do-better?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/webmasters/thread/112211009/low-traffic-affiliate-site-what-can-i-do-better?hl=en</a>  
 
 26. <a id="endnote-26"></a>
    Source: support.google.com  
-   Link: [https://support.google.com/webmasters/thread/180636419/does-the-ratio-of-commercial-content-on-the-site-vs-informative-matter-for-product-reviews-sites?hl=en](https://support.google.com/webmasters/thread/180636419/does-the-ratio-of-commercial-content-on-the-site-vs-informative-matter-for-product-reviews-sites?hl=en)  
+   Link: <a href="https://support.google.com/webmasters/thread/180636419/does-the-ratio-of-commercial-content-on-the-site-vs-informative-matter-for-product-reviews-sites?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/webmasters/thread/180636419/does-the-ratio-of-commercial-content-on-the-site-vs-informative-matter-for-product-reviews-sites?hl=en</a>  
 
 27. <a id="endnote-27"></a>
    Source: support.google.com  
-   Link: [https://support.google.com/webmasters/thread/302446608/provide-details-about-the-affiliate-products-review-guidelines-and-can-we-used-more-than-ads-network?hl=en](https://support.google.com/webmasters/thread/302446608/provide-details-about-the-affiliate-products-review-guidelines-and-can-we-used-more-than-ads-network?hl=en)  
+   Link: <a href="https://support.google.com/webmasters/thread/302446608/provide-details-about-the-affiliate-products-review-guidelines-and-can-we-used-more-than-ads-network?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/webmasters/thread/302446608/provide-details-about-the-affiliate-products-review-guidelines-and-can-we-used-more-than-ads-network?hl=en</a>  
 
 28. <a id="endnote-28"></a>
    Source: support.google.com  
    Title: is affiliate marketing dead  
-   Link: [https://support.google.com/webmasters/thread/257058271/is-affiliate-marketing-dead?hl=en](https://support.google.com/webmasters/thread/257058271/is-affiliate-marketing-dead?hl=en)  
+   Link: <a href="https://support.google.com/webmasters/thread/257058271/is-affiliate-marketing-dead?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/webmasters/thread/257058271/is-affiliate-marketing-dead?hl=en</a>  
 
 29. <a id="endnote-29"></a>
    Source: developers.google.com  
    Title: search and ai content  
-   Link: [https://developers.google.com/search/blog/2023/02/google-search-and-ai-content](https://developers.google.com/search/blog/2023/02/google-search-and-ai-content)  
+   Link: <a href="https://developers.google.com/search/blog/2023/02/google-search-and-ai-content" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/blog/2023/02/google-search-and-ai-content</a>  
 
 30. <a id="endnote-30"></a>
    Source: developers.google.com  
    Title: helpful content update  
-   Link: [https://developers.google.com/search/blog/2022/08/helpful-content-update](https://developers.google.com/search/blog/2022/08/helpful-content-update)  
+   Link: <a href="https://developers.google.com/search/blog/2022/08/helpful-content-update" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/blog/2022/08/helpful-content-update</a>  
 
 31. <a id="endnote-31"></a>
    Source: support.google.com  
    Title: manual action for thin content  
-   Link: [https://support.google.com/webmasters/thread/71950043/manual-action-for-thin-content?hl=en](https://support.google.com/webmasters/thread/71950043/manual-action-for-thin-content?hl=en)  
+   Link: <a href="https://support.google.com/webmasters/thread/71950043/manual-action-for-thin-content?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/webmasters/thread/71950043/manual-action-for-thin-content?hl=en</a>  
 
 32. <a id="endnote-32"></a>
    Source: developers.google.com  
    Title: links crawlable  
-   Link: [https://developers.google.com/search/docs/crawling-indexing/links-crawlable](https://developers.google.com/search/docs/crawling-indexing/links-crawlable)  
+   Link: <a href="https://developers.google.com/search/docs/crawling-indexing/links-crawlable" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/docs/crawling-indexing/links-crawlable</a>  
 
 33. <a id="endnote-33"></a>
    Source: business.google.com  
-   Link: [https://business.google.com/uk/think/](https://business.google.com/uk/think/)  
+   Link: <a href="https://business.google.com/uk/think/" target="_blank" rel="noopener noreferrer nofollow">https://business.google.com/uk/think/</a>  
 
 34. <a id="endnote-34"></a>
    Source: business.google.com  
    Title: navigating purchase behavior and decision making  
-   Link: [https://business.google.com/uk/think/consumer-insights/navigating-purchase-behavior-and-decision-making/](https://business.google.com/uk/think/consumer-insights/navigating-purchase-behavior-and-decision-making/)  
+   Link: <a href="https://business.google.com/uk/think/consumer-insights/navigating-purchase-behavior-and-decision-making/" target="_blank" rel="noopener noreferrer nofollow">https://business.google.com/uk/think/consumer-insights/navigating-purchase-behavior-and-decision-making/</a>  
 
 35. <a id="endnote-35"></a>
    Source: affiliate-program.amazon.com  
-   Link: [https://affiliate-program.amazon.com/help/node/topic/GRXPHT8U84RAYDXZ](https://affiliate-program.amazon.com/help/node/topic/GRXPHT8U84RAYDXZ)  
+   Link: <a href="https://affiliate-program.amazon.com/help/node/topic/GRXPHT8U84RAYDXZ" target="_blank" rel="noopener noreferrer nofollow">https://affiliate-program.amazon.com/help/node/topic/GRXPHT8U84RAYDXZ</a>  
 
 36. <a id="endnote-36"></a>
    Source: ftc.gov  
-   Link: [https://www.ftc.gov/](https://www.ftc.gov/)  
+   Link: <a href="https://www.ftc.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/</a>  
 
 37. <a id="endnote-37"></a>
    Source: ftc.gov  
-   Link: [https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews](https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews)  
+   Link: <a href="https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews</a>  
 
 38. <a id="endnote-38"></a>
    Source: ftc.gov  
-   Link: [https://www.ftc.gov/system/files/ftc_gov/pdf/P204500%20Guides%20Concerning%20Endors%20and%20Testimonials.pdf](https://www.ftc.gov/system/files/ftc_gov/pdf/P204500%20Guides%20Concerning%20Endors%20and%20Testimonials.pdf)  
+   Link: <a href="https://www.ftc.gov/system/files/ftc_gov/pdf/P204500%20Guides%20Concerning%20Endors%20and%20Testimonials.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/system/files/ftc_gov/pdf/P204500%20Guides%20Concerning%20Endors%20and%20Testimonials.pdf</a>  
 
 39. <a id="endnote-39"></a>
    Source: ftc.gov  
-   Link: [https://www.ftc.gov/system/files/ftc_gov/pdf/p204500_endorsement_guides_in_2023.pdf](https://www.ftc.gov/system/files/ftc_gov/pdf/p204500_endorsement_guides_in_2023.pdf)  
+   Link: <a href="https://www.ftc.gov/system/files/ftc_gov/pdf/p204500_endorsement_guides_in_2023.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/system/files/ftc_gov/pdf/p204500_endorsement_guides_in_2023.pdf</a>  
 
 40. <a id="endnote-40"></a>
    Source: ftc.gov  
-   Link: [https://www.ftc.gov/sites/default/files/attachments/press-releases/ftc-staff-revises-online-advertising-disclosure-guidelines/130312dotcomdisclosures.pdf](https://www.ftc.gov/sites/default/files/attachments/press-releases/ftc-staff-revises-online-advertising-disclosure-guidelines/130312dotcomdisclosures.pdf)  
+   Link: <a href="https://www.ftc.gov/sites/default/files/attachments/press-releases/ftc-staff-revises-online-advertising-disclosure-guidelines/130312dotcomdisclosures.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/sites/default/files/attachments/press-releases/ftc-staff-revises-online-advertising-disclosure-guidelines/130312dotcomdisclosures.pdf</a>  
 
 41. <a id="endnote-41"></a>
    Source: ftc.gov  
    Title: full disclosure  
-   Link: [https://www.ftc.gov/business-guidance/blog/2014/09/full-disclosure](https://www.ftc.gov/business-guidance/blog/2014/09/full-disclosure)  
+   Link: <a href="https://www.ftc.gov/business-guidance/blog/2014/09/full-disclosure" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/blog/2014/09/full-disclosure</a>  
 
 42. <a id="endnote-42"></a>
    Source: ftc.gov  
    Title: native advertising guide businesses  
-   Link: [https://www.ftc.gov/business-guidance/resources/native-advertising-guide-businesses](https://www.ftc.gov/business-guidance/resources/native-advertising-guide-businesses)  
+   Link: <a href="https://www.ftc.gov/business-guidance/resources/native-advertising-guide-businesses" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/resources/native-advertising-guide-businesses</a>  
 
 43. <a id="endnote-43"></a>
    Source: ftc.gov  
-   Link: [https://www.ftc.gov/sites/default/files/attachments/press-releases/ftc-staff-issues-guidelines-internet-advertising/0005dotcomstaffreport.pdf](https://www.ftc.gov/sites/default/files/attachments/press-releases/ftc-staff-issues-guidelines-internet-advertising/0005dotcomstaffreport.pdf)  
+   Link: <a href="https://www.ftc.gov/sites/default/files/attachments/press-releases/ftc-staff-issues-guidelines-internet-advertising/0005dotcomstaffreport.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/sites/default/files/attachments/press-releases/ftc-staff-issues-guidelines-internet-advertising/0005dotcomstaffreport.pdf</a>  
 
 44. <a id="endnote-44"></a>
    Source: ftc.gov  
    Title: staff revises online advertising disclosure guidelines  
-   Link: [https://www.ftc.gov/news-events/news/press-releases/2013/03/ftc-staff-revises-online-advertising-disclosure-guidelines](https://www.ftc.gov/news-events/news/press-releases/2013/03/ftc-staff-revises-online-advertising-disclosure-guidelines)  
+   Link: <a href="https://www.ftc.gov/news-events/news/press-releases/2013/03/ftc-staff-revises-online-advertising-disclosure-guidelines" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/news-events/news/press-releases/2013/03/ftc-staff-revises-online-advertising-disclosure-guidelines</a>  
 
 45. <a id="endnote-45"></a>
    Source: sparktoro.com  
    Title: why do we need zero click marketing  
-   Link: [https://sparktoro.com/blog/why-do-we-need-zero-click-marketing/](https://sparktoro.com/blog/why-do-we-need-zero-click-marketing/)  
+   Link: <a href="https://sparktoro.com/blog/why-do-we-need-zero-click-marketing/" target="_blank" rel="noopener noreferrer nofollow">https://sparktoro.com/blog/why-do-we-need-zero-click-marketing/</a>  
 
 46. <a id="endnote-46"></a>
    Source: sparktoro.com  
    Title: 5 strategic features that predict survival in the zero click era  
-   Link: [https://sparktoro.com/blog/5-strategic-features-that-predict-survival-in-the-zero-click-era/](https://sparktoro.com/blog/5-strategic-features-that-predict-survival-in-the-zero-click-era/)  
+   Link: <a href="https://sparktoro.com/blog/5-strategic-features-that-predict-survival-in-the-zero-click-era/" target="_blank" rel="noopener noreferrer nofollow">https://sparktoro.com/blog/5-strategic-features-that-predict-survival-in-the-zero-click-era/</a>  
 
 47. <a id="endnote-47"></a>
    Source: sparktoro.com  
    Title: zero clicks does not mean zero sales  
-   Link: [https://sparktoro.com/blog/zero-clicks-does-not-mean-zero-sales/](https://sparktoro.com/blog/zero-clicks-does-not-mean-zero-sales/)  
+   Link: <a href="https://sparktoro.com/blog/zero-clicks-does-not-mean-zero-sales/" target="_blank" rel="noopener noreferrer nofollow">https://sparktoro.com/blog/zero-clicks-does-not-mean-zero-sales/</a>  
 
 48. <a id="endnote-48"></a>
    Source: sparktoro.com  
-   Link: [https://sparktoro.com/resources/videos/full-sparktoro-walkthrough](https://sparktoro.com/resources/videos/full-sparktoro-walkthrough)  
+   Link: <a href="https://sparktoro.com/resources/videos/full-sparktoro-walkthrough" target="_blank" rel="noopener noreferrer nofollow">https://sparktoro.com/resources/videos/full-sparktoro-walkthrough</a>  
 
 49. <a id="endnote-49"></a>
    Source: sparktoro.com  
-   Link: [https://sparktoro.com/blog/new-research-we-analyzed-332-million-queries-over-21-months-to-uncover-never-before-published-data-on-how-people-use-google/](https://sparktoro.com/blog/new-research-we-analyzed-332-million-queries-over-21-months-to-uncover-never-before-published-data-on-how-people-use-google/)  
+   Link: <a href="https://sparktoro.com/blog/new-research-we-analyzed-332-million-queries-over-21-months-to-uncover-never-before-published-data-on-how-people-use-google/" target="_blank" rel="noopener noreferrer nofollow">https://sparktoro.com/blog/new-research-we-analyzed-332-million-queries-over-21-months-to-uncover-never-before-published-data-on-how-people-use-google/</a>  
 
 50. <a id="endnote-50"></a>
    Source: GOV.UK  
    Title: hidden ads principles for social media platforms  
-   Link: [https://www.gov.uk/government/publications/reviews-and-endorsements-principles-for-social-media-platforms/hidden-ads-principles-for-social-media-platforms](https://www.gov.uk/government/publications/reviews-and-endorsements-principles-for-social-media-platforms/hidden-ads-principles-for-social-media-platforms)  
+   Link: <a href="https://www.gov.uk/government/publications/reviews-and-endorsements-principles-for-social-media-platforms/hidden-ads-principles-for-social-media-platforms" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/reviews-and-endorsements-principles-for-social-media-platforms/hidden-ads-principles-for-social-media-platforms</a>  
 
 51. <a id="endnote-51"></a>
    Source: GOV.UK  
    Title: ernment response to online advertising programme consultation  
-   Link: [https://www.gov.uk/government/consultations/online-advertising-programme-consultation/outcome/government-response-to-online-advertising-programme-consultation](https://www.gov.uk/government/consultations/online-advertising-programme-consultation/outcome/government-response-to-online-advertising-programme-consultation)  
+   Link: <a href="https://www.gov.uk/government/consultations/online-advertising-programme-consultation/outcome/government-response-to-online-advertising-programme-consultation" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/consultations/online-advertising-programme-consultation/outcome/government-response-to-online-advertising-programme-consultation</a>  
 
 52. <a id="endnote-52"></a>
    Source: GOV.UK  
    Title: online targeting final report and recommendations  
-   Link: [https://www.gov.uk/government/publications/cdei-review-of-online-targeting/online-targeting-final-report-and-recommendations](https://www.gov.uk/government/publications/cdei-review-of-online-targeting/online-targeting-final-report-and-recommendations)  
+   Link: <a href="https://www.gov.uk/government/publications/cdei-review-of-online-targeting/online-targeting-final-report-and-recommendations" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/cdei-review-of-online-targeting/online-targeting-final-report-and-recommendations</a>  
 
 53. <a id="endnote-53"></a>
    Source: GOV.UK  
    Title: high stakes gambling reform for the digital age  
-   Link: [https://www.gov.uk/government/publications/high-stakes-gambling-reform-for-the-digital-age/high-stakes-gambling-reform-for-the-digital-age](https://www.gov.uk/government/publications/high-stakes-gambling-reform-for-the-digital-age/high-stakes-gambling-reform-for-the-digital-age)  
+   Link: <a href="https://www.gov.uk/government/publications/high-stakes-gambling-reform-for-the-digital-age/high-stakes-gambling-reform-for-the-digital-age" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/high-stakes-gambling-reform-for-the-digital-age/high-stakes-gambling-reform-for-the-digital-age</a>  
 
 54. <a id="endnote-54"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: [https://assets.publishing.service.gov.uk/media/5f05d070e90e0712d0206e91/Mapping_online_advertising_issues__and_the_industry_and_regulatory_initiatives_aimed_at_addressing_them.pdf](https://assets.publishing.service.gov.uk/media/5f05d070e90e0712d0206e91/Mapping_online_advertising_issues__and_the_industry_and_regulatory_initiatives_aimed_at_addressing_them.pdf)  
+   Link: <a href="https://assets.publishing.service.gov.uk/media/5f05d070e90e0712d0206e91/Mapping_online_advertising_issues__and_the_industry_and_regulatory_initiatives_aimed_at_addressing_them.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5f05d070e90e0712d0206e91/Mapping_online_advertising_issues__and_the_industry_and_regulatory_initiatives_aimed_at_addressing_them.pdf</a>  
 
 55. <a id="endnote-55"></a>
    Source: assets.publishing.service.gov.uk  
    Title: DCMS OAP support Final report Accessible for publication 28.9.2022  
-   Link: [https://assets.publishing.service.gov.uk/media/633445fbd3bf7f34f0bfd2ae/DCMS_-_OAP_support_-_Final_report_-_Accessible__for_publication_-_28.9.2022.pdf](https://assets.publishing.service.gov.uk/media/633445fbd3bf7f34f0bfd2ae/DCMS_-_OAP_support_-_Final_report_-_Accessible__for_publication_-_28.9.2022.pdf)  
+   Link: <a href="https://assets.publishing.service.gov.uk/media/633445fbd3bf7f34f0bfd2ae/DCMS_-_OAP_support_-_Final_report_-_Accessible__for_publication_-_28.9.2022.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/633445fbd3bf7f34f0bfd2ae/DCMS_-_OAP_support_-_Final_report_-_Accessible__for_publication_-_28.9.2022.pdf</a>  
 
 56. <a id="endnote-56"></a>
    Source: assets.publishing.service.gov.uk  
    Title: impact assessment hfss advertising  
-   Link: [https://assets.publishing.service.gov.uk/media/60d35279e90e0743934f6c3a/impact-assessment-hfss-advertising.pdf](https://assets.publishing.service.gov.uk/media/60d35279e90e0743934f6c3a/impact-assessment-hfss-advertising.pdf)  
+   Link: <a href="https://assets.publishing.service.gov.uk/media/60d35279e90e0743934f6c3a/impact-assessment-hfss-advertising.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/60d35279e90e0743934f6c3a/impact-assessment-hfss-advertising.pdf</a>  
 
 57. <a id="endnote-57"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: [https://assets.publishing.service.gov.uk/media/5c881e78e5274a230219c360/DCEP_Public_responses_to_call_for_evidence_from_organisations.pdf](https://assets.publishing.service.gov.uk/media/5c881e78e5274a230219c360/DCEP_Public_responses_to_call_for_evidence_from_organisations.pdf)  
+   Link: <a href="https://assets.publishing.service.gov.uk/media/5c881e78e5274a230219c360/DCEP_Public_responses_to_call_for_evidence_from_organisations.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5c881e78e5274a230219c360/DCEP_Public_responses_to_call_for_evidence_from_organisations.pdf</a>  
 
 58. <a id="endnote-58"></a>
    Source: assets.publishing.service.gov.uk  
    Title: Qualitative research 1  
-   Link: [https://assets.publishing.service.gov.uk/media/68597f3deaa6f6419fade66e/Qualitative_research_1.pdf](https://assets.publishing.service.gov.uk/media/68597f3deaa6f6419fade66e/Qualitative_research_1.pdf)  
+   Link: <a href="https://assets.publishing.service.gov.uk/media/68597f3deaa6f6419fade66e/Qualitative_research_1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/68597f3deaa6f6419fade66e/Qualitative_research_1.pdf</a>  
 
 59. <a id="endnote-59"></a>
    Source: london.gov.uk  
    Title: mgla150519 2647 foi response redacted  
-   Link: [https://www.london.gov.uk/sites/default/files/mgla150519-2647_-_foi_response_redacted.pdf](https://www.london.gov.uk/sites/default/files/mgla150519-2647_-_foi_response_redacted.pdf)  
+   Link: <a href="https://www.london.gov.uk/sites/default/files/mgla150519-2647_-_foi_response_redacted.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.london.gov.uk/sites/default/files/mgla150519-2647_-_foi_response_redacted.pdf</a>  
 
 60. <a id="endnote-60"></a>
    Source: semrush.com  
    Title: types of keywords commercial informational navigational transactional  
-   Link: [https://www.semrush.com/blog/types-of-keywords-commercial-informational-navigational-transactional/](https://www.semrush.com/blog/types-of-keywords-commercial-informational-navigational-transactional/)  
+   Link: <a href="https://www.semrush.com/blog/types-of-keywords-commercial-informational-navigational-transactional/" target="_blank" rel="noopener noreferrer nofollow">https://www.semrush.com/blog/types-of-keywords-commercial-informational-navigational-transactional/</a>  
 
 61. <a id="endnote-61"></a>
    Source: nngroup.com  
-   Link: [https://www.nngroup.com/articles/comparison-tables/](https://www.nngroup.com/articles/comparison-tables/)  
+   Link: <a href="https://www.nngroup.com/articles/comparison-tables/" target="_blank" rel="noopener noreferrer nofollow">https://www.nngroup.com/articles/comparison-tables/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Nielsen Norman GroupComparison Tables for Products, Services, and FeaturesFebruary 9, 2024 — 9 Feb 2024 — A table that uses columns for p...</p></details>
    Published: February 9, 2024  
 
 62. <a id="endnote-62"></a>
    Source: affiliate-program.amazon.co.uk  
-   Link: [https://affiliate-program.amazon.co.uk/help/node/topic/GRXPHT8U84RAYDXZ](https://affiliate-program.amazon.co.uk/help/node/topic/GRXPHT8U84RAYDXZ)  
+   Link: <a href="https://affiliate-program.amazon.co.uk/help/node/topic/GRXPHT8U84RAYDXZ" target="_blank" rel="noopener noreferrer nofollow">https://affiliate-program.amazon.co.uk/help/node/topic/GRXPHT8U84RAYDXZ</a>  
 
 ### Additional References
 
 63. <a id="endnote-63"></a>
    Source: youtube.com  
    Title: Keyword Research For Affiliate Marketing: How to Find Highly Profitable Keywords  
-   Link: [https://www.youtube.com/watch?v=K3X-AQyzMGM](https://www.youtube.com/watch?v=K3X-AQyzMGM)  
+   Link: <a href="https://www.youtube.com/watch?v=K3X-AQyzMGM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=K3X-AQyzMGM</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Authority Hacker Keyword Intent Guide: High Intent Keywords for Affiliate SEO...</p></details>
 
 64. <a id="endnote-64"></a>
    Source: youtube.com  
    Title: Authority Hacker Keyword Intent Guide: High Intent Keywords for Affiliate SEO  
-   Link: [https://www.youtube.com/watch?v=6K5g93b8uXQ](https://www.youtube.com/watch?v=6K5g93b8uXQ)  
+   Link: <a href="https://www.youtube.com/watch?v=6K5g93b8uXQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6K5g93b8uXQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Finding Low Competition HIGH Intent Keywords For SEO...</p></details>
 
 65. <a id="endnote-65"></a>
    Source: youtube.com  
    Title: Keyword Intent Explained: The 4 Search Types Every Small Business Must Know  
-   Link: [https://www.youtube.com/watch?v=r3nAlpXHP58](https://www.youtube.com/watch?v=r3nAlpXHP58)  
+   Link: <a href="https://www.youtube.com/watch?v=r3nAlpXHP58" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=r3nAlpXHP58</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Keyword Research For Affiliate Marketing: How to Find Highly Profitable Keywords...</p></details>
 
 66. <a id="endnote-66"></a>
    Source: youtube.com  
    Title: Finding Low Competition HIGH Intent Keywords For SEO  
-   Link: [https://www.youtube.com/watch?v=UcXw_YfL614](https://www.youtube.com/watch?v=UcXw_YfL614)  
+   Link: <a href="https://www.youtube.com/watch?v=UcXw_YfL614" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UcXw_YfL614</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Buyer Intent Keywords: What They Are &amp; How To Use Them To Sell More...</p></details>
 
 67. <a id="endnote-67"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/220385075_The_impact_of_age_and_shopping_experiences_on_the_classification_of_search_experience_and_credence_goods_in_online_shopping](https://www.researchgate.net/publication/220385075_The_impact_of_age_and_shopping_experiences_on_the_classification_of_search_experience_and_credence_goods_in_online_shopping)  
+   Link: <a href="https://www.researchgate.net/publication/220385075_The_impact_of_age_and_shopping_experiences_on_the_classification_of_search_experience_and_credence_goods_in_online_shopping" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/220385075_The_impact_of_age_and_shopping_experiences_on_the_classification_of_search_experience_and_credence_goods_in_online_shopping</a>  
 
 68. <a id="endnote-68"></a>
    Source: cj.com  
-   Link: [https://www.cj.com/en-gb/affiliate-customer-insights](https://www.cj.com/en-gb/affiliate-customer-insights)  
+   Link: <a href="https://www.cj.com/en-gb/affiliate-customer-insights" target="_blank" rel="noopener noreferrer nofollow">https://www.cj.com/en-gb/affiliate-customer-insights</a>  
 
 69. <a id="endnote-69"></a>
    Source: hellopartner.com  
-   Link: [https://hellopartner.com/2026/05/20/affiliates-face-financial-shock-as-amazons-associates-programme-cuts-commission-rates/](https://hellopartner.com/2026/05/20/affiliates-face-financial-shock-as-amazons-associates-programme-cuts-commission-rates/)  
+   Link: <a href="https://hellopartner.com/2026/05/20/affiliates-face-financial-shock-as-amazons-associates-programme-cuts-commission-rates/" target="_blank" rel="noopener noreferrer nofollow">https://hellopartner.com/2026/05/20/affiliates-face-financial-shock-as-amazons-associates-programme-cuts-commission-rates/</a>  
 
 70. <a id="endnote-70"></a>
    Source: geniuslink.com  
-   Link: [https://geniuslink.com/blog/amazon-affiliate-disclosure-guide/](https://geniuslink.com/blog/amazon-affiliate-disclosure-guide/)  
+   Link: <a href="https://geniuslink.com/blog/amazon-affiliate-disclosure-guide/" target="_blank" rel="noopener noreferrer nofollow">https://geniuslink.com/blog/amazon-affiliate-disclosure-guide/</a>  
 
 71. <a id="endnote-71"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/Affiliatemarketing/comments/e5wr1q/an_elegant_solution_for_affiliate_disclosure/](https://www.reddit.com/r/Affiliatemarketing/comments/e5wr1q/an_elegant_solution_for_affiliate_disclosure/)  
+   Link: <a href="https://www.reddit.com/r/Affiliatemarketing/comments/e5wr1q/an_elegant_solution_for_affiliate_disclosure/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Affiliatemarketing/comments/e5wr1q/an_elegant_solution_for_affiliate_disclosure/</a>  
 
 72. <a id="endnote-72"></a>
    Source: nngroup.com  
-   Link: [https://www.nngroup.com/reports/ecommerce-user-experience/](https://www.nngroup.com/reports/ecommerce-user-experience/)  
+   Link: <a href="https://www.nngroup.com/reports/ecommerce-user-experience/" target="_blank" rel="noopener noreferrer nofollow">https://www.nngroup.com/reports/ecommerce-user-experience/</a>

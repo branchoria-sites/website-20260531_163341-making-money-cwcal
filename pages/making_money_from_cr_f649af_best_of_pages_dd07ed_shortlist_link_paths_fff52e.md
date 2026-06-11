@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /best-lists/
 nav_short_title: Link paths
 title: Turning shortlists into profitable click paths
-title_full: Turning shortlists into profitable click paths | Best Lists
+title_full: Turning shortlists into profitable click paths
 display_title_short: Link paths
 display_title: Link paths
 heading_title: Turning shortlists into profitable click paths
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-31 13:14:52'
-parent_title: What Makes a Best Of Page Convert? | Affiliate Engines
+parent_title: What Makes a Best Of Page Convert?
 parent_permalink: /best-lists/
 parent_nav_short_title: Best Lists
 parent_heading_title: What Makes a Best Of Page Convert?
@@ -274,20 +274,18 @@ image: /assets/images/making_money_from_cr_f649af_best_of_pages_dd07ed_shortlist
 
 ## Introduction
 
-For affiliate-focused “best‑of” pages, internal links aren’t just navigation tools: they are the primary mechanism that connects broad shortlist content to deeper, high‑value pages where affiliate conversions actually happen. A shortlist page that merely lists winners without sending readers onward to detailed [reviews]({{ 'reviews/' | relative_url }}), use‑case articles, or merchant offers leaves commercial value on the table. Well‑designed internal links guide uncertain readers down a conversion path, distribute site authority, reinforce topical clusters, and improve both user engagement and organic visibility. <span class="citation-chip-wrap"><a class="citation-chip" href="https://wplink.ai/internal-linking/affiliate-sites/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wplink.ai">[WPLink]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wplink.ai</span><span class="citation-popover-title">Internal Linking for Affiliate Sites: Complete Guide</span><span class="citation-popover-snippet">WPLinkInternal Linking for Affiliate Sites: Complete GuideJanuary 15, 2025...</span><span class="citation-popover-meta">Published: January 15, 2025</span></span></span>
-
+For affiliate-focused “best‑of” pages, internal links aren’t just navigation tools: they are the primary mechanism that connects broad shortlist content to deeper, high‑value pages where affiliate conversions actually happen. A shortlist page that merely lists winners without sending readers onward to detailed [reviews]({{ 'reviews/' | relative_url }}), use‑case articles, or merchant offers leaves commercial value on the table. Well‑designed internal links guide uncertain readers down a conversion path, distribute site authority, reinforce topical clusters, and improve both user engagement and organic visibility. <span class="citation-chip-wrap"><a class="citation-chip" href="https://wplink.ai/internal-linking/affiliate-sites/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wplink.ai">[WPLink]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wplink.ai</span><span class="citation-popover-title">Internal Linking for Affiliate Sites: Complete Guide</span><span class="citation-popover-snippet">Internal Linking for Affiliate Sites: Complete GuideJanuary 15, 2025...</span><span class="citation-popover-meta">Published: January 15, 2025</span></span></span>
 
 <img src="{{ "/assets/images/making_money_from_cr_f649af_best_of_pages_dd07ed_shortlist_link_paths_fff52e-Illustration-1-dark.svg" | relative_url }}" alt="Link paths illustration 1" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_best_of_pages_dd07ed_shortlist_link_paths_fff52e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_best_of_pages_dd07ed_shortlist_link_paths_fff52e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Links from Broad Winners to Detailed Reviews
 
-A broad shortlist — for example “Best Standing Desks 2026” — attracts high‑intent but still undecided readers. Its core value comes from narrowing a large category into a manageable set of choices. However, that value pivots into revenue only when readers consider specifics: feature [comparisons]({{ 'comparisons/' | relative_url }}), pros/cons, real user context, and merchant options. That’s where detailed [review pages]({{ 'reviews/' | relative_url }}) play a role. Internal links from the shortlist to each individual product review accomplish several key functions:
+A broad shortlist — for example “Best Standing Desks 2026” — attracts high‑intent but still undecided readers. Its core value comes from narrowing a large category into a manageable set of choices. However, that value pivots into revenue only when readers consider specifics: feature [comparisons]({{ 'comparisons/' | relative_url }}), pros/cons, real user context, and merchant options. That’s where detailed review pages play a role. Internal links from the shortlist to each individual product review accomplish several key functions:
 
-**Guide the user decision journey.** Readers on a broad shortlist are typically mid‑decision stage: they know they want “standing desks,” but not which model or merchant to choose. A contextually placed link like *“Read our full Maker X review to see how it performs under constant daily use”* gives them the next logical step. <span class="citation-chip-wrap"><a class="citation-chip" href="https://wplink.ai/internal-linking/affiliate-sites/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wplink.ai">[WPLink]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wplink.ai</span><span class="citation-popover-title">Internal Linking for Affiliate Sites: Complete Guide</span><span class="citation-popover-snippet">WPLinkInternal Linking for Affiliate Sites: Complete GuideJanuary 15, 2025...</span><span class="citation-popover-meta">Published: January 15, 2025</span></span></span>
+**Guide the user decision journey.** Readers on a broad shortlist are typically mid‑decision stage: they know they want “standing desks,” but not which model or merchant to choose. A contextually placed link like *“Read our full Maker X review to see how it performs under constant daily use”* gives them the next logical step. <span class="citation-chip-wrap"><a class="citation-chip" href="https://wplink.ai/internal-linking/affiliate-sites/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wplink.ai">[WPLink]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wplink.ai</span><span class="citation-popover-title">Internal Linking for Affiliate Sites: Complete Guide</span><span class="citation-popover-snippet">Internal Linking for Affiliate Sites: Complete GuideJanuary 15, 2025...</span><span class="citation-popover-meta">Published: January 15, 2025</span></span></span>
 
-**Distribute authority and improve discoverability.** From an SEO perspective, internal links pass link equity — often called PageRank — from the shortlist to the deeper reviews. Without these links, review pages can become “orphaned,” visible only through search or sitemaps, and struggle to rank. Strategically linking from a high‑traffic shortlist ensures those reviews are crawled and indexed more persistently. <span class="citation-chip-wrap"><a class="citation-chip" href="https://seohandbook.co.uk/on-page-seo/internal-linking/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: seohandbook.co.uk">[SEO Handbook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">seohandbook.co.uk</span><span class="citation-popover-title">SEO Handbook Internal Linking | the seo handbook</span><span class="citation-popover-snippet">SEO HandbookInternal Linking | the seo handbookMay 19, 2026...</span><span class="citation-popover-meta">Published: May 19, 2026</span></span></span>
+**Distribute authority and improve discoverability.** From an SEO perspective, internal links pass link equity — often called PageRank — from the shortlist to the deeper reviews. Without these links, review pages can become “orphaned,” visible only through search or sitemaps, and struggle to rank. Strategically linking from a high‑traffic shortlist ensures those reviews are crawled and indexed more persistently. <span class="citation-chip-wrap"><a class="citation-chip" href="https://seohandbook.co.uk/on-page-seo/internal-linking/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: seohandbook.co.uk">[SEO Handbook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">seohandbook.co.uk</span><span class="citation-popover-title">SEO Handbook Internal Linking &#124; the seo handbook</span><span class="citation-popover-snippet">SEO HandbookInternal Linking &#124; the seo handbookMay 19, 2026...</span><span class="citation-popover-meta">Published: May 19, 2026</span></span></span>
 
-**Clarify intent and anchor relevance.** The [wording]({{ 'wording/' | relative_url }}) of internal links matters. Descriptive anchor text signals to search engines and users what kind of detail awaits. Generic “click here” anchors are less effective than contextual ones like *“compare desk height adjustment performance”* or *“see how it stacks up in small rooms.”* <span class="citation-chip-wrap"><a class="citation-chip" href="https://seohandbook.co.uk/on-page-seo/internal-linking/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: seohandbook.co.uk">[SEO Handbook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">seohandbook.co.uk</span><span class="citation-popover-title">SEO Handbook Internal Linking | the seo handbook</span><span class="citation-popover-snippet">SEO HandbookInternal Linking | the seo handbookMay 19, 2026...</span><span class="citation-popover-meta">Published: May 19, 2026</span></span></span>
-
+**Clarify intent and anchor relevance.** The [wording]({{ 'wording/' | relative_url }}) of internal links matters. Descriptive anchor text signals to search engines and users what kind of detail awaits. Generic “click here” anchors are less effective than contextual ones like *“compare desk height adjustment performance”* or *“see how it stacks up in small rooms.”* <span class="citation-chip-wrap"><a class="citation-chip" href="https://seohandbook.co.uk/on-page-seo/internal-linking/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: seohandbook.co.uk">[SEO Handbook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">seohandbook.co.uk</span><span class="citation-popover-title">SEO Handbook Internal Linking &#124; the seo handbook</span><span class="citation-popover-snippet">SEO HandbookInternal Linking &#124; the seo handbookMay 19, 2026...</span><span class="citation-popover-meta">Published: May 19, 2026</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/5EkSj0nrCpg" title="How to Make a Silo Structure? - Step-by-Step Guide To Rank No #1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=5EkSj0nrCpg" target="_blank" rel="noopener noreferrer">How to Make a Silo Structure? - Step-by-Step Guide To Rank No #1</a></p><p class="youtube-embed-meta">Channel: Rank Math SEO &middot; Views: 60.6K &middot; Uploaded: July 2022 &middot; Length: 21 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=5EkSj0nrCpg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=5EkSj0nrCpg">Open on YouTube</a></p></div></div></div>
 
@@ -295,24 +293,22 @@ A broad shortlist — for example “Best Standing Desks 2026” — attracts hi
 
 Not all readers on a shortlist are ready for a product review immediately; some are still resolving their use‑case questions. That’s where internal links to use‑case pages become valuable:
 
-**Segment intent within the shortlist.** A shortlist can embed internal links to pages such as “Best Desks for Small Flats,” “Best Desks for Ergonomic Comfort,” or “Budget Options Under £300.” These pages are narrower than the shortlist and help funnel readers toward the products most likely to match their specific circumstances. <span class="citation-chip-wrap"><a class="citation-chip" href="https://wplink.ai/internal-linking/affiliate-sites/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wplink.ai">[WPLink]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wplink.ai</span><span class="citation-popover-title">Internal Linking for Affiliate Sites: Complete Guide</span><span class="citation-popover-snippet">WPLinkInternal Linking for Affiliate Sites: Complete GuideJanuary 15, 2025...</span><span class="citation-popover-meta">Published: January 15, 2025</span></span></span>
+**Segment intent within the shortlist.** A shortlist can embed internal links to pages such as “Best Desks for Small Flats,” “Best Desks for Ergonomic Comfort,” or “Budget Options Under £300.” These pages are narrower than the shortlist and help funnel readers toward the products most likely to match their specific circumstances. <span class="citation-chip-wrap"><a class="citation-chip" href="https://wplink.ai/internal-linking/affiliate-sites/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wplink.ai">[WPLink]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wplink.ai</span><span class="citation-popover-title">Internal Linking for Affiliate Sites: Complete Guide</span><span class="citation-popover-snippet">Internal Linking for Affiliate Sites: Complete GuideJanuary 15, 2025...</span><span class="citation-popover-meta">Published: January 15, 2025</span></span></span>
 
 **Build confidence before product review.** A reader asking “Is my space tall enough for an electric desk?” might benefit from a use‑case page explaining sizing and adjustment ranges before clicking a review. Internal links that layer this reassurance reduce hesitation and increase the chance of a conversion on the subsequent review page.
 
-**Support cross‑sell and content depth.** Use‑case pages often sit between broad shortlists and individual reviews in the site hierarchy and should link both up and down: from the shortlist to the use case, and from the use case to multiple relevant product reviews. This multi‑step linking mirrors reader exploration and increases average pages per session — a behavioural signal that benefits SEO and revenue potential. <span class="citation-chip-wrap"><a class="citation-chip" href="https://wplink.ai/internal-linking/affiliate-sites/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wplink.ai">[WPLink]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wplink.ai</span><span class="citation-popover-title">Internal Linking for Affiliate Sites: Complete Guide</span><span class="citation-popover-snippet">WPLinkInternal Linking for Affiliate Sites: Complete GuideJanuary 15, 2025...</span><span class="citation-popover-meta">Published: January 15, 2025</span></span></span>
-
+**Support cross‑sell and content depth.** Use‑case pages often sit between broad shortlists and individual reviews in the site hierarchy and should link both up and down: from the shortlist to the use case, and from the use case to multiple relevant product reviews. This multi‑step linking mirrors reader exploration and increases average pages per session — a behavioural signal that benefits SEO and revenue potential. <span class="citation-chip-wrap"><a class="citation-chip" href="https://wplink.ai/internal-linking/affiliate-sites/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wplink.ai">[WPLink]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wplink.ai</span><span class="citation-popover-title">Internal Linking for Affiliate Sites: Complete Guide</span><span class="citation-popover-snippet">Internal Linking for Affiliate Sites: Complete GuideJanuary 15, 2025...</span><span class="citation-popover-meta">Published: January 15, 2025</span></span></span>
 
 <img src="{{ "/assets/images/making_money_from_cr_f649af_best_of_pages_dd07ed_shortlist_link_paths_fff52e-Illustration-2-dark.svg" | relative_url }}" alt="Link paths illustration 2" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_best_of_pages_dd07ed_shortlist_link_paths_fff52e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_best_of_pages_dd07ed_shortlist_link_paths_fff52e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How Internal Links Support Offer Matching
 
 Internal links play a commercial role beyond search optimisation:
 
-**Match the offer to the intent.** Shortlist pages should not link willy‑nilly to every review but should prioritise links that align with the reader’s intent. For example, add stronger links to reviews of products with higher‑value affiliate offers or those with better conversion rates when the intent matches (e.g., “Best for professionals” linking to models with premium merchant deals). <span class="citation-chip-wrap"><a class="citation-chip" href="https://wplink.ai/internal-linking/affiliate-sites/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wplink.ai">[WPLink]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wplink.ai</span><span class="citation-popover-title">Internal Linking for Affiliate Sites: Complete Guide</span><span class="citation-popover-snippet">WPLinkInternal Linking for Affiliate Sites: Complete GuideJanuary 15, 2025...</span><span class="citation-popover-meta">Published: January 15, 2025</span></span></span>
+**Match the offer to the intent.** Shortlist pages should not link willy‑nilly to every review but should prioritise links that align with the reader’s intent. For example, add stronger links to reviews of products with higher‑value affiliate offers or those with better conversion rates when the intent matches (e.g., “Best for professionals” linking to models with premium merchant deals). <span class="citation-chip-wrap"><a class="citation-chip" href="https://wplink.ai/internal-linking/affiliate-sites/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wplink.ai">[WPLink]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wplink.ai</span><span class="citation-popover-title">Internal Linking for Affiliate Sites: Complete Guide</span><span class="citation-popover-snippet">Internal Linking for Affiliate Sites: Complete GuideJanuary 15, 2025...</span><span class="citation-popover-meta">Published: January 15, 2025</span></span></span>
 
-**Contextual positioning increases conversion rates.** Users presented with a link that feels like the natural next step — such as *“see how this performs for heavy use”* when the shortlist calls out heavy users — are more likely to follow through and engage with the review, increasing click probability on affiliate links within that deeper content. <span class="citation-chip-wrap"><a class="citation-chip" href="https://wplink.ai/internal-linking/affiliate-sites/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wplink.ai">[WPLink]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wplink.ai</span><span class="citation-popover-title">Internal Linking for Affiliate Sites: Complete Guide</span><span class="citation-popover-snippet">WPLinkInternal Linking for Affiliate Sites: Complete GuideJanuary 15, 2025...</span><span class="citation-popover-meta">Published: January 15, 2025</span></span></span>
+**Contextual positioning increases conversion rates.** Users presented with a link that feels like the natural next step — such as *“see how this performs for heavy use”* when the shortlist calls out heavy users — are more likely to follow through and engage with the review, increasing click probability on affiliate links within that deeper content. <span class="citation-chip-wrap"><a class="citation-chip" href="https://wplink.ai/internal-linking/affiliate-sites/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wplink.ai">[WPLink]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wplink.ai</span><span class="citation-popover-title">Internal Linking for Affiliate Sites: Complete Guide</span><span class="citation-popover-snippet">Internal Linking for Affiliate Sites: Complete GuideJanuary 15, 2025...</span><span class="citation-popover-meta">Published: January 15, 2025</span></span></span>
 
-**Reinforce conversion paths with related clusters.** A shortlist can include internal links not just to singular reviews, but to [comparison pages]({{ 'comparisons/' | relative_url }}), buying guides, or even budgeting posts that frame the decision in transactional terms. These links create a mesh of conversion opportunities rather than a straight path, meeting different reader preferences and search intents. <span class="citation-chip-wrap"><a class="citation-chip" href="https://wplink.ai/internal-linking/affiliate-sites/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wplink.ai">[WPLink]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wplink.ai</span><span class="citation-popover-title">Internal Linking for Affiliate Sites: Complete Guide</span><span class="citation-popover-snippet">WPLinkInternal Linking for Affiliate Sites: Complete GuideJanuary 15, 2025...</span><span class="citation-popover-meta">Published: January 15, 2025</span></span></span>
-
+**Reinforce conversion paths with related clusters.** A shortlist can include internal links not just to singular reviews, but to comparison pages, buying guides, or even budgeting posts that frame the decision in transactional terms. These links create a mesh of conversion opportunities rather than a straight path, meeting different reader preferences and search intents. <span class="citation-chip-wrap"><a class="citation-chip" href="https://wplink.ai/internal-linking/affiliate-sites/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wplink.ai">[WPLink]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wplink.ai</span><span class="citation-popover-title">Internal Linking for Affiliate Sites: Complete Guide</span><span class="citation-popover-snippet">Internal Linking for Affiliate Sites: Complete GuideJanuary 15, 2025...</span><span class="citation-popover-meta">Published: January 15, 2025</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/vnkjR9TE9Ok" title="Internal Linking Strategy: How to Set it Up" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=vnkjR9TE9Ok" target="_blank" rel="noopener noreferrer">Internal Linking Strategy: How to Set it Up</a></p><p class="youtube-embed-meta">Channel: Semrush &middot; Views: 15.8K &middot; Uploaded: December 2020 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=vnkjR9TE9Ok" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=vnkjR9TE9Ok">Open on YouTube</a></p></div></div></div>
 
@@ -320,19 +316,16 @@ Internal links play a commercial role beyond search optimisation:
 
 **Context first, then links.** Place links where they serve the reader. Useful spots include the product summary section (e.g., “Want full specs and performance? See the detailed review”), within the text where use‑case nuances arise, and at the end of the shortlist as a clear call to action.
 
-**Avoid orphan pages.** Every review that’s part of a commercial cluster should have at least one internal link from the shortlist or related content. Tools like internal link auditors or Google Search Console’s internal links reports can highlight pages with low internal link counts that need attention. <span class="citation-chip-wrap"><a class="citation-chip" href="https://seohandbook.co.uk/on-page-seo/internal-linking/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: seohandbook.co.uk">[SEO Handbook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">seohandbook.co.uk</span><span class="citation-popover-title">SEO Handbook Internal Linking | the seo handbook</span><span class="citation-popover-snippet">SEO HandbookInternal Linking | the seo handbookMay 19, 2026...</span><span class="citation-popover-meta">Published: May 19, 2026</span></span></span>
+**Avoid orphan pages.** Every review that’s part of a commercial cluster should have at least one internal link from the shortlist or related content. Tools like internal link auditors or Google Search Console’s internal links reports can highlight pages with low internal link counts that need attention. <span class="citation-chip-wrap"><a class="citation-chip" href="https://seohandbook.co.uk/on-page-seo/internal-linking/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: seohandbook.co.uk">[SEO Handbook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">seohandbook.co.uk</span><span class="citation-popover-title">SEO Handbook Internal Linking &#124; the seo handbook</span><span class="citation-popover-snippet">SEO HandbookInternal Linking &#124; the seo handbookMay 19, 2026...</span><span class="citation-popover-meta">Published: May 19, 2026</span></span></span>
 
-**Balance volume and relevance.** Too many links can dilute authority and confuse readers. A shortlist typically can have one clear link per item to its review, a handful to use‑case pages, and a couple to adjacent guides. Structure [internal linking]({{ 'user-journeys/' | relative_url }}) around site hierarchy, not random cross‑linking. <span class="citation-chip-wrap"><a class="citation-chip" href="https://seohandbook.co.uk/on-page-seo/internal-linking/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: seohandbook.co.uk">[SEO Handbook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">seohandbook.co.uk</span><span class="citation-popover-title">SEO Handbook Internal Linking | the seo handbook</span><span class="citation-popover-snippet">SEO HandbookInternal Linking | the seo handbookMay 19, 2026...</span><span class="citation-popover-meta">Published: May 19, 2026</span></span></span>
-
+**Balance volume and relevance.** Too many links can dilute authority and confuse readers. A shortlist typically can have one clear link per item to its review, a handful to use‑case pages, and a couple to adjacent guides. Structure internal linking around site hierarchy, not random cross‑linking. <span class="citation-chip-wrap"><a class="citation-chip" href="https://seohandbook.co.uk/on-page-seo/internal-linking/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: seohandbook.co.uk">[SEO Handbook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">seohandbook.co.uk</span><span class="citation-popover-title">SEO Handbook Internal Linking &#124; the seo handbook</span><span class="citation-popover-snippet">SEO HandbookInternal Linking &#124; the seo handbookMay 19, 2026...</span><span class="citation-popover-meta">Published: May 19, 2026</span></span></span>
 
 <img src="{{ "/assets/images/making_money_from_cr_f649af_best_of_pages_dd07ed_shortlist_link_paths_fff52e-Illustration-3-dark.svg" | relative_url }}" alt="Link paths illustration 3" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_best_of_pages_dd07ed_shortlist_link_paths_fff52e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_best_of_pages_dd07ed_shortlist_link_paths_fff52e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Summary
 
-Broad shortlist pages in an affiliate site are valuable discovery points, but their commercial potential unfolds only when internal links direct readers down the decision funnel. Links from shortlists to detailed reviews and targeted use‑case pages build clear conversion paths, reinforce site structure, enhance SEO performance, and help match offers to intent. Done right, these internal links are both a user‑experience prerequisite and a revenue‑optimisation lever. <span class="citation-chip-wrap"><a class="citation-chip" href="https://wplink.ai/internal-linking/affiliate-sites/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wplink.ai">[WPLink]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wplink.ai</span><span class="citation-popover-title">Internal Linking for Affiliate Sites: Complete Guide</span><span class="citation-popover-snippet">WPLinkInternal Linking for Affiliate Sites: Complete GuideJanuary 15, 2025...</span><span class="citation-popover-meta">Published: January 15, 2025</span></span></span>
+Broad shortlist pages in an affiliate site are valuable discovery points, but their commercial potential unfolds only when internal links direct readers down the decision funnel. Links from shortlists to detailed reviews and targeted use‑case pages build clear conversion paths, reinforce site structure, enhance SEO performance, and help match offers to intent. Done right, these internal links are both a user‑experience prerequisite and a revenue‑optimisation lever. <span class="citation-chip-wrap"><a class="citation-chip" href="https://wplink.ai/internal-linking/affiliate-sites/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wplink.ai">[WPLink]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wplink.ai</span><span class="citation-popover-title">Internal Linking for Affiliate Sites: Complete Guide</span><span class="citation-popover-snippet">Internal Linking for Affiliate Sites: Complete GuideJanuary 15, 2025...</span><span class="citation-popover-meta">Published: January 15, 2025</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/kpz9-QZRYn8" title="How to use Internal Links to Boost Google Rankings" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=kpz9-QZRYn8" target="_blank" rel="noopener noreferrer">How to use Internal Links to Boost Google Rankings</a></p><p class="youtube-embed-meta">Channel: Ahrefs &middot; Views: 74.2K &middot; Uploaded: June 2023 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=kpz9-QZRYn8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=kpz9-QZRYn8">Open on YouTube</a></p></div></div></div>
-
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/QrdT7n7sTgw" title="How to Use Link Whisper to Increase Affiliate Conversions" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=QrdT7n7sTgw" target="_blank" rel="noopener noreferrer">How to Use Link Whisper to Increase Affiliate Conversions</a></p><p class="youtube-embed-meta">Channel: She Knows SEO &middot; Views: 724 &middot; Uploaded: June 2023 &middot; Length: 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=QrdT7n7sTgw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=QrdT7n7sTgw">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -420,7 +413,7 @@ Broad shortlist pages in an affiliate site are valuable discovery points, but th
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -430,111 +423,36 @@ Broad shortlist pages in an affiliate site are valuable discovery points, but th
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=SEO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=link-paths-turning-shortlists-into-profitable-click-paths-making-money-from-creating-websites-co-seo-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Seo In Guk Special Issue 2021 K-POP Magazine Poster Postcard"><img src="{{ '/assets/images/marketplace-covers/30d7f7378c210937ebcb.jpg' | relative_url }}" alt="Listing image for Seo In Guk Special Issue 2021 K-POP Magazine Poster Postcard" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=review+site+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=turning-shortlists-into-profitable-click-paths-review-site-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="review site t shirt" data-ebay-reference="turning-shortlists-into-profitable-click-paths-review-site-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VTG 1993 Woodstock Awareness Review Save The Site Music Festival T-Shirt LARGE"><img src="https://i.ebayimg.com/images/g/EncAAOSw3zpmIT3w/s-l225.jpg" alt="Listing image for VTG 1993 Woodstock Awareness Review Save The Site Music Festival T-Shirt LARGE" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=SEO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=link-paths-turning-shortlists-into-profitable-click-paths-making-money-from-creating-websites-co-seo-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Seo In Guk Special Issue 2021 K-POP Magazine Poster Postcard</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=review+site+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=turning-shortlists-into-profitable-click-paths-review-site-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="review site t shirt" data-ebay-reference="turning-shortlists-into-profitable-click-paths-review-site-t-shirt" target="_blank" rel="sponsored noopener noreferrer">VTG 1993 Woodstock Awareness Review Save The Site Music Festival T-Shirt LARGE</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=SEO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=link-paths-turning-shortlists-into-profitable-click-paths-making-money-from-creating-websites-co-seo-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for SEO poster">Search <span data-ebay-domain-label>eBay.com</span>: SEO poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=review+site+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=turning-shortlists-into-profitable-click-paths-review-site-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="review site t shirt" data-ebay-reference="turning-shortlists-into-profitable-click-paths-review-site-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for review site t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: review site t shirt</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=SEO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=link-paths-turning-shortlists-into-profitable-click-paths-making-money-from-creating-websites-co-seo-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=SEO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=link-paths-turning-shortlists-into-profitable-click-paths-making-money-from-creating-websites-co-seo-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Tyler Braden Tour Seo Oct 2026 Poster"><img src="{{ '/assets/images/marketplace-covers/8cbb93ee7fa25449bbe1.jpg' | relative_url }}" alt="Listing image for Tyler Braden Tour Seo Oct 2026 Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=SEO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=link-paths-turning-shortlists-into-profitable-click-paths-making-money-from-creating-websites-co-seo-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Tyler Braden Tour Seo Oct 2026 Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=SEO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=link-paths-turning-shortlists-into-profitable-click-paths-making-money-from-creating-websites-co-seo-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for SEO poster">Search <span data-ebay-domain-label>eBay.com</span>: SEO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=SEO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=link-paths-turning-shortlists-into-profitable-click-paths-making-money-from-creating-websites-co-seo-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=SEO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=link-paths-turning-shortlists-into-profitable-click-paths-making-money-from-creating-websites-co-seo-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Itaewon Class Park Seo Jun Revenge Movie Wall Art Home Decor - POSTER 20x30"><img src="{{ '/assets/images/marketplace-covers/cb5bdeaf4fcdab24ead0.jpg' | relative_url }}" alt="Listing image for Itaewon Class Park Seo Jun Revenge Movie Wall Art Home Decor - POSTER 20x30" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=SEO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=link-paths-turning-shortlists-into-profitable-click-paths-making-money-from-creating-websites-co-seo-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Itaewon Class Park Seo Jun Revenge Movie Wall Art Home Decor - POSTER 20x30</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=SEO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=link-paths-turning-shortlists-into-profitable-click-paths-making-money-from-creating-websites-co-seo-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for SEO poster">Search <span data-ebay-domain-label>eBay.com</span>: SEO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=SEO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=link-paths-turning-shortlists-into-profitable-click-paths-making-money-from-creating-websites-co-seo-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=SEO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=link-paths-turning-shortlists-into-profitable-click-paths-making-money-from-creating-websites-co-seo-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Seo In Guk 10P Poster Pack (A4 Size) K-Actors 02"><img src="{{ '/assets/images/marketplace-covers/fd08c0f5ff94b24013fa.jpg' | relative_url }}" alt="Listing image for Seo In Guk 10P Poster Pack (A4 Size) K-Actors 02" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=SEO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=link-paths-turning-shortlists-into-profitable-click-paths-making-money-from-creating-websites-co-seo-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Seo In Guk 10P Poster Pack (A4 Size) K-Actors 02</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=SEO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=link-paths-turning-shortlists-into-profitable-click-paths-making-money-from-creating-websites-co-seo-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for SEO poster">Search <span data-ebay-domain-label>eBay.com</span>: SEO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=SEO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=link-paths-turning-shortlists-into-profitable-click-paths-making-money-from-creating-websites-co-seo-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=SEO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=link-paths-turning-shortlists-into-profitable-click-paths-making-money-from-creating-websites-co-seo-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=SEO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=link-paths-turning-shortlists-into-profitable-click-paths-making-money-from-creating-websites-co-seo-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Kim Seo-hyung (???) Korean actress Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/34a046ae7cbe47738f18.jpg' | relative_url }}" alt="Listing image for Kim Seo-hyung (???) Korean actress Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=SEO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=link-paths-turning-shortlists-into-profitable-click-paths-making-money-from-creating-websites-co-seo-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Kim Seo-hyung (???) Korean actress Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=SEO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=link-paths-turning-shortlists-into-profitable-click-paths-making-money-from-creating-websites-co-seo-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for SEO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: SEO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=SEO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=link-paths-turning-shortlists-into-profitable-click-paths-making-money-from-creating-websites-co-seo-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=review+site+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=turning-shortlists-into-profitable-click-paths-review-site-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="review site t shirt" data-ebay-reference="turning-shortlists-into-profitable-click-paths-review-site-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -542,47 +460,15 @@ Broad shortlist pages in an affiliate site are valuable discovery points, but th
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=SEO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=link-paths-turning-shortlists-into-profitable-click-paths-making-money-from-creating-websites-co-seo-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Seo Manager Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/fd70ca8d56f3814ec62d.jpg' | relative_url }}" alt="Listing image for Seo Manager Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=review+site+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=turning-shortlists-into-profitable-click-paths-review-site-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="review site t shirt" data-ebay-reference="turning-shortlists-into-profitable-click-paths-review-site-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NWT ANTHRO Stretchy Cropped Tank Workout Yoga Size S/M Good Reviews On Site New"><img src="https://i.ebayimg.com/images/g/EQUAAeSwEa1pbQ1k/s-l225.jpg" alt="Listing image for NWT ANTHRO Stretchy Cropped Tank Workout Yoga Size S/M Good Reviews On Site New" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=SEO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=link-paths-turning-shortlists-into-profitable-click-paths-making-money-from-creating-websites-co-seo-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Seo Manager Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=review+site+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=turning-shortlists-into-profitable-click-paths-review-site-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="review site t shirt" data-ebay-reference="turning-shortlists-into-profitable-click-paths-review-site-t-shirt" target="_blank" rel="sponsored noopener noreferrer">NWT ANTHRO Stretchy Cropped Tank Workout Yoga Size S/M Good Reviews On Site New</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=SEO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=link-paths-turning-shortlists-into-profitable-click-paths-making-money-from-creating-websites-co-seo-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for SEO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: SEO poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=review+site+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=turning-shortlists-into-profitable-click-paths-review-site-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="review site t shirt" data-ebay-reference="turning-shortlists-into-profitable-click-paths-review-site-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for review site t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: review site t shirt</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=SEO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=link-paths-turning-shortlists-into-profitable-click-paths-making-money-from-creating-websites-co-seo-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=SEO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=link-paths-turning-shortlists-into-profitable-click-paths-making-money-from-creating-websites-co-seo-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Came I Saw I Optimized SEO Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/f64fc1c1bf9e5ce9eebf.jpg' | relative_url }}" alt="Listing image for I Came I Saw I Optimized SEO Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=SEO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=link-paths-turning-shortlists-into-profitable-click-paths-making-money-from-creating-websites-co-seo-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Came I Saw I Optimized SEO Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=SEO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=link-paths-turning-shortlists-into-profitable-click-paths-making-money-from-creating-websites-co-seo-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for SEO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: SEO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=SEO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=link-paths-turning-shortlists-into-profitable-click-paths-making-money-from-creating-websites-co-seo-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=SEO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=link-paths-turning-shortlists-into-profitable-click-paths-making-money-from-creating-websites-co-seo-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SEO Eat Sleep Repeat Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/91fcd062b89a0daa23ef.jpg' | relative_url }}" alt="Listing image for SEO Eat Sleep Repeat Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=SEO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=link-paths-turning-shortlists-into-profitable-click-paths-making-money-from-creating-websites-co-seo-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">SEO Eat Sleep Repeat Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=SEO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=link-paths-turning-shortlists-into-profitable-click-paths-making-money-from-creating-websites-co-seo-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for SEO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: SEO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=SEO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=link-paths-turning-shortlists-into-profitable-click-paths-making-money-from-creating-websites-co-seo-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=review+site+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=turning-shortlists-into-profitable-click-paths-review-site-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="review site t shirt" data-ebay-reference="turning-shortlists-into-profitable-click-paths-review-site-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -590,7 +476,7 @@ Broad shortlist pages in an affiliate site are valuable discovery points, but th
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=SEO+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=link-paths-turning-shortlists-into-profitable-click-paths-making-money-from-creating-websites-co-seo-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=review+site+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=turning-shortlists-into-profitable-click-paths-review-site-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="review site t shirt" data-ebay-reference="turning-shortlists-into-profitable-click-paths-review-site-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -667,17 +553,31 @@ Broad shortlist pages in an affiliate site are valuable discovery points, but th
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -690,42 +590,73 @@ Broad shortlist pages in an affiliate site are valuable discovery points, but th
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -740,12 +671,17 @@ Broad shortlist pages in an affiliate site are valuable discovery points, but th
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
@@ -756,14 +692,14 @@ Broad shortlist pages in an affiliate site are valuable discovery points, but th
 1. <a id="endnote-1"></a>
    Source: wplink.ai  
    Title: Internal Linking for Affiliate Sites: Complete Guide  
-   Link: [https://wplink.ai/internal-linking/affiliate-sites/](https://wplink.ai/internal-linking/affiliate-sites/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>WPLinkInternal Linking for Affiliate Sites: Complete GuideJanuary 15, 2025...</p></details>
+   Link: <a href="https://wplink.ai/internal-linking/affiliate-sites/" target="_blank" rel="noopener noreferrer nofollow">https://wplink.ai/internal-linking/affiliate-sites/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Internal Linking for Affiliate Sites: Complete GuideJanuary 15, 2025...</p></details>
    Published: January 15, 2025  
 
 2. <a id="endnote-2"></a>
    Source: seohandbook.co.uk  
    Title: SEO Handbook Internal Linking | the seo handbook  
-   Link: [https://seohandbook.co.uk/on-page-seo/internal-linking/](https://seohandbook.co.uk/on-page-seo/internal-linking/)  
+   Link: <a href="https://seohandbook.co.uk/on-page-seo/internal-linking/" target="_blank" rel="noopener noreferrer nofollow">https://seohandbook.co.uk/on-page-seo/internal-linking/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>SEO HandbookInternal Linking | the seo handbookMay 19, 2026...</p></details>
    Published: May 19, 2026  
 
@@ -771,64 +707,64 @@ Broad shortlist pages in an affiliate site are valuable discovery points, but th
 
 3. <a id="endnote-3"></a>
    Source: lawrencehitches.com  
-   Link: [https://www.lawrencehitches.com/ecommerce-internal-linking-strategy/](https://www.lawrencehitches.com/ecommerce-internal-linking-strategy/)  
+   Link: <a href="https://www.lawrencehitches.com/ecommerce-internal-linking-strategy/" target="_blank" rel="noopener noreferrer nofollow">https://www.lawrencehitches.com/ecommerce-internal-linking-strategy/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>April 2, 2026 — Content &amp; On-Page SEO April 02, 2026 5 min read ECOMMERCE INTERNAL LINKING STRATEGY: CATEGORY, PRODUCT, AND CONTENT PAGES...</p></details>
    Published: April 2, 2026  
 
 4. <a id="endnote-4"></a>
    Source: lillianpurge.co.uk  
-   Link: [https://www.lillianpurge.co.uk/internal-linking-in-ecommerce-web-design-explained](https://www.lillianpurge.co.uk/internal-linking-in-ecommerce-web-design-explained)  
+   Link: <a href="https://www.lillianpurge.co.uk/internal-linking-in-ecommerce-web-design-explained" target="_blank" rel="noopener noreferrer nofollow">https://www.lillianpurge.co.uk/internal-linking-in-ecommerce-web-design-explained</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Internal linking in ecommerce web design explained | Lillian PurgeINTERNAL LINKING IN ECOMMERCE WEB DESIGN EXPLAINED | LILLIAN PURGE Lear...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: thebacklinkcompany.com  
-   Link: [https://thebacklinkcompany.com/en/blog/basics/internal-linking](https://thebacklinkcompany.com/en/blog/basics/internal-linking)  
+   Link: <a href="https://thebacklinkcompany.com/en/blog/basics/internal-linking" target="_blank" rel="noopener noreferrer nofollow">https://thebacklinkcompany.com/en/blog/basics/internal-linking</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>January 1, 1970 — BEST PRACTICES FOR INTERNAL LINKING To get the SEO power of internal linking and ensure optimal domain authority flow...</p></details>
    Published: January 1, 1970  
 
 6. <a id="endnote-6"></a>
    Source: avidiatech.com  
    Title: Internal Linking for e Commerce: How to Link Brands and Categories the Right Way  
-   Link: [https://www.avidiatech.com/blog/internal-linking-ecommerce/](https://www.avidiatech.com/blog/internal-linking-ecommerce/)  
+   Link: <a href="https://www.avidiatech.com/blog/internal-linking-ecommerce/" target="_blank" rel="noopener noreferrer nofollow">https://www.avidiatech.com/blog/internal-linking-ecommerce/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Internal Linking for eCommerce: How to Link Brands and Categories the Right Way - AvidiaTechDecember 22, 2025 — INTERNAL LINKING FOR ECOM...</p></details>
    Published: December 22, 2025  
 
 7. <a id="endnote-7"></a>
    Source: thestacc.com  
    Title: Covers topic clusters, anchor text, the Reasonable Surfer model, and audits  
-   Link: [https://thestacc.com/blog/internal-linking-strategy/](https://thestacc.com/blog/internal-linking-strategy/)  
+   Link: <a href="https://thestacc.com/blog/internal-linking-strategy/" target="_blank" rel="noopener noreferrer nofollow">https://thestacc.com/blog/internal-linking-strategy/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Internal Linking Strategy: The Complete Guide (2026) | theStaccMarch 29, 2026 — INTERNAL LINKING STRATEGY: THE COMPLETE GUIDE (2026) Buil...</p></details>
    Published: March 29, 2026  
 
 8. <a id="endnote-8"></a>
    Source: seodubaipro.com  
    Title: However, practical SEO guidelines and real-world testing point t  
-   Link: [https://seodubaipro.com/on-page-seo/internal-linking-seo-expert-guide/](https://seodubaipro.com/on-page-seo/internal-linking-seo-expert-guide/)  
+   Link: <a href="https://seodubaipro.com/on-page-seo/internal-linking-seo-expert-guide/" target="_blank" rel="noopener noreferrer nofollow">https://seodubaipro.com/on-page-seo/internal-linking-seo-expert-guide/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Internal Linking SEO: The Complete Expert GuideMay 3, 2026 — HOW MANY INTERNAL LINKS PER PAGE SEO: THE PRACTICAL ANSWER There is no offic...</p></details>
    Published: May 3, 2026  
 
 9. <a id="endnote-9"></a>
    Source: pbnlinks.agency  
    Title: PB N Links for Affiliate Sites: Rank Reviews & Money Pages  
-   Link: [https://pbnlinks.agency/pbn-links-for-affiliate-sites/](https://pbnlinks.agency/pbn-links-for-affiliate-sites/)  
+   Link: <a href="https://pbnlinks.agency/pbn-links-for-affiliate-sites/" target="_blank" rel="noopener noreferrer nofollow">https://pbnlinks.agency/pbn-links-for-affiliate-sites/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>PBN Links for Affiliate Sites: Rank Reviews &amp; Money PagesApril 5, 2026 — PBN LINKS Image: PBN Links for Affiliate Sites Guide for Ranking...</p></details>
    Published: April 5, 2026  
 
 10. <a id="endnote-10"></a>
    Source: clickshark.co.uk  
    Title: Best Internal Linking Strategies for Affiliate Sites  
-   Link: [https://clickshark.co.uk/internal-linking-for-affiliate-sites/](https://clickshark.co.uk/internal-linking-for-affiliate-sites/)  
+   Link: <a href="https://clickshark.co.uk/internal-linking-for-affiliate-sites/" target="_blank" rel="noopener noreferrer nofollow">https://clickshark.co.uk/internal-linking-for-affiliate-sites/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>October 17, 2025 — BEST INTERNAL LINKING STRATEGIES FOR AFFILIATE SITES Image: Internal Linking Strategies for Affiliate Sites Did you kn...</p></details>
    Published: October 17, 2025  
 
 11. <a id="endnote-11"></a>
    Source: ahrefs.com  
-   Link: [https://ahrefs.com/blog/de/internal-links-for-seo/](https://ahrefs.com/blog/de/internal-links-for-seo/)  
+   Link: <a href="https://ahrefs.com/blog/de/internal-links-for-seo/" target="_blank" rel="noopener noreferrer nofollow">https://ahrefs.com/blog/de/internal-links-for-seo/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Internal Links for SEO: An Actionable GuideMarch 10, 2026 — INTERNAL LINKS FOR SEO: AN ACTIONABLE GUIDE By Chris Haines, Mateusz Makosie...</p></details>
    Published: March 10, 2026  
 
 12. <a id="endnote-12"></a>
    Source: youtube.com  
    Title: How to Use Link Whisper to Increase Affiliate Conversions  
-   Link: [http://www.youtube.com/watch?v=QrdT7n7sTgw](http://www.youtube.com/watch?v=QrdT7n7sTgw)  
+   Link: <a href="http://www.youtube.com/watch?v=QrdT7n7sTgw" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=QrdT7n7sTgw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Internal linking affiliate website silo structure topical authority How to Make a Silo Structure? - Step-by-Step Guide To Rank No #1 Rank...</p></details>

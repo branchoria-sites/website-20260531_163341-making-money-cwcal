@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /comparisons/
 nav_short_title: Disclosures
 title: When Comparison Pages Start Looking Misleading
-title_full: When Comparison Pages Start Looking Misleading | Comparisons
+title_full: When Comparison Pages Start Looking Misleading
 display_title_short: Disclosures
 display_title: Disclosures
 heading_title: When Comparison Pages Start Looking Misleading
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-31 15:40:53'
-parent_title: Why A Versus B Pages Drive Clicks | Affiliate Engines
+parent_title: Why A Versus B Pages Drive Clicks
 parent_permalink: /comparisons/
 parent_nav_short_title: Comparisons
 parent_heading_title: Why A Versus B Pages Drive Clicks
@@ -274,18 +274,16 @@ image: /assets/images/making_money_from_cr_f649af_comparison_pages_2aff90_affili
 
 ## Introduction
 
-Affiliate [comparison pages]({{ 'comparisons/' | relative_url }}) are powerful tools in affiliate‑driven sites: they help readers decide between named alternatives at the moment they’re most ready to take action. But when the commercial basis of that comparison isn’t clear, these pages can quickly start looking misleading — damaging user trust, inviting regulatory scrutiny, and ultimately undermining the very conversions they’re meant to generate. This page explains the **specific [disclosure]({{ 'disclosure/' | relative_url }}) risks** associated with affiliate comparison pages, why they matter for both users and publishers, and how clear, prominent transparency protects trust and long‑term revenue from affiliate monetisation.
-
+Affiliate comparison pages are powerful tools in affiliate‑driven sites: they help readers decide between named alternatives at the moment they’re most ready to take action. But when the commercial basis of that comparison isn’t clear, these pages can quickly start looking misleading — damaging user trust, inviting regulatory scrutiny, and ultimately undermining the very conversions they’re meant to generate. This page explains the **specific [disclosure]({{ 'disclosure/' | relative_url }}) risks** associated with affiliate comparison pages, why they matter for both users and publishers, and how clear, prominent transparency protects trust and long‑term revenue from affiliate monetisation.
 
 <img src="{{ "/assets/images/making_money_from_cr_f649af_comparison_pages_2aff90_affiliate_disclosure_804e5a-Illustration-1-dark.svg" | relative_url }}" alt="Disclosures illustration 1" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_comparison_pages_2aff90_affiliate_disclosure_804e5a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_comparison_pages_2aff90_affiliate_disclosure_804e5a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What Material Connections Mean to Readers — and Why They Must Be Clear
 
-Affiliate relationships are “material connections”: they link the publisher’s economic interest to reader behaviour. Regulators like the UK’s **Advertising Standards Authority (ASA)** and consumer watchdogs, as well as counterparts in the US (Federal Trade Commission), require that these connections be disclosed in a way consumers can see and understand before they click on offers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://clarigital.com/codex/affiliate-marketing/affiliate-compliance-regulation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: clarigital.com">[Clarigital]</a><span class="citation-popover" role="note"><span class="citation-popover-source">clarigital.com</span><span class="citation-popover-title">Affiliate Compliance &amp; FTC Disclosure: The Legal | Digital Codex</span><span class="citation-popover-snippet">ClarigitalAffiliate Compliance &amp; FTC Disclosure: The Legal | Digital CodexApril 6, 2026...</span><span class="citation-popover-meta">Published: April 6, 2026</span></span></span>
+Affiliate relationships are “material connections”: they link the publisher’s economic interest to reader behaviour. Regulators like the UK’s **Advertising Standards Authority (ASA)** and consumer watchdogs, as well as counterparts in the US (Federal Trade Commission), require that these connections be disclosed in a way consumers can see and understand before they click on offers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://clarigital.com/codex/affiliate-marketing/affiliate-compliance-regulation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: clarigital.com">[Clarigital]</a><span class="citation-popover" role="note"><span class="citation-popover-source">clarigital.com</span><span class="citation-popover-title">Affiliate Compliance &amp; FTC Disclosure: The Legal &#124; Digital Codex</span><span class="citation-popover-snippet">Affiliate Compliance &amp; FTC Disclosure: The Legal &#124; Digital CodexApril 6, 2026...</span><span class="citation-popover-meta">Published: April 6, 2026</span></span></span>
 
-In practice, this means a comparison page should tell the reader — *up front* — that it uses affiliate links and may earn a commission if a purchase or signup follows. Simply burying an affiliate notice in a general footer or an “About” page doesn’t usually count as sufficient disclosure. The ASA has taken enforcement action against comparison and review sites whose [commercial intent]({{ 'intent-topics/' | relative_url }}) remained unclear to users navigating the page itself, even if the site had an “About” or disclaimer elsewhere. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cms.law/en/gbr/legal-updates/asa-upholds-complaints-against-four-misleading-product-review-websites" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cms.law">[CMS Law]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cms.law</span><span class="citation-popover-title">Law ASA Rulings on Misleading Product Review Websites</span><span class="citation-popover-snippet">ASA Rulings on Misleading Product Review WebsitesMay 13, 2026...</span><span class="citation-popover-meta">Published: May 13, 2026</span></span></span>
+In practice, this means a comparison page should tell the reader — *up front* — that it uses affiliate links and may earn a commission if a purchase or signup follows. Simply burying an affiliate notice in a general footer or an “About” page doesn’t usually count as sufficient disclosure. The ASA has taken enforcement action against comparison and review sites whose commercial intent remained unclear to users navigating the page itself, even if the site had an “About” or disclaimer elsewhere. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cms.law/en/gbr/legal-updates/asa-upholds-complaints-against-four-misleading-product-review-websites" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cms.law">[CMS Law]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cms.law</span><span class="citation-popover-title">Law ASA Rulings on Misleading Product Review Websites</span><span class="citation-popover-snippet">ASA Rulings on Misleading Product Review WebsitesMay 13, 2026...</span><span class="citation-popover-meta">Published: May 13, 2026</span></span></span>
 
 For readers, the risk of hidden affiliate relationships isn’t just legal nicety. Without prominent transparency, users may assume they’re seeing an independent, unbiased comparison when, in reality, the ordering of products, the [wording]({{ 'wording/' | relative_url }}) of the description, or the selection of alternatives could be influenced by revenue potential. Misleading users in this way undermines trust — and trust is the first conversion step in affiliate workflows. If readers feel duped or unable to distinguish editorial judgement from commercial interest, they’re less likely to engage with links at all.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/LW7lcyDlezE" title="6 Legal Requirements for a Website | Website Legal Documents | Legal Compliance" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=LW7lcyDlezE" target="_blank" rel="noopener noreferrer">6 Legal Requirements for a Website | Website Legal Documents | Legal Compliance</a></p><p class="youtube-embed-meta">Channel: Elizabeth Potts Weinstein &middot; Views: 13.1K &middot; Uploaded: December 2020 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=LW7lcyDlezE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=LW7lcyDlezE">Open on YouTube</a></p></div></div></div>
 
@@ -300,21 +298,19 @@ This distortion has two serious effects:
 
 Importantly, this distortion risk exists even when affiliate programmes are benign and readers don’t pay more. The harm is in *how* the comparison is presented — if users believe they’re seeing objective ranking rather than a monetised view, that’s exactly where disclosure prevents a credibility gap.
 
-
 <img src="{{ "/assets/images/making_money_from_cr_f649af_comparison_pages_2aff90_affiliate_disclosure_804e5a-Illustration-2-dark.svg" | relative_url }}" alt="Disclosures illustration 2" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_comparison_pages_2aff90_affiliate_disclosure_804e5a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_comparison_pages_2aff90_affiliate_disclosure_804e5a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Clearer Ways to Label Affiliate Comparisons and Avoid Misleading Impressions
 
-Good disclosure isn’t just about legal compliance; it’s a **trust signal that supports conversion** rather than undermines it. Studies of affiliate marketing disclosure (including work on social platforms) show that users often don’t identify affiliate marketing as advertising unless it’s explicitly labelled. Short, vague notices buried deep in the footer won’t help users recognise the commercial relationship. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1809.00620" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivEndorsements on Social Media: An Empirical Study of Affiliate Marketing Disclosures on YouTube and PinterestSeptember 3, 2018...</span><span class="citation-popover-meta">Published: September 3, 2018</span></span></span>
+Good disclosure isn’t just about legal compliance; it’s a **trust signal that supports conversion** rather than undermines it. Studies of affiliate marketing disclosure (including work on social platforms) show that users often don’t identify affiliate marketing as advertising unless it’s explicitly labelled. Short, vague notices buried deep in the footer won’t help users recognise the commercial relationship. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1809.00620" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Endorsements on Social Media: An Empirical Study of Affiliate Marketing Disclosures on YouTube and PinterestSeptember 3, 2018...</span><span class="citation-popover-meta">Published: September 3, 2018</span></span></span>
 
 Here are principles that reduce disclosure risk without compromising the reader experience:
 
-* **Place disclosures early** — ideally before the first affiliate link in the comparison text. This aligns with both regulatory expectations and user cognition: people understand a page’s commercial context before they make a choice. <span class="citation-chip-wrap"><a class="citation-chip" href="https://clarigital.com/codex/affiliate-marketing/affiliate-compliance-regulation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: clarigital.com">[Clarigital]</a><span class="citation-popover" role="note"><span class="citation-popover-source">clarigital.com</span><span class="citation-popover-title">Affiliate Compliance &amp; FTC Disclosure: The Legal | Digital Codex</span><span class="citation-popover-snippet">ClarigitalAffiliate Compliance &amp; FTC Disclosure: The Legal | Digital CodexApril 6, 2026...</span><span class="citation-popover-meta">Published: April 6, 2026</span></span></span>
-* **Use clear, plain language** — phrases like “This comparison contains affiliate links; we may earn a commission at no extra cost to you if you click through and buy” are widely understood. Avoid vague terms like “partners” or “sponsored placements” without explanation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://clarigital.com/codex/affiliate-marketing/affiliate-compliance-regulation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: clarigital.com">[Clarigital]</a><span class="citation-popover" role="note"><span class="citation-popover-source">clarigital.com</span><span class="citation-popover-title">Affiliate Compliance &amp; FTC Disclosure: The Legal | Digital Codex</span><span class="citation-popover-snippet">ClarigitalAffiliate Compliance &amp; FTC Disclosure: The Legal | Digital CodexApril 6, 2026...</span><span class="citation-popover-meta">Published: April 6, 2026</span></span></span>
+* **Place disclosures early** — ideally before the first affiliate link in the comparison text. This aligns with both regulatory expectations and user cognition: people understand a page’s commercial context before they make a choice. <span class="citation-chip-wrap"><a class="citation-chip" href="https://clarigital.com/codex/affiliate-marketing/affiliate-compliance-regulation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: clarigital.com">[Clarigital]</a><span class="citation-popover" role="note"><span class="citation-popover-source">clarigital.com</span><span class="citation-popover-title">Affiliate Compliance &amp; FTC Disclosure: The Legal &#124; Digital Codex</span><span class="citation-popover-snippet">Affiliate Compliance &amp; FTC Disclosure: The Legal &#124; Digital CodexApril 6, 2026...</span><span class="citation-popover-meta">Published: April 6, 2026</span></span></span>
+* **Use clear, plain language** — phrases like “This comparison contains affiliate links; we may earn a commission at no extra cost to you if you click through and buy” are widely understood. Avoid vague terms like “partners” or “sponsored placements” without explanation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://clarigital.com/codex/affiliate-marketing/affiliate-compliance-regulation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: clarigital.com">[Clarigital]</a><span class="citation-popover" role="note"><span class="citation-popover-source">clarigital.com</span><span class="citation-popover-title">Affiliate Compliance &amp; FTC Disclosure: The Legal &#124; Digital Codex</span><span class="citation-popover-snippet">Affiliate Compliance &amp; FTC Disclosure: The Legal &#124; Digital CodexApril 6, 2026...</span><span class="citation-popover-meta">Published: April 6, 2026</span></span></span>
 * **Repeat where needed** — if a long comparison includes multiple sections or [tables]({{ 'tables/' | relative_url }}), consider brief inline disclosures near significant blocks of affiliate links, especially if they occur deeper down the page. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mv3marketing.com/glossary/affiliate-disclosure/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mv3marketing.com">[MV3 Marketing]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mv3marketing.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 * **Avoid implied independence** — words like “independent” or “expert” can mislead if there is a material affiliate connection. If you use such descriptors, pair them with transparent context about how revenue is generated and how you safeguard editorial integrity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cms.law/en/gbr/legal-updates/asa-upholds-complaints-against-four-misleading-product-review-websites" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cms.law">[CMS Law]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cms.law</span><span class="citation-popover-title">Law ASA Rulings on Misleading Product Review Websites</span><span class="citation-popover-snippet">ASA Rulings on Misleading Product Review WebsitesMay 13, 2026...</span><span class="citation-popover-meta">Published: May 13, 2026</span></span></span>
 
 Clear, prominent disclosure doesn’t just reduce regulatory risk; it increases [trust signals]({{ 'trust-signals/' | relative_url }}) that help readers make informed choices. Many affiliate publishers find that transparency actually *improves* engagement, because users feel they’re dealing with honest information rather than a disguised ad. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mv3marketing.com/glossary/affiliate-disclosure/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mv3marketing.com">[MV3 Marketing]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mv3marketing.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/IaYqlvor_qM" title="Setup Affiliate Disclaimer on Wordpress + FTC Affiliate Link Disclosure Examples" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=IaYqlvor_qM" target="_blank" rel="noopener noreferrer">Setup Affiliate Disclaimer on Wordpress + FTC Affiliate Link Disclosure Examples</a></p><p class="youtube-embed-meta">Channel: HowToWebmaster &middot; Views: 2.4K &middot; Uploaded: May 2021 &middot; Length: 4 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=IaYqlvor_qM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=IaYqlvor_qM">Open on YouTube</a></p></div></div></div>
 
@@ -325,10 +321,9 @@ Insufficient disclosure on comparison pages poses a set of practical risks to af
 * **User trust erosion:** Readers who feel misled by hidden monetisation are less likely to return or click affiliate links, reducing revenue potential.
 * **Regulatory enforcement:** Authorities like the ASA enforce clear recognition of marketing communications; vague or buried disclosures can attract sanctions or orders to amend content. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cms.law/en/gbr/legal-updates/asa-upholds-complaints-against-four-misleading-product-review-websites" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cms.law">[CMS Law]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cms.law</span><span class="citation-popover-title">Law ASA Rulings on Misleading Product Review Websites</span><span class="citation-popover-snippet">ASA Rulings on Misleading Product Review WebsitesMay 13, 2026...</span><span class="citation-popover-meta">Published: May 13, 2026</span></span></span>
 * **Brand credibility damage:** Sites known for undisclosed affiliate bias find it harder to build repeat traffic and earn authority, hurting long‑term monetisation.
-* **SEO quality perceptions:** While affiliate links alone don’t harm search performance, search engines treat pages with misleading or thin content more critically. Lack of transparency can compound that quality issue. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lillianpurge.co.uk/do-affiliate-links-hurt-seo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lillianpurge.co.uk">[Lillian Purge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lillianpurge.co.uk</span><span class="citation-popover-title">Lillian Purge Do affiliate links hurt SEO | Lillian Purge</span><span class="citation-popover-snippet">Lillian Purge Do affiliate links hurt SEO | Lillian Purge</span></span></span>
+* **SEO quality perceptions:** While affiliate links alone don’t harm search performance, search engines treat pages with misleading or thin content more critically. Lack of transparency can compound that quality issue. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lillianpurge.co.uk/do-affiliate-links-hurt-seo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lillianpurge.co.uk">[Lillian Purge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lillianpurge.co.uk</span><span class="citation-popover-title">Lillian Purge Do affiliate links hurt SEO &#124; Lillian Purge</span><span class="citation-popover-snippet">Lillian Purge Do affiliate links hurt SEO &#124; Lillian Purge</span></span></span>
 
 In short, disclosure is not a nuisance checkbox — it’s a **core component of trust architecture** for comparison pages in affiliate revenue systems. Done well, it protects you legally and commercially; done poorly, it risks both your audience and your affiliate partnerships.
-
 
 <img src="{{ "/assets/images/making_money_from_cr_f649af_comparison_pages_2aff90_affiliate_disclosure_804e5a-Illustration-3-dark.svg" | relative_url }}" alt="Disclosures illustration 3" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_comparison_pages_2aff90_affiliate_disclosure_804e5a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_comparison_pages_2aff90_affiliate_disclosure_804e5a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Practical Takeaway for Affiliate Publishers
@@ -342,9 +337,7 @@ If you’re creating comparison pages to monetise traffic:
 
 Prioritising honest disclosure **reduces risk, strengthens trust, and supports sustainable affiliate revenue** — especially on pages where decisions are being made and readers are closest to conversion.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/x20kLwN2mTk" title="What Legal Steps Do I Need to Take to Start an Affiliate Marketing Business?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=x20kLwN2mTk" target="_blank" rel="noopener noreferrer">What Legal Steps Do I Need to Take to Start an Affiliate Marketing Business?</a></p><p class="youtube-embed-meta">Channel: Suzanne Stoddart &middot; Views: 48 &middot; Uploaded: February 2024 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=x20kLwN2mTk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=x20kLwN2mTk">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -768,117 +761,117 @@ Prioritising honest disclosure **reduces risk, strengthens trust, and supports s
 1. <a id="endnote-1"></a>
    Source: clarigital.com  
    Title: Affiliate Compliance & FTC Disclosure: The Legal | Digital Codex  
-   Link: [https://clarigital.com/codex/affiliate-marketing/affiliate-compliance-regulation/](https://clarigital.com/codex/affiliate-marketing/affiliate-compliance-regulation/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ClarigitalAffiliate Compliance &amp; FTC Disclosure: The Legal | Digital CodexApril 6, 2026...</p></details>
+   Link: <a href="https://clarigital.com/codex/affiliate-marketing/affiliate-compliance-regulation/" target="_blank" rel="noopener noreferrer nofollow">https://clarigital.com/codex/affiliate-marketing/affiliate-compliance-regulation/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Affiliate Compliance &amp; FTC Disclosure: The Legal | Digital CodexApril 6, 2026...</p></details>
    Published: April 6, 2026  
 
 2. <a id="endnote-2"></a>
    Source: cms.law  
    Title: Law ASA Rulings on Misleading Product Review Websites  
-   Link: [https://cms.law/en/gbr/legal-updates/asa-upholds-complaints-against-four-misleading-product-review-websites](https://cms.law/en/gbr/legal-updates/asa-upholds-complaints-against-four-misleading-product-review-websites)  
+   Link: <a href="https://cms.law/en/gbr/legal-updates/asa-upholds-complaints-against-four-misleading-product-review-websites" target="_blank" rel="noopener noreferrer nofollow">https://cms.law/en/gbr/legal-updates/asa-upholds-complaints-against-four-misleading-product-review-websites</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ASA Rulings on Misleading Product Review WebsitesMay 13, 2026...</p></details>
    Published: May 13, 2026  
 
 3. <a id="endnote-3"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/1809.00620](https://arxiv.org/abs/1809.00620)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivEndorsements on Social Media: An Empirical Study of Affiliate Marketing Disclosures on YouTube and PinterestSeptember 3, 2018...</p></details>
+   Link: <a href="https://arxiv.org/abs/1809.00620" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1809.00620</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Endorsements on Social Media: An Empirical Study of Affiliate Marketing Disclosures on YouTube and PinterestSeptember 3, 2018...</p></details>
    Published: September 3, 2018  
 
 4. <a id="endnote-4"></a>
    Source: mv3marketing.com  
-   Link: [https://www.mv3marketing.com/glossary/affiliate-disclosure/](https://www.mv3marketing.com/glossary/affiliate-disclosure/)  
+   Link: <a href="https://www.mv3marketing.com/glossary/affiliate-disclosure/" target="_blank" rel="noopener noreferrer nofollow">https://www.mv3marketing.com/glossary/affiliate-disclosure/</a>  
 
 5. <a id="endnote-5"></a>
    Source: youtube.com  
    Title: Do All Linked Affiliate Pages Require Disclosures?  
-   Link: [https://www.youtube.com/watch?v=3Thl1d_tbHU](https://www.youtube.com/watch?v=3Thl1d_tbHU)  
+   Link: <a href="https://www.youtube.com/watch?v=3Thl1d_tbHU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3Thl1d_tbHU</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Is Your Affiliate Marketing LEGAL? Hidden Dangers You Need to Know NOW...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: youtube.com  
    Title: Is Your Affiliate Marketing LEGAL? Hidden Dangers You Need to Know NOW!  
-   Link: [https://www.youtube.com/watch?v=aNqnvzdmoQk](https://www.youtube.com/watch?v=aNqnvzdmoQk)  
+   Link: <a href="https://www.youtube.com/watch?v=aNqnvzdmoQk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=aNqnvzdmoQk</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Setup Affiliate Disclaimer on Wordpress + FTC Affiliate Link Disclosure Examples...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: youtube.com  
    Title: Setup Affiliate Disclaimer on Wordpress + FTC Affiliate Link Disclosure Examples  
-   Link: [https://www.youtube.com/watch?v=IaYqlvor_qM](https://www.youtube.com/watch?v=IaYqlvor_qM)  
+   Link: <a href="https://www.youtube.com/watch?v=IaYqlvor_qM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=IaYqlvor_qM</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>6 Legal Requirements for a Website | Website Legal Documents | Legal Compliance...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: youtube.com  
    Title: 6 Legal Requirements for a Website | Website Legal Documents | Legal Compliance  
-   Link: [https://www.youtube.com/watch?v=LW7lcyDlezE](https://www.youtube.com/watch?v=LW7lcyDlezE)  
+   Link: <a href="https://www.youtube.com/watch?v=LW7lcyDlezE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=LW7lcyDlezE</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>What Legal Steps Do I Need to Take to Start an Affiliate Marketing Business?...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: youtube.com  
    Title: What Legal Steps Do I Need to Take to Start an Affiliate Marketing Business?  
-   Link: [https://www.youtube.com/watch?v=x20kLwN2mTk](https://www.youtube.com/watch?v=x20kLwN2mTk)  
+   Link: <a href="https://www.youtube.com/watch?v=x20kLwN2mTk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=x20kLwN2mTk</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Affiliate link disclosure legal requirements ftc asa What They DON&#x27;T Tell You About The Amazon Affiliate Program...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: lillianpurge.co.uk  
    Title: Lillian Purge Do affiliate links hurt SEO | Lillian Purge  
-   Link: [https://www.lillianpurge.co.uk/do-affiliate-links-hurt-seo](https://www.lillianpurge.co.uk/do-affiliate-links-hurt-seo)  
+   Link: <a href="https://www.lillianpurge.co.uk/do-affiliate-links-hurt-seo" target="_blank" rel="noopener noreferrer nofollow">https://www.lillianpurge.co.uk/do-affiliate-links-hurt-seo</a>  
 
 ### Additional References
 
 11. <a id="endnote-11"></a>
    Source: bixgrow.com  
-   Link: [https://bixgrow.com/affiliate-link-disclosure/](https://bixgrow.com/affiliate-link-disclosure/)  
+   Link: <a href="https://bixgrow.com/affiliate-link-disclosure/" target="_blank" rel="noopener noreferrer nofollow">https://bixgrow.com/affiliate-link-disclosure/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Affiliate Link Disclosure: The Complete Guide With Examples – BixGrow – Affiliate Marketing &amp; Referral ProgramFebruary 8, 2025 — AFFILIAT...</p></details>
    Published: February 8, 2025  
 
 12. <a id="endnote-12"></a>
    Source: mtdcompare.co.uk  
-   Link: [https://mtdcompare.co.uk/disclosure/](https://mtdcompare.co.uk/disclosure/)  
+   Link: <a href="https://mtdcompare.co.uk/disclosure/" target="_blank" rel="noopener noreferrer nofollow">https://mtdcompare.co.uk/disclosure/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Here&#x27;s exactly what that means and what it doesn&#x27;t mean. WHAT AN AFFILIATE LINK IS Some of the outbound links on this site (...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: stubgroup.com  
-   Link: [https://stubgroup.com/glossary/affiliate-relationship-disclosure/](https://stubgroup.com/glossary/affiliate-relationship-disclosure/)  
+   Link: <a href="https://stubgroup.com/glossary/affiliate-relationship-disclosure/" target="_blank" rel="noopener noreferrer nofollow">https://stubgroup.com/glossary/affiliate-relationship-disclosure/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>quires you to clearly identify when you’re an affiliate, reseller, or third party promoting someone else’s products rather...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: airticler.com  
-   Link: [https://www.airticler.com/resources/comparison-websites/seo-mistakes](https://www.airticler.com/resources/comparison-websites/seo-mistakes)  
+   Link: <a href="https://www.airticler.com/resources/comparison-websites/seo-mistakes" target="_blank" rel="noopener noreferrer nofollow">https://www.airticler.com/resources/comparison-websites/seo-mistakes</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Technical Verified Fix Copy Fix Medium Impact Mistake INSUFFICIENT &#x27;SCHEMA MARKUP&#x27; FOR [COMPARISONS](&amp;#123;&amp;#123; &#x27;comparisons/&#x27; | relative_url &amp;#125;&amp;#125;) Why it&#x27;s ba...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: compareaprice.co.uk  
-   Link: [https://compareaprice.co.uk/affiliate-disclosure](https://compareaprice.co.uk/affiliate-disclosure)  
+   Link: <a href="https://compareaprice.co.uk/affiliate-disclosure" target="_blank" rel="noopener noreferrer nofollow">https://compareaprice.co.uk/affiliate-disclosure</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Image: Home iconHome 2. 3. Legal 4. 5. Affiliate Disclosure Image: Abstract illustration * Im...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: shoppingpricecomparison.com  
-   Link: [https://www.shoppingpricecomparison.com/legal/affiliate-disclosure](https://www.shoppingpricecomparison.com/legal/affiliate-disclosure)  
+   Link: <a href="https://www.shoppingpricecomparison.com/legal/affiliate-disclosure" target="_blank" rel="noopener noreferrer nofollow">https://www.shoppingpricecomparison.com/legal/affiliate-disclosure</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Image: Home iconHome 2. 3. Legal 4. 5. Affiliate Disclosure Image: Abstract illustration * Im...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: affmaven.com  
    Title: A I Disclosure in Affiliate Marketing: Rules, Risks, Steps  
-   Link: [https://affmaven.com/ai-disclosure-affiliate-marketing/](https://affmaven.com/ai-disclosure-affiliate-marketing/)  
+   Link: <a href="https://affmaven.com/ai-disclosure-affiliate-marketing/" target="_blank" rel="noopener noreferrer nofollow">https://affmaven.com/ai-disclosure-affiliate-marketing/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Disclosure in Affiliate Marketing: Rules, Risks, StepsApril 24, 2026 — AI DISCLOSURE IN AFFILIATE MARKETING: RULES, RISKS, STEPS ByAli...</p></details>
    Published: April 24, 2026  
 
 18. <a id="endnote-18"></a>
    Source: disclosedlabs.com  
    Title: Affiliate Disclosure | Disclosed Labs Informational only  
-   Link: [https://www.disclosedlabs.com/affiliate-disclosure](https://www.disclosedlabs.com/affiliate-disclosure)  
+   Link: <a href="https://www.disclosedlabs.com/affiliate-disclosure" target="_blank" rel="noopener noreferrer nofollow">https://www.disclosedlabs.com/affiliate-disclosure</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Not medical advice.INFORMATIONAL PLATFORM ONLY — NOT MEDICAL ADVICE, DIAGNOSIS, OR TREATMENT Disclosed Labs AFFILIATE DISCLOSURE Last upd...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: thecreatorinsider.com  
    Title: Why are my affiliate links not converting?  
-   Link: [https://www.thecreatorinsider.com/why-are-my-affiliate-links-not-converting/](https://www.thecreatorinsider.com/why-are-my-affiliate-links-not-converting/)  
+   Link: <a href="https://www.thecreatorinsider.com/why-are-my-affiliate-links-not-converting/" target="_blank" rel="noopener noreferrer nofollow">https://www.thecreatorinsider.com/why-are-my-affiliate-links-not-converting/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Clear affiliate disclosure does not automatically reduce conversion. In most cases, it protects trust. UK creators should disclose affili...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: seolocale.com  
    Title: Do Affiliate Links Hurt SEO?  
-   Link: [https://seolocale.com/do-affiliate-links-hurt-seo-exploring-the-impact/](https://seolocale.com/do-affiliate-links-hurt-seo-exploring-the-impact/)  
+   Link: <a href="https://seolocale.com/do-affiliate-links-hurt-seo-exploring-the-impact/" target="_blank" rel="noopener noreferrer nofollow">https://seolocale.com/do-affiliate-links-hurt-seo-exploring-the-impact/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Exploring the Impact | SEO LocaleAugust 11, 2025 — SO, HOW CAN AFFILIATE LINKS ACTUALLY HURT YOUR SEO? This is the heart of the issue; wh...</p></details>
-   Published: August 11, 2025  
+   Published: August 11, 2025

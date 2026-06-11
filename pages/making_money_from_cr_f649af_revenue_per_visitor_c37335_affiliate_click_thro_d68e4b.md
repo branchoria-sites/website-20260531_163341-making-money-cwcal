@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /revenue-model/
 nav_short_title: Click Rate
 title: Why Affiliate Clicks Matter Before Sales
-title_full: Why Affiliate Clicks Matter Before Sales | Revenue Model
+title_full: Why Affiliate Clicks Matter Before Sales
 display_title_short: Click Rate
 display_title: Click Rate
 heading_title: Why Affiliate Clicks Matter Before Sales
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-31 15:43:59'
-parent_title: Why Equal Traffic Does Not Mean Equal Earnings | Affiliate Engines
+parent_title: Why Equal Traffic Does Not Mean Equal Earnings
 parent_permalink: /revenue-model/
 parent_nav_short_title: Revenue Model
 parent_heading_title: Why Equal Traffic Does Not Mean Equal Earnings
@@ -274,8 +274,7 @@ image: /assets/images/making_money_from_cr_f649af_revenue_per_visitor_c37335_aff
 
 ## Introduction
 
-Affiliate click-through rate is often the missing page metric in affiliate publishing because it measures whether a page successfully moves readers towards a commercial action before any sale happens. A visitor cannot generate commission until they click a tracked affiliate link and leave for the merchant. If that step never occurs, [merchant conversion]({{ 'merchant-risk/' | relative_url }}) rates, earnings per click (EPC), and commission percentages become irrelevant. Amazon Associates, for example, only records qualifying purchases after a visitor follows a tagged affiliate link and enters a tracked referral session. <span class="citation-chip-wrap"><a class="citation-chip" href="https://affiliate-program.amazon.com/help/node/topic/GQ3LYJNS99FEE8P9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: affiliate-program.amazon.com">[Amazon Associates]</a><span class="citation-popover" role="note"><span class="citation-popover-source">affiliate-program.amazon.com</span><span class="citation-popover-snippet">Amazon AssociatesWhat happens when I generate qualifying purchases on...Associates earn commission income when visitors follow tagged li...</span></span></span>
-
+Affiliate click-through rate is often the missing page metric in affiliate publishing because it measures whether a page successfully moves readers towards a commercial action before any sale happens. A visitor cannot generate commission until they click a tracked affiliate link and leave for the merchant. If that step never occurs, merchant conversion rates, earnings per click (EPC), and commission percentages become irrelevant. Amazon Associates, for example, only records qualifying purchases after a visitor follows a tagged affiliate link and enters a tracked referral session. <span class="citation-chip-wrap"><a class="citation-chip" href="https://affiliate-program.amazon.com/help/node/topic/GQ3LYJNS99FEE8P9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: affiliate-program.amazon.com">[Amazon Associates]</a><span class="citation-popover" role="note"><span class="citation-popover-source">affiliate-program.amazon.com</span><span class="citation-popover-snippet">Amazon AssociatesWhat happens when I generate qualifying purchases on...Associates earn commission income when visitors follow tagged li...</span></span></span>
 
 <img src="{{ "/assets/images/making_money_from_cr_f649af_revenue_per_visitor_c37335_affiliate_click_thro_d68e4b-Illustration-1-dark.svg" | relative_url }}" alt="Click Rate illustration 1" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_revenue_per_visitor_c37335_affiliate_click_thro_d68e4b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_revenue_per_visitor_c37335_affiliate_click_thro_d68e4b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This makes affiliate click-through rate (CTR) a page-quality signal rather than just a marketing statistic. It reveals whether the page creates enough buying momentum, trust, curiosity, urgency, or comparison value to persuade the visitor to continue. Within a revenue-per-visitor model, CTR sits between traffic and merchant conversion. It is often the fastest way to identify pages that attract visitors but fail to create commercial movement.
@@ -292,12 +291,11 @@ MetricPage APage BMonthly visitors10,00010,000Affiliate CTR1%8%Affiliate clicks1
 
 Page A appears stronger if viewed through EPC alone. Each click is worth more. Yet Page B generates four times the revenue because it persuades far more visitors to take the next step.
 
-This distinction matters when deciding which page templates deserve expansion across a large affiliate site. If a website-generation system only measures EPC, it may favour pages that send very few visitors to merchants. Measuring CTR exposes whether the content itself is creating [commercial intent]({{ 'intent-topics/' | relative_url }}).
+This distinction matters when deciding which page templates deserve expansion across a large affiliate site. If a website-generation system only measures EPC, it may favour pages that send very few visitors to merchants. Measuring CTR exposes whether the content itself is creating commercial intent.
 
 Affiliate platforms routinely separate clicks from conversions because they represent different stages of the revenue chain. Amazon Associates reporting surfaces clicks, ordered items and conversion rates as separate metrics. <span class="citation-chip-wrap"><a class="citation-chip" href="https://affiliate-program.amazon.com/help/node/topic/GQ3LYJNS99FEE8P9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: affiliate-program.amazon.com">[Amazon Associates]</a><span class="citation-popover" role="note"><span class="citation-popover-source">affiliate-program.amazon.com</span><span class="citation-popover-snippet">Amazon AssociatesWhat happens when I generate qualifying purchases on...Associates earn commission income when visitors follow tagged li...</span></span></span>
 
 For affiliate publishers, CTR answers questions that EPC cannot:
-
 
 <div class="content-enhancement content-enhancement--decision" markdown="1">
 
@@ -320,7 +318,6 @@ This makes CTR a valuable proxy for intent strength.
 
 For example:
 
-
 <div class="content-enhancement content-enhancement--benefit" markdown="1">
 
 * A page about "history of espresso machines" may attract large amounts of search traffic but generate very few outbound clicks.
@@ -331,10 +328,9 @@ For example:
 
 The difference is not traffic quality alone. It is whether the page matches a decision stage.
 
-Research and affiliate industry benchmarks consistently treat CTR as a measure of audience engagement and offer relevance. Partnerize describes click-through rates as a real-time indicator of visibility and engagement, while affiliate benchmark guides treat CTR as one of the fundamental indicators of whether content successfully motivates further action. <span class="citation-chip-wrap"><a class="citation-chip" href="https://partnerize.com/resources/blog/the-most-important-affiliate-marketing-kpis-for-successful-program-management" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: partnerize.com">[Partnerize]</a><span class="citation-popover" role="note"><span class="citation-popover-source">partnerize.com</span><span class="citation-popover-snippet">PartnerizeThe 11 Most Important Affiliate Marketing Metrics: KPIs...December 31, 2023 — 31 Dec 2023 — Monitoring click-through rates (CT...</span><span class="citation-popover-meta">Published: December 31, 2023</span></span></span>
+Research and affiliate industry benchmarks consistently treat CTR as a measure of audience engagement and offer relevance. Partnerize describes click-through rates as a real-time indicator of visibility and engagement, while affiliate benchmark guides treat CTR as one of the fundamental indicators of whether content successfully motivates further action. <span class="citation-chip-wrap"><a class="citation-chip" href="https://partnerize.com/resources/blog/the-most-important-affiliate-marketing-kpis-for-successful-program-management" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: partnerize.com">[Partnerize]</a><span class="citation-popover" role="note"><span class="citation-popover-source">partnerize.com</span><span class="citation-popover-snippet">The 11 Most Important Affiliate Marketing Metrics: KPIs...December 31, 2023 — 31 Dec 2023 — Monitoring click-through rates (CT...</span><span class="citation-popover-meta">Published: December 31, 2023</span></span></span>
 
 When viewed through a revenue-per-visitor lens, clicks become evidence that the page has successfully transferred intent from search engine to merchant.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/r82aqQCBqjM" title="Amazon Affiliate Marketing For Beginners (Amazon Associates Program Tutorial!)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=r82aqQCBqjM" target="_blank" rel="noopener noreferrer">Amazon Affiliate Marketing For Beginners (Amazon Associates Program Tutorial!)</a></p><p class="youtube-embed-meta">Channel: Justin Brown - Primal Video &middot; Views: 989.1K &middot; Uploaded: July 2023 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=r82aqQCBqjM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=r82aqQCBqjM">Open on YouTube</a></p></div></div></div>
 
@@ -344,11 +340,11 @@ Many affiliate pages fail because links appear after the buying moment has alrea
 
 CTR is strongly influenced by where affiliate opportunities appear relative to reader intent.
 
-Industry guidance commonly recommends placing relevant affiliate links earlier in content, using [comparison tables]({{ 'tables/' | relative_url }}), buttons and contextual calls to action because visibility affects click behaviour. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.alexanderjarvis.com/what-is-affiliate-link-ctr-in-ecommerce-how-to-improve-it/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: alexanderjarvis.com">[Cloudways Apps]</a><span class="citation-popover" role="note"><span class="citation-popover-source">alexanderjarvis.com</span><span class="citation-popover-title">what is affiliate link ctr in ecommerce how to improve it</span><span class="citation-popover-snippet">Cloudways AppsAffiliate Link CTRApril 7, 2025 — Affiliate link CTR is the percentage of people who click your promotional links compared...</span><span class="citation-popover-meta">Published: April 7, 2025</span></span></span>
+Industry guidance commonly recommends placing relevant affiliate links earlier in content, using comparison [tables]({{ 'tables/' | relative_url }}), buttons and contextual calls to action because visibility affects click behaviour. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.alexanderjarvis.com/what-is-affiliate-link-ctr-in-ecommerce-how-to-improve-it/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: alexanderjarvis.com">[Cloudways Apps]</a><span class="citation-popover" role="note"><span class="citation-popover-source">alexanderjarvis.com</span><span class="citation-popover-title">what is affiliate link ctr in ecommerce how to improve it</span><span class="citation-popover-snippet">Cloudways AppsAffiliate Link CTRApril 7, 2025 — Affiliate link CTR is the percentage of people who click your promotional links compared...</span><span class="citation-popover-meta">Published: April 7, 2025</span></span></span>
 
 Several recurring patterns appear across successful affiliate pages.
 
-**Comparison [tables]({{ 'tables/' | relative_url }}) create decision shortcuts**
+**Comparison tables create decision shortcuts**
 
 Visitors comparing products often want quick elimination [criteria]({{ 'criteria/' | relative_url }}). When comparison tables include clear merchant links, clicks frequently occur before the visitor reaches the end of the article.
 
@@ -376,14 +372,12 @@ This distinction is important because many publishers attempt conversion optimis
 
 Low CTR often signals one of three situations:
 
-
 <img src="{{ "/assets/images/making_money_from_cr_f649af_revenue_per_visitor_c37335_affiliate_click_thro_d68e4b-Illustration-2-dark.svg" | relative_url }}" alt="Click Rate illustration 2" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_revenue_per_visitor_c37335_affiliate_click_thro_d68e4b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_revenue_per_visitor_c37335_affiliate_click_thro_d68e4b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### The keyword attracts researchers rather than buyers
 
 Visitors searching broad informational topics frequently want explanations rather than products.
 
 Examples include:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -394,7 +388,7 @@ Examples include:
 
 </div>
 
-These pages can support an affiliate site through [internal linking]({{ 'user-journeys/' | relative_url }}), but they often produce weaker direct monetisation.
+These pages can support an affiliate site through internal linking, but they often produce weaker direct monetisation.
 
 ### The offer does not match the search intent
 
@@ -406,7 +400,6 @@ A visitor seeking a specific brand may ignore unrelated alternatives.
 
 In these cases, the affiliate offer and visitor objective are misaligned.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/1MZps0S2Ppw" title="Ep. 016: Conversion Rate Optimization Tips: Digital Marketing Expert Discusses CRO ft. Nick Coats" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=1MZps0S2Ppw" target="_blank" rel="noopener noreferrer">Ep. 016: Conversion Rate Optimization Tips: Digital Marketing Expert Discusses CRO ft. Nick Coats</a></p><p class="youtube-embed-meta">Channel: ClickBank &middot; Views: 2.9K &middot; Uploaded: July 2021 &middot; Length: 59 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=1MZps0S2Ppw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=1MZps0S2Ppw">Open on YouTube</a></p></div></div></div>
 
 ### The buying moment arrives elsewhere
@@ -415,10 +408,14 @@ Some informational pages help users narrow options but do not create enough conf
 
 The commercial click may happen later on:
 
-* Product [comparison pages]({{ 'comparisons/' | relative_url }})
+<div class="content-enhancement content-enhancement--comparison" markdown="1">
+
+* Product comparison pages
 * Alternatives pages
 * Best-of roundups
 * Brand-versus-brand pages
+
+</div>
 
 For a website-generation system, this distinction affects internal linking strategy. Low-CTR informational pages may still be valuable if they consistently feed visitors into higher-CTR commercial pages.
 
@@ -427,7 +424,6 @@ For a website-generation system, this distinction affects internal linking strat
 One reason affiliate CTR is often overlooked is that publishers focus on earnings reports instead of behavioural reports.
 
 Revenue figures arrive after several stages:
-
 
 <img src="{{ "/assets/images/making_money_from_cr_f649af_revenue_per_visitor_c37335_affiliate_click_thro_d68e4b-Illustration-3-dark.svg" | relative_url }}" alt="Click Rate illustration 3" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_revenue_per_visitor_c37335_affiliate_click_thro_d68e4b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_revenue_per_visitor_c37335_affiliate_click_thro_d68e4b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -462,7 +458,6 @@ Different patterns suggest different problems:
 PatternLikely issueHigh traffic, low CTRWeak commercial intent or poor offer visibilityHigh CTR, low conversionMerchant or offer problemHigh CTR, high conversionStrong topic and offer alignmentLow traffic, high CTRCandidate for traffic expansionFalling CTR over timeOffer fatigue, outdated recommendations, or changing search intent
 
 This makes affiliate CTR especially valuable when evaluating whether a page type should be replicated across a larger site.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/SLABmxxSIP8" title="How to Track Affiliate Link Clicks, Revenue &amp; Conversions w/ Google Analytics (step-by-step)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=SLABmxxSIP8" target="_blank" rel="noopener noreferrer">How to Track Affiliate Link Clicks, Revenue &amp; Conversions w/ Google Analytics (step-by-step)</a></p><p class="youtube-embed-meta">Channel: Build That Website &middot; Views: 12.4K &middot; Uploaded: February 2022 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=SLABmxxSIP8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=SLABmxxSIP8">Open on YouTube</a></p></div></div></div>
 
@@ -899,140 +894,140 @@ Within a revenue-per-visitor framework, affiliate click-through rate fills the g
 
 1. <a id="endnote-1"></a>
    Source: affiliate-program.amazon.com  
-   Link: [https://affiliate-program.amazon.com/help/node/topic/GQ3LYJNS99FEE8P9](https://affiliate-program.amazon.com/help/node/topic/GQ3LYJNS99FEE8P9)  
+   Link: <a href="https://affiliate-program.amazon.com/help/node/topic/GQ3LYJNS99FEE8P9" target="_blank" rel="noopener noreferrer nofollow">https://affiliate-program.amazon.com/help/node/topic/GQ3LYJNS99FEE8P9</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Amazon AssociatesWhat happens when I generate qualifying purchases on...Associates earn commission income when visitors follow tagged li...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: affiliate-program.amazon.com  
-   Link: [https://affiliate-program.amazon.com/help/node/topic/G9SMD8TQHFJ7728F](https://affiliate-program.amazon.com/help/node/topic/G9SMD8TQHFJ7728F)  
+   Link: <a href="https://affiliate-program.amazon.com/help/node/topic/G9SMD8TQHFJ7728F" target="_blank" rel="noopener noreferrer nofollow">https://affiliate-program.amazon.com/help/node/topic/G9SMD8TQHFJ7728F</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Amazon Associates24 hoursYou earn commission income on any qualifying items placed in a customer&#x27;s Shopping Cart within 24 hours of their...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: affiliate-program.amazon.com  
-   Link: [https://affiliate-program.amazon.com/help/node/topic/GMWAK55DQX8JEK7C](https://affiliate-program.amazon.com/help/node/topic/GMWAK55DQX8JEK7C)  
+   Link: <a href="https://affiliate-program.amazon.com/help/node/topic/GMWAK55DQX8JEK7C" target="_blank" rel="noopener noreferrer nofollow">https://affiliate-program.amazon.com/help/node/topic/GMWAK55DQX8JEK7C</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Amazon AssociatesHow To use reportsYou can easily see your earnings by program with commission income and bounties displayed as well as a...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: affiliate-program.amazon.com  
-   Link: [https://affiliate-program.amazon.com/help/node/topic/GPTZ495QPL6TEZLJ](https://affiliate-program.amazon.com/help/node/topic/GPTZ495QPL6TEZLJ)  
+   Link: <a href="https://affiliate-program.amazon.com/help/node/topic/GPTZ495QPL6TEZLJ" target="_blank" rel="noopener noreferrer nofollow">https://affiliate-program.amazon.com/help/node/topic/GPTZ495QPL6TEZLJ</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Amazon AssociatesHow to read the Order ReportThe Order report lists products that were ordered after an Associates referral and provides...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: partnerize.com  
-   Link: [https://partnerize.com/resources/blog/the-most-important-affiliate-marketing-kpis-for-successful-program-management](https://partnerize.com/resources/blog/the-most-important-affiliate-marketing-kpis-for-successful-program-management)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PartnerizeThe 11 Most Important Affiliate Marketing Metrics: KPIs...December 31, 2023 — 31 Dec 2023 — Monitoring click-through rates (CT...</p></details>
+   Link: <a href="https://partnerize.com/resources/blog/the-most-important-affiliate-marketing-kpis-for-successful-program-management" target="_blank" rel="noopener noreferrer nofollow">https://partnerize.com/resources/blog/the-most-important-affiliate-marketing-kpis-for-successful-program-management</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The 11 Most Important Affiliate Marketing Metrics: KPIs...December 31, 2023 — 31 Dec 2023 — Monitoring click-through rates (CT...</p></details>
    Published: December 31, 2023  
 
 6. <a id="endnote-6"></a>
    Source: shopify.com  
    Title: affiliate marketing metrics  
-   Link: [https://www.shopify.com/in/blog/affiliate-marketing-metrics](https://www.shopify.com/in/blog/affiliate-marketing-metrics)  
+   Link: <a href="https://www.shopify.com/in/blog/affiliate-marketing-metrics" target="_blank" rel="noopener noreferrer nofollow">https://www.shopify.com/in/blog/affiliate-marketing-metrics</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>20 Affiliate Marketing Metrics Worth Tracking in 2026November 25, 2025 — 25 Nov 2025 — Click-through rate for affiliates is one of the es...</p></details>
    Published: November 25, 2025  
 
 7. <a id="endnote-7"></a>
    Source: digistore24.com  
    Title: affiliate marketing metrics  
-   Link: [https://digistore24.com/en/blog/affiliate-marketing-metrics/](https://digistore24.com/en/blog/affiliate-marketing-metrics/)  
+   Link: <a href="https://digistore24.com/en/blog/affiliate-marketing-metrics/" target="_blank" rel="noopener noreferrer nofollow">https://digistore24.com/en/blog/affiliate-marketing-metrics/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The 4 Most Important Metrics Affiliate Marketers…13 Mar 2026 — Conversion rate, clicks, EPC, RPM, and refund rate each tell you something...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: affiliate-program.amazon.com  
-   Link: [https://affiliate-program.amazon.com/help/node/topic/G2UYW4E8U6RVX22S](https://affiliate-program.amazon.com/help/node/topic/G2UYW4E8U6RVX22S)  
+   Link: <a href="https://affiliate-program.amazon.com/help/node/topic/G2UYW4E8U6RVX22S" target="_blank" rel="noopener noreferrer nofollow">https://affiliate-program.amazon.com/help/node/topic/G2UYW4E8U6RVX22S</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>will earn commissions for items a user adds to their Amazon cart and subsequently purchases on any other device...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: affiliate-program.amazon.com  
-   Link: [https://affiliate-program.amazon.com/help/node/topic/GWJ4AHCH7U5LCL86](https://affiliate-program.amazon.com/help/node/topic/GWJ4AHCH7U5LCL86)  
+   Link: <a href="https://affiliate-program.amazon.com/help/node/topic/GWJ4AHCH7U5LCL86" target="_blank" rel="noopener noreferrer nofollow">https://affiliate-program.amazon.com/help/node/topic/GWJ4AHCH7U5LCL86</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>items qualify for commission income, and …Associates earn commission income when visitors follow links from their sites to Amazon.com, ma...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: affiliate-program.amazon.com  
-   Link: [https://affiliate-program.amazon.com/help/node/topic/GHQNZAU6669EZS98](https://affiliate-program.amazon.com/help/node/topic/GHQNZAU6669EZS98)  
+   Link: <a href="https://affiliate-program.amazon.com/help/node/topic/GHQNZAU6669EZS98" target="_blank" rel="noopener noreferrer nofollow">https://affiliate-program.amazon.com/help/node/topic/GHQNZAU6669EZS98</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>do I have to identify myself as an Associate?To meet the Associate Program&#x27;s requirements, you must (1) include a legally compliant discl...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: affiliate-program.amazon.com  
-   Link: [https://affiliate-program.amazon.com/help/node/topic/GV7VUCCSS8MQFSQT](https://affiliate-program.amazon.com/help/node/topic/GV7VUCCSS8MQFSQT)  
+   Link: <a href="https://affiliate-program.amazon.com/help/node/topic/GV7VUCCSS8MQFSQT" target="_blank" rel="noopener noreferrer nofollow">https://affiliate-program.amazon.com/help/node/topic/GV7VUCCSS8MQFSQT</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Onsite CommissionsIf your content is selected, you will earn onsite rates when customers click on your content and make a qualifying purc...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: affiliate-program.amazon.com  
-   Link: [https://affiliate-program.amazon.com/help/node/topic/G63DR893K4DH55XZ](https://affiliate-program.amazon.com/help/node/topic/G63DR893K4DH55XZ)  
+   Link: <a href="https://affiliate-program.amazon.com/help/node/topic/G63DR893K4DH55XZ" target="_blank" rel="noopener noreferrer nofollow">https://affiliate-program.amazon.com/help/node/topic/G63DR893K4DH55XZ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Will I Get Paid?Commission income are paid by direct deposit, Amazon.com Gift Certificate, or check approximately 60 days after the end o...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: affiliate-program.amazon.com  
-   Link: [https://affiliate-program.amazon.com/help/node/topic/GFGFAFN33TYZCXTE](https://affiliate-program.amazon.com/help/node/topic/GFGFAFN33TYZCXTE)  
+   Link: <a href="https://affiliate-program.amazon.com/help/node/topic/GFGFAFN33TYZCXTE" target="_blank" rel="noopener noreferrer nofollow">https://affiliate-program.amazon.com/help/node/topic/GFGFAFN33TYZCXTE</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>commissions and PaymentsWhat items qualify for commission income, and how are the commissions calculated? · How much do I earn for genera...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: shopify.com  
    Title: affiliate marketing metrics  
-   Link: [https://www.shopify.com/blog/affiliate-marketing-metrics](https://www.shopify.com/blog/affiliate-marketing-metrics)  
+   Link: <a href="https://www.shopify.com/blog/affiliate-marketing-metrics" target="_blank" rel="noopener noreferrer nofollow">https://www.shopify.com/blog/affiliate-marketing-metrics</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>20 Affiliate Marketing Metrics Worth Tracking in 202625 Nov 2025 — This metric evaluates the effectiveness of affiliate link positioning...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: alexanderjarvis.com  
    Title: what is affiliate link ctr in ecommerce how to improve it  
-   Link: [https://www.alexanderjarvis.com/what-is-affiliate-link-ctr-in-ecommerce-how-to-improve-it/](https://www.alexanderjarvis.com/what-is-affiliate-link-ctr-in-ecommerce-how-to-improve-it/)  
+   Link: <a href="https://www.alexanderjarvis.com/what-is-affiliate-link-ctr-in-ecommerce-how-to-improve-it/" target="_blank" rel="noopener noreferrer nofollow">https://www.alexanderjarvis.com/what-is-affiliate-link-ctr-in-ecommerce-how-to-improve-it/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Cloudways AppsAffiliate Link CTRApril 7, 2025 — Affiliate link CTR is the percentage of people who click your promotional links compared...</p></details>
    Published: April 7, 2025  
 
 16. <a id="endnote-16"></a>
    Source: affiliate-program.amazon.co.uk  
-   Link: [https://affiliate-program.amazon.co.uk/help/node/topic/GS4DGSRUYG5BX8E3](https://affiliate-program.amazon.co.uk/help/node/topic/GS4DGSRUYG5BX8E3)  
+   Link: <a href="https://affiliate-program.amazon.co.uk/help/node/topic/GS4DGSRUYG5BX8E3" target="_blank" rel="noopener noreferrer nofollow">https://affiliate-program.amazon.co.uk/help/node/topic/GS4DGSRUYG5BX8E3</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Amazon AssociatesHow to create Tracking IDsTracking ids are identifiers that can be generated in your Amazon Associates portal to track p...</p></details>
 
 ### Additional References
 
 17. <a id="endnote-17"></a>
    Source: geniuslink.com  
-   Link: [https://geniuslink.com/amazon-affiliate-guide](https://geniuslink.com/amazon-affiliate-guide)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>GeniuslinkAmazon Affiliate: The Definitive GuideAmazon&#x27;s affiliate program has a pretty tight window of 24 hours. So if someone clicked o...</p></details>
+   Link: <a href="https://geniuslink.com/amazon-affiliate-guide" target="_blank" rel="noopener noreferrer nofollow">https://geniuslink.com/amazon-affiliate-guide</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Amazon Affiliate: The Definitive GuideAmazon&#x27;s affiliate program has a pretty tight window of 24 hours. So if someone clicked o...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: postaffiliatepro.com  
-   Link: [https://www.postaffiliatepro.com/blog/epc-affiliate-marketing/](https://www.postaffiliatepro.com/blog/epc-affiliate-marketing/)  
+   Link: <a href="https://www.postaffiliatepro.com/blog/epc-affiliate-marketing/" target="_blank" rel="noopener noreferrer nofollow">https://www.postaffiliatepro.com/blog/epc-affiliate-marketing/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>EPC in Affiliate Marketing: Earnings Per Click GuideLearn what EPC (Earnings Per Click) means in affiliate marketing, how to calculate it...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: postaffiliatepro.com  
-   Link: [https://www.postaffiliatepro.com/faq/increase-affiliate-link-clicks/](https://www.postaffiliatepro.com/faq/increase-affiliate-link-clicks/)  
+   Link: <a href="https://www.postaffiliatepro.com/faq/increase-affiliate-link-clicks/" target="_blank" rel="noopener noreferrer nofollow">https://www.postaffiliatepro.com/faq/increase-affiliate-link-clicks/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Increase Affiliate Link Clicks: Proven StrategiesDiscover effective ways to increase affiliate link clicks through organic distrib...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: affiliate-program.amazon.co.uk  
-   Link: [https://affiliate-program.amazon.co.uk/](https://affiliate-program.amazon.co.uk/)  
+   Link: <a href="https://affiliate-program.amazon.co.uk/" target="_blank" rel="noopener noreferrer nofollow">https://affiliate-program.amazon.co.uk/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Associates CentralThe Amazon Associate Program helps content creators, publishers and bloggers monetise their traffic. With millions of p...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: affiliate-program.amazon.co.uk  
-   Link: [https://affiliate-program.amazon.co.uk/help/node/topic/G8JHEWQ9GTDUN7EH](https://affiliate-program.amazon.co.uk/help/node/topic/G8JHEWQ9GTDUN7EH)  
+   Link: <a href="https://affiliate-program.amazon.co.uk/help/node/topic/G8JHEWQ9GTDUN7EH" target="_blank" rel="noopener noreferrer nofollow">https://affiliate-program.amazon.co.uk/help/node/topic/G8JHEWQ9GTDUN7EH</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>amazon.co.ukFAQsQ1. What is OneLink and how will it benefit me? OneLink is Amazon&#x27;s geo-redirection solution to help you monetize your in...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: affiliate-program.amazon.co.uk  
-   Link: [https://affiliate-program.amazon.co.uk/help/node/topic/GPTZ495QPL6TEZLJ](https://affiliate-program.amazon.co.uk/help/node/topic/GPTZ495QPL6TEZLJ)  
+   Link: <a href="https://affiliate-program.amazon.co.uk/help/node/topic/GPTZ495QPL6TEZLJ" target="_blank" rel="noopener noreferrer nofollow">https://affiliate-program.amazon.co.uk/help/node/topic/GPTZ495QPL6TEZLJ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>to read the Order ReportOver shorter periods of time, it is possible to see orders without clicks or clicks without the expected number o...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: affiliate-program.amazon.co.uk  
-   Link: [https://affiliate-program.amazon.co.uk/help/node/topic/GQ3LYJNS99FEE8P9](https://affiliate-program.amazon.co.uk/help/node/topic/GQ3LYJNS99FEE8P9)  
+   Link: <a href="https://affiliate-program.amazon.co.uk/help/node/topic/GQ3LYJNS99FEE8P9" target="_blank" rel="noopener noreferrer nofollow">https://affiliate-program.amazon.co.uk/help/node/topic/GQ3LYJNS99FEE8P9</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>happens when I generate qualifying purchases on...Associates earn commission income when visitors follow tagged links from their sites t...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: vtaffiliates.com  
    Title: what are the typical epc earnings per click metrics you see across affiliates  
-   Link: [https://www.vtaffiliates.com/en-ca/blog/what-are-the-typical-epc-earnings-per-click-metrics-you-see-across-affiliates/](https://www.vtaffiliates.com/en-ca/blog/what-are-the-typical-epc-earnings-per-click-metrics-you-see-across-affiliates/)  
+   Link: <a href="https://www.vtaffiliates.com/en-ca/blog/what-are-the-typical-epc-earnings-per-click-metrics-you-see-across-affiliates/" target="_blank" rel="noopener noreferrer nofollow">https://www.vtaffiliates.com/en-ca/blog/what-are-the-typical-epc-earnings-per-click-metrics-you-see-across-affiliates/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Optimise Click-Through Rate (CTR). Ensure strong alignment between: Ad copy; Landing page content. Calculate ROI · ROI = (EPC − Cost...R...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: youtube.com  
-   Link: [http://www.youtube.com/watch?v=1MZps0S2Ppw](http://www.youtube.com/watch?v=1MZps0S2Ppw)  
+   Link: <a href="http://www.youtube.com/watch?v=1MZps0S2Ppw" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=1MZps0S2Ppw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Affiliate marketing&quot; click through rate page layout optimization conversion metrics Affiliate Marketing Landing Pages (Split Testing) Op...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: amazon.co.uk  
-   Link: [https://www.amazon.co.uk/b?ie=UTF8&node=59324880031](https://www.amazon.co.uk/b?ie=UTF8&node=59324880031)  
+   Link: <a href="https://www.amazon.co.uk/b?ie=UTF8&amp;node=59324880031" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.co.uk/b?ie=UTF8&amp;node=59324880031</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>4. Name your deeplink and click &quot;Create Link&quot;. 5. Copy the new deeplink...Read more...</p></details>

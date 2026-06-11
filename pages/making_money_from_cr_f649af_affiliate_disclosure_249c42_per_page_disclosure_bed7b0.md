@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /trust-rules/
 nav_short_title: Page Checks
 title: Why Every Affiliate Page Needs Its Own Disclosure
-title_full: Why Every Affiliate Page Needs Its Own Disclosure | Trust Rules
+title_full: Why Every Affiliate Page Needs Its Own Disclosure
 display_title_short: Page Checks
 display_title: Page Checks
 heading_title: Why Every Affiliate Page Needs Its Own Disclosure
@@ -202,7 +202,8 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: How Affiliate Sites Keep Reader Trust | Affiliate Engines
+date: '2026-05-31 16:29:42'
+parent_title: How Affiliate Sites Keep Reader Trust
 parent_permalink: /trust-rules/
 parent_nav_short_title: Trust Rules
 parent_heading_title: How Affiliate Sites Keep Reader Trust
@@ -265,7 +266,6 @@ next_link:
   permalink: /social-posts/
   short_title: Social Posts
   heading_title: How Affiliate Disclosures Get Hidden on Social Media
-date: '2026-05-31 16:29:42 '
 header:
   og_image: /assets/images/making_money_from_cr_f649af_affiliate_disclosure_249c42_per_page_disclosure_bed7b0-Illustration-1-social.jpg
   preview_image: /assets/images/making_money_from_cr_f649af_affiliate_disclosure_249c42_per_page_disclosure_bed7b0-Illustration-1.webp
@@ -275,7 +275,6 @@ image: /assets/images/making_money_from_cr_f649af_affiliate_disclosure_249c42_pe
 ## Introduction
 
 Every affiliate page needs its own [disclosure]({{ 'disclosure/' | relative_url }}) because most visitors do not enter a website through the homepage. They arrive directly on a review, comparison, “best of” list, product roundup, or buying guide from search results, social shares, AI-generated answers, newsletters, or external links. If that page contains affiliate recommendations, the disclosure must be visible on that page rather than hidden behind a site-wide disclaimer or legal page. Regulators in both the US and UK focus on whether a reasonable visitor can understand the commercial relationship before acting on a recommendation, not whether the site technically contains a disclosure somewhere else. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-title">s endorsement guides what people are asking</span><span class="citation-popover-snippet">Federal Trade CommissionFTC&#x27;s Endorsement Guides: What People Are Asking29 Jun 2023 — Here are answers to some of the most frequently ask...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.asa.org.uk/advice-online/affiliate-marketing.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asa.org.uk">[ASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asa.org.uk</span><span class="citation-popover-title">affiliate marketing</span><span class="citation-popover-snippet">Online Affiliate Marketing22 Mar 2023 — Rule 2.1 of the CAP Code requires that marketing communications are obviously identifiable as suc...</span></span></span>
-
 
 <img src="{{ "/assets/images/making_money_from_cr_f649af_affiliate_disclosure_249c42_per_page_disclosure_bed7b0-Illustration-1-dark.svg" | relative_url }}" alt="Page Checks illustration 1" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_affiliate_disclosure_249c42_per_page_disclosure_bed7b0-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_affiliate_disclosure_249c42_per_page_disclosure_bed7b0-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 For large affiliate sites, this becomes a governance problem rather than a writing problem. A site with hundreds or thousands of monetised pages can easily develop disclosure gaps through template changes, content imports, expired page formats, or inconsistent publishing workflows. Per-page disclosure checks help protect trust, reduce compliance risk, and create a repeatable standard that can scale across large content inventories.
@@ -287,7 +286,6 @@ Many affiliate publishers start with a single disclosure page linked in the foot
 Regulators consistently focus on visibility and context. The FTC's guidance emphasises that material connections should be disclosed clearly and conspicuously where consumers encounter the endorsement. Similarly, UK CAP Code guidance requires affiliate marketing communications to be obviously identifiable and commercially transparent. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-title">s endorsement guides what people are asking</span><span class="citation-popover-snippet">Federal Trade CommissionFTC&#x27;s Endorsement Guides: What People Are Asking29 Jun 2023 — Here are answers to some of the most frequently ask...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.asa.org.uk/advice-online/recognising-ads-advertisement-features.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asa.org.uk">[ASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asa.org.uk</span><span class="citation-popover-title">recognising ads advertisement features</span><span class="citation-popover-snippet">Recognising ads: Advertisement features23 Mar 2023 — Section 2 of the CAP Code requires that marketing communications are obviously ident...</span></span></span>
 
 For a scaled affiliate site, relying on a global disclaimer creates several weaknesses:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -313,7 +311,6 @@ Affiliate publishers often think about websites as complete experiences. Search 
 
 A user searching for:
 
-
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
 * “best budget espresso machine”
@@ -337,7 +334,7 @@ That means the disclosure has to work independently. A reader should not need to
 
 This is particularly important on:
 
-* Product [comparison pages]({{ 'comparisons/' | relative_url }})
+* Product comparison pages
 * Buying guides
 * Product [reviews]({{ 'reviews/' | relative_url }})
 * “Best” roundups
@@ -346,7 +343,6 @@ This is particularly important on:
 
 These formats are designed to influence purchasing decisions, making commercial transparency more relevant than on informational content.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/SIR4Kn62bLQ" title="Comprehensive SEO Audit Guide: Perfect for Beginners!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=SIR4Kn62bLQ" target="_blank" rel="noopener noreferrer">Comprehensive SEO Audit Guide: Perfect for Beginners!</a></p><p class="youtube-embed-meta">Channel: Semrush &middot; Views: 152.8K &middot; Uploaded: February 2022 &middot; Length: 26 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=SIR4Kn62bLQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=SIR4Kn62bLQ">Open on YouTube</a></p></div></div></div>
 
 ### Search Traffic Creates Disclosure Inconsistency Risk
@@ -354,7 +350,6 @@ These formats are designed to influence purchasing decisions, making commercial 
 High-volume affiliate sites often grow through repeated page templates.
 
 A site might contain:
-
 
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
@@ -406,13 +401,12 @@ Once a page is classified as monetised, disclosure validation should automatical
 
 This prevents disclosure enforcement from depending entirely on editorial memory.
 
-
 <img src="{{ "/assets/images/making_money_from_cr_f649af_affiliate_disclosure_249c42_per_page_disclosure_bed7b0-Illustration-2-dark.svg" | relative_url }}" alt="Page Checks illustration 2" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_affiliate_disclosure_249c42_per_page_disclosure_bed7b0-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_affiliate_disclosure_249c42_per_page_disclosure_bed7b0-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Rule 2: Check Above-the-Fold Visibility
 
 A disclosure hidden far below the first affiliate button is difficult to defend. <span class="citation-chip-wrap"><a class="citation-chip" href="https://termly.io/resources/articles/affiliate-disclosure/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: termly.io">[termly.io]</a><span class="citation-popover" role="note"><span class="citation-popover-source">termly.io</span><span class="citation-popover-title">affiliate disclosure</span><span class="citation-popover-snippet">Examples &amp; Writing Guide1 Apr 2026 — We go over what an affiliate link disclosure is, how to write an effective one, a the requirements y...</span></span></span>
 
-Many compliance guides recommend disclosures appearing before readers interact with affiliate recommendations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://partnercentric.com/blog/how-to-properly-disclose-ftc-endorsements/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: partnercentric.com">[PartnerCentric]</a><span class="citation-popover" role="note"><span class="citation-popover-source">partnercentric.com</span><span class="citation-popover-snippet">PartnerCentricHow to Properly Disclose FTC Endorsements17 Jun 2024 — On websites, disclosures should be close to the endorsement, such as...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://help.raptive.com/hc/en-us/articles/26147443891483-Guide-to-Affiliate-Disclosures" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: help.raptive.com">[2help.raptive.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">help.raptive.com</span><span class="citation-popover-title">26147443891483 Guide to Affiliate Disclosures</span><span class="citation-popover-snippet">Guide to Affiliate Disclosures26 Jun 2024 — In each article or post that contains affiliate links, you must state that there are affiliat...</span></span></span>
+Many compliance guides recommend disclosures appearing before readers interact with affiliate recommendations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://partnercentric.com/blog/how-to-properly-disclose-ftc-endorsements/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: partnercentric.com">[PartnerCentric]</a><span class="citation-popover" role="note"><span class="citation-popover-source">partnercentric.com</span><span class="citation-popover-snippet">How to Properly Disclose FTC Endorsements17 Jun 2024 — On websites, disclosures should be close to the endorsement, such as...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://help.raptive.com/hc/en-us/articles/26147443891483-Guide-to-Affiliate-Disclosures" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: help.raptive.com">[2help.raptive.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">help.raptive.com</span><span class="citation-popover-title">26147443891483 Guide to Affiliate Disclosures</span><span class="citation-popover-snippet">Guide to Affiliate Disclosures26 Jun 2024 — In each article or post that contains affiliate links, you must state that there are affiliat...</span></span></span>
 
 For scaled sites, a practical audit rule is:
 
@@ -426,7 +420,6 @@ A disclosure that appears prominently on desktop can disappear several screens d
 
 Because commercial affiliate traffic is frequently mobile-first, disclosure reviews should include:
 
-
 <div class="content-enhancement content-enhancement--decision" markdown="1">
 
 * Mobile rendering
@@ -439,7 +432,6 @@ Because commercial affiliate traffic is frequently mobile-first, disclosure revi
 
 A page can technically contain a disclosure while still failing the visibility test for many users.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0nCoeDTbo_Y" title="How to do an SEO Audit — 7 Steps for Beginners (Free Tools)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0nCoeDTbo_Y" target="_blank" rel="noopener noreferrer">How to do an SEO Audit — 7 Steps for Beginners (Free Tools)</a></p><p class="youtube-embed-meta">Channel: Josiah Roche — Google Ads + SEO Training &middot; Views: 16.3K &middot; Uploaded: July 2024 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0nCoeDTbo_Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0nCoeDTbo_Y">Open on YouTube</a></p></div></div></div>
 
 ### Rule 4: Test Category Templates, Not Just Individual Pages
@@ -449,7 +441,6 @@ Many large sites generate hundreds of pages from a single template.
 This creates leverage.
 
 Rather than manually checking 5,000 URLs, publishers can review:
-
 
 <div class="content-enhancement content-enhancement--decision" markdown="1">
 
@@ -463,14 +454,12 @@ Rather than manually checking 5,000 URLs, publishers can review:
 
 If disclosure placement is built into the template, compliance scales more reliably across future content.
 
-
 <img src="{{ "/assets/images/making_money_from_cr_f649af_affiliate_disclosure_249c42_per_page_disclosure_bed7b0-Illustration-3-dark.svg" | relative_url }}" alt="Page Checks illustration 3" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_affiliate_disclosure_249c42_per_page_disclosure_bed7b0-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_affiliate_disclosure_249c42_per_page_disclosure_bed7b0-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Rule 5: Flag Pages Where Monetisation Changes
 
 One common failure occurs when informational pages later become commercial.
 
 Examples include:
-
 
 <div class="content-enhancement content-enhancement--decision" markdown="1">
 
@@ -508,10 +497,9 @@ Content generation workflows create monetised pages without inserting disclosure
 
 **Widget-first monetisation**
 
-Product [comparison tables]({{ 'tables/' | relative_url }}) are embedded through plugins that bypass normal content areas where disclosures appear.
+Product comparison tables are embedded through plugins that bypass normal content areas where disclosures appear.
 
 These failures are especially common when sites expand into new topic clusters or launch multiple content formats simultaneously.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/COaie368nNo" title="sharing amazon affiliate links - the right way" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=COaie368nNo" target="_blank" rel="noopener noreferrer">sharing amazon affiliate links - the right way</a></p><p class="youtube-embed-meta">Channel: Real Kelly Mirabella - Influencer help &middot; Views: 56.8K &middot; Uploaded: January 2023 &middot; Length: 4 minutes 14 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=COaie368nNo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=COaie368nNo">Open on YouTube</a></p></div></div></div>
 
@@ -521,7 +509,7 @@ Disclosure checks are often treated as a legal burden, but they also support mon
 
 Visitors increasingly recognise affiliate business models. A clear disclosure removes uncertainty about why products are being recommended and can make the page appear more trustworthy rather than less trustworthy.
 
-Research on affiliate disclosure effectiveness has shown that vague or hidden disclosures are frequently misunderstood, while clearer explanatory disclosures help users recognise the commercial relationship being disclosed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1809.00620" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivEndorsements on Social Media: An Empirical Study of Affiliate Marketing Disclosures on YouTube and PinterestSeptember 3, 2018...</span><span class="citation-popover-meta">Published: September 3, 2018</span></span></span>
+Research on affiliate disclosure effectiveness has shown that vague or hidden disclosures are frequently misunderstood, while clearer explanatory disclosures help users recognise the commercial relationship being disclosed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1809.00620" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Endorsements on Social Media: An Empirical Study of Affiliate Marketing Disclosures on YouTube and PinterestSeptember 3, 2018...</span><span class="citation-popover-meta">Published: September 3, 2018</span></span></span>
 
 For large affiliate sites, trust becomes a repeatable asset.
 
@@ -546,7 +534,7 @@ For high-volume affiliate publishing, the safest approach is usually the simples
 * Audit templates regularly rather than relying on manual page reviews.
 * Recheck disclosures whenever links, widgets, or monetisation systems change.
 
-The key insight is that disclosure compliance should scale in the same way as navigation, page structure, or [internal linking]({{ 'user-journeys/' | relative_url }}). When disclosures are treated as a template-level governance requirement instead of a writer-level task, consistency becomes easier to maintain across thousands of revenue-generating pages.
+The key insight is that disclosure compliance should scale in the same way as navigation, page structure, or internal linking. When disclosures are treated as a template-level governance requirement instead of a writer-level task, consistency becomes easier to maintain across thousands of revenue-generating pages.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -970,149 +958,149 @@ The key insight is that disclosure compliance should scale in the same way as na
 1. <a id="endnote-1"></a>
    Source: ftc.gov  
    Title: s endorsement guides what people are asking  
-   Link: [https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking](https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking)  
+   Link: <a href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade CommissionFTC&#x27;s Endorsement Guides: What People Are Asking29 Jun 2023 — Here are answers to some of the most frequently ask...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: asa.org.uk  
    Title: affiliate marketing  
-   Link: [https://www.asa.org.uk/advice-online/affiliate-marketing.html](https://www.asa.org.uk/advice-online/affiliate-marketing.html)  
+   Link: <a href="https://www.asa.org.uk/advice-online/affiliate-marketing.html" target="_blank" rel="noopener noreferrer nofollow">https://www.asa.org.uk/advice-online/affiliate-marketing.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Online Affiliate Marketing22 Mar 2023 — Rule 2.1 of the CAP Code requires that marketing communications are obviously identifiable as suc...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: asa.org.uk  
    Title: recognising ads advertisement features  
-   Link: [https://www.asa.org.uk/advice-online/recognising-ads-advertisement-features.html](https://www.asa.org.uk/advice-online/recognising-ads-advertisement-features.html)  
+   Link: <a href="https://www.asa.org.uk/advice-online/recognising-ads-advertisement-features.html" target="_blank" rel="noopener noreferrer nofollow">https://www.asa.org.uk/advice-online/recognising-ads-advertisement-features.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Recognising ads: Advertisement features23 Mar 2023 — Section 2 of the CAP Code requires that marketing communications are obviously ident...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: asa.org.uk  
    Title: get yourself affiliated with the rules on affiliate marketing  
-   Link: [https://www.asa.org.uk/news/get-yourself-affiliated-with-the-rules-on-affiliate-marketing.html](https://www.asa.org.uk/news/get-yourself-affiliated-with-the-rules-on-affiliate-marketing.html)  
+   Link: <a href="https://www.asa.org.uk/news/get-yourself-affiliated-with-the-rules-on-affiliate-marketing.html" target="_blank" rel="noopener noreferrer nofollow">https://www.asa.org.uk/news/get-yourself-affiliated-with-the-rules-on-affiliate-marketing.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>10 Oct 2024 — This CAP Advice explains the circumstances under which different aspects of content which includes affiliate links will nee...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: partnercentric.com  
-   Link: [https://partnercentric.com/blog/how-to-properly-disclose-ftc-endorsements/](https://partnercentric.com/blog/how-to-properly-disclose-ftc-endorsements/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PartnerCentricHow to Properly Disclose FTC Endorsements17 Jun 2024 — On websites, disclosures should be close to the endorsement, such as...</p></details>
+   Link: <a href="https://partnercentric.com/blog/how-to-properly-disclose-ftc-endorsements/" target="_blank" rel="noopener noreferrer nofollow">https://partnercentric.com/blog/how-to-properly-disclose-ftc-endorsements/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Properly Disclose FTC Endorsements17 Jun 2024 — On websites, disclosures should be close to the endorsement, such as...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: help.raptive.com  
    Title: 26147443891483 Guide to Affiliate Disclosures  
-   Link: [https://help.raptive.com/hc/en-us/articles/26147443891483-Guide-to-Affiliate-Disclosures](https://help.raptive.com/hc/en-us/articles/26147443891483-Guide-to-Affiliate-Disclosures)  
+   Link: <a href="https://help.raptive.com/hc/en-us/articles/26147443891483-Guide-to-Affiliate-Disclosures" target="_blank" rel="noopener noreferrer nofollow">https://help.raptive.com/hc/en-us/articles/26147443891483-Guide-to-Affiliate-Disclosures</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Guide to Affiliate Disclosures26 Jun 2024 — In each article or post that contains affiliate links, you must state that there are affiliat...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/1809.00620](https://arxiv.org/abs/1809.00620)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivEndorsements on Social Media: An Empirical Study of Affiliate Marketing Disclosures on YouTube and PinterestSeptember 3, 2018...</p></details>
+   Link: <a href="https://arxiv.org/abs/1809.00620" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1809.00620</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Endorsements on Social Media: An Empirical Study of Affiliate Marketing Disclosures on YouTube and PinterestSeptember 3, 2018...</p></details>
    Published: September 3, 2018  
 
 8. <a id="endnote-8"></a>
    Source: ftc.gov  
-   Link: [https://www.ftc.gov/system/files/ftc_gov/pdf/P204500%20Guides%20Concerning%20Endors%20and%20Testimonials.pdf](https://www.ftc.gov/system/files/ftc_gov/pdf/P204500%20Guides%20Concerning%20Endors%20and%20Testimonials.pdf)  
+   Link: <a href="https://www.ftc.gov/system/files/ftc_gov/pdf/P204500%20Guides%20Concerning%20Endors%20and%20Testimonials.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/system/files/ftc_gov/pdf/P204500%20Guides%20Concerning%20Endors%20and%20Testimonials.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>at an endorser&#x27;s experience is representative of what consumers will.Read more...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: youtube.com  
    Title: Compliance in Affiliate Marketing, The 6 Blind Spots  
-   Link: [https://www.youtube.com/watch?v=Or2vR78M6KA](https://www.youtube.com/watch?v=Or2vR78M6KA)  
+   Link: <a href="https://www.youtube.com/watch?v=Or2vR78M6KA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Or2vR78M6KA</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to do an SEO Audit — 7 Steps for Beginners (Free Tools)...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: youtube.com  
    Title: How to do an SEO Audit — 7 Steps for Beginners (Free Tools)  
-   Link: [https://www.youtube.com/watch?v=0nCoeDTbo_Y](https://www.youtube.com/watch?v=0nCoeDTbo_Y)  
+   Link: <a href="https://www.youtube.com/watch?v=0nCoeDTbo_Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0nCoeDTbo_Y</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Comprehensive SEO Audit Guide: Perfect for Beginners...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: youtube.com  
    Title: Comprehensive SEO Audit Guide: Perfect for Beginners!  
-   Link: [https://www.youtube.com/watch?v=SIR4Kn62bLQ](https://www.youtube.com/watch?v=SIR4Kn62bLQ)  
+   Link: <a href="https://www.youtube.com/watch?v=SIR4Kn62bLQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=SIR4Kn62bLQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>EP 118. Disclosures 101: FTC Guidelines for Social Media Influencers...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: youtube.com  
    Title: EP 118. Disclosures 101: FTC Guidelines for Social Media Influencers  
-   Link: [https://www.youtube.com/watch?v=Q1D_dZdExHA](https://www.youtube.com/watch?v=Q1D_dZdExHA)  
+   Link: <a href="https://www.youtube.com/watch?v=Q1D_dZdExHA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Q1D_dZdExHA</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>sharing amazon affiliate links - the right way...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: youtube.com  
    Title: sharing amazon affiliate links  
-   Link: [https://www.youtube.com/watch?v=COaie368nNo](https://www.youtube.com/watch?v=COaie368nNo)  
+   Link: <a href="https://www.youtube.com/watch?v=COaie368nNo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=COaie368nNo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How to check affiliate disclosures automated audit scaled site What They DON&#x27;T Tell You About The Amazon Affiliate Program...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: asa.org.uk  
-   Link: [https://www.asa.org.uk/](https://www.asa.org.uk/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ASA | CAPThe Advertising Standards Authority (ASA) is the UK&#x27;s independent regulator of advertising across all media...</p></details>
+   Link: <a href="https://www.asa.org.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.asa.org.uk/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>CAPThe Advertising Standards Authority (ASA) is the UK&#x27;s independent regulator of advertising across all media...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: termly.io  
    Title: affiliate disclosure  
-   Link: [https://termly.io/resources/articles/affiliate-disclosure/](https://termly.io/resources/articles/affiliate-disclosure/)  
+   Link: <a href="https://termly.io/resources/articles/affiliate-disclosure/" target="_blank" rel="noopener noreferrer nofollow">https://termly.io/resources/articles/affiliate-disclosure/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Examples &amp; Writing Guide1 Apr 2026 — We go over what an affiliate link disclosure is, how to write an effective one, a the requirements y...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: termsfeed.com  
    Title: affiliate disclosure  
-   Link: [https://www.termsfeed.com/blog/affiliate-disclosure/](https://www.termsfeed.com/blog/affiliate-disclosure/)  
+   Link: <a href="https://www.termsfeed.com/blog/affiliate-disclosure/" target="_blank" rel="noopener noreferrer nofollow">https://www.termsfeed.com/blog/affiliate-disclosure/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Disclosures for Affiliate Links21 Apr 2026 — This article will break down affiliate disclosure requirements, how to create your own and h...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: youtube.com  
    Title: "Advertising Standards Authority (ASA)"  
-   Link: [https://www.youtube.com/watch?v=FnQymLaL7yo](https://www.youtube.com/watch?v=FnQymLaL7yo)  
+   Link: <a href="https://www.youtube.com/watch?v=FnQymLaL7yo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=FnQymLaL7yo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Legal DefinitionASA is an independent non-government body that regulates UK advertisements to ensure they are truthful and socially respo...</p></details>
 
 ### Additional References
 
 18. <a id="endnote-18"></a>
    Source: x.com  
-   Link: [https://x.com/ASA_UK?lang=en](https://x.com/ASA_UK?lang=en)  
+   Link: <a href="https://x.com/ASA_UK?lang=en" target="_blank" rel="noopener noreferrer nofollow">https://x.com/ASA_UK?lang=en</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ASA (@ASA_UK) / Posts / XWe&#x27;re the Advertising Standards Authority, the UK&#x27;s independent regulator for advertising across all media, incl...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: lyricalhost.com  
-   Link: [https://www.lyricalhost.com/blog/how-to-disclose-affiliate-links/](https://www.lyricalhost.com/blog/how-to-disclose-affiliate-links/)  
+   Link: <a href="https://www.lyricalhost.com/blog/how-to-disclose-affiliate-links/" target="_blank" rel="noopener noreferrer nofollow">https://www.lyricalhost.com/blog/how-to-disclose-affiliate-links/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How To Disclose Affiliate LinksConspicuous: The disclosure must be clear and easy to see, with no scrolling required. It should begin wit...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: iubenda.com  
-   Link: [https://www.iubenda.com/en/blog/affiliate-disclosure/](https://www.iubenda.com/en/blog/affiliate-disclosure/)  
+   Link: <a href="https://www.iubenda.com/en/blog/affiliate-disclosure/" target="_blank" rel="noopener noreferrer nofollow">https://www.iubenda.com/en/blog/affiliate-disclosure/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Write an Effective Affiliate DisclosureAccording to the FTC, endorsements must reflect the honest opinions and experience of the e...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: myroomismyoffice.com  
-   Link: [https://myroomismyoffice.com/uk-affiliate-link-disclosures/](https://myroomismyoffice.com/uk-affiliate-link-disclosures/)  
+   Link: <a href="https://myroomismyoffice.com/uk-affiliate-link-disclosures/" target="_blank" rel="noopener noreferrer nofollow">https://myroomismyoffice.com/uk-affiliate-link-disclosures/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UK Affiliate Link Disclosures: Where to Put Them (and...This guide shows you exactly where to put disclosures and what to say across blo...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: federal-lawyer.com  
-   Link: [https://federal-lawyer.com/ftc-defense/affiliate-disclosure/](https://federal-lawyer.com/ftc-defense/affiliate-disclosure/)  
+   Link: <a href="https://federal-lawyer.com/ftc-defense/affiliate-disclosure/" target="_blank" rel="noopener noreferrer nofollow">https://federal-lawyer.com/ftc-defense/affiliate-disclosure/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding the FTC&#x27;s Affiliate Disclosure RulesLearn what affiliate marketers and companies need to know about the FTC&#x27;s affiliate dis...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: rpclegal.com  
-   Link: [https://www.rpclegal.com/snapshots/advertising-and-marketing/spring-2023/the-asas-strict-approach-to-affiliate-marketing-links-and-the-need-for-advertising-disclosures/](https://www.rpclegal.com/snapshots/advertising-and-marketing/spring-2023/the-asas-strict-approach-to-affiliate-marketing-links-and-the-need-for-advertising-disclosures/)  
+   Link: <a href="https://www.rpclegal.com/snapshots/advertising-and-marketing/spring-2023/the-asas-strict-approach-to-affiliate-marketing-links-and-the-need-for-advertising-disclosures/" target="_blank" rel="noopener noreferrer nofollow">https://www.rpclegal.com/snapshots/advertising-and-marketing/spring-2023/the-asas-strict-approach-to-affiliate-marketing-links-and-the-need-for-advertising-disclosures/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The ASA&#x27;s strict approach to affiliate marketing links and...31 Mar 2023 — Both affiliate marketers and the brands they promote hold joi...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: adamigo.ai  
-   Link: [https://www.adamigo.ai/blog/ultimate-guide-to-ftc-ad-disclosures](https://www.adamigo.ai/blog/ultimate-guide-to-ftc-ad-disclosures)  
+   Link: <a href="https://www.adamigo.ai/blog/ultimate-guide-to-ftc-ad-disclosures" target="_blank" rel="noopener noreferrer nofollow">https://www.adamigo.ai/blog/ultimate-guide-to-ftc-ad-disclosures</a>  
 
 25. <a id="endnote-25"></a>
    Source: dglaw.com  
-   Link: [https://www.dglaw.com/the-deep-dive-ftc-updates-endorsement-guides-for-modern-marketing-and-advertising/](https://www.dglaw.com/the-deep-dive-ftc-updates-endorsement-guides-for-modern-marketing-and-advertising/)  
+   Link: <a href="https://www.dglaw.com/the-deep-dive-ftc-updates-endorsement-guides-for-modern-marketing-and-advertising/" target="_blank" rel="noopener noreferrer nofollow">https://www.dglaw.com/the-deep-dive-ftc-updates-endorsement-guides-for-modern-marketing-and-advertising/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Deep Dive: FTC Updates Endorsement Guides...11 Jul 2023 — On June 29, the FTC announced new Endorsement Guides (Endorsement Guides)...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: fastcomet.com  
-   Link: [https://www.fastcomet.com/blog/affiliate-disclosure](https://www.fastcomet.com/blog/affiliate-disclosure)  
+   Link: <a href="https://www.fastcomet.com/blog/affiliate-disclosure" target="_blank" rel="noopener noreferrer nofollow">https://www.fastcomet.com/blog/affiliate-disclosure</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Affiliate Link Disclosures: Examples and Best Practices9 Jun 2022 — Affiliate link disclosures are an FTC-mandated practice...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: jmw.co.uk  
-   Link: [https://www.jmw.co.uk/services-for-you/business-crime/advertising-standards-authority](https://www.jmw.co.uk/services-for-you/business-crime/advertising-standards-authority)  
+   Link: <a href="https://www.jmw.co.uk/services-for-you/business-crime/advertising-standards-authority" target="_blank" rel="noopener noreferrer nofollow">https://www.jmw.co.uk/services-for-you/business-crime/advertising-standards-authority</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>As such, it may respond to concerns about misleading or unlawful advertising (like financial or...Read more...</p></details>

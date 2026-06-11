@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /support-pages/
 nav_short_title: Link Fit
 title: When does the next link feel earned?
-title_full: When does the next link feel earned? | Support Pages
+title_full: When does the next link feel earned?
 display_title_short: Link Fit
 display_title: Link Fit
 heading_title: When does the next link feel earned?
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-31 15:42:10'
-parent_title: Can Informational Pages Still Earn Revenue? | Affiliate Engines
+parent_title: Can Informational Pages Still Earn Revenue?
 parent_permalink: /support-pages/
 parent_nav_short_title: Support Pages
 parent_heading_title: Can Informational Pages Still Earn Revenue?
@@ -276,7 +276,6 @@ image: /assets/images/making_money_from_cr_f649af_informational_suppor_3ecae4_re
 
 An informational page only feeds affiliate revenue when its internal links match what the reader is ready to do next. A visitor who is still learning basic concepts rarely wants the same destination as someone comparing two products. If every article pushes the same “best products” page regardless of context, many readers will ignore the link because it feels premature, irrelevant, or obviously commercial.
 
-
 <img src="{{ "/assets/images/making_money_from_cr_f649af_informational_suppor_3ecae4_reader_certainty_int_43a48b-Illustration-1-dark.svg" | relative_url }}" alt="Link Fit illustration 1" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_informational_suppor_3ecae4_reader_certainty_int_43a48b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_informational_suppor_3ecae4_reader_certainty_int_43a48b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The strongest internal links work because they match reader certainty. They recognise whether the visitor is still defining the problem, narrowing options, checking trade-offs, or preparing to buy. In usability research, people follow links when the surrounding cues suggest the destination will help them progress towards their goal, a principle often described as information scent. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nngroup.com/articles/information-scent/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nngroup.com">[Nielsen Norman Group]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nngroup.com</span><span class="citation-popover-title">information scent</span><span class="citation-popover-snippet">Nielsen Norman GroupInformation Scent: How Users Decide Where to Go Next2 Feb 2020 — When deciding which links to click on the web, users...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nngroup.com/articles/information-scent/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nngroup.com">[Nielsen Norman Group]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nngroup.com</span><span class="citation-popover-title">information scent</span><span class="citation-popover-snippet">Nielsen Norman GroupInformation Scent: How Users Decide Where to Go Next2 Feb 2020 — When deciding which links to click on the web, users...</span></span></span> In buying journeys, Google’s research suggests people move repeatedly between exploration and evaluation before making decisions rather than following a simple linear funnel. <span class="citation-chip-wrap"><a class="citation-chip" href="https://business.google.com/uk/think/consumer-insights/navigating-purchase-behavior-and-decision-making/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: business.google.com">[Google Business]</a><span class="citation-popover" role="note"><span class="citation-popover-source">business.google.com</span><span class="citation-popover-snippet">Google BusinessHow people decide what to buy lies in the &#x27;messy middle&#x27; of...People loop through these twin modes of exploration and eva...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://business.google.com/uk/think/consumer-insights/navigating-purchase-behavior-and-decision-making/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: business.google.com">[Google Business]</a><span class="citation-popover" role="note"><span class="citation-popover-source">business.google.com</span><span class="citation-popover-snippet">Google BusinessHow people decide what to buy lies in the &#x27;messy middle&#x27; of...People loop through these twin modes of exploration and eva...</span></span></span>
 
@@ -328,15 +327,14 @@ The difference is subtle but commercially important. The first path uses informa
 
 For large-scale affiliate publishing systems, this distinction can become a routing rule:
 
-* Definition pages should usually link to explanation or [comparison pages]({{ 'comparisons/' | relative_url }}).
+* Definition pages should usually link to explanation or comparison pages.
 * Explanation pages should often link to [decision tools]({{ 'decision-tools/' | relative_url }}) and category comparisons.
 * Comparison pages should frequently link to product recommendations.
 * Product recommendation pages should link to individual reviews or merchant offers.
 
 The destination changes because certainty changes.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/-c9AUhXAFD8" title="Information Scent" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=-c9AUhXAFD8" target="_blank" rel="noopener noreferrer">Information Scent</a></p><p class="youtube-embed-meta">Channel: NNgroup &middot; Views: 13.0K &middot; Uploaded: November 2020 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=-c9AUhXAFD8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=-c9AUhXAFD8">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6GC2y0cNXcw" title="SEO Silos: How to Rank for More Keywords Without Building Links [5 Ways]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6GC2y0cNXcw" target="_blank" rel="noopener noreferrer">SEO Silos: How to Rank for More Keywords Without Building Links [5 Ways]</a></p><p class="youtube-embed-meta">Channel: Matt Diggity &middot; Views: 89.2K &middot; Uploaded: August 2021 &middot; Length: 19 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6GC2y0cNXcw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6GC2y0cNXcw">Open on YouTube</a></p></div></div></div>
 
 ## Examples of strong and weak link labels
 
@@ -347,7 +345,6 @@ Strong links tell the reader exactly why the next page is useful. Weak links hid
 ### Strong labels
 
 These links match a clear decision stage:
-
 
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
@@ -361,12 +358,10 @@ These links match a clear decision stage:
 
 Each label explains what the reader gains by clicking.
 
-
 <img src="{{ "/assets/images/making_money_from_cr_f649af_informational_suppor_3ecae4_reader_certainty_int_43a48b-Illustration-2-dark.svg" | relative_url }}" alt="Link Fit illustration 2" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_informational_suppor_3ecae4_reader_certainty_int_43a48b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_informational_suppor_3ecae4_reader_certainty_int_43a48b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Weak labels
 
 These links provide little information scent: <span class="citation-chip-wrap"><a class="citation-chip" href="https://digitalcommunications.wp.st-andrews.ac.uk/2021/03/09/the-information-scent-of-links/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcommunications.wp.st-andrews.ac.uk">[digitalcommunications.wp.st-andrews.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcommunications.wp.st-andrews.ac.uk</span><span class="citation-popover-title">the information scent of links</span><span class="citation-popover-snippet">9 Mar 2021 — You&#x27;ll choose the one with the highest information scent – the link with relevant terms and context that you think will help...</span></span></span>
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -392,8 +387,7 @@ than:
 
 The first continues the current thought process. The second abruptly changes it.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_xGmA7SeoqA" title="Ask a Rearcher: How do we decode the messy middle of the consumer purchase journey?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_xGmA7SeoqA" target="_blank" rel="noopener noreferrer">Ask a Rearcher: How do we decode the messy middle of the consumer purchase journey?</a></p><p class="youtube-embed-meta">Channel: Think with Google &middot; Views: 5.9K &middot; Uploaded: February 2021 &middot; Length: 3 minutes 17 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_xGmA7SeoqA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_xGmA7SeoqA">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9lpsNAbk-64" title="How to Interlink your Pages Together - SEO Beginner&#x27;s Guide [Part 5]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9lpsNAbk-64" target="_blank" rel="noopener noreferrer">How to Interlink your Pages Together - SEO Beginner&#x27;s Guide [Part 5]</a></p><p class="youtube-embed-meta">Channel: Matt Diggity &middot; Views: 9.4K &middot; Uploaded: June 2019 &middot; Length: 2 minutes 10 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9lpsNAbk-64" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9lpsNAbk-64">Open on YouTube</a></p></div></div></div>
 
 ## Avoiding generic money-page links on every guide
 
@@ -408,7 +402,6 @@ If every article links to:
 the internal-link system ignores reader intent.
 
 A visitor reading:
-
 
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
@@ -431,7 +424,6 @@ This becomes particularly important in high-volume publishing systems. Rather th
 
 That approach typically creates:
 
-
 <div class="content-enhancement content-enhancement--checklist" markdown="1">
 
 * Better engagement signals.
@@ -443,11 +435,10 @@ That approach typically creates:
 
 The goal is not maximising commercial links. The goal is increasing the number of readers who arrive at commercial pages when they are genuinely ready for them.
 
-
 <img src="{{ "/assets/images/making_money_from_cr_f649af_informational_suppor_3ecae4_reader_certainty_int_43a48b-Illustration-3-dark.svg" | relative_url }}" alt="Link Fit illustration 3" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_informational_suppor_3ecae4_reader_certainty_int_43a48b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_informational_suppor_3ecae4_reader_certainty_int_43a48b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Building certainty ladders instead of funnels
 
-Many affiliate sites still organise [internal linking]({{ 'user-journeys/' | relative_url }}) as a simple funnel:
+Many affiliate sites still organise internal linking as a simple funnel:
 
 Informational article → Best products page → Affiliate link
 
@@ -456,7 +447,6 @@ Real behaviour is usually less direct. Buyers often need several confidence-buil
 A more useful model is a certainty ladder.
 
 For a visitor researching cordless drills, the path might look like:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -474,9 +464,7 @@ This structure creates multiple conversion opportunities while preserving trust.
 
 For affiliate publishers, that often produces a stronger long-term outcome than aggressive linking. The most valuable internal link is rarely the most commercial one. It is the one that matches what the reader is confident enough to decide next.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6GC2y0cNXcw" title="SEO Silos: How to Rank for More Keywords Without Building Links [5 Ways]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6GC2y0cNXcw" target="_blank" rel="noopener noreferrer">SEO Silos: How to Rank for More Keywords Without Building Links [5 Ways]</a></p><p class="youtube-embed-meta">Channel: Matt Diggity &middot; Views: 89.2K &middot; Uploaded: August 2021 &middot; Length: 19 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6GC2y0cNXcw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6GC2y0cNXcw">Open on YouTube</a></p></div></div></div>
-
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/tlUvrZMl9yk" title="This Claude SEO Skill Does My SEO For Me" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=tlUvrZMl9yk" target="_blank" rel="noopener noreferrer">This Claude SEO Skill Does My SEO For Me</a></p><p class="youtube-embed-meta">Channel: Kasra Dash &middot; Views: 347 &middot; Uploaded: March 2026 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=tlUvrZMl9yk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=tlUvrZMl9yk">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -900,57 +888,57 @@ For affiliate publishers, that often produces a stronger long-term outcome than 
 1. <a id="endnote-1"></a>
    Source: digitalcommunications.wp.st-andrews.ac.uk  
    Title: the information scent of links  
-   Link: [https://digitalcommunications.wp.st-andrews.ac.uk/2021/03/09/the-information-scent-of-links/](https://digitalcommunications.wp.st-andrews.ac.uk/2021/03/09/the-information-scent-of-links/)  
+   Link: <a href="https://digitalcommunications.wp.st-andrews.ac.uk/2021/03/09/the-information-scent-of-links/" target="_blank" rel="noopener noreferrer nofollow">https://digitalcommunications.wp.st-andrews.ac.uk/2021/03/09/the-information-scent-of-links/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>9 Mar 2021 — You&#x27;ll choose the one with the highest information scent – the link with relevant terms and context that you think will help...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: business.google.com  
-   Link: [https://business.google.com/uk/think/consumer-insights/navigating-purchase-behavior-and-decision-making/](https://business.google.com/uk/think/consumer-insights/navigating-purchase-behavior-and-decision-making/)  
+   Link: <a href="https://business.google.com/uk/think/consumer-insights/navigating-purchase-behavior-and-decision-making/" target="_blank" rel="noopener noreferrer nofollow">https://business.google.com/uk/think/consumer-insights/navigating-purchase-behavior-and-decision-making/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Google BusinessHow people decide what to buy lies in the &#x27;messy middle&#x27; of...People loop through these twin modes of exploration and eva...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: google.com  
-   Link: [https://www.google.com/](https://www.google.com/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>GoogleSearch the world&#x27;s information, including webpages, images, videos and more. Google has many special features to help you find exac...</p></details>
+   Link: <a href="https://www.google.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.google.com/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Search the world&#x27;s information, including webpages, images, videos and more. Google has many special features to help you find exac...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: business.google.com  
    Title: messy middle 2023  
-   Link: [https://business.google.com/aunz/think/consumer-insights/messy-middle-2023/](https://business.google.com/aunz/think/consumer-insights/messy-middle-2023/)  
+   Link: <a href="https://business.google.com/aunz/think/consumer-insights/messy-middle-2023/" target="_blank" rel="noopener noreferrer nofollow">https://business.google.com/aunz/think/consumer-insights/messy-middle-2023/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Behaviour in the Messy MiddleUnderstand the buying behaviour of omnichannel shoppers and navigate the Messy Middle of e-commerce customer...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: nngroup.com  
    Title: information scent  
-   Link: [https://www.nngroup.com/articles/information-scent/](https://www.nngroup.com/articles/information-scent/)  
+   Link: <a href="https://www.nngroup.com/articles/information-scent/" target="_blank" rel="noopener noreferrer nofollow">https://www.nngroup.com/articles/information-scent/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nielsen Norman GroupInformation Scent: How Users Decide Where to Go Next2 Feb 2020 — When deciding which links to click on the web, users...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: nngroup.com  
    Title: information foraging  
-   Link: [https://www.nngroup.com/articles/information-foraging/](https://www.nngroup.com/articles/information-foraging/)  
+   Link: <a href="https://www.nngroup.com/articles/information-foraging/" target="_blank" rel="noopener noreferrer nofollow">https://www.nngroup.com/articles/information-foraging/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nielsen Norman GroupInformation Foraging: A Theory of How People Navigate on...10 Nov 2019 — The estimate is based the on cues that they...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: thinkwithgoogle.com  
-   Link: [https://www.thinkwithgoogle.com/_qs/documents/9998/Decoding_Decisions_The_Messy_Middle_of_Purchase_Behavior.pdf](https://www.thinkwithgoogle.com/_qs/documents/9998/Decoding_Decisions_The_Messy_Middle_of_Purchase_Behavior.pdf)  
+   Link: <a href="https://www.thinkwithgoogle.com/_qs/documents/9998/Decoding_Decisions_The_Messy_Middle_of_Purchase_Behavior.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.thinkwithgoogle.com/_qs/documents/9998/Decoding_Decisions_The_Messy_Middle_of_Purchase_Behavior.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Google BusinessDecoding DecisionsIn our model, between the twin poles of trigger and purchase, sits the messy middle, in which consumers...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: thinkwithgoogle.com  
-   Link: [https://www.thinkwithgoogle.com/_qs/documents/18366/Decoding_Decisions_Marketing_in_the_Messy_Middle.pdf](https://www.thinkwithgoogle.com/_qs/documents/18366/Decoding_Decisions_Marketing_in_the_Messy_Middle.pdf)  
+   Link: <a href="https://www.thinkwithgoogle.com/_qs/documents/18366/Decoding_Decisions_Marketing_in_the_Messy_Middle.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.thinkwithgoogle.com/_qs/documents/18366/Decoding_Decisions_Marketing_in_the_Messy_Middle.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Marketing in the messy middlemessy middle. The exploration and evaluation loops of the messy middle are fundamentally about how people di...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: uxtigers.com  
    Title: information scent  
-   Link: [https://www.uxtigers.com/post/information-scent](https://www.uxtigers.com/post/information-scent)  
+   Link: <a href="https://www.uxtigers.com/post/information-scent" target="_blank" rel="noopener noreferrer nofollow">https://www.uxtigers.com/post/information-scent</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>How Users Decide Where to Click26 Jul 2024 — Good information scent happens when link labels and other navigational cues accurately repre...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: neveralwaysbook.com  
    Title: messy middle  
-   Link: [https://neveralwaysbook.com/learn/messy-middle](https://neveralwaysbook.com/learn/messy-middle)  
+   Link: <a href="https://neveralwaysbook.com/learn/messy-middle" target="_blank" rel="noopener noreferrer nofollow">https://neveralwaysbook.com/learn/messy-middle</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Marketing: Google&#x27;s Consumer Journey Model1 May 2026 — Unlike traditional linear funnels, consumers loop repeatedly between exploration (...</p></details>
    Published: May 2026  
 
@@ -958,47 +946,47 @@ For affiliate publishers, that often produces a stronger long-term outcome than 
 
 11. <a id="endnote-11"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UXDesign/comments/th1uo7/notes_on_information_foraging/](https://www.reddit.com/r/UXDesign/comments/th1uo7/notes_on_information_foraging/)  
+   Link: <a href="https://www.reddit.com/r/UXDesign/comments/th1uo7/notes_on_information_foraging/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UXDesign/comments/th1uo7/notes_on_information_foraging/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Notes on Information Foraging: r/UXDesignHow do users decide which link to click, and which ones to ignore? This happens through informa...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: nngroup.com  
-   Link: [https://www.nngroup.com/topic/psychology-and-ux/?page=4](https://www.nngroup.com/topic/psychology-and-ux/?page=4)  
+   Link: <a href="https://www.nngroup.com/topic/psychology-and-ux/?page=4" target="_blank" rel="noopener noreferrer nofollow">https://www.nngroup.com/topic/psychology-and-ux/?page=4</a>  
 
 13. <a id="endnote-13"></a>
    Source: steptwo.com.au  
-   Link: [https://www.steptwo.com.au/papers/kmc_informationscent/](https://www.steptwo.com.au/papers/kmc_informationscent/)  
+   Link: <a href="https://www.steptwo.com.au/papers/kmc_informationscent/" target="_blank" rel="noopener noreferrer nofollow">https://www.steptwo.com.au/papers/kmc_informationscent/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Information scent: helping people find the content they wantThis article introduces the concept of information scent and explains how cre...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: medium.com  
-   Link: [https://medium.com/astrolabs/understanding-information-scent-95a6554007d4](https://medium.com/astrolabs/understanding-information-scent-95a6554007d4)  
+   Link: <a href="https://medium.com/astrolabs/understanding-information-scent-95a6554007d4" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/astrolabs/understanding-information-scent-95a6554007d4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding Information ScentInformation scent is basically the strength and correlation of the information provided on a site in compa...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/pulse/google-decodes-messy-middle-buying-process-g-david-dodd](https://www.linkedin.com/pulse/google-decodes-messy-middle-buying-process-g-david-dodd)  
+   Link: <a href="https://www.linkedin.com/pulse/google-decodes-messy-middle-buying-process-g-david-dodd" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/google-decodes-messy-middle-buying-process-g-david-dodd</a>  
 
 16. <a id="endnote-16"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/710142097/Decoding-Decisions-Marketing-in-the-Messy-Middle-DclfruV](https://www.scribd.com/document/710142097/Decoding-Decisions-Marketing-in-the-Messy-Middle-DclfruV)  
+   Link: <a href="https://www.scribd.com/document/710142097/Decoding-Decisions-Marketing-in-the-Messy-Middle-DclfruV" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/710142097/Decoding-Decisions-Marketing-in-the-Messy-Middle-DclfruV</a>  
 
 17. <a id="endnote-17"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/danielpriestley_nobody-pulls-out-their-wallet-for-someone-activity-7445397074776469504-H0Ib](https://www.linkedin.com/posts/danielpriestley_nobody-pulls-out-their-wallet-for-someone-activity-7445397074776469504-H0Ib)  
+   Link: <a href="https://www.linkedin.com/posts/danielpriestley_nobody-pulls-out-their-wallet-for-someone-activity-7445397074776469504-H0Ib" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/danielpriestley_nobody-pulls-out-their-wallet-for-someone-activity-7445397074776469504-H0Ib</a>  
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=-c9AUhXAFD8](https://www.youtube.com/watch?v=-c9AUhXAFD8)  
+   Link: <a href="https://www.youtube.com/watch?v=-c9AUhXAFD8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-c9AUhXAFD8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Information ScentInformation foraging explains how users behave on the web and why they click certain links and not others. Information s...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: seozoom.com  
    Title: understanding the messy middle in the consumer funnel  
-   Link: [https://www.seozoom.com/understanding-the-messy-middle-in-the-consumer-funnel/](https://www.seozoom.com/understanding-the-messy-middle-in-the-consumer-funnel/)  
+   Link: <a href="https://www.seozoom.com/understanding-the-messy-middle-in-the-consumer-funnel/" target="_blank" rel="noopener noreferrer nofollow">https://www.seozoom.com/understanding-the-messy-middle-in-the-consumer-funnel/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Oct 12, 2023 — Messy Middle is the crucial decision space between stimulus and purchase: here&#x27;s how brands can guide consumers on the pat...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/pulse/following-scent-how-information-foraging-shapes-better-john-brown-rmaje](https://www.linkedin.com/pulse/following-scent-how-information-foraging-shapes-better-john-brown-rmaje)  
+   Link: <a href="https://www.linkedin.com/pulse/following-scent-how-information-foraging-shapes-better-john-brown-rmaje" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/following-scent-how-information-foraging-shapes-better-john-brown-rmaje</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>t they might find if they follow a link, click a button, or explore a section...</p></details>

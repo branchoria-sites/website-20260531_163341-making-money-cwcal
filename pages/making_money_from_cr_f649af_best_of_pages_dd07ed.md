@@ -34,7 +34,7 @@ sidebar_expanded_urls:
 - /making-money-from-creating-websites/
 nav_short_title: Best Lists
 title: What Makes a Best Of Page Convert?
-title_full: What Makes a Best Of Page Convert? | Affiliate Engines
+title_full: What Makes a Best Of Page Convert?
 display_title_short: Best Lists
 display_title: Best Lists
 heading_title: What Makes a Best Of Page Convert?
@@ -312,9 +312,8 @@ image: /assets/images/making_money_from_cr_f649af_best_of_pages_dd07ed-overview-
 
 Best-of pages convert when they do more than rank products. A strong shortlist page helps a reader quickly answer: “Which option fits my situation, and why should I trust this recommendation?” In affiliate publishing, that matters because the page is often the final decision layer before a revenue-generating click. A thin “10 best” list may attract search traffic, but it gives the reader little reason to believe the order, understand the trade-offs, or choose one offer over another.
 
-
 <img src="{{ "/assets/images/making_money_from_cr_f649af_best_of_pages_dd07ed-overview.webp" | relative_url }}" alt="Overview image for Best Lists" loading="eager" decoding="sync" fetchpriority="high">
-The better model is a guided shortlist: a small set of recommended choices, each matched to a clear use case, with transparent [selection criteria]({{ 'criteria/' | relative_url }}), meaningful [comparisons]({{ 'comparisons/' | relative_url }}), and visible reasons why some options were included or excluded. This aligns with Google’s guidance that useful review content should provide insightful analysis, original research, and evidence of real knowledge rather than simply summarising products. <span class="citation-chip-wrap"><a class="citation-chip" href="https://developers.google.com/search/docs/appearance/reviews-system" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-snippet">Google for DevelopersGoogle Search&#x27;s Reviews SystemThe reviews system aims to better reward high quality reviews, which is content that p...</span></span></span>
+The better model is a guided shortlist: a small set of recommended choices, each matched to a clear use case, with transparent selection [criteria]({{ 'criteria/' | relative_url }}), meaningful [comparisons]({{ 'comparisons/' | relative_url }}), and visible reasons why some options were included or excluded. This aligns with Google’s guidance that useful review content should provide insightful analysis, original research, and evidence of real knowledge rather than simply summarising products. <span class="citation-chip-wrap"><a class="citation-chip" href="https://developers.google.com/search/docs/appearance/reviews-system" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-snippet">Google for DevelopersGoogle Search&#x27;s Reviews SystemThe reviews system aims to better reward high quality reviews, which is content that p...</span></span></span>
 
 For a website built around affiliate links, best-of pages are valuable because they sit close to buying intent. They can turn category-level searches such as “best standing desk”, “best accounting software for freelancers”, or “best protein powder for beginners” into clicks by reducing uncertainty. The page earns its place when it narrows the market honestly, not when it pretends every reader needs the same “number one” product.
 
@@ -322,12 +321,11 @@ For a website built around affiliate links, best-of pages are valuable because t
 
 A best-of page works best when the reader already knows the broad category but has not yet chosen the specific product, service, or provider. They are not asking “what is this?” in a purely educational sense. They are asking “which one should I choose?” That means the page has to support a decision, not merely describe a market.
 
-The strongest [intent signals]({{ 'intent-signals/' | relative_url }}) usually include phrases such as “best”, “top”, “best for”, “alternatives”, “compare”, “for beginners”, “for small rooms”, “for heavy users”, “for students”, or “under £100”. These queries imply that the reader expects a shortlist, not a long encyclopaedic article. A page targeting “best noise-cancelling headphones for travel” should therefore make travel-related factors central: battery life, comfort on long journeys, case size, call quality, noise cancellation, and price. A generic headphone ranking would miss the [commercial intent]({{ 'intent-topics/' | relative_url }}) because the reader’s situation is the real filter.
+The strongest [intent signals]({{ 'intent-signals/' | relative_url }}) usually include phrases such as “best”, “top”, “best for”, “alternatives”, “compare”, “for beginners”, “for small rooms”, “for heavy users”, “for students”, or “under £100”. These queries imply that the reader expects a shortlist, not a long encyclopaedic article. A page targeting “best noise-cancelling headphones for travel” should therefore make travel-related factors central: battery life, comfort on long journeys, case size, call quality, noise cancellation, and price. A generic headphone ranking would miss the commercial intent because the reader’s situation is the real filter.
 
-This is why best-of pages can outperform broad reviews in affiliate systems. A single-product review answers “is this product good?” A best-of page answers “which product should I buy from this category?” The second question often creates more [internal linking]({{ 'user-journeys/' | relative_url }}) opportunities: each shortlisted item can link to a deeper review, each use case can link to a specialised page, and each recommendation can point to one or more merchants.
+This is why best-of pages can outperform broad [reviews]({{ 'reviews/' | relative_url }}) in affiliate systems. A single-product review answers “is this product good?” A best-of page answers “which product should I buy from this category?” The second question often creates more internal linking opportunities: each shortlisted item can link to a deeper review, each use case can link to a specialised page, and each recommendation can point to one or more merchants.
 
 For a scalable site system, the key is to classify best-of pages by the reader’s decision stage:
-
 
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
@@ -349,10 +347,9 @@ Google’s product review guidance is directly relevant here. Its reviews system
 
 For affiliate pages, the practical takeaway is simple: the ranking is not enough. The page must explain the evidence behind the ranking. That does not always mean laboratory testing. In some categories, the evidence may be hands-on use, expert interviews, product specifications, support policies, warranty comparisons, user review patterns, long-term availability, or analysis of merchant terms. But the reader should be able to see why the shortlist exists.
 
-Thin pages also create a conversion problem. A reader who lands on a “best CRM for small businesses” page may not be ready to click the first button. They may need to know whether the recommendation suits a solo consultant, a five-person sales team, or a service business with recurring clients. If the page collapses all of those situations into one list, the reader has to do the real comparison work alone.
+[Thin pages]({{ 'thin-pages/' | relative_url }}) also create a conversion problem. A reader who lands on a “best CRM for small businesses” page may not be ready to click the first button. They may need to know whether the recommendation suits a solo consultant, a five-person sales team, or a service business with recurring clients. If the page collapses all of those situations into one list, the reader has to do the real comparison work alone.
 
 A stronger shortlist page makes the recommendation logic visible. It can say, for example:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -366,16 +363,14 @@ A stronger shortlist page makes the recommendation logic visible. It can say, fo
 
 This approach does not reduce monetisation. It often improves it because the reader sees a path that matches their situation. It also creates more qualified outbound clicks: the reader who clicks has already been warned about the main trade-offs.
 
-
 <img src="{{ "/assets/images/making_money_from_cr_f649af_best_of_pages_dd07ed-Illustration-1-dark.svg" | relative_url }}" alt="Best Lists illustration 1" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_best_of_pages_dd07ed-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_best_of_pages_dd07ed-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Use-case recommendations beat one-size-fits-all winners
 
 The most useful best-of pages usually combine a main recommendation with situational winners. “Best overall” still has a role, but it should not carry the whole page. Readers arrive with different constraints, and the page converts better when it acknowledges those differences.
 
-Nielsen Norman Group’s guidance on [comparison tables]({{ 'tables/' | relative_url }}) is useful here because it treats comparison as a decision-support task. A comparison table uses products or services as columns and attributes as rows so users can quickly compare characteristics. Successful comparison tables help people make decisions quickly when they are simple, consistent, and genuinely informative. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nngroup.com/videos/ux-rules-comparison-tables/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nngroup.com">[Nielsen Norman Group]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nngroup.com</span><span class="citation-popover-title">Nielsen Norman Group3 Rules for Better Comparison Tables (Video</span><span class="citation-popover-snippet">NN/GSuccessful comparison tables help people make decisions quickly. Simplicity, consistency, and informational are qualities of good com...</span></span></span>
+Nielsen Norman Group’s guidance on comparison tables is useful here because it treats comparison as a decision-support task. A comparison table uses products or services as columns and [attributes]({{ 'attributes/' | relative_url }}) as rows so users can quickly compare characteristics. Successful comparison tables help people make decisions quickly when they are simple, consistent, and genuinely informative. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nngroup.com/videos/ux-rules-comparison-tables/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nngroup.com">[Nielsen Norman Group]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nngroup.com</span><span class="citation-popover-title">Nielsen Norman Group3 Rules for Better Comparison Tables (Video</span><span class="citation-popover-snippet">NN/GSuccessful comparison tables help people make decisions quickly. Simplicity, consistency, and informational are qualities of good com...</span></span></span>
 
 On a best-of affiliate page, that means the shortlist should not be a random sequence of products. Each entry should have a job. A good pattern is:
-
 
 <div class="content-enhancement content-enhancement--benefit" markdown="1">
 
@@ -393,7 +388,6 @@ A concrete example makes the difference clear. A weak “best web hosting” pag
 
 This is also where internal linking becomes commercially useful. A broad best-of page can link to deeper pages such as “best WordPress hosting for beginners”, “cheap web hosting compared”, or individual reviews. The broad page captures general buying intent; the deeper pages absorb readers who need more specific reassurance before clicking.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/khLXlseXffs" title="How To Write SEO Optimized Affiliate Review Posts FAST!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=khLXlseXffs" target="_blank" rel="noopener noreferrer">How To Write SEO Optimized Affiliate Review Posts FAST!</a></p><p class="youtube-embed-meta">Channel: Miles Beckler &middot; Views: 53.3K &middot; Uploaded: April 2020 &middot; Length: 16 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=khLXlseXffs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=khLXlseXffs">Open on YouTube</a></p></div></div></div>
 
 ## Selection criteria that build trust
@@ -403,7 +397,6 @@ Selection criteria are the backbone of a converting best-of page. They tell the 
 Good criteria are specific to the category. For a mattress page, comfort, firmness, returns, trial period, delivery, materials, and long-term sagging concerns may matter. For accounting software, the criteria might be VAT support, bank feeds, invoicing, payroll, accountant access, customer support, integrations, and monthly cost. For lawnmowers, terrain, cutting width, storage, battery life, repairability, and grass-box capacity may matter.
 
 The same public-facing page can express the criteria simply while still being structured enough for scalable production. A practical best-of template should include:
-
 
 <div class="content-enhancement content-enhancement--checklist" markdown="1">
 
@@ -424,7 +417,6 @@ Affiliate best-of pages are not ecommerce category pages, but they face a simila
 A high-converting best-of page normally needs a clear path from intent to recommendation to click. The structure should not make readers wait through a long essay before seeing useful choices, but it also should not push affiliate buttons before trust has been established.
 
 A strong structure often looks like this:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -452,7 +444,6 @@ This is where affiliate page design becomes a revenue-per-visitor problem. The s
 
 A useful shortlist should therefore separate the recommendation from the offer. The recommendation answers “which option fits?” The offer answers “where should the reader go next?” For each pick, the page should decide whether to link to:
 
-
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
 * the manufacturer’s direct offer;
@@ -465,7 +456,6 @@ A useful shortlist should therefore separate the recommendation from the offer. 
 </div>
 
 This is especially important for software and services. A reader comparing accounting software may need a free trial, pricing page, or feature comparison, not just a “buy now” button. A reader comparing physical products may want a retailer with fast delivery, returns, and clear stock information. The affiliate link should match the next decision step, not simply the highest available commission.
-
 
 <img src="{{ "/assets/images/making_money_from_cr_f649af_best_of_pages_dd07ed-Illustration-2-dark.svg" | relative_url }}" alt="Best Lists illustration 2" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_best_of_pages_dd07ed-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_best_of_pages_dd07ed-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How many products should a best-of page shortlist?
@@ -487,7 +477,6 @@ That principle translates well to affiliate shortlists. Each entry should contai
 
 This also helps prevent automated or large-scale content from becoming bloated. A scalable system should not expand every best-of page to the same length. It should expand when there are genuinely different reader needs to cover, and stop when additional picks no longer improve the decision.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Z0RkLSgwQS4" title="How to Disclose Brand Deals and Affiliate Links on YouTube — FTC Endorsement Guidelines" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Z0RkLSgwQS4" target="_blank" rel="noopener noreferrer">How to Disclose Brand Deals and Affiliate Links on YouTube — FTC Endorsement Guidelines</a></p><p class="youtube-embed-meta">Channel: Video Influencers &middot; Views: 22.8K &middot; Uploaded: December 2016 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Z0RkLSgwQS4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Z0RkLSgwQS4">Open on YouTube</a></p></div></div></div>
 
 ## The role of comparison tables
@@ -508,7 +497,6 @@ A good comparison table should: <span class="citation-chip-wrap"><a class="citat
 * match the page’s stated selection criteria.
 
 The table should not replace the recommendation copy. It should let readers narrow their likely choice, while the text explains the reasoning behind each pick.
-
 
 <img src="{{ "/assets/images/making_money_from_cr_f649af_best_of_pages_dd07ed-Illustration-3-dark.svg" | relative_url }}" alt="Best Lists illustration 3" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_best_of_pages_dd07ed-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_best_of_pages_dd07ed-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Evidence, testing, and the Wirecutter lesson
@@ -544,7 +532,6 @@ For example, a site about home office equipment might use:
 This internal structure improves monetisation because readers do not all need the same level of persuasion. Some will click from the top table. Others will need a narrower page. Others will read an individual review before leaving the site. The best-of page should therefore act as a decision hub, not a dead-end list.
 
 For a website-generation system, that means the page type should trigger internal-linking rules. Broad best-of pages should link down to narrow use-case pages. Narrow best-of pages should link sideways to alternatives and up to the broader category. Individual reviews should link back to the relevant shortlist so readers can compare before buying. The system should not scatter affiliate links randomly; it should create a clear commercial path.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/7V5zYjHIfx8" title="How To Build An Affiliate Marketing Website 2025 | For Beginners" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=7V5zYjHIfx8" target="_blank" rel="noopener noreferrer">How To Build An Affiliate Marketing Website 2025 | For Beginners</a></p><p class="youtube-embed-meta">Channel: Ferdy․com | Ferdy Korpershoek &middot; Views: 41.8K &middot; Uploaded: May 2025 &middot; Length: 3 hours 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=7V5zYjHIfx8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=7V5zYjHIfx8">Open on YouTube</a></p></div></div></div>
 
@@ -1013,244 +1000,244 @@ For affiliate websites, this makes best-of pages one of the most important monet
 
 1. <a id="endnote-1"></a>
    Source: developers.google.com  
-   Link: [https://developers.google.com/search/docs/appearance/reviews-system](https://developers.google.com/search/docs/appearance/reviews-system)  
+   Link: <a href="https://developers.google.com/search/docs/appearance/reviews-system" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/docs/appearance/reviews-system</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Google for DevelopersGoogle Search&#x27;s Reviews SystemThe reviews system aims to better reward high quality reviews, which is content that p...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: developers.google.com  
    Title: product reviews update  
-   Link: [https://developers.google.com/search/blog/2021/04/product-reviews-update](https://developers.google.com/search/blog/2021/04/product-reviews-update)  
+   Link: <a href="https://developers.google.com/search/blog/2021/04/product-reviews-update" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/blog/2021/04/product-reviews-update</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Google for DevelopersWhat creators should know about Google&#x27;s April 2021...8 Apr 2021 — We&#x27;re sharing an improvement to our ranking syst...</p></details>
    Published: April 2021  
 
 3. <a id="endnote-3"></a>
    Source: baymard.com  
    Title: current state product list and filtering  
-   Link: [https://baymard.com/blog/current-state-product-list-and-filtering](https://baymard.com/blog/current-state-product-list-and-filtering)  
+   Link: <a href="https://baymard.com/blog/current-state-product-list-and-filtering" target="_blank" rel="noopener noreferrer nofollow">https://baymard.com/blog/current-state-product-list-and-filtering</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Baymard InstituteProduct List UX Best Practices 2025August 22, 2024 — 22 Aug 2024 — Discover the top 8 Product List UX best practices to...</p></details>
    Published: August 22, 2024  
 
 4. <a id="endnote-4"></a>
    Source: ftc.gov  
-   Link: [https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking](https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking)  
+   Link: <a href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking</a>  
 
 5. <a id="endnote-5"></a>
    Source: affiliate-program.amazon.com  
-   Link: [https://affiliate-program.amazon.com/help/node/topic/GHQNZAU6669EZS98](https://affiliate-program.amazon.com/help/node/topic/GHQNZAU6669EZS98)  
+   Link: <a href="https://affiliate-program.amazon.com/help/node/topic/GHQNZAU6669EZS98" target="_blank" rel="noopener noreferrer nofollow">https://affiliate-program.amazon.com/help/node/topic/GHQNZAU6669EZS98</a>  
 
 6. <a id="endnote-6"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/1809.00620](https://arxiv.org/abs/1809.00620)  
+   Link: <a href="https://arxiv.org/abs/1809.00620" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1809.00620</a>  
 
 7. <a id="endnote-7"></a>
    Source: awin.com  
    Title: wirecutter affiliate partner success  
-   Link: [https://www.awin.com/gb/how-to-use-awin/wirecutter-affiliate-partner-success](https://www.awin.com/gb/how-to-use-awin/wirecutter-affiliate-partner-success)  
+   Link: <a href="https://www.awin.com/gb/how-to-use-awin/wirecutter-affiliate-partner-success" target="_blank" rel="noopener noreferrer nofollow">https://www.awin.com/gb/how-to-use-awin/wirecutter-affiliate-partner-success</a>  
 
 8. <a id="endnote-8"></a>
    Source: support.google.com  
-   Link: [https://support.google.com/merchants/answer/14620160?hl=en-GB](https://support.google.com/merchants/answer/14620160?hl=en-GB)  
+   Link: <a href="https://support.google.com/merchants/answer/14620160?hl=en-GB" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/merchants/answer/14620160?hl=en-GB</a>  
 
 9. <a id="endnote-9"></a>
    Source: support.google.com  
-   Link: [https://support.google.com/webmasters/thread/180636419/does-the-ratio-of-commercial-content-on-the-site-vs-informative-matter-for-product-reviews-sites?hl=en](https://support.google.com/webmasters/thread/180636419/does-the-ratio-of-commercial-content-on-the-site-vs-informative-matter-for-product-reviews-sites?hl=en)  
+   Link: <a href="https://support.google.com/webmasters/thread/180636419/does-the-ratio-of-commercial-content-on-the-site-vs-informative-matter-for-product-reviews-sites?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/webmasters/thread/180636419/does-the-ratio-of-commercial-content-on-the-site-vs-informative-matter-for-product-reviews-sites?hl=en</a>  
 
 10. <a id="endnote-10"></a>
    Source: developers.google.com  
    Title: write high quality reviews  
-   Link: [https://developers.google.com/search/docs/specialty/ecommerce/write-high-quality-reviews](https://developers.google.com/search/docs/specialty/ecommerce/write-high-quality-reviews)  
+   Link: <a href="https://developers.google.com/search/docs/specialty/ecommerce/write-high-quality-reviews" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/docs/specialty/ecommerce/write-high-quality-reviews</a>  
 
 11. <a id="endnote-11"></a>
    Source: developers.google.com  
    Title: creating helpful content  
-   Link: [https://developers.google.com/search/docs/fundamentals/creating-helpful-content](https://developers.google.com/search/docs/fundamentals/creating-helpful-content)  
+   Link: <a href="https://developers.google.com/search/docs/fundamentals/creating-helpful-content" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/docs/fundamentals/creating-helpful-content</a>  
 
 12. <a id="endnote-12"></a>
    Source: google.com  
-   Link: [https://www.google.com/intl/en_us/search/howsearchworks/how-search-works/ranking-results](https://www.google.com/intl/en_us/search/howsearchworks/how-search-works/ranking-results)  
+   Link: <a href="https://www.google.com/intl/en_us/search/howsearchworks/how-search-works/ranking-results" target="_blank" rel="noopener noreferrer nofollow">https://www.google.com/intl/en_us/search/howsearchworks/how-search-works/ranking-results</a>  
 
 13. <a id="endnote-13"></a>
    Source: baymard.com  
-   Link: [https://baymard.com/ecommerce-design-examples/39-comparison-tool](https://baymard.com/ecommerce-design-examples/39-comparison-tool)  
+   Link: <a href="https://baymard.com/ecommerce-design-examples/39-comparison-tool" target="_blank" rel="noopener noreferrer nofollow">https://baymard.com/ecommerce-design-examples/39-comparison-tool</a>  
 
 14. <a id="endnote-14"></a>
    Source: baymard.com  
-   Link: [https://baymard.com/research/ecommerce-product-lists](https://baymard.com/research/ecommerce-product-lists)  
+   Link: <a href="https://baymard.com/research/ecommerce-product-lists" target="_blank" rel="noopener noreferrer nofollow">https://baymard.com/research/ecommerce-product-lists</a>  
 
 15. <a id="endnote-15"></a>
    Source: baymard.com  
    Title: user friendly comparison tools  
-   Link: [https://baymard.com/blog/user-friendly-comparison-tools](https://baymard.com/blog/user-friendly-comparison-tools)  
+   Link: <a href="https://baymard.com/blog/user-friendly-comparison-tools" target="_blank" rel="noopener noreferrer nofollow">https://baymard.com/blog/user-friendly-comparison-tools</a>  
 
 16. <a id="endnote-16"></a>
    Source: baymard.com  
    Title: list item design ecommerce  
-   Link: [https://baymard.com/blog/list-item-design-ecommerce](https://baymard.com/blog/list-item-design-ecommerce)  
+   Link: <a href="https://baymard.com/blog/list-item-design-ecommerce" target="_blank" rel="noopener noreferrer nofollow">https://baymard.com/blog/list-item-design-ecommerce</a>  
 
 17. <a id="endnote-17"></a>
    Source: baymard.com  
    Title: provide comparison features  
-   Link: [https://baymard.com/blog/provide-comparison-features](https://baymard.com/blog/provide-comparison-features)  
+   Link: <a href="https://baymard.com/blog/provide-comparison-features" target="_blank" rel="noopener noreferrer nofollow">https://baymard.com/blog/provide-comparison-features</a>  
 
 18. <a id="endnote-18"></a>
    Source: baymard.com  
    Title: mass merchant best practices  
-   Link: [https://baymard.com/blog/mass-merchant-best-practices](https://baymard.com/blog/mass-merchant-best-practices)  
+   Link: <a href="https://baymard.com/blog/mass-merchant-best-practices" target="_blank" rel="noopener noreferrer nofollow">https://baymard.com/blog/mass-merchant-best-practices</a>  
 
 19. <a id="endnote-19"></a>
    Source: baymard.com  
    Title: current state ecommerce product page ux  
-   Link: [https://baymard.com/blog/current-state-ecommerce-product-page-ux](https://baymard.com/blog/current-state-ecommerce-product-page-ux)  
+   Link: <a href="https://baymard.com/blog/current-state-ecommerce-product-page-ux" target="_blank" rel="noopener noreferrer nofollow">https://baymard.com/blog/current-state-ecommerce-product-page-ux</a>  
 
 20. <a id="endnote-20"></a>
    Source: baymard.com  
-   Link: [https://baymard.com/research](https://baymard.com/research)  
+   Link: <a href="https://baymard.com/research" target="_blank" rel="noopener noreferrer nofollow">https://baymard.com/research</a>  
 
 21. <a id="endnote-21"></a>
    Source: baymard.com  
    Title: product page suggestions information  
-   Link: [https://baymard.com/blog/product-page-suggestions-information](https://baymard.com/blog/product-page-suggestions-information)  
+   Link: <a href="https://baymard.com/blog/product-page-suggestions-information" target="_blank" rel="noopener noreferrer nofollow">https://baymard.com/blog/product-page-suggestions-information</a>  
 
 22. <a id="endnote-22"></a>
    Source: baymard.com  
    Title: ecommerce search query types  
-   Link: [https://baymard.com/blog/ecommerce-search-query-types](https://baymard.com/blog/ecommerce-search-query-types)  
+   Link: <a href="https://baymard.com/blog/ecommerce-search-query-types" target="_blank" rel="noopener noreferrer nofollow">https://baymard.com/blog/ecommerce-search-query-types</a>  
 
 23. <a id="endnote-23"></a>
    Source: baymard.com  
    Title: ecommerce product lists report and benchmark  
-   Link: [https://baymard.com/blog/ecommerce-product-lists-report-and-benchmark](https://baymard.com/blog/ecommerce-product-lists-report-and-benchmark)  
+   Link: <a href="https://baymard.com/blog/ecommerce-product-lists-report-and-benchmark" target="_blank" rel="noopener noreferrer nofollow">https://baymard.com/blog/ecommerce-product-lists-report-and-benchmark</a>  
 
 24. <a id="endnote-24"></a>
    Source: baymard.com  
-   Link: [https://baymard.com/research/mcommerce-usability](https://baymard.com/research/mcommerce-usability)  
+   Link: <a href="https://baymard.com/research/mcommerce-usability" target="_blank" rel="noopener noreferrer nofollow">https://baymard.com/research/mcommerce-usability</a>  
 
 25. <a id="endnote-25"></a>
    Source: baymard.com  
    Title: desktop ux ecommerce  
-   Link: [https://baymard.com/blog/desktop-ux-ecommerce](https://baymard.com/blog/desktop-ux-ecommerce)  
+   Link: <a href="https://baymard.com/blog/desktop-ux-ecommerce" target="_blank" rel="noopener noreferrer nofollow">https://baymard.com/blog/desktop-ux-ecommerce</a>  
 
 26. <a id="endnote-26"></a>
    Source: baymard.com  
-   Link: [https://baymard.com/research/checkout-usability](https://baymard.com/research/checkout-usability)  
+   Link: <a href="https://baymard.com/research/checkout-usability" target="_blank" rel="noopener noreferrer nofollow">https://baymard.com/research/checkout-usability</a>  
 
 27. <a id="endnote-27"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=BVmmlN_yfds](https://www.youtube.com/watch?v=BVmmlN_yfds)  
+   Link: <a href="https://www.youtube.com/watch?v=BVmmlN_yfds" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BVmmlN_yfds</a>  
 
 28. <a id="endnote-28"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=khLXlseXffs](https://www.youtube.com/watch?v=khLXlseXffs)  
+   Link: <a href="https://www.youtube.com/watch?v=khLXlseXffs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=khLXlseXffs</a>  
 
 29. <a id="endnote-29"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=Z0RkLSgwQS4](https://www.youtube.com/watch?v=Z0RkLSgwQS4)  
+   Link: <a href="https://www.youtube.com/watch?v=Z0RkLSgwQS4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Z0RkLSgwQS4</a>  
 
 30. <a id="endnote-30"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=POsaV2YzRr8](https://www.youtube.com/watch?v=POsaV2YzRr8)  
+   Link: <a href="https://www.youtube.com/watch?v=POsaV2YzRr8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=POsaV2YzRr8</a>  
 
 31. <a id="endnote-31"></a>
    Source: youtube.com  
    Title: Affiliate Site Case Study  
-   Link: [https://www.youtube.com/watch?v=a9CT_Vd_118](https://www.youtube.com/watch?v=a9CT_Vd_118)  
+   Link: <a href="https://www.youtube.com/watch?v=a9CT_Vd_118" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=a9CT_Vd_118</a>  
 
 32. <a id="endnote-32"></a>
    Source: youtube.com  
    Title: I Designed the PERFECT Affiliate Website. Here's what Happened  
-   Link: [https://www.youtube.com/watch?v=cX395xZqjxc](https://www.youtube.com/watch?v=cX395xZqjxc)  
+   Link: <a href="https://www.youtube.com/watch?v=cX395xZqjxc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cX395xZqjxc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Avoid this #1 SEO Content Mistake...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: youtube.com  
    Title: Avoid this #1 SEO Content Mistake  
-   Link: [https://www.youtube.com/watch?v=GaW6Q8sF0EI](https://www.youtube.com/watch?v=GaW6Q8sF0EI)  
+   Link: <a href="https://www.youtube.com/watch?v=GaW6Q8sF0EI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=GaW6Q8sF0EI</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Write High Converting Product Roundup Reviews With Product AI...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: youtube.com  
    Title: Write High Converting Product Roundup Reviews With Product AI  
-   Link: [https://www.youtube.com/watch?v=8mB0P0JHB3E](https://www.youtube.com/watch?v=8mB0P0JHB3E)  
+   Link: <a href="https://www.youtube.com/watch?v=8mB0P0JHB3E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8mB0P0JHB3E</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>9 TOP Affiliate Marketing Strategies in 2026...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=2fepIzIcdh8](https://www.youtube.com/watch?v=2fepIzIcdh8)  
+   Link: <a href="https://www.youtube.com/watch?v=2fepIzIcdh8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2fepIzIcdh8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How To Build An Affiliate Marketing Website 2025 | For Beginners...</p></details>
 
 36. <a id="endnote-36"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=7V5zYjHIfx8](https://www.youtube.com/watch?v=7V5zYjHIfx8)  
+   Link: <a href="https://www.youtube.com/watch?v=7V5zYjHIfx8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7V5zYjHIfx8</a>  
 
 37. <a id="endnote-37"></a>
    Source: nngroup.com  
-   Link: [https://www.nngroup.com/articles/comparison-tables/](https://www.nngroup.com/articles/comparison-tables/)  
+   Link: <a href="https://www.nngroup.com/articles/comparison-tables/" target="_blank" rel="noopener noreferrer nofollow">https://www.nngroup.com/articles/comparison-tables/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Nielsen Norman GroupComparison Tables for Products, Services, and FeaturesFebruary 9, 2024 — 9 Feb 2024 — A table that uses columns for p...</p></details>
    Published: February 9, 2024  
 
 38. <a id="endnote-38"></a>
    Source: nngroup.com  
    Title: Nielsen Norman Group3 Rules for Better Comparison Tables (Video)  
-   Link: [https://www.nngroup.com/videos/ux-rules-comparison-tables/](https://www.nngroup.com/videos/ux-rules-comparison-tables/)  
+   Link: <a href="https://www.nngroup.com/videos/ux-rules-comparison-tables/" target="_blank" rel="noopener noreferrer nofollow">https://www.nngroup.com/videos/ux-rules-comparison-tables/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NN/GSuccessful comparison tables help people make decisions quickly. Simplicity, consistency, and informational are qualities of good com...</p></details>
 
 39. <a id="endnote-39"></a>
    Source: nngroup.com  
    Title: Nielsen Norman Group The Anatomy of a List Entry  
-   Link: [https://www.nngroup.com/articles/list-entries/](https://www.nngroup.com/articles/list-entries/)  
+   Link: <a href="https://www.nngroup.com/articles/list-entries/" target="_blank" rel="noopener noreferrer nofollow">https://www.nngroup.com/articles/list-entries/</a>  
 
 40. <a id="endnote-40"></a>
    Source: nngroup.com  
-   Link: [https://www.nngroup.com/videos/comparison-tables/](https://www.nngroup.com/videos/comparison-tables/)  
+   Link: <a href="https://www.nngroup.com/videos/comparison-tables/" target="_blank" rel="noopener noreferrer nofollow">https://www.nngroup.com/videos/comparison-tables/</a>  
 
 41. <a id="endnote-41"></a>
    Source: digitalcontentnext.org  
    Title: Digital Content Next Audience trust drives Wirecutter's affiliate strategy  
-   Link: [https://digitalcontentnext.org/blog/2022/06/30/audience-trust-drives-wirecutters-affiliate-strategy/](https://digitalcontentnext.org/blog/2022/06/30/audience-trust-drives-wirecutters-affiliate-strategy/)  
+   Link: <a href="https://digitalcontentnext.org/blog/2022/06/30/audience-trust-drives-wirecutters-affiliate-strategy/" target="_blank" rel="noopener noreferrer nofollow">https://digitalcontentnext.org/blog/2022/06/30/audience-trust-drives-wirecutters-affiliate-strategy/</a>  
 
 42. <a id="endnote-42"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/baymard-institute_product-page-ux-2025-15-pitfalls-and-best-activity-7285002885770182656-N_YX](https://www.linkedin.com/posts/baymard-institute_product-page-ux-2025-15-pitfalls-and-best-activity-7285002885770182656-N_YX)  
+   Link: <a href="https://www.linkedin.com/posts/baymard-institute_product-page-ux-2025-15-pitfalls-and-best-activity-7285002885770182656-N_YX" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/baymard-institute_product-page-ux-2025-15-pitfalls-and-best-activity-7285002885770182656-N_YX</a>  
 
 ### Additional References
 
 43. <a id="endnote-43"></a>
    Source: ecfr.gov  
-   Link: [https://www.ecfr.gov/current/title-16/chapter-I/subchapter-B/part-255](https://www.ecfr.gov/current/title-16/chapter-I/subchapter-B/part-255)  
+   Link: <a href="https://www.ecfr.gov/current/title-16/chapter-I/subchapter-B/part-255" target="_blank" rel="noopener noreferrer nofollow">https://www.ecfr.gov/current/title-16/chapter-I/subchapter-B/part-255</a>  
 
 44. <a id="endnote-44"></a>
    Source: federalregister.gov  
    Title: guides concerning the use of endorsements and testimonials in advertising  
-   Link: [https://www.federalregister.gov/documents/2023/07/26/2023-14795/guides-concerning-the-use-of-endorsements-and-testimonials-in-advertising](https://www.federalregister.gov/documents/2023/07/26/2023-14795/guides-concerning-the-use-of-endorsements-and-testimonials-in-advertising)  
+   Link: <a href="https://www.federalregister.gov/documents/2023/07/26/2023-14795/guides-concerning-the-use-of-endorsements-and-testimonials-in-advertising" target="_blank" rel="noopener noreferrer nofollow">https://www.federalregister.gov/documents/2023/07/26/2023-14795/guides-concerning-the-use-of-endorsements-and-testimonials-in-advertising</a>  
 
 45. <a id="endnote-45"></a>
    Source: nichesiteproject.com  
-   Link: [https://nichesiteproject.com/amazon-affiliate/examples/](https://nichesiteproject.com/amazon-affiliate/examples/)  
+   Link: <a href="https://nichesiteproject.com/amazon-affiliate/examples/" target="_blank" rel="noopener noreferrer nofollow">https://nichesiteproject.com/amazon-affiliate/examples/</a>  
 
 46. <a id="endnote-46"></a>
    Source: tapfiliate.com  
-   Link: [https://tapfiliate.com/blog/affiliate-product-reviews/](https://tapfiliate.com/blog/affiliate-product-reviews/)  
+   Link: <a href="https://tapfiliate.com/blog/affiliate-product-reviews/" target="_blank" rel="noopener noreferrer nofollow">https://tapfiliate.com/blog/affiliate-product-reviews/</a>  
 
 47. <a id="endnote-47"></a>
    Source: geniuslink.com  
-   Link: [https://geniuslink.com/blog/amazon-affiliate-disclosure-guide/](https://geniuslink.com/blog/amazon-affiliate-disclosure-guide/)  
+   Link: <a href="https://geniuslink.com/blog/amazon-affiliate-disclosure-guide/" target="_blank" rel="noopener noreferrer nofollow">https://geniuslink.com/blog/amazon-affiliate-disclosure-guide/</a>  
 
 48. <a id="endnote-48"></a>
    Source: termly.io  
-   Link: [https://termly.io/resources/articles/amazon-affiliate-disclosure/](https://termly.io/resources/articles/amazon-affiliate-disclosure/)  
+   Link: <a href="https://termly.io/resources/articles/amazon-affiliate-disclosure/" target="_blank" rel="noopener noreferrer nofollow">https://termly.io/resources/articles/amazon-affiliate-disclosure/</a>  
 
 49. <a id="endnote-49"></a>
    Source: yesplz.ai  
-   Link: [https://yesplz.ai/resource/dont-make-these-product-filtering-mistakes-baymard-checklist-2023](https://yesplz.ai/resource/dont-make-these-product-filtering-mistakes-baymard-checklist-2023)  
+   Link: <a href="https://yesplz.ai/resource/dont-make-these-product-filtering-mistakes-baymard-checklist-2023" target="_blank" rel="noopener noreferrer nofollow">https://yesplz.ai/resource/dont-make-these-product-filtering-mistakes-baymard-checklist-2023</a>  
 
 50. <a id="endnote-50"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/pulse/best-practices-writing-affiliate-product-reviews-lsvlc](https://www.linkedin.com/pulse/best-practices-writing-affiliate-product-reviews-lsvlc)  
+   Link: <a href="https://www.linkedin.com/pulse/best-practices-writing-affiliate-product-reviews-lsvlc" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/best-practices-writing-affiliate-product-reviews-lsvlc</a>  
 
 51. <a id="endnote-51"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/juststart/comments/j5ovev/how_are_you_disclosing_your_amazon_affiliate/](https://www.reddit.com/r/juststart/comments/j5ovev/how_are_you_disclosing_your_amazon_affiliate/)  
+   Link: <a href="https://www.reddit.com/r/juststart/comments/j5ovev/how_are_you_disclosing_your_amazon_affiliate/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/juststart/comments/j5ovev/how_are_you_disclosing_your_amazon_affiliate/</a>  
 
 52. <a id="endnote-52"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DXhMolTgG52/?img_index=4](https://www.instagram.com/p/DXhMolTgG52/?img_index=4)  
+   Link: <a href="https://www.instagram.com/p/DXhMolTgG52/?img_index=4" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DXhMolTgG52/?img_index=4</a>

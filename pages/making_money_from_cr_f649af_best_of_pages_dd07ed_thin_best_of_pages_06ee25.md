@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /best-lists/
 nav_short_title: Thin pages
 title: Why thin best of pages lose trust
-title_full: Why thin best of pages lose trust | Best Lists
+title_full: Why thin best of pages lose trust
 display_title_short: Thin pages
 display_title: Thin pages
 heading_title: Why thin best of pages lose trust
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-31 13:14:40'
-parent_title: What Makes a Best Of Page Convert? | Affiliate Engines
+parent_title: What Makes a Best Of Page Convert?
 parent_permalink: /best-lists/
 parent_nav_short_title: Best Lists
 parent_heading_title: What Makes a Best Of Page Convert?
@@ -270,7 +270,6 @@ image: /assets/images/making_money_from_cr_f649af_best_of_pages_dd07ed_thin_best
 
 “Best‑of” or affiliate ranking pages can be powerful money pages in a monetised site because they target clear purchase intent — readers already know the category but want help choosing. However, *thin best‑of pages that lack substantive decision support quickly erode trust*, both with readers and search engines. These are superficially attractive pages that list products with stock blurbs and affiliate buttons but add little real insight. Over time, they fail to satisfy users, perform poorly in search rankings, and ultimately weaken conversion potential. This page explains **why thin best‑of pages lose reader trust in the affiliate context** and what that means for traffic, engagement, and revenue outcomes.
 
-
 <img src="{{ "/assets/images/making_money_from_cr_f649af_best_of_pages_dd07ed_thin_best_of_pages_06ee25-Illustration-1-dark.svg" | relative_url }}" alt="Thin pages illustration 1" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_best_of_pages_dd07ed_thin_best_of_pages_06ee25-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_best_of_pages_dd07ed_thin_best_of_pages_06ee25-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What “Thin” Best‑Of Pages Look Like
 
@@ -285,7 +284,6 @@ These features typify what search engines and users label as *thin content* — 
 
 From a reader’s standpoint, a “best X” page that doesn’t help narrow choices or match needs feels more like a brochure than a buying guide. It doesn’t reduce uncertainty — it just fills space and pushes clicks.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ZLTz3KRsy4k" title="Thin content (and why quality content matters) | Sustainable Monetized Websites" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ZLTz3KRsy4k" target="_blank" rel="noopener noreferrer">Thin content (and why quality content matters) | Sustainable Monetized Websites</a></p><p class="youtube-embed-meta">Channel: Google Search Central &middot; Views: 66.4K &middot; Uploaded: February 2021 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ZLTz3KRsy4k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ZLTz3KRsy4k">Open on YouTube</a></p></div></div></div>
 
 ## How Thin Pages Erode Trust With Readers
@@ -293,7 +291,6 @@ From a reader’s standpoint, a “best X” page that doesn’t help narrow cho
 ### Superficial Information Undermines Credibility
 
 When readers search with a “best” intent, they are looking for *trustworthy guidance* — what’s right *for them* and *why*. Thin pages that merely stitch together product specs without context fail that fundamental task. They leave readers asking questions like:
-
 
 <div class="content-enhancement content-enhancement--decision" markdown="1">
 
@@ -313,20 +310,18 @@ Many thin best‑of lists follow a templated format that looks the same across c
 
 Readers often look for signs of real expertise — specific [use cases]({{ 'use-cases/' | relative_url }}), comparisons, pros and cons, real experience, or clear [criteria]({{ 'criteria/' | relative_url }}). Pages that lack these signals feel random or superficial, and readers are less likely to trust the recommendations. The absence of detailed analysis makes the page *feel* more like an advertising sheet than a buyer’s guide.
 
-
 <img src="{{ "/assets/images/making_money_from_cr_f649af_best_of_pages_dd07ed_thin_best_of_pages_06ee25-Illustration-2-dark.svg" | relative_url }}" alt="Thin pages illustration 2" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_best_of_pages_dd07ed_thin_best_of_pages_06ee25-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_best_of_pages_dd07ed_thin_best_of_pages_06ee25-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How Thin Pages Hurt Affiliate Conversions and SEO
 
 ### Poor Satisfaction Damages Engagement Signals
 
-Thin pages satisfy neither users nor search engines because they don’t fully address intent. Content that fails to *help complete the buyer’s journey* leads to short visits and high bounce rates, which indirectly signal poor quality to search algorithms. Search engines increasingly reward pages that *satisfy queries*, not just rank for keywords, meaning pages that lack depth are less likely to maintain visibility over time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.semrush.com/blog/thin-content/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: semrush.com">[Semrush]</a><span class="citation-popover" role="note"><span class="citation-popover-source">semrush.com</span><span class="citation-popover-title">Combating Thin Content: How to Identify and Fix It</span><span class="citation-popover-snippet">SemrushCombating Thin Content: How to Identify and Fix ItAugust 8, 2024...</span><span class="citation-popover-meta">Published: August 8, 2024</span></span></span>
+Thin pages satisfy neither users nor search engines because they don’t fully address intent. Content that fails to *help complete the buyer’s journey* leads to short visits and high bounce rates, which indirectly signal poor quality to search algorithms. Search engines increasingly reward pages that *satisfy queries*, not just rank for keywords, meaning pages that lack depth are less likely to maintain visibility over time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.semrush.com/blog/thin-content/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: semrush.com">[Semrush]</a><span class="citation-popover" role="note"><span class="citation-popover-source">semrush.com</span><span class="citation-popover-title">Combating Thin Content: How to Identify and Fix It</span><span class="citation-popover-snippet">Combating Thin Content: How to Identify and Fix ItAugust 8, 2024...</span><span class="citation-popover-meta">Published: August 8, 2024</span></span></span>
 
 ### Ranking Volatility Following Core Quality Updates
 
 Recent search algorithm updates are explicitly targeting thin affiliate content. Multiple core updates in 2025–2026 have shown a pattern: affiliate pages that feel like “made to funnel clicks” without depth or trust infrastructure lose organic visibility. Sites built around templated “best X” pages, especially in competitive niches like insurance, software, or VPNs, have seen steep drops in rankings, translating directly to lost traffic and affiliate commissions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://auto-post.io/blog/core-update-fallout-hits-affiliate-seo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: auto-post.io">[auto-post.io]</a><span class="citation-popover" role="note"><span class="citation-popover-source">auto-post.io</span><span class="citation-popover-title">core update fallout hits affiliate seo</span><span class="citation-popover-snippet">Google Core Updates Fallout: Affiliate SEO in 2024-2025January 3, 2026...</span><span class="citation-popover-meta">Published: January 3, 2026</span></span></span>
 
 This trend reflects a broader signal shift: search engines now weigh content *experience, expertise, authoritativeness, and trustworthiness (E‑E‑A‑T)* more heavily. Thin pages lack those signals and are treated accordingly.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/w3-obcXkyA4" title="Thin content with little or no added value" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=w3-obcXkyA4" target="_blank" rel="noopener noreferrer">Thin content with little or no added value</a></p><p class="youtube-embed-meta">Channel: Google Search Central &middot; Views: 180.1K &middot; Uploaded: August 2013 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=w3-obcXkyA4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=w3-obcXkyA4">Open on YouTube</a></p></div></div></div>
 
@@ -338,15 +333,13 @@ Thin affiliate pages don’t just fail algorithmically; they can be caught up in
 
 Affiliate pages are often repetitive by design, but when they *only* repeat stock descriptions and buttons, they signal a transactional mentality rather than a customer‑centric one. Readers respond not just to *what* you recommend, but *how convincingly and transparently* you help them decide.
 
-A page that lacks clear [selection criteria]({{ 'criteria/' | relative_url }}), fails to justify its recommendations, or gives no evidence for its rankings will be perceived as promotional fluff. Over time, this “transactional first” experience harms the site’s broader reputation: repeat visitors become rarer, brand trust weakens, and social sharing or referral traffic declines.
-
+A page that lacks clear selection criteria, fails to justify its recommendations, or gives no evidence for its rankings will be perceived as promotional fluff. Over time, this “transactional first” experience harms the site’s broader reputation: repeat visitors become rarer, brand trust weakens, and social sharing or referral traffic declines.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cVaD6PYEu7Q" title="Is Thin Content Hurting My Website &amp; SEO Rankings?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cVaD6PYEu7Q" target="_blank" rel="noopener noreferrer">Is Thin Content Hurting My Website &amp; SEO Rankings?</a></p><p class="youtube-embed-meta">Channel: The Media Captain &middot; Views: 2.7K &middot; Uploaded: July 2020 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cVaD6PYEu7Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cVaD6PYEu7Q">Open on YouTube</a></p></div></div></div>
 
 ## Ways to Replace Filler With Useful Decision Support
 
 To avoid the trust erosion that thin best‑of pages cause, aim for depth that genuinely serves buyer intent:
-
 
 <div class="content-enhancement content-enhancement--decision" markdown="1">
 
@@ -359,7 +352,6 @@ To avoid the trust erosion that thin best‑of pages cause, aim for depth that g
 </div>
 
 These decision‑support elements shift the page from *listicle noise* to *helpful guidance*, improving engagement, satisfaction, and ultimately affiliate conversions.
-
 
 <img src="{{ "/assets/images/making_money_from_cr_f649af_best_of_pages_dd07ed_thin_best_of_pages_06ee25-Illustration-3-dark.svg" | relative_url }}" alt="Thin pages illustration 3" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_best_of_pages_dd07ed_thin_best_of_pages_06ee25-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_best_of_pages_dd07ed_thin_best_of_pages_06ee25-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Reader Signals and Monetisation Decisions
@@ -790,108 +782,108 @@ By avoiding thin best‑of pages and focusing on *decision support*, an affiliat
 1. <a id="endnote-1"></a>
    Source: immwit.com  
    Title: Thin Content in SEO: Definition, Risks and How to Fix It  
-   Link: [https://www.immwit.com/wiki/thin-content/](https://www.immwit.com/wiki/thin-content/)  
+   Link: <a href="https://www.immwit.com/wiki/thin-content/" target="_blank" rel="noopener noreferrer nofollow">https://www.immwit.com/wiki/thin-content/</a>  
 
 2. <a id="endnote-2"></a>
    Source: semrush.com  
    Title: Combating Thin Content: How to Identify and Fix It  
-   Link: [https://www.semrush.com/blog/thin-content/](https://www.semrush.com/blog/thin-content/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SemrushCombating Thin Content: How to Identify and Fix ItAugust 8, 2024...</p></details>
+   Link: <a href="https://www.semrush.com/blog/thin-content/" target="_blank" rel="noopener noreferrer nofollow">https://www.semrush.com/blog/thin-content/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Combating Thin Content: How to Identify and Fix ItAugust 8, 2024...</p></details>
    Published: August 8, 2024  
 
 3. <a id="endnote-3"></a>
    Source: auto-post.io  
    Title: core update fallout hits affiliate seo  
-   Link: [https://auto-post.io/blog/core-update-fallout-hits-affiliate-seo](https://auto-post.io/blog/core-update-fallout-hits-affiliate-seo)  
+   Link: <a href="https://auto-post.io/blog/core-update-fallout-hits-affiliate-seo" target="_blank" rel="noopener noreferrer nofollow">https://auto-post.io/blog/core-update-fallout-hits-affiliate-seo</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Google Core Updates Fallout: Affiliate SEO in 2024-2025January 3, 2026...</p></details>
    Published: January 3, 2026  
 
 4. <a id="endnote-4"></a>
    Source: auto-post.io  
    Title: It asks whether content provides origina  
-   Link: [https://auto-post.io/blog/google-spam-update-fix-thin-pages](https://auto-post.io/blog/google-spam-update-fix-thin-pages)  
+   Link: <a href="https://auto-post.io/blog/google-spam-update-fix-thin-pages" target="_blank" rel="noopener noreferrer nofollow">https://auto-post.io/blog/google-spam-update-fix-thin-pages</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Google Spam Update: Fix Thin Pages in 2026March 31, 2026 — PRACTICAL FIXES: ORIGINALITY, COMPLETENESS, AND FIRST-HAND EXPERTISE Google’s...</p></details>
    Published: March 31, 2026  
 
 5. <a id="endnote-5"></a>
    Source: youtube.com  
    Title: Thin content (and why quality content matters) | Sustainable Monetized Websites  
-   Link: [http://www.youtube.com/watch?v=ZLTz3KRsy4k](http://www.youtube.com/watch?v=ZLTz3KRsy4k)  
+   Link: <a href="http://www.youtube.com/watch?v=ZLTz3KRsy4k" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=ZLTz3KRsy4k</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Thin content with little or no added value...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: youtube.com  
    Title: Thin content with little or no added value  
-   Link: [http://www.youtube.com/watch?v=w3-obcXkyA4](http://www.youtube.com/watch?v=w3-obcXkyA4)  
+   Link: <a href="http://www.youtube.com/watch?v=w3-obcXkyA4" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=w3-obcXkyA4</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Is Thin Content Hurting My Website &amp; SEO Rankings?...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: fatrank.com  
    Title: Thin Content With Little or No Added Value  
-   Link: [https://www.fatrank.com/thin-content-with-little-or-no-added-value/](https://www.fatrank.com/thin-content-with-little-or-no-added-value/)  
+   Link: <a href="https://www.fatrank.com/thin-content-with-little-or-no-added-value/" target="_blank" rel="noopener noreferrer nofollow">https://www.fatrank.com/thin-content-with-little-or-no-added-value/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Thin content is detrimental for several reasons, particularly in the context of SEO and user experience: 1. Poor User Experience: Thin co...</p></details>
 
 ### Additional References
 
 8. <a id="endnote-8"></a>
    Source: philipgbaker.com  
-   Link: [https://philipgbaker.com/fake-review-sites-have-obliterated-good-[reviews](https://philipgbaker.com/fake-review-sites-have-obliterated-good-[reviews)  
+   Link: <a href="https://philipgbaker.com/fake-review-sites-have-obliterated-good-[reviews" target="_blank" rel="noopener noreferrer nofollow">https://philipgbaker.com/fake-review-sites-have-obliterated-good-[reviews</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fake review sites have obliterated good reviews – Phil BakerFAKE REVIEW SITES HAVE OBLITERATED GOOD REVIEWS * by admin Scams come to us b...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: wix.com  
-   Link: [https://www.wix.com/seo/learn/resource/thin-content](https://www.wix.com/seo/learn/resource/thin-content)  
+   Link: <a href="https://www.wix.com/seo/learn/resource/thin-content" target="_blank" rel="noopener noreferrer nofollow">https://www.wix.com/seo/learn/resource/thin-content</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>February 21, 2024 — LOW-QUALITY AFFILIATE PAGES Affiliate pages that focus more on sales than quality content were one of the types of th...</p></details>
    Published: February 21, 2024  
 
 10. <a id="endnote-10"></a>
    Source: affrate.com  
-   Link: [https://affrate.com/news-analysis/google-march-2026-update-affiliate-site-audit/](https://affrate.com/news-analysis/google-march-2026-update-affiliate-site-audit/)  
+   Link: <a href="https://affrate.com/news-analysis/google-march-2026-update-affiliate-site-audit/" target="_blank" rel="noopener noreferrer nofollow">https://affrate.com/news-analysis/google-march-2026-update-affiliate-site-audit/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Google March 2026 update: affiliate site audit - Aff RateApril 22, 2026 — GOOGLE MARCH 2026 UPDATE AUDIT: THE 6 AREAS TO REVIEW FIRST The...</p></details>
    Published: April 22, 2026  
 
 11. <a id="endnote-11"></a>
    Source: affiliate-times.com  
    Title: googles june 2026 core update is already torching thin affiliate content sites  
-   Link: [https://affiliate-times.com/googles-june-2026-core-update-is-already-torching-thin-affiliate-content-sites/](https://affiliate-times.com/googles-june-2026-core-update-is-already-torching-thin-affiliate-content-sites/)  
+   Link: <a href="https://affiliate-times.com/googles-june-2026-core-update-is-already-torching-thin-affiliate-content-sites/" target="_blank" rel="noopener noreferrer nofollow">https://affiliate-times.com/googles-june-2026-core-update-is-already-torching-thin-affiliate-content-sites/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Google’s June 2026 Core Update Is Already Torching Thin Affiliate Content Sites – Affiliate TimesMay 24, 2026 — GOOGLE’S JUNE 2026 CORE U...</p></details>
    Published: june 2026  
 
 12. <a id="endnote-12"></a>
    Source: youtube.com  
-   Link: [http://www.youtube.com/watch?v=4m5CLZ2hRLQ](http://www.youtube.com/watch?v=4m5CLZ2hRLQ)  
+   Link: <a href="http://www.youtube.com/watch?v=4m5CLZ2hRLQ" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=4m5CLZ2hRLQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Google product reviews update thin content affiliate site mistakes Thin content (and why quality content matters) | Sustainable Monetized...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: seobook.com  
    Title: Information Credibility at a Glance: Does Your Site Look Thin Affiliate?  
-   Link: [https://www.seobook.com/information-credibility-glance-does-your-site-look-thin-affiliate](https://www.seobook.com/information-credibility-glance-does-your-site-look-thin-affiliate)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>| SEO BookDecember 14, 2007 — INFORMATION CREDIBILITY AT A GLANCE: DOES YOUR SITE LOOK THIN AFFILIATE? MANY THIN AFFILIATE SITES LOOK REA...</p></details>
+   Link: <a href="https://www.seobook.com/information-credibility-glance-does-your-site-look-thin-affiliate" target="_blank" rel="noopener noreferrer nofollow">https://www.seobook.com/information-credibility-glance-does-your-site-look-thin-affiliate</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>SEO BookDecember 14, 2007 — INFORMATION CREDIBILITY AT A GLANCE: DOES YOUR SITE LOOK THIN AFFILIATE? MANY THIN AFFILIATE SITES LOOK REA...</p></details>
    Published: December 14, 2007  
 
 14. <a id="endnote-14"></a>
    Source: optimum7.com  
    Title: The sites that fell furthest were not failing in completely differen  
-   Link: [https://www.optimum7.com/blog/google-march-2026-core-update.html](https://www.optimum7.com/blog/google-march-2026-core-update.html)  
+   Link: <a href="https://www.optimum7.com/blog/google-march-2026-core-update.html" target="_blank" rel="noopener noreferrer nofollow">https://www.optimum7.com/blog/google-march-2026-core-update.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Google March 2026 Core Update: What eCommerce Sites Must Do | Optimum7April 16, 2026 — THE SITES THAT GOT HIT, AND THE PATTERN BEHIND EVE...</p></details>
    Published: April 16, 2026  
 
 15. <a id="endnote-15"></a>
    Source: affinityagency.co.uk  
    Title: After the Panda and Penguin updates, many affiliate sites  
-   Link: [https://www.affinityagency.co.uk/2012/08/31/affiliates-websites/](https://www.affinityagency.co.uk/2012/08/31/affiliates-websites/)  
+   Link: <a href="https://www.affinityagency.co.uk/2012/08/31/affiliates-websites/" target="_blank" rel="noopener noreferrer nofollow">https://www.affinityagency.co.uk/2012/08/31/affiliates-websites/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The problems with affiliate websites - SEO pitfall - Affinity Agency NorwichAugust 31, 2012 — THE PROBLEMS WITH AFFILIATE WEBSITES – SEO...</p></details>
    Published: August 31, 2012  
 
 16. <a id="endnote-16"></a>
    Source: lillianpurge.co.uk  
    Title: From experience, Google has publicly acknowledged affil  
-   Link: [https://www.lillianpurge.co.uk/do-affiliate-links-hurt-seo](https://www.lillianpurge.co.uk/do-affiliate-links-hurt-seo)  
+   Link: <a href="https://www.lillianpurge.co.uk/do-affiliate-links-hurt-seo" target="_blank" rel="noopener noreferrer nofollow">https://www.lillianpurge.co.uk/do-affiliate-links-hurt-seo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Do affiliate links hurt SEO | Lillian PurgeAFFILIATE LINKS ARE NOT A RANKING PENALTY BY DEFAULT The first thing to be clear about is this...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: gamblingtv.com  
    Title: A spam update followed immediately by a core update  
-   Link: [https://gamblingtv.com/featured/2026/03/30/google-march-seo-boardroom/](https://gamblingtv.com/featured/2026/03/30/google-march-seo-boardroom/)  
+   Link: <a href="https://gamblingtv.com/featured/2026/03/30/google-march-seo-boardroom/" target="_blank" rel="noopener noreferrer nofollow">https://gamblingtv.com/featured/2026/03/30/google-march-seo-boardroom/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Google March Update Hits Affiliate SEO Rankings HardMarch 30, 2026 — Google’s March algorithm updates are driving volatility across searc...</p></details>
-   Published: March 30, 2026  
+   Published: March 30, 2026

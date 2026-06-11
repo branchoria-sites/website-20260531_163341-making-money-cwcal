@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /revenue-model/
 nav_short_title: Priority Rules
 title: Which Affiliate Pages Deserve More Work
-title_full: Which Affiliate Pages Deserve More Work | Revenue Model
+title_full: Which Affiliate Pages Deserve More Work
 display_title_short: Priority Rules
 display_title: Priority Rules
 heading_title: Which Affiliate Pages Deserve More Work
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-31 15:44:24'
-parent_title: Why Equal Traffic Does Not Mean Equal Earnings | Affiliate Engines
+parent_title: Why Equal Traffic Does Not Mean Equal Earnings
 parent_permalink: /revenue-model/
 parent_nav_short_title: Revenue Model
 parent_heading_title: Why Equal Traffic Does Not Mean Equal Earnings
@@ -268,11 +268,10 @@ image: /assets/images/making_money_from_cr_f649af_revenue_per_visitor_c37335_rpv
 
 ## Introduction
 
-When running a portfolio of affiliate‑monetised pages, **[revenue per visitor]({{ 'revenue-model/' | relative_url }}) (RPV)** isn’t just a metric to report — it’s a **practical prioritisation rule** for deciding which pages deserve investment, optimisation or expansion. Unlike raw traffic counts, RPV captures how effectively a page turns its visitors into actual earnings, blending intent, click behaviour and commercial outcome into one output that directly reflects affiliate monetisation performance. This makes RPV far more useful than “page views” alone when you’re building a repeatable system of pages that should contribute to revenue at scale. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.linkjolt.io/glossary/revenue-per-visitor" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: linkjolt.io">[LinkJolt]</a><span class="citation-popover" role="note"><span class="citation-popover-source">linkjolt.io</span><span class="citation-popover-title">Link Jolt Revenue Per Visitor (RPV) | Link Jolt</span><span class="citation-popover-snippet">LinkJoltRevenue Per Visitor (RPV) | LinkJoltJanuary 15, 2025...</span><span class="citation-popover-meta">Published: January 15, 2025</span></span></span>
-
+When running a portfolio of affiliate‑monetised pages, **[revenue per visitor]({{ 'revenue-model/' | relative_url }}) (RPV)** isn’t just a metric to report — it’s a **practical prioritisation rule** for deciding which pages deserve investment, optimisation or expansion. Unlike raw traffic counts, RPV captures how effectively a page turns its visitors into actual earnings, blending intent, click behaviour and commercial outcome into one output that directly reflects affiliate monetisation performance. This makes RPV far more useful than “page views” alone when you’re building a repeatable system of pages that should contribute to revenue at scale. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.linkjolt.io/glossary/revenue-per-visitor" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: linkjolt.io">[LinkJolt]</a><span class="citation-popover" role="note"><span class="citation-popover-source">linkjolt.io</span><span class="citation-popover-title">Link Jolt Revenue Per Visitor (RPV) &#124; Link Jolt</span><span class="citation-popover-snippet">Revenue Per Visitor (RPV) &#124; LinkJoltJanuary 15, 2025...</span><span class="citation-popover-meta">Published: January 15, 2025</span></span></span>
 
 <img src="{{ "/assets/images/making_money_from_cr_f649af_revenue_per_visitor_c37335_rpv_page_prioritisat_1d3a1c-Illustration-1-dark.svg" | relative_url }}" alt="Priority Rules illustration 1" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_revenue_per_visitor_c37335_rpv_page_prioritisat_1d3a1c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_revenue_per_visitor_c37335_rpv_page_prioritisat_1d3a1c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-In this context, establishing **thresholds or bands of revenue per visitor** gives a governance layer — a quick way to decide whether a page is earning enough to justify further work such as updates, [internal linking]({{ 'user-journeys/' | relative_url }}), A/B testing, offer changes or even expansion into adjacent topics. The sections below explain how to set usable RPV bands tailored to affiliate sites, how they differ across page types, and how to scale patterns that repeatedly beat those thresholds.
+In this context, establishing **thresholds or bands of revenue per visitor** gives a governance layer — a quick way to decide whether a page is earning enough to justify further work such as updates, internal linking, A/B testing, offer changes or even expansion into adjacent topics. The sections below explain how to set usable RPV bands tailored to affiliate sites, how they differ across page types, and how to scale patterns that repeatedly beat those thresholds.
 
 ## Set practical revenue bands for page decisions
 
@@ -286,12 +285,11 @@ Pages earning above this level on a sustained basis typically deserve:
 * **Internal linking boosts** because they draw high‑intent traffic.
 * **A/B tests focused on conversions or commission optimisation** because even small improvements multiply earnings.
 
-This band usually reflects pages where intent is closely tied to purchase decisions and the affiliate offers convert well. Benchmarks in general e‑commerce scenarios suggest that higher RPV usually correlates with strong commercial alignment between content and offers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.linkjolt.io/glossary/revenue-per-visitor" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: linkjolt.io">[LinkJolt]</a><span class="citation-popover" role="note"><span class="citation-popover-source">linkjolt.io</span><span class="citation-popover-title">Link Jolt Revenue Per Visitor (RPV) | Link Jolt</span><span class="citation-popover-snippet">LinkJoltRevenue Per Visitor (RPV) | LinkJoltJanuary 15, 2025...</span><span class="citation-popover-meta">Published: January 15, 2025</span></span></span>
+This band usually reflects pages where intent is closely tied to purchase decisions and the affiliate offers convert well. Benchmarks in general e‑commerce scenarios suggest that higher RPV usually correlates with strong commercial alignment between content and offers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.linkjolt.io/glossary/revenue-per-visitor" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: linkjolt.io">[LinkJolt]</a><span class="citation-popover" role="note"><span class="citation-popover-source">linkjolt.io</span><span class="citation-popover-title">Link Jolt Revenue Per Visitor (RPV) &#124; Link Jolt</span><span class="citation-popover-snippet">Revenue Per Visitor (RPV) &#124; LinkJoltJanuary 15, 2025...</span><span class="citation-popover-meta">Published: January 15, 2025</span></span></span>
 
 **2. Mid‑tier band — RPV between £0.10 and £1.00 per visitor**
 
 Pages in this range are “workable” but not optimised:
-
 
 <div class="content-enhancement content-enhancement--benefit" markdown="1">
 
@@ -301,12 +299,11 @@ Pages in this range are “workable” but not optimised:
 
 </div>
 
-This middle range often captures general product [reviews]({{ 'reviews/' | relative_url }}) or “long list” content where visitors are interested but not yet commercially motivated. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.linkjolt.io/glossary/revenue-per-visitor" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: linkjolt.io">[LinkJolt]</a><span class="citation-popover" role="note"><span class="citation-popover-source">linkjolt.io</span><span class="citation-popover-title">Link Jolt Revenue Per Visitor (RPV) | Link Jolt</span><span class="citation-popover-snippet">LinkJoltRevenue Per Visitor (RPV) | LinkJoltJanuary 15, 2025...</span><span class="citation-popover-meta">Published: January 15, 2025</span></span></span>
+This middle range often captures general product [reviews]({{ 'reviews/' | relative_url }}) or “long list” content where visitors are interested but not yet commercially motivated. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.linkjolt.io/glossary/revenue-per-visitor" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: linkjolt.io">[LinkJolt]</a><span class="citation-popover" role="note"><span class="citation-popover-source">linkjolt.io</span><span class="citation-popover-title">Link Jolt Revenue Per Visitor (RPV) &#124; Link Jolt</span><span class="citation-popover-snippet">Revenue Per Visitor (RPV) &#124; LinkJoltJanuary 15, 2025...</span><span class="citation-popover-meta">Published: January 15, 2025</span></span></span>
 
 **3. Low‑priority band — RPV below £0.10 per visitor**
 
 Pages scoring this low typically should **not receive heavy investment** unless there is a clear structural reason:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -316,19 +313,17 @@ Pages scoring this low typically should **not receive heavy investment** unless 
 
 </div>
 
-Rather than heavy refinement, these pages might be better repurposed or linked into higher‑priority clusters. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.linkjolt.io/glossary/revenue-per-visitor" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: linkjolt.io">[LinkJolt]</a><span class="citation-popover" role="note"><span class="citation-popover-source">linkjolt.io</span><span class="citation-popover-title">Link Jolt Revenue Per Visitor (RPV) | Link Jolt</span><span class="citation-popover-snippet">LinkJoltRevenue Per Visitor (RPV) | LinkJoltJanuary 15, 2025...</span><span class="citation-popover-meta">Published: January 15, 2025</span></span></span>
+Rather than heavy refinement, these pages might be better repurposed or linked into higher‑priority clusters. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.linkjolt.io/glossary/revenue-per-visitor" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: linkjolt.io">[LinkJolt]</a><span class="citation-popover" role="note"><span class="citation-popover-source">linkjolt.io</span><span class="citation-popover-title">Link Jolt Revenue Per Visitor (RPV) &#124; Link Jolt</span><span class="citation-popover-snippet">Revenue Per Visitor (RPV) &#124; LinkJoltJanuary 15, 2025...</span><span class="citation-popover-meta">Published: January 15, 2025</span></span></span>
 
 These bands are meant as policy guidance rather than hard absolutes. Industry norms vary widely, and comparing RPV against historical performance within your own site provides the strongest signal of whether a given page’s performance is good, average or poor. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.partnero.com/articles/21-essential-affiliate-marketing-benchmarks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: partnero.com">[partnero.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">partnero.com</span><span class="citation-popover-snippet">21 Affiliate Marketing Benchmarks &amp; KPIs - PartneroAugust 12, 2024 — Revenue Per Visitor (RPV) measures how much revenue you average from...</span><span class="citation-popover-meta">Published: August 12, 2024</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/eWWOJL1y8Qw" title="The BEST Conversion Rate Optimization Tutorial for Ecommerce in 2025" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=eWWOJL1y8Qw" target="_blank" rel="noopener noreferrer">The BEST Conversion Rate Optimization Tutorial for Ecommerce in 2025</a></p><p class="youtube-embed-meta">Channel: Arsh Sanwarwala | ThrillX &middot; Views: 8.5K &middot; Uploaded: March 2025 &middot; Length: 38 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=eWWOJL1y8Qw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=eWWOJL1y8Qw">Open on YouTube</a></p></div></div></div>
 
 ## Compare page types without relying on traffic alone
 
-Traffic alone misleads. A high‑traffic page can still have very low affiliate value if visitors are not in a buying mindset or if the content doesn’t channel them toward offers that actually convert. RPV fixes this by **combining revenue and traffic into one efficiency metric**. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.kissmetrics.io/glossary/revenue-per-visitor" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kissmetrics.io">[KISSmetrics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kissmetrics.io</span><span class="citation-popover-title">Revenue Per Visitor</span><span class="citation-popover-snippet">KISSmetricsRevenue Per Visitor - What It Is, How to Calculate &amp; Track It | KISSmetrics...</span></span></span>
+Traffic alone misleads. A high‑traffic page can still have very low affiliate value if visitors are not in a buying mindset or if the content doesn’t channel them toward offers that actually convert. RPV fixes this by **combining revenue and traffic into one efficiency metric**. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.kissmetrics.io/glossary/revenue-per-visitor" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kissmetrics.io">[KISSmetrics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kissmetrics.io</span><span class="citation-popover-title">Revenue Per Visitor</span><span class="citation-popover-snippet">Revenue Per Visitor - What It Is, How to Calculate &amp; Track It &#124; KISSmetrics...</span></span></span>
 
 For example:
-
 
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
@@ -340,34 +335,34 @@ For example:
 
 This means that two pages with similar traffic can have very different RPV, and your prioritisation logic should favour **commercially rich pages first**, not just the high‑traffic ones.
 
-
 <img src="{{ "/assets/images/making_money_from_cr_f649af_revenue_per_visitor_c37335_rpv_page_prioritisat_1d3a1c-Illustration-2-dark.svg" | relative_url }}" alt="Priority Rules illustration 2" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_revenue_per_visitor_c37335_rpv_page_prioritisat_1d3a1c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_revenue_per_visitor_c37335_rpv_page_prioritisat_1d3a1c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Scale patterns that repeatedly beat the threshold
 
 One of the organisational benefits of RPV thresholds is that they help identify **repeatable, scalable patterns** across your site:
 
+<div class="content-enhancement content-enhancement--comparison" markdown="1">
+
 * **Top‑performing templates:** If certain content templates (e.g., detailed comparison charts with intent‑matching keywords) consistently hit top‑priority RPV bands, codify those as **standard templates** for expansion.
-* **[Offer matching]({{ 'offer-fit/' | relative_url }}):** Pages that combine specific merchant offers with content that directs clicks effectively tend to perform better. Patterns here might include **merchant combinations** or **CTA placement strategies** that consistently lift RPV.
+* **Offer matching:** Pages that combine specific merchant offers with content that directs clicks effectively tend to perform better. Patterns here might include **merchant combinations** or **CTA placement strategies** that consistently lift RPV.
 * **Internal linking patterns:** High‑RPV pages should receive more internal links from lower‑RPV pages, not just to raise their traffic but to pass PageRank and intent momentum within a cluster.
 
-The key governance rule is to treat RPV as both a **snapshot metric** and an **engine for feedback loops**: pages above your threshold get more support, and those below get diagnosis or repurposing, feeding insights into the system’s overall strategy.
+</div>
 
+The key governance rule is to treat RPV as both a **snapshot metric** and an **engine for feedback loops**: pages above your threshold get more support, and those below get diagnosis or repurposing, feeding insights into the system’s overall strategy.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/khAPTEy3RVc" title="How to Turn More Visitors Into Customers" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=khAPTEy3RVc" target="_blank" rel="noopener noreferrer">How to Turn More Visitors Into Customers</a></p><p class="youtube-embed-meta">Channel: Winning With Shopify &middot; Views: 352 &middot; Uploaded: May 2026 &middot; Length: 21 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=khAPTEy3RVc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=khAPTEy3RVc">Open on YouTube</a></p></div></div></div>
 
 ## Practical checks and edge cases
 
 * **Context matters:** Benchmarks vary by industry and product price point. High‑ticket niches may naturally have higher RPV, so thresholds should be adapted. Historical site data often yields the most useful internal benchmarks. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.partnero.com/articles/21-essential-affiliate-marketing-benchmarks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: partnero.com">[partnero.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">partnero.com</span><span class="citation-popover-snippet">21 Affiliate Marketing Benchmarks &amp; KPIs - PartneroAugust 12, 2024 — Revenue Per Visitor (RPV) measures how much revenue you average from...</span><span class="citation-popover-meta">Published: August 12, 2024</span></span></span>
-* **Segment before comparing:** In affiliate reporting, breaking RPV down by traffic source or intent layer (e.g. organic vs paid, high‑intent keywords vs informational) reveals whether a low RPV page is simply attracting the “wrong” type of visitor. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.shopify.com/uk/blog/affiliate-marketing-metrics" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shopify.com">[Shopify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shopify.com</span><span class="citation-popover-snippet">Shopify20 Affiliate Marketing Metrics Worth Tracking in 2026November 25, 2025 — 25 Nov 2025 — Knowing this metric helps you compare visit...</span><span class="citation-popover-meta">Published: November 25, 2025</span></span></span>
+* **Segment before comparing:** In affiliate reporting, breaking RPV down by traffic source or intent layer (e.g. organic vs paid, high‑intent keywords vs informational) reveals whether a low RPV page is simply attracting the “wrong” type of visitor. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.shopify.com/uk/blog/affiliate-marketing-metrics" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shopify.com">[Shopify]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shopify.com</span><span class="citation-popover-snippet">20 Affiliate Marketing Metrics Worth Tracking in 2026November 25, 2025 — 25 Nov 2025 — Knowing this metric helps you compare visit...</span><span class="citation-popover-meta">Published: November 25, 2025</span></span></span>
 * **Look beyond averages:** Averages mask distribution. A page with occasional big affiliate sales might have the same RPV as one with steady modest earnings — but only the consistent page may deserve scaling. Segmenting by quantiles or median values helps refine thresholds.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/uiQ4UwoTFzI" title="🤔 PPC Vs. Conversion Rate Optimization (CRO) 💰Which Is Best To Spend Your Money On FIRST?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=uiQ4UwoTFzI" target="_blank" rel="noopener noreferrer">🤔 PPC Vs. Conversion Rate Optimization (CRO) 💰Which Is Best To Spend Your Money On FIRST?</a></p><p class="youtube-embed-meta">Channel: Guaranteed PPC &middot; Views: 191 &middot; Uploaded: November 2025 &middot; Length: 28 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=uiQ4UwoTFzI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=uiQ4UwoTFzI">Open on YouTube</a></p></div></div></div>
 
 ## Summary: Use RPV thresholds to govern investments
 
 Revenue per visitor thresholds provide a **simple governance layer** that converts complex performance signals into actionable prioritisation rules. Rather than chasing traffic alone, this model lets you:
-
 
 <div class="content-enhancement content-enhancement--decision" markdown="1">
 
@@ -378,8 +373,7 @@ Revenue per visitor thresholds provide a **simple governance layer** that conver
 
 </div>
 
-In a high‑volume affiliate content system, these thresholds become part of the **inner loop of content governance**: identify winners worth scaling, identify mid performers worth optimisation, and identify low‑priority pages for repurposing. The result is a **revenue‑centric content pipeline** that turns traffic into money more predictably and efficiently. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.linkjolt.io/glossary/revenue-per-visitor" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: linkjolt.io">[LinkJolt]</a><span class="citation-popover" role="note"><span class="citation-popover-source">linkjolt.io</span><span class="citation-popover-title">Link Jolt Revenue Per Visitor (RPV) | Link Jolt</span><span class="citation-popover-snippet">LinkJoltRevenue Per Visitor (RPV) | LinkJoltJanuary 15, 2025...</span><span class="citation-popover-meta">Published: January 15, 2025</span></span></span>
-
+In a high‑volume affiliate content system, these thresholds become part of the **inner loop of content governance**: identify winners worth scaling, identify mid performers worth optimisation, and identify low‑priority pages for repurposing. The result is a **revenue‑centric content pipeline** that turns traffic into money more predictably and efficiently. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.linkjolt.io/glossary/revenue-per-visitor" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: linkjolt.io">[LinkJolt]</a><span class="citation-popover" role="note"><span class="citation-popover-source">linkjolt.io</span><span class="citation-popover-title">Link Jolt Revenue Per Visitor (RPV) &#124; Link Jolt</span><span class="citation-popover-snippet">Revenue Per Visitor (RPV) &#124; LinkJoltJanuary 15, 2025...</span><span class="citation-popover-meta">Published: January 15, 2025</span></span></span>
 
 <img src="{{ "/assets/images/making_money_from_cr_f649af_revenue_per_visitor_c37335_rpv_page_prioritisat_1d3a1c-Illustration-3-dark.svg" | relative_url }}" alt="Priority Rules illustration 3" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_revenue_per_visitor_c37335_rpv_page_prioritisat_1d3a1c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_revenue_per_visitor_c37335_rpv_page_prioritisat_1d3a1c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -805,106 +799,106 @@ In a high‑volume affiliate content system, these thresholds become part of the
 1. <a id="endnote-1"></a>
    Source: linkjolt.io  
    Title: Link Jolt Revenue Per Visitor (RPV) | Link Jolt  
-   Link: [https://www.linkjolt.io/glossary/revenue-per-visitor](https://www.linkjolt.io/glossary/revenue-per-visitor)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LinkJoltRevenue Per Visitor (RPV) | LinkJoltJanuary 15, 2025...</p></details>
+   Link: <a href="https://www.linkjolt.io/glossary/revenue-per-visitor" target="_blank" rel="noopener noreferrer nofollow">https://www.linkjolt.io/glossary/revenue-per-visitor</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Revenue Per Visitor (RPV) | LinkJoltJanuary 15, 2025...</p></details>
    Published: January 15, 2025  
 
 2. <a id="endnote-2"></a>
    Source: kissmetrics.io  
    Title: Revenue Per Visitor  
-   Link: [https://www.kissmetrics.io/glossary/revenue-per-visitor](https://www.kissmetrics.io/glossary/revenue-per-visitor)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>KISSmetricsRevenue Per Visitor - What It Is, How to Calculate &amp; Track It | KISSmetrics...</p></details>
+   Link: <a href="https://www.kissmetrics.io/glossary/revenue-per-visitor" target="_blank" rel="noopener noreferrer nofollow">https://www.kissmetrics.io/glossary/revenue-per-visitor</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Revenue Per Visitor - What It Is, How to Calculate &amp; Track It | KISSmetrics...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: partnero.com  
-   Link: [https://www.partnero.com/articles/21-essential-affiliate-marketing-benchmarks](https://www.partnero.com/articles/21-essential-affiliate-marketing-benchmarks)  
+   Link: <a href="https://www.partnero.com/articles/21-essential-affiliate-marketing-benchmarks" target="_blank" rel="noopener noreferrer nofollow">https://www.partnero.com/articles/21-essential-affiliate-marketing-benchmarks</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>21 Affiliate Marketing Benchmarks &amp; KPIs - PartneroAugust 12, 2024 — Revenue Per Visitor (RPV) measures how much revenue you average from...</p></details>
    Published: August 12, 2024  
 
 4. <a id="endnote-4"></a>
    Source: shopify.com  
-   Link: [https://www.shopify.com/uk/blog/affiliate-marketing-metrics](https://www.shopify.com/uk/blog/affiliate-marketing-metrics)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Shopify20 Affiliate Marketing Metrics Worth Tracking in 2026November 25, 2025 — 25 Nov 2025 — Knowing this metric helps you compare visit...</p></details>
+   Link: <a href="https://www.shopify.com/uk/blog/affiliate-marketing-metrics" target="_blank" rel="noopener noreferrer nofollow">https://www.shopify.com/uk/blog/affiliate-marketing-metrics</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>20 Affiliate Marketing Metrics Worth Tracking in 2026November 25, 2025 — 25 Nov 2025 — Knowing this metric helps you compare visit...</p></details>
    Published: November 25, 2025  
 
 5. <a id="endnote-5"></a>
    Source: kpitree.co  
    Title: Revenue Per Visitor (RPV)  
-   Link: [https://kpitree.co/glossary/ecommerce-metrics/revenue-per-visitor](https://kpitree.co/glossary/ecommerce-metrics/revenue-per-visitor)  
+   Link: <a href="https://kpitree.co/glossary/ecommerce-metrics/revenue-per-visitor" target="_blank" rel="noopener noreferrer nofollow">https://kpitree.co/glossary/ecommerce-metrics/revenue-per-visitor</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>KPI TreeJanuary 29, 2025 — Metric Definition Revenue per visitor E-commerce metric Revenue Per Visitor = Total Revenue / Number of Unique...</p></details>
    Published: January 29, 2025  
 
 6. <a id="endnote-6"></a>
    Source: conversionbros.com  
    Title: Revenue Per Visitor  
-   Link: [https://conversionbros.com/glossary/revenue-per-visitor/](https://conversionbros.com/glossary/revenue-per-visitor/)  
+   Link: <a href="https://conversionbros.com/glossary/revenue-per-visitor/" target="_blank" rel="noopener noreferrer nofollow">https://conversionbros.com/glossary/revenue-per-visitor/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The formula is simple: total revenue divided by total visi...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: databox.com  
-   Link: [https://databox.com/kpi-examples/revenue-per-visitor](https://databox.com/kpi-examples/revenue-per-visitor)  
+   Link: <a href="https://databox.com/kpi-examples/revenue-per-visitor" target="_blank" rel="noopener noreferrer nofollow">https://databox.com/kpi-examples/revenue-per-visitor</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Learn how to track, analyze, and improve RPV to increas...</p></details>
 
 ### Additional References
 
 8. <a id="endnote-8"></a>
    Source: onrampfunds.com  
-   Link: [https://www.onrampfunds.com/resources/revenue-per-visitor-definition-and-formula](https://www.onrampfunds.com/resources/revenue-per-visitor-definition-and-formula)  
+   Link: <a href="https://www.onrampfunds.com/resources/revenue-per-visitor-definition-and-formula" target="_blank" rel="noopener noreferrer nofollow">https://www.onrampfunds.com/resources/revenue-per-visitor-definition-and-formula</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Revenue Per Visitor: Definition and Formula | Onramp FundsREVENUE PER VISITOR: DEFINITION AND FORMULA Image: Revenue Per Visitor: Definit...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: sona.com  
-   Link: [https://www.sona.com/blog/understanding-affiliate-marketing-kpis-definition-formula-and-benchmarks](https://www.sona.com/blog/understanding-affiliate-marketing-kpis-definition-formula-and-benchmarks)  
+   Link: <a href="https://www.sona.com/blog/understanding-affiliate-marketing-kpis-definition-formula-and-benchmarks" target="_blank" rel="noopener noreferrer nofollow">https://www.sona.com/blog/understanding-affiliate-marketing-kpis-definition-formula-and-benchmarks</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>April 21, 2026 — CORE AFFILIATE MARKETING KPIS AND FORMULAS Image: Image Affiliate programs rely on a defined set of KPIs, each with a sp...</p></details>
    Published: April 21, 2026  
 
 10. <a id="endnote-10"></a>
    Source: postaffiliatepro.com  
    Title: EP C in Affiliate Marketing: Earnings Per Click Guide | Post Affiliate Pro1  
-   Link: [https://www.postaffiliatepro.com/blog/epc-affiliate-marketing/](https://www.postaffiliatepro.com/blog/epc-affiliate-marketing/)  
+   Link: <a href="https://www.postaffiliatepro.com/blog/epc-affiliate-marketing/" target="_blank" rel="noopener noreferrer nofollow">https://www.postaffiliatepro.com/blog/epc-affiliate-marketing/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Home / 2. Affiliate Marketing Blog / 3. EPC in Affiliate Marketing: Earnings Per Click Guide EPC IN AFFILIATE MARKETING: EARNINGS PER CLI...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: commissiondex.com  
    Title: Affiliate Marketing Analytics: Tracking What Matters | Commission Dex Blog  
-   Link: [https://commissiondex.com/blog/affiliate-marketing-analytics/](https://commissiondex.com/blog/affiliate-marketing-analytics/)  
+   Link: <a href="https://commissiondex.com/blog/affiliate-marketing-analytics/" target="_blank" rel="noopener noreferrer nofollow">https://commissiondex.com/blog/affiliate-marketing-analytics/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Affiliate Marketing Analytics: Tracking What Matters | CommissionDex BlogMarch 27, 2026 — AFFILIATE MARKETING ANALYTICS: TRACKING WHAT MA...</p></details>
    Published: March 27, 2026  
 
 12. <a id="endnote-12"></a>
    Source: blog.udonis.co  
    Title: co40 Affiliate Marketing Metrics & KPIs That Actually Matter  
-   Link: [https://www.blog.udonis.co/mobile-marketing/affiliate-marketing-metrics](https://www.blog.udonis.co/mobile-marketing/affiliate-marketing-metrics)  
+   Link: <a href="https://www.blog.udonis.co/mobile-marketing/affiliate-marketing-metrics" target="_blank" rel="noopener noreferrer nofollow">https://www.blog.udonis.co/mobile-marketing/affiliate-marketing-metrics</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>udonis.co40 Affiliate Marketing Metrics &amp; KPIs That Actually MatterFebruary 3, 2026 — Image: 40 Affiliate Marketing Metrics &amp; KPIs That A...</p></details>
    Published: February 3, 2026  
 
 13. <a id="endnote-13"></a>
    Source: getlasso.co  
    Title: What Is Earnings Per Click (EPC) In Affiliate Marketing?  
-   Link: [https://getlasso.co/earnings-per-click-affiliate-marketing/](https://getlasso.co/earnings-per-click-affiliate-marketing/)  
+   Link: <a href="https://getlasso.co/earnings-per-click-affiliate-marketing/" target="_blank" rel="noopener noreferrer nofollow">https://getlasso.co/earnings-per-click-affiliate-marketing/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LassoApril 7, 2026 — WHAT IS EARNINGS PER CLICK (EPC) IN AFFILIATE MARKETING? Wondering what earnings per click (EPC) means in affiliate...</p></details>
    Published: April 7, 2026  
 
 14. <a id="endnote-14"></a>
    Source: track360.io  
    Title: affiliate marketing benchmarks kpis by vertical 2026  
-   Link: [https://track360.io/blog/affiliate-marketing-benchmarks-kpis-by-vertical-2026](https://track360.io/blog/affiliate-marketing-benchmarks-kpis-by-vertical-2026)  
+   Link: <a href="https://track360.io/blog/affiliate-marketing-benchmarks-kpis-by-vertical-2026" target="_blank" rel="noopener noreferrer nofollow">https://track360.io/blog/affiliate-marketing-benchmarks-kpis-by-vertical-2026</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Key Metrics in Affiliate Marketing: Benchmarks 202610 May 2026 — eCommerce affiliate programs produce the lowest conversion rates (0.8-2...</p></details>
    Published: May 2026  
 
 15. <a id="endnote-15"></a>
    Source: taggstar.com  
-   Link: [https://taggstar.com/blog/revenue-per-visitor-rpv-what-it-is-and-how-to-improve-it/](https://taggstar.com/blog/revenue-per-visitor-rpv-what-it-is-and-how-to-improve-it/)  
+   Link: <a href="https://taggstar.com/blog/revenue-per-visitor-rpv-what-it-is-and-how-to-improve-it/" target="_blank" rel="noopener noreferrer nofollow">https://taggstar.com/blog/revenue-per-visitor-rpv-what-it-is-and-how-to-improve-it/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>he amount of revenue (and therefore value) generated by each visitor.Read more...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: postaffiliatepro.com  
    Title: What Metrics Are Important in Affiliate Marketing?  
-   Link: [https://www.postaffiliatepro.com/faq/important-metrics-affiliate-marketing/](https://www.postaffiliatepro.com/faq/important-metrics-affiliate-marketing/)  
+   Link: <a href="https://www.postaffiliatepro.com/faq/important-metrics-affiliate-marketing/" target="_blank" rel="noopener noreferrer nofollow">https://www.postaffiliatepro.com/faq/important-metrics-affiliate-marketing/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Complete KPI Guide | Post Affiliate Pro1. Home / 2. Questions about Affiliate Marketing / 3. What Metrics Are Important in Affiliate Mark...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: endorsely.com  
    Title: ‍ And now, I run Endorsely, an affiliate trac  
-   Link: [https://www.endorsely.com/blog-post/what-is-epc-earnings-per-click-in-affiliate-marketing-explained](https://www.endorsely.com/blog-post/what-is-epc-earnings-per-click-in-affiliate-marketing-explained)  
+   Link: <a href="https://www.endorsely.com/blog-post/what-is-epc-earnings-per-click-in-affiliate-marketing-explained" target="_blank" rel="noopener noreferrer nofollow">https://www.endorsely.com/blog-post/what-is-epc-earnings-per-click-in-affiliate-marketing-explained</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What is EPC (Earnings Per Click) in Affiliate Marketing (Explained)WHAT IS EPC (EARNINGS PER CLICK) IN AFFILIATE MARKETING (EXPLAINED) I’...</p></details>

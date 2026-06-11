@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /reviews/
 nav_short_title: Evidence Blocks
 title: Show the Work Behind the Verdict
-title_full: Show the Work Behind the Verdict | Reviews
+title_full: Show the Work Behind the Verdict
 display_title_short: Evidence Blocks
 display_title: Evidence Blocks
 heading_title: Show the Work Behind the Verdict
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-31 15:41:36'
-parent_title: Why Thin Reviews Fail Affiliate Buyers | Affiliate Engines
+parent_title: Why Thin Reviews Fail Affiliate Buyers
 parent_permalink: /reviews/
 parent_nav_short_title: Reviews
 parent_heading_title: Why Thin Reviews Fail Affiliate Buyers
@@ -274,8 +274,7 @@ image: /assets/images/making_money_from_cr_f649af_review_pages_0fc8c2_review_evi
 
 ## Introduction
 
-Affiliate [review pages]({{ 'reviews/' | relative_url }}) earn trust when readers can see the work behind the recommendation. An evidence block is a section that shows how a reviewer reached a verdict through testing, measurement, comparison, screenshots, source analysis, or documented use. Instead of asking visitors to trust a conclusion, it exposes part of the process that produced it.
-
+Affiliate review pages earn trust when readers can see the work behind the recommendation. An evidence block is a section that shows how a reviewer reached a verdict through testing, measurement, comparison, screenshots, source analysis, or documented use. Instead of asking visitors to trust a conclusion, it exposes part of the process that produced it.
 
 <img src="{{ "/assets/images/making_money_from_cr_f649af_review_pages_0fc8c2_review_evidence_bloc_f24101-Illustration-1-dark.svg" | relative_url }}" alt="Evidence Blocks illustration 1" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_review_pages_0fc8c2_review_evidence_bloc_f24101-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_review_pages_0fc8c2_review_evidence_bloc_f24101-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This matters commercially because review traffic is often close to a buying decision. A visitor comparing products may accept weaknesses, [limitations]({{ 'limitations/' | relative_url }}), or trade-offs if the reasoning is visible. What usually destroys trust is unsupported certainty. Google’s review guidance repeatedly encourages first-hand supporting evidence, original insights, and information beyond manufacturer descriptions. [Reviews]({{ 'reviews/' | relative_url }}) that demonstrate experience and evaluation are more aligned with what search systems and readers increasingly expect from product recommendations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://developers.google.com/search/docs/specialty/ecommerce/write-high-quality-reviews" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-snippet">Google for DevelopersWrite high quality reviewsWhen recommending something as the best overall or the best for a certain purpose, include...</span></span></span>
@@ -304,10 +303,10 @@ A software review might show page-load measurements from three website builders 
 
 **Comparative evidence**
 
+* Side-by-side feature [tables]({{ 'tables/' | relative_url }})
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
-* Side-by-side feature tables
 * Pricing comparisons
 * Performance benchmarks
 * Competitor screenshots
@@ -318,7 +317,6 @@ A software review might show page-load measurements from three website builders 
 Comparative evidence is powerful because it answers a real buyer question: not whether a product exists, but whether it is better than alternatives for a particular use case.
 
 **Source-backed research**
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -334,7 +332,6 @@ Comparative evidence is powerful because it answers a real buyer question: not w
 Research evidence becomes especially valuable when the product is difficult to test directly or when important purchasing factors exist outside the product itself.
 
 **Experience evidence**
-
 
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
@@ -368,7 +365,6 @@ This distinction matters because review readers are often checking whether a rec
 
 Evidence blocks also reduce a common affiliate-site problem: recommendation inflation. When every product is described as excellent, readers stop believing the language. When verdicts are attached to observations, measurements, and examples, positive claims become more credible because they appear earned.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Hq1UDKzazVQ" title="New FTC Guidelines &amp; Disclosures that Brands, Agencies and Influencers Need to Know" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Hq1UDKzazVQ" target="_blank" rel="noopener noreferrer">New FTC Guidelines &amp; Disclosures that Brands, Agencies and Influencers Need to Know</a></p><p class="youtube-embed-meta">Channel: Find Your Influence &middot; Views: 369 &middot; Uploaded: August 2023 &middot; Length: 46 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Hq1UDKzazVQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Hq1UDKzazVQ">Open on YouTube</a></p></div></div></div>
 
 ## How to Present Evidence Without Creating Clutter
@@ -395,7 +391,6 @@ Instead of inserting screenshots randomly throughout a page, place them beside t
 
 For example:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Dashboard screenshot supporting ease-of-use claims
@@ -409,7 +404,6 @@ For example:
 Useful when discussing plans, policies, or pricing.
 
 Example:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -432,7 +426,6 @@ One concise statement can sometimes provide more trust than several paragraphs o
 
 The goal is not maximum documentation. The goal is visible verification.
 
-
 <img src="{{ "/assets/images/making_money_from_cr_f649af_review_pages_0fc8c2_review_evidence_bloc_f24101-Illustration-2-dark.svg" | relative_url }}" alt="Evidence Blocks illustration 2" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_review_pages_0fc8c2_review_evidence_bloc_f24101-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_review_pages_0fc8c2_review_evidence_bloc_f24101-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## When Research Evidence Can Replace Hands-On Testing
 
@@ -443,7 +436,6 @@ Some products are expensive, inaccessible, geographically restricted, enterprise
 Research-based reviews are usually stronger when they openly explain their methodology.
 
 A transparent research block might include:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -473,7 +465,6 @@ For affiliate site systems, this creates a practical page classification rule:
 * Pages should clearly indicate which evidence type is being used.
 
 This distinction is often more scalable than attempting hands-on testing across thousands of products.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/aX2IOJT15vY" title="How Wirecutter Tests Products" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=aX2IOJT15vY" target="_blank" rel="noopener noreferrer">How Wirecutter Tests Products</a></p><p class="youtube-embed-meta">Channel: NYT Wirecutter &middot; Views: 5.6K &middot; Uploaded: April 2024 &middot; Length: 1 minute 21 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=aX2IOJT15vY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=aX2IOJT15vY">Open on YouTube</a></p></div></div></div>
 
@@ -543,7 +534,6 @@ An update block can show:
 
 This turns maintenance work into a visible trust signal.
 
-
 <img src="{{ "/assets/images/making_money_from_cr_f649af_review_pages_0fc8c2_review_evidence_bloc_f24101-Illustration-3-dark.svg" | relative_url }}" alt="Evidence Blocks illustration 3" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_review_pages_0fc8c2_review_evidence_bloc_f24101-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_review_pages_0fc8c2_review_evidence_bloc_f24101-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Trust Signals Readers Notice First
 
@@ -553,21 +543,19 @@ The most effective evidence signals are often simple:
 
 * Original screenshots
 * Measured results
-* [Comparison tables]({{ 'tables/' | relative_url }})
+* Comparison tables
 * Documentation references
 * Clear methodology notes
 * Acknowledged limitations
 * Dates showing recent verification
 
-Research on endorsements and reviews consistently centres on transparency, honesty, and disclosure rather than hidden persuasion. FTC guidance repeatedly stresses that endorsements should be truthful, not misleading, and should clearly disclose material relationships. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ftc.gov/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-snippet">Federal Trade Commission | Protecting America&#x27;s ConsumersThe official website of the Federal Trade Commission, protecting America&#x27;s consu...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ftc.gov/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-snippet">Federal Trade Commission | Protecting America&#x27;s ConsumersThe official website of the Federal Trade Commission, protecting America&#x27;s consu...</span></span></span>
+Research on endorsements and reviews consistently centres on transparency, honesty, and [disclosure]({{ 'disclosure/' | relative_url }}) rather than hidden persuasion. FTC guidance repeatedly stresses that endorsements should be truthful, not misleading, and should clearly disclose material relationships. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ftc.gov/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-snippet">Federal Trade Commission &#124; Protecting America&#x27;s ConsumersThe official website of the Federal Trade Commission, protecting America&#x27;s consu...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ftc.gov/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-snippet">Federal Trade Commission &#124; Protecting America&#x27;s ConsumersThe official website of the Federal Trade Commission, protecting America&#x27;s consu...</span></span></span>
 
 That principle applies directly to affiliate review evidence. Readers are not demanding laboratory-grade testing. They are looking for proof that the recommendation came from real evaluation.
 
 An affiliate review page becomes more persuasive when it shows enough evidence for a visitor to reconstruct the reasoning behind the verdict. Once readers can see how the conclusion was reached, affiliate links feel less like advertisements and more like the natural next step in a documented recommendation process.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/54XwUi7Hc0k" title="The Elder Scrolls V: Skyrim Angry Review" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=54XwUi7Hc0k" target="_blank" rel="noopener noreferrer">The Elder Scrolls V: Skyrim Angry Review</a></p><p class="youtube-embed-meta">Channel: AngryJoeShow &middot; Views: 5.8M &middot; Uploaded: November 2011 &middot; Length: 19 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=54XwUi7Hc0k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=54XwUi7Hc0k">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -867,47 +855,47 @@ An affiliate review page becomes more persuasive when it shows enough evidence f
 
 1. <a id="endnote-1"></a>
    Source: developers.google.com  
-   Link: [https://developers.google.com/search/docs/specialty/ecommerce/write-high-quality-reviews](https://developers.google.com/search/docs/specialty/ecommerce/write-high-quality-reviews)  
+   Link: <a href="https://developers.google.com/search/docs/specialty/ecommerce/write-high-quality-reviews" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/docs/specialty/ecommerce/write-high-quality-reviews</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Google for DevelopersWrite high quality reviewsWhen recommending something as the best overall or the best for a certain purpose, include...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: developers.google.com  
-   Link: [https://developers.google.com/search/blog/2022/03/product-review-ranking-one-year-on](https://developers.google.com/search/blog/2022/03/product-review-ranking-one-year-on)  
+   Link: <a href="https://developers.google.com/search/blog/2022/03/product-review-ranking-one-year-on" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/blog/2022/03/product-review-ranking-one-year-on</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Product Review ranking, one year on23 Mar 2022 — Are product review updates relevant to ranked lists and comparison reviews? Yes. Product...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: ftc.gov  
-   Link: [https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking](https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking)  
+   Link: <a href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade CommissionFTC&#x27;s Endorsement Guides: What People Are Asking29 Jun 2023 — The Guides, at their core, reflect the basic truth...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: ftc.gov  
-   Link: [https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews](https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews)  
+   Link: <a href="https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews</a>  
 
 5. <a id="endnote-5"></a>
    Source: developers.google.com  
    Title: creating helpful content  
-   Link: [https://developers.google.com/search/docs/fundamentals/creating-helpful-content](https://developers.google.com/search/docs/fundamentals/creating-helpful-content)  
+   Link: <a href="https://developers.google.com/search/docs/fundamentals/creating-helpful-content" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/docs/fundamentals/creating-helpful-content</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Helpful, Reliable, People-First ContentGoogle&#x27;s ranking systems are designed to present helpful, reliable information that&#x27;s created to b...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: support.google.com  
-   Link: [https://support.google.com/product-documentation/answer/10115141?hl=en](https://support.google.com/product-documentation/answer/10115141?hl=en)  
+   Link: <a href="https://support.google.com/product-documentation/answer/10115141?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/product-documentation/answer/10115141?hl=en</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Store review guidelinesCustomer reviews of Google Hardware products should accurately represent the products in question. Where reviews d...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: ftc.gov  
-   Link: [https://www.ftc.gov/](https://www.ftc.gov/)  
+   Link: <a href="https://www.ftc.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade Commission | Protecting America&#x27;s ConsumersThe official website of the Federal Trade Commission, protecting America&#x27;s consu...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: ftc.gov  
-   Link: [https://www.ftc.gov/sites/default/files/attachments/press-releases/ftc-publishes-final-guides-governing-endorsements-testimonials/091005revisedendorsementguides.pdf](https://www.ftc.gov/sites/default/files/attachments/press-releases/ftc-publishes-final-guides-governing-endorsements-testimonials/091005revisedendorsementguides.pdf)  
+   Link: <a href="https://www.ftc.gov/sites/default/files/attachments/press-releases/ftc-publishes-final-guides-governing-endorsements-testimonials/091005revisedendorsementguides.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/sites/default/files/attachments/press-releases/ftc-publishes-final-guides-governing-endorsements-testimonials/091005revisedendorsementguides.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>person for the clinic, this endorsement is likely to be deceptive.Read more...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: searchengineland.com  
-   Link: [https://searchengineland.com/google-releases-march-2022-product-reviews-update-with-additional-ranking-[criteria](https://searchengineland.com/google-releases-march-2022-product-reviews-update-with-additional-ranking-[criteria)  
+   Link: <a href="https://searchengineland.com/google-releases-march-2022-product-reviews-update-with-additional-ranking-[criteria" target="_blank" rel="noopener noreferrer nofollow">https://searchengineland.com/google-releases-march-2022-product-reviews-update-with-additional-ranking-[criteria</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Google releases March 2022 product reviews update with...23 Mar 2022 — The new product reviews update looks for in-depth analysis, actua...</p></details>
    Published: march 2022  
 
@@ -915,57 +903,57 @@ An affiliate review page becomes more persuasive when it shows enough evidence f
 
 10. <a id="endnote-10"></a>
    Source: ecfr.gov  
-   Link: [https://www.ecfr.gov/current/title-16/chapter-I/subchapter-B/part-255](https://www.ecfr.gov/current/title-16/chapter-I/subchapter-B/part-255)  
+   Link: <a href="https://www.ecfr.gov/current/title-16/chapter-I/subchapter-B/part-255" target="_blank" rel="noopener noreferrer nofollow">https://www.ecfr.gov/current/title-16/chapter-I/subchapter-B/part-255</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>16 CFR Part 255 -- Guides Concerning Use of...The Guides address the application of section 5 of the FTC Act, 15 USC 45, to the use of e...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: federalregister.gov  
    Title: guides concerning the use of endorsements and testimonials in advertising  
-   Link: [https://www.federalregister.gov/documents/2023/07/26/2023-14795/guides-concerning-the-use-of-endorsements-and-testimonials-in-advertising](https://www.federalregister.gov/documents/2023/07/26/2023-14795/guides-concerning-the-use-of-endorsements-and-testimonials-in-advertising)  
+   Link: <a href="https://www.federalregister.gov/documents/2023/07/26/2023-14795/guides-concerning-the-use-of-endorsements-and-testimonials-in-advertising" target="_blank" rel="noopener noreferrer nofollow">https://www.federalregister.gov/documents/2023/07/26/2023-14795/guides-concerning-the-use-of-endorsements-and-testimonials-in-advertising</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Guides Concerning the Use of Endorsements and...26 Jul 2023 — The Federal Trade Commission (FTC or Commission) is adopting revised Guide...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: agg.com  
-   Link: [https://www.agg.com/news-insights/publications/a-guide-to-understanding-ftcs-regulations-for-endorsements-and-testimonials-in-influencer-advertising/](https://www.agg.com/news-insights/publications/a-guide-to-understanding-ftcs-regulations-for-endorsements-and-testimonials-in-influencer-advertising/)  
+   Link: <a href="https://www.agg.com/news-insights/publications/a-guide-to-understanding-ftcs-regulations-for-endorsements-and-testimonials-in-influencer-advertising/" target="_blank" rel="noopener noreferrer nofollow">https://www.agg.com/news-insights/publications/a-guide-to-understanding-ftcs-regulations-for-endorsements-and-testimonials-in-influencer-advertising/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A Guide to Understanding FTC&#x27;s Regulations for...20 June 2024 — The FTC Act also requires a disclosure of typical results when the repor...</p></details>
    Published: June 2024  
 
 13. <a id="endnote-13"></a>
    Source: steptoe.com  
-   Link: [https://www.steptoe.com/en/news-publications/ftc-unveils-new-endorsement-guides-and-proposed-rule-on-consumer-reviews-what-your-business-needs-to-know-and-opportunities-to-shape-whats-next.html](https://www.steptoe.com/en/news-publications/ftc-unveils-new-endorsement-guides-and-proposed-rule-on-consumer-reviews-what-your-business-needs-to-know-and-opportunities-to-shape-whats-next.html)  
+   Link: <a href="https://www.steptoe.com/en/news-publications/ftc-unveils-new-endorsement-guides-and-proposed-rule-on-consumer-reviews-what-your-business-needs-to-know-and-opportunities-to-shape-whats-next.html" target="_blank" rel="noopener noreferrer nofollow">https://www.steptoe.com/en/news-publications/ftc-unveils-new-endorsement-guides-and-proposed-rule-on-consumer-reviews-what-your-business-needs-to-know-and-opportunities-to-shape-whats-next.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FTC Unveils New Endorsement Guides and Proposed...11 Jul 2023 — The Endorsement Guides advise the public on advertising practices the Co...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: dglaw.com  
-   Link: [https://www.dglaw.com/the-deep-dive-ftc-updates-endorsement-guides-for-modern-marketing-and-advertising/](https://www.dglaw.com/the-deep-dive-ftc-updates-endorsement-guides-for-modern-marketing-and-advertising/)  
+   Link: <a href="https://www.dglaw.com/the-deep-dive-ftc-updates-endorsement-guides-for-modern-marketing-and-advertising/" target="_blank" rel="noopener noreferrer nofollow">https://www.dglaw.com/the-deep-dive-ftc-updates-endorsement-guides-for-modern-marketing-and-advertising/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Deep Dive: FTC Updates Endorsement Guides...11 Jul 2023 — On June 29, the FTC announced new Endorsement Guides (Endorsement Guides)...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: kelleydrye.com  
    Title: ftc addresses frequently asked questions about the revised endorsement guides  
-   Link: [https://www.kelleydrye.com/viewpoints/blogs/ad-law-access/ftc-addresses-frequently-asked-questions-about-the-revised-endorsement-guides](https://www.kelleydrye.com/viewpoints/blogs/ad-law-access/ftc-addresses-frequently-asked-questions-about-the-revised-endorsement-guides)  
+   Link: <a href="https://www.kelleydrye.com/viewpoints/blogs/ad-law-access/ftc-addresses-frequently-asked-questions-about-the-revised-endorsement-guides" target="_blank" rel="noopener noreferrer nofollow">https://www.kelleydrye.com/viewpoints/blogs/ad-law-access/ftc-addresses-frequently-asked-questions-about-the-revised-endorsement-guides</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>typical testimonials be accompanied by a clear and conspicuous disclosure of generally expected results. On June 23, 2010, the FTC Bureau...</p></details>
    Published: June 23, 2010  
 
 16. <a id="endnote-16"></a>
    Source: rioseo.com  
    Title: googles product reviews updates boost your business with trustworthy feedback  
-   Link: [https://www.rioseo.com/blog/googles-product-reviews-updates-boost-your-business-with-trustworthy-feedback/](https://www.rioseo.com/blog/googles-product-reviews-updates-boost-your-business-with-trustworthy-feedback/)  
+   Link: <a href="https://www.rioseo.com/blog/googles-product-reviews-updates-boost-your-business-with-trustworthy-feedback/" target="_blank" rel="noopener noreferrer nofollow">https://www.rioseo.com/blog/googles-product-reviews-updates-boost-your-business-with-trustworthy-feedback/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Google&#x27;s Product Reviews Updates: Boost Your Business23 Feb 2023 — In this post, we&#x27;ll deep dive into Google&#x27;s six product review updates...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=aX2IOJT15vY](https://www.youtube.com/watch?v=aX2IOJT15vY)  
+   Link: <a href="https://www.youtube.com/watch?v=aX2IOJT15vY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=aX2IOJT15vY</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How Wirecutter Tests ProductsWe rigorously test every product we recommend (or don&#x27;t recommend). Here are a few examples of how Wirecutte...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: swlaw.com  
    Title: truth or consequences ftc revised endorsement guides class action risk  
-   Link: [https://www.swlaw.com/publication/truth-or-consequences-ftc-revised-endorsement-guides-class-action-risk/](https://www.swlaw.com/publication/truth-or-consequences-ftc-revised-endorsement-guides-class-action-risk/)  
+   Link: <a href="https://www.swlaw.com/publication/truth-or-consequences-ftc-revised-endorsement-guides-class-action-risk/" target="_blank" rel="noopener noreferrer nofollow">https://www.swlaw.com/publication/truth-or-consequences-ftc-revised-endorsement-guides-class-action-risk/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FTC Revised Endorsement Guides &amp; Class Action Risk8 Aug 2023 — The FTC has updated its guidance on endorsement and testimonial advertisin...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: wildcatdigital.co.uk  
    Title: google ranking factors does google consider first hand experience  
-   Link: [https://wildcatdigital.co.uk/blog/google-ranking-factors-does-google-consider-first-hand-experience/](https://wildcatdigital.co.uk/blog/google-ranking-factors-does-google-consider-first-hand-experience/)  
+   Link: <a href="https://wildcatdigital.co.uk/blog/google-ranking-factors-does-google-consider-first-hand-experience/" target="_blank" rel="noopener noreferrer nofollow">https://wildcatdigital.co.uk/blog/google-ranking-factors-does-google-consider-first-hand-experience/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>First Hand Experience as a Google Ranking Factor27 Feb 2026 — Google prioritises first-hand experience as a core ranking factor through E...</p></details>

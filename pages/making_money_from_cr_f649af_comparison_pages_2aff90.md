@@ -34,7 +34,7 @@ sidebar_expanded_urls:
 - /making-money-from-creating-websites/
 nav_short_title: Comparisons
 title: Why A Versus B Pages Drive Clicks
-title_full: Why A Versus B Pages Drive Clicks | Affiliate Engines
+title_full: Why A Versus B Pages Drive Clicks
 display_title_short: Comparisons
 display_title: Comparisons
 heading_title: Why A Versus B Pages Drive Clicks
@@ -318,9 +318,8 @@ image: /assets/images/making_money_from_cr_f649af_comparison_pages_2aff90-overvi
 
 Comparison pages for named alternatives — such as “Product A vs Product B”, “Brand X alternatives”, or “Tool A compared with Tool B” — are valuable affiliate pages because the reader has usually moved past general browsing. They are not asking “What is this category?” They are asking which named option deserves the next click. That makes the page commercially different from a broad guide: its job is to reduce uncertainty, explain trade-offs, and send the reader to the right merchant or sign-up page at the moment of decision.
 
-
 <img src="{{ "/assets/images/making_money_from_cr_f649af_comparison_pages_2aff90-overview.webp" | relative_url }}" alt="Overview image for Comparisons" loading="eager" decoding="sync" fetchpriority="high">
-For affiliate websites, this page type works best when it is genuinely comparative rather than disguised promotion. Search and usability evidence points in the same direction: users need clear [attributes]({{ 'attributes/' | relative_url }}), scannable side-by-side information, and credible explanations of who each option is best for. [Comparison tables]({{ 'tables/' | relative_url }}) are a recognised pattern for helping users compare products or services by attributes, but they only help when the criteria are relevant and the trade-offs are honest. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nngroup.com/articles/comparison-tables/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nngroup.com">[Nielsen Norman Group]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nngroup.com</span><span class="citation-popover-snippet">Nielsen Norman GroupComparison Tables for Products, Services, and FeaturesFebruary 9, 2024 — 9 Feb 2024 — A table that uses columns for p...</span><span class="citation-popover-meta">Published: February 9, 2024</span></span></span>
+For affiliate websites, this page type works best when it is genuinely comparative rather than disguised promotion. Search and usability evidence points in the same direction: users need clear [attributes]({{ 'attributes/' | relative_url }}), scannable side-by-side information, and credible explanations of who each option is best for. Comparison tables are a recognised pattern for helping users compare products or services by attributes, but they only help when the [criteria]({{ 'criteria/' | relative_url }}) are relevant and the trade-offs are honest. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nngroup.com/articles/comparison-tables/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nngroup.com">[Nielsen Norman Group]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nngroup.com</span><span class="citation-popover-snippet">Nielsen Norman GroupComparison Tables for Products, Services, and FeaturesFebruary 9, 2024 — 9 Feb 2024 — A table that uses columns for p...</span><span class="citation-popover-meta">Published: February 9, 2024</span></span></span>
 
 ## Readers who have already narrowed the market
 
@@ -329,7 +328,6 @@ A named comparison page captures a reader who has already done part of the comme
 That matters for affiliate revenue because the conversion path is shorter. The reader already recognises the products, brands, or services. The page only needs to answer the unresolved question: “Which one fits my situation?” In practical terms, this makes named comparison pages useful bridge pages between informational traffic and affiliate clicks. They can receive internal links from broader guides, product [reviews]({{ 'reviews/' | relative_url }}), “best for” roundups, and problem-specific pages, then pass qualified readers onwards to merchant pages.
 
 The strongest comparison pages usually answer three questions quickly: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.asa.org.uk/codes-and-rulings/rulings.html?q=Comparisons" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asa.org.uk">[asa.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asa.org.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
-
 
 <div class="content-enhancement content-enhancement--benefit" markdown="1">
 
@@ -340,7 +338,6 @@ The strongest comparison pages usually answer three questions quickly: <span cla
 </div>
 
 This is why named comparison keywords often deserve their own page rather than being buried inside a general review. A reader comparing two known alternatives wants a direct decision aid, not a broad introduction. Nielsen Norman Group defines comparison [tables]({{ 'tables/' | relative_url }}) as tables with products or services as columns and attributes as rows, allowing quick comparison of features and characteristics; that structure maps neatly to the way a reader is already thinking at this stage. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nngroup.com/articles/comparison-tables/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nngroup.com">[Nielsen Norman Group]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nngroup.com</span><span class="citation-popover-snippet">Nielsen Norman GroupComparison Tables for Products, Services, and FeaturesFebruary 9, 2024 — 9 Feb 2024 — A table that uses columns for p...</span><span class="citation-popover-meta">Published: February 9, 2024</span></span></span>
-
 
 <img src="{{ "/assets/images/making_money_from_cr_f649af_comparison_pages_2aff90-Illustration-1-dark.svg" | relative_url }}" alt="Comparisons illustration 1" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_comparison_pages_2aff90-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_comparison_pages_2aff90-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why versus pages create stronger click opportunities
@@ -355,12 +352,11 @@ That organisation should be sharper than a generic pros-and-cons list. For a sca
 * **A decision table:** the attributes that most affect the purchase, such as price, warranty, supported platforms, battery life, integrations, dimensions, return policy, or learning curve.
 * **Use-case recommendations:** “best for beginners”, “best for teams”, “best for small kitchens”, “best for heavy use”, depending on the category.
 * **Evidence notes:** how the comparison was made, what data is current, and where uncertainty remains.
-* **[Affiliate exits]({{ 'exits/' | relative_url }}):** links placed where the reader is ready to inspect price, availability, trial terms, or merchant details.
+* **Affiliate [exits]({{ 'exits/' | relative_url }}):** links placed where the reader is ready to inspect price, availability, trial terms, or merchant details.
 
 Baymard’s ecommerce research is useful here because it shows that comparison features are especially important for specification-heavy product types. In its testing, comparison features helped users weigh multiple attributes side by side, while poorly designed comparison tools could frustrate users and even lead them to abandon the site. <span class="citation-chip-wrap"><a class="citation-chip" href="https://baymard.com/blog/user-friendly-comparison-tools" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: baymard.com">[Baymard Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">baymard.com</span><span class="citation-popover-title">user friendly comparison tools</span><span class="citation-popover-snippet">Baymard Institute4 Ways to Optimize the Comparison Feature for Scanning19 Oct 2022 — In this article, we&#x27;ll discuss our Premium research...</span></span></span>
 
 The implication for affiliate pages is clear: a comparison page should not simply repeat two product descriptions. It should reduce the mental work of comparison. For software, that might mean pricing tiers, integrations, support, migration difficulty, and reporting depth. For physical products, it might mean size, weight, capacity, running cost, warranty, replacement parts, and merchant reliability. For financial or regulated categories, the trust burden is higher and the page should be more cautious about claims.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/HkYQ6qc56hI" title="How to Make an Affiliate Marketing Website | Passive Income Blueprint 2026" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=HkYQ6qc56hI" target="_blank" rel="noopener noreferrer">How to Make an Affiliate Marketing Website | Passive Income Blueprint 2026</a></p><p class="youtube-embed-meta">Channel: Consumer Buddy &middot; Views: 3.4K &middot; Uploaded: March 2026 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=HkYQ6qc56hI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=HkYQ6qc56hI">Open on YouTube</a></p></div></div></div>
 
@@ -368,11 +364,11 @@ The implication for affiliate pages is clear: a comparison page should not simpl
 
 The best named comparison pages do not pretend every option is equal. They explain why one option is better for one reader and worse for another. Fake balance creates a weak page because it avoids the decision the visitor came to make. Fake certainty is just as bad, because it makes the page feel like an advert rather than a useful comparison.
 
-A fair comparison has visible [criteria]({{ 'criteria/' | relative_url }}). If a page recommends one product because it is cheaper, it should say whether that means lower monthly cost, lower lifetime cost, fewer paid add-ons, or a current promotional price. If it recommends a tool because it is “easier”, it should explain the evidence: fewer setup steps, simpler interface, stronger templates, better documentation, or a lower training burden.
+A fair comparison has visible criteria. If a page recommends one product because it is cheaper, it should say whether that means lower monthly cost, lower lifetime cost, fewer paid add-ons, or a current promotional price. If it recommends a tool because it is “easier”, it should explain the evidence: fewer setup steps, simpler interface, stronger templates, better documentation, or a lower training burden.
 
 Comparative review research also supports the value of attribute-based comparison. A 2024 study in *Decision Support Systems* reported that attribute-based comparative reviews had a more favourable influence on product sales than experience-based comparative reviews. In plain English, comparisons are more useful when they identify the concrete feature, benefit, or limitation being compared, rather than only describing a general feeling. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0167923624001209" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-For an affiliate website, this creates a practical rule: each comparison should be built around [decision attributes]({{ 'attributes/' | relative_url }}), not filler attributes. A mattress comparison should not give equal weight to brand story and sleep trial if most readers care more about firmness, return rules, cooling, delivery, and warranty. A web-hosting comparison should not overemphasise headline storage if the meaningful differences are renewal price, support quality, uptime evidence, staging tools, backups, and migration help.
+For an affiliate website, this creates a practical rule: each comparison should be built around decision attributes, not filler attributes. A mattress comparison should not give equal weight to brand story and sleep trial if most readers care more about firmness, return rules, cooling, delivery, and warranty. A web-hosting comparison should not overemphasise headline storage if the meaningful differences are renewal price, support quality, uptime evidence, staging tools, backups, and migration help.
 
 Fairness also matters legally and reputationally. The UK Advertising Standards Authority says affiliate marketing is usually measured through click-throughs or sales and involves reward for attracting customers; where affiliate content falls within advertising rules, it must be identifiable as advertising. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.asa.org.uk/advice-online/affiliate-marketing.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asa.org.uk">[ASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asa.org.uk</span><span class="citation-popover-title">affiliate marketing</span><span class="citation-popover-snippet">affiliate marketing</span></span></span> The FTC’s endorsement guidance similarly focuses on disclosing material connections between advertisers and endorsers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-title">Federal Trade Commission FTC&#x27;s Endorsement Guides: What People Are Asking</span><span class="citation-popover-snippet">Federal Trade Commission FTC&#x27;s Endorsement Guides: What People Are Asking</span></span></span>
 
@@ -398,7 +394,6 @@ A practical comparison framework looks like this:
 
 Baymard’s benchmark data also shows why consistency matters. In product listing research, it found that poorly displayed list item information made products harder to evaluate and could lead users to disregard suitable options. <span class="citation-chip-wrap"><a class="citation-chip" href="https://baymard.com/blog/user-friendly-comparison-tools" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: baymard.com">[Baymard Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">baymard.com</span><span class="citation-popover-title">user friendly comparison tools</span><span class="citation-popover-snippet">Baymard Institute4 Ways to Optimize the Comparison Feature for Scanning19 Oct 2022 — In this article, we&#x27;ll discuss our Premium research...</span></span></span> The same applies to affiliate comparison pages: if one option has detailed specifications and the other has vague prose, the comparison feels uneven even if the page is not intentionally biased.
 
-
 <img src="{{ "/assets/images/making_money_from_cr_f649af_comparison_pages_2aff90-Illustration-2-dark.svg" | relative_url }}" alt="Comparisons illustration 2" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_comparison_pages_2aff90-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_comparison_pages_2aff90-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Where to place affiliate links in the decision
 
@@ -406,7 +401,7 @@ Affiliate links on named comparison pages should appear where they help the read
 
 There are usually four strong placements.
 
-First, place links in the early verdict box after the page has made a concise recommendation. This serves readers who already know enough and only need confirmation. The wording should be specific, such as “Check current price”, “View trial terms”, or “Compare plans”, rather than a vague “Learn more”.
+First, place links in the early verdict box after the page has made a concise recommendation. This serves readers who already know enough and only need confirmation. The [wording]({{ 'wording/' | relative_url }}) should be specific, such as “Check current price”, “View trial terms”, or “Compare plans”, rather than a vague “Learn more”.
 
 Second, include links in the comparison table where the next action is natural. A table row about price can link to current pricing. A row about availability can link to a merchant listing. A row about free trials can link to the sign-up page. This is especially useful on mobile if the table is designed carefully and does not force the reader to scroll horizontally without context. Nielsen Norman Group recommends making mobile tables easier to use through techniques such as locking headers and allowing users to select subsets of data when tables are large. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nngroup.com/articles/comparison-tables/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nngroup.com">[Nielsen Norman Group]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nngroup.com</span><span class="citation-popover-snippet">Nielsen Norman GroupComparison Tables for Products, Services, and FeaturesFebruary 9, 2024 — 9 Feb 2024 — A table that uses columns for p...</span><span class="citation-popover-meta">Published: February 9, 2024</span></span></span>
 
@@ -414,8 +409,7 @@ Third, place links after use-case recommendations. This is often the strongest a
 
 Fourth, include a final decision section for readers who scroll to the end. This should not merely repeat the top verdict. It should summarise the trade-off and offer the most relevant exit paths.
 
-The placement should also respect disclosure. Affiliate disclosure is not a decorative footer item. Research on affiliate [disclosures]({{ 'disclosures/' | relative_url }}) has found that many users fail to understand short or unclear disclosures, and that only about a tenth of affiliate content studied on YouTube and Pinterest contained any disclosure at all. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1809.00620" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> For a public-facing comparison page, the commercial relationship should be clear before the reader clicks, not hidden after the decision has been shaped.
-
+The placement should also respect [disclosure]({{ 'disclosure/' | relative_url }}). Affiliate disclosure is not a decorative footer item. Research on affiliate [disclosures]({{ 'disclosures/' | relative_url }}) has found that many users fail to understand short or unclear disclosures, and that only about a tenth of affiliate content studied on YouTube and Pinterest contained any disclosure at all. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1809.00620" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> For a public-facing comparison page, the commercial relationship should be clear before the reader clicks, not hidden after the decision has been shaped.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/EzYzRu3Qtw4" title="[PART 7] Create Affiliate Product Comparison Review Table in Wordpress FREE!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=EzYzRu3Qtw4" target="_blank" rel="noopener noreferrer">[PART 7] Create Affiliate Product Comparison Review Table in Wordpress FREE!</a></p><p class="youtube-embed-meta">Channel: HowToWebmaster &middot; Views: 908 &middot; Uploaded: May 2021 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=EzYzRu3Qtw4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=EzYzRu3Qtw4">Open on YouTube</a></p></div></div></div>
 
@@ -424,7 +418,6 @@ The placement should also respect disclosure. Affiliate disclosure is not a deco
 Named comparison pages are especially useful in a website-generation system because they create repeatable patterns. Once a site has a validated structure for one category, it can often expand into adjacent comparisons without inventing a new page type each time.
 
 A scalable comparison cluster might include:
-
 
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
@@ -439,7 +432,6 @@ A scalable comparison cluster might include:
 This structure helps internal linking because each page has a clear role. A broad guide can link to a “best” page. A “best” page can link to individual reviews. Reviews can link to named comparisons. Named comparisons can link to merchants. The goal is not to trap the reader in a maze of pages, but to match the next internal link to the next likely question.
 
 Google’s own guidance on helpful content says its ranking systems are designed to prioritise helpful, reliable information created to benefit people rather than content made primarily to manipulate rankings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://developers.google.com/search/docs/fundamentals/creating-helpful-content" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> For affiliate comparison pages, that means the scalable pattern must still produce genuine decision value. A mass-produced page that swaps brand names into the same generic paragraphs is unlikely to satisfy a reader who is looking for a precise choice.
-
 
 <img src="{{ "/assets/images/making_money_from_cr_f649af_comparison_pages_2aff90-Illustration-3-dark.svg" | relative_url }}" alt="Comparisons illustration 3" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_comparison_pages_2aff90-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_comparison_pages_2aff90-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Common failure modes that reduce revenue
@@ -459,7 +451,6 @@ The most common failure modes are:
 **Making unverifiable claims.** Claims such as “best”, “cheapest”, “highest quality”, or “most trusted” need a clear basis. ASA guidance on comparisons states that comparative claims must be clear, and recent ASA rulings show scrutiny of misleading or unverifiable comparative claims. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.asa.org.uk/rulings/pets-corner-uk-ltd-a25-1303337-pets-corner-uk-ltd.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asa.org.uk">[ASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asa.org.uk</span><span class="citation-popover-snippet">Open source on asa.org.uk.</span></span></span>
 
 **Ignoring mobile comparison design.** A wide desktop-style table can become unusable on a phone. For many affiliate sites, mobile traffic is too important for the comparison table to be an afterthought.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/otERuPdI-3U" title="How to Make a Price Comparison Affiliate Marketing Website | Full WordPress Tutorial (2025)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=otERuPdI-3U" target="_blank" rel="noopener noreferrer">How to Make a Price Comparison Affiliate Marketing Website | Full WordPress Tutorial (2025)</a></p><p class="youtube-embed-meta">Channel: No Code Bros &middot; Views: 455 &middot; Uploaded: May 2025 &middot; Length: 25 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=otERuPdI-3U" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=otERuPdI-3U">Open on YouTube</a></p></div></div></div>
 
@@ -893,245 +884,245 @@ The essential principle is that the page earns revenue by making the decision ea
 1. <a id="endnote-1"></a>
    Source: baymard.com  
    Title: user friendly comparison tools  
-   Link: [https://baymard.com/blog/user-friendly-comparison-tools](https://baymard.com/blog/user-friendly-comparison-tools)  
+   Link: <a href="https://baymard.com/blog/user-friendly-comparison-tools" target="_blank" rel="noopener noreferrer nofollow">https://baymard.com/blog/user-friendly-comparison-tools</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Baymard Institute4 Ways to Optimize the Comparison Feature for Scanning19 Oct 2022 — In this article, we&#x27;ll discuss our Premium research...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: baymard.com  
    Title: Institute Always Provide Comparison Features for Spec-Driven  
-   Link: [https://baymard.com/blog/provide-comparison-features](https://baymard.com/blog/provide-comparison-features)  
+   Link: <a href="https://baymard.com/blog/provide-comparison-features" target="_blank" rel="noopener noreferrer nofollow">https://baymard.com/blog/provide-comparison-features</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Baymard InstituteAlways Provide Comparison Features for Spec-Driven...September 6, 2022 — 6 Sept 2022 — 67% of participants used compari...</p></details>
    Published: September 6, 2022  
 
 3. <a id="endnote-3"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0167923624001209](https://www.sciencedirect.com/science/article/abs/pii/S0167923624001209)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0167923624001209" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0167923624001209</a>  
 
 4. <a id="endnote-4"></a>
    Source: asa.org.uk  
    Title: affiliate marketing  
-   Link: [https://www.asa.org.uk/advice-online/affiliate-marketing.html](https://www.asa.org.uk/advice-online/affiliate-marketing.html)  
+   Link: <a href="https://www.asa.org.uk/advice-online/affiliate-marketing.html" target="_blank" rel="noopener noreferrer nofollow">https://www.asa.org.uk/advice-online/affiliate-marketing.html</a>  
 
 5. <a id="endnote-5"></a>
    Source: asa.org.uk  
    Title: get yourself affiliated with the rules on affiliate marketing  
-   Link: [https://www.asa.org.uk/news/get-yourself-affiliated-with-the-rules-on-affiliate-marketing.html](https://www.asa.org.uk/news/get-yourself-affiliated-with-the-rules-on-affiliate-marketing.html)  
+   Link: <a href="https://www.asa.org.uk/news/get-yourself-affiliated-with-the-rules-on-affiliate-marketing.html" target="_blank" rel="noopener noreferrer nofollow">https://www.asa.org.uk/news/get-yourself-affiliated-with-the-rules-on-affiliate-marketing.html</a>  
 
 6. <a id="endnote-6"></a>
    Source: ftc.gov  
    Title: Federal Trade Commission FTC's Endorsement Guides: What People Are Asking  
-   Link: [https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking](https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking)  
+   Link: <a href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking</a>  
 
 7. <a id="endnote-7"></a>
    Source: ftc.gov  
-   Link: [https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews](https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews)  
+   Link: <a href="https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews</a>  
 
 8. <a id="endnote-8"></a>
    Source: asa.org.uk  
-   Link: [https://www.asa.org.uk/rulings/pets-corner-uk-ltd-a25-1303337-pets-corner-uk-ltd.html](https://www.asa.org.uk/rulings/pets-corner-uk-ltd-a25-1303337-pets-corner-uk-ltd.html)  
+   Link: <a href="https://www.asa.org.uk/rulings/pets-corner-uk-ltd-a25-1303337-pets-corner-uk-ltd.html" target="_blank" rel="noopener noreferrer nofollow">https://www.asa.org.uk/rulings/pets-corner-uk-ltd-a25-1303337-pets-corner-uk-ltd.html</a>  
 
 9. <a id="endnote-9"></a>
    Source: baymard.com  
    Title: Institute2 Key Design Principles for Product Listing Information (64  
-   Link: [https://baymard.com/blog/list-item-design-ecommerce](https://baymard.com/blog/list-item-design-ecommerce)  
+   Link: <a href="https://baymard.com/blog/list-item-design-ecommerce" target="_blank" rel="noopener noreferrer nofollow">https://baymard.com/blog/list-item-design-ecommerce</a>  
 
 10. <a id="endnote-10"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/1809.00620](https://arxiv.org/abs/1809.00620)  
+   Link: <a href="https://arxiv.org/abs/1809.00620" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1809.00620</a>  
 
 11. <a id="endnote-11"></a>
    Source: developers.google.com  
-   Link: [https://developers.google.com/search/docs/fundamentals/creating-helpful-content](https://developers.google.com/search/docs/fundamentals/creating-helpful-content)  
+   Link: <a href="https://developers.google.com/search/docs/fundamentals/creating-helpful-content" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/docs/fundamentals/creating-helpful-content</a>  
 
 12. <a id="endnote-12"></a>
    Source: GOV.UK  
    Title: Social media endorsements: guidance for content creators  
-   Link: [https://www.gov.uk/government/publications/social-media-endorsements-guidance-for-content-creators/social-media-endorsements-being-transparent-with-your-followers](https://www.gov.uk/government/publications/social-media-endorsements-guidance-for-content-creators/social-media-endorsements-being-transparent-with-your-followers)  
+   Link: <a href="https://www.gov.uk/government/publications/social-media-endorsements-guidance-for-content-creators/social-media-endorsements-being-transparent-with-your-followers" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/social-media-endorsements-guidance-for-content-creators/social-media-endorsements-being-transparent-with-your-followers</a>  
 
 13. <a id="endnote-13"></a>
    Source: asa.org.uk  
    Title: comparisons general  
-   Link: [https://www.asa.org.uk/advice-online/comparisons-general.html](https://www.asa.org.uk/advice-online/comparisons-general.html)  
+   Link: <a href="https://www.asa.org.uk/advice-online/comparisons-general.html" target="_blank" rel="noopener noreferrer nofollow">https://www.asa.org.uk/advice-online/comparisons-general.html</a>  
 
 14. <a id="endnote-14"></a>
    Source: asa.org.uk  
-   Link: [https://www.asa.org.uk/codes-and-rulings/rulings.html?date_period=past_year&issue=&media_channel=&topic=B4EE02F4-85BA-4E11-BE65C57BF665194C%2CB9497F61-870A-4053-A85BC98F42051F66](https://www.asa.org.uk/codes-and-rulings/rulings.html?date_period=past_year&issue=&media_channel=&topic=B4EE02F4-85BA-4E11-BE65C57BF665194C%2CB9497F61-870A-4053-A85BC98F42051F66)  
+   Link: <a href="https://www.asa.org.uk/codes-and-rulings/rulings.html?date_period=past_year&amp;issue=&amp;media_channel=&amp;topic=B4EE02F4-85BA-4E11-BE65C57BF665194C%2CB9497F61-870A-4053-A85BC98F42051F66" target="_blank" rel="noopener noreferrer nofollow">https://www.asa.org.uk/codes-and-rulings/rulings.html?date_period=past_year&amp;issue=&amp;media_channel=&amp;topic=B4EE02F4-85BA-4E11-BE65C57BF665194C%2CB9497F61-870A-4053-A85BC98F42051F66</a>  
 
 15. <a id="endnote-15"></a>
    Source: baymard.com  
-   Link: [https://baymard.com/ecommerce-design-examples/39-comparison-tool](https://baymard.com/ecommerce-design-examples/39-comparison-tool)  
+   Link: <a href="https://baymard.com/ecommerce-design-examples/39-comparison-tool" target="_blank" rel="noopener noreferrer nofollow">https://baymard.com/ecommerce-design-examples/39-comparison-tool</a>  
 
 16. <a id="endnote-16"></a>
    Source: baymard.com  
-   Link: [https://baymard.com/research/checkout-usability](https://baymard.com/research/checkout-usability)  
+   Link: <a href="https://baymard.com/research/checkout-usability" target="_blank" rel="noopener noreferrer nofollow">https://baymard.com/research/checkout-usability</a>  
 
 17. <a id="endnote-17"></a>
    Source: baymard.com  
-   Link: [https://baymard.com/research/ecommerce-product-lists](https://baymard.com/research/ecommerce-product-lists)  
+   Link: <a href="https://baymard.com/research/ecommerce-product-lists" target="_blank" rel="noopener noreferrer nofollow">https://baymard.com/research/ecommerce-product-lists</a>  
 
 18. <a id="endnote-18"></a>
    Source: baymard.com  
-   Link: [https://baymard.com/ecommerce-design-examples/product-table](https://baymard.com/ecommerce-design-examples/product-table)  
+   Link: <a href="https://baymard.com/ecommerce-design-examples/product-table" target="_blank" rel="noopener noreferrer nofollow">https://baymard.com/ecommerce-design-examples/product-table</a>  
 
 19. <a id="endnote-19"></a>
    Source: baymard.com  
-   Link: [https://baymard.com/ux-benchmark](https://baymard.com/ux-benchmark)  
+   Link: <a href="https://baymard.com/ux-benchmark" target="_blank" rel="noopener noreferrer nofollow">https://baymard.com/ux-benchmark</a>  
 
 20. <a id="endnote-20"></a>
    Source: baymard.com  
    Title: ecommerce search query types  
-   Link: [https://baymard.com/blog/ecommerce-search-query-types](https://baymard.com/blog/ecommerce-search-query-types)  
+   Link: <a href="https://baymard.com/blog/ecommerce-search-query-types" target="_blank" rel="noopener noreferrer nofollow">https://baymard.com/blog/ecommerce-search-query-types</a>  
 
 21. <a id="endnote-21"></a>
    Source: baymard.com  
    Title: desktop ux ecommerce  
-   Link: [https://baymard.com/blog/desktop-ux-ecommerce](https://baymard.com/blog/desktop-ux-ecommerce)  
+   Link: <a href="https://baymard.com/blog/desktop-ux-ecommerce" target="_blank" rel="noopener noreferrer nofollow">https://baymard.com/blog/desktop-ux-ecommerce</a>  
 
 22. <a id="endnote-22"></a>
    Source: baymard.com  
    Title: ecommerce navigation best practice  
-   Link: [https://baymard.com/blog/ecommerce-navigation-best-practice](https://baymard.com/blog/ecommerce-navigation-best-practice)  
+   Link: <a href="https://baymard.com/blog/ecommerce-navigation-best-practice" target="_blank" rel="noopener noreferrer nofollow">https://baymard.com/blog/ecommerce-navigation-best-practice</a>  
 
 23. <a id="endnote-23"></a>
    Source: baymard.com  
    Title: ecommerce compatibility databases  
-   Link: [https://baymard.com/blog/ecommerce-compatibility-databases](https://baymard.com/blog/ecommerce-compatibility-databases)  
+   Link: <a href="https://baymard.com/blog/ecommerce-compatibility-databases" target="_blank" rel="noopener noreferrer nofollow">https://baymard.com/blog/ecommerce-compatibility-databases</a>  
 
 24. <a id="endnote-24"></a>
    Source: baymard.com  
    Title: current state product list and filtering  
-   Link: [https://baymard.com/blog/current-state-product-list-and-filtering](https://baymard.com/blog/current-state-product-list-and-filtering)  
+   Link: <a href="https://baymard.com/blog/current-state-product-list-and-filtering" target="_blank" rel="noopener noreferrer nofollow">https://baymard.com/blog/current-state-product-list-and-filtering</a>  
 
 25. <a id="endnote-25"></a>
    Source: baymard.com  
-   Link: [https://baymard.com/resources](https://baymard.com/resources)  
+   Link: <a href="https://baymard.com/resources" target="_blank" rel="noopener noreferrer nofollow">https://baymard.com/resources</a>  
 
 26. <a id="endnote-26"></a>
    Source: support.google.com  
-   Link: [https://support.google.com/merchants/answer/14620705?hl=en-GB](https://support.google.com/merchants/answer/14620705?hl=en-GB)  
+   Link: <a href="https://support.google.com/merchants/answer/14620705?hl=en-GB" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/merchants/answer/14620705?hl=en-GB</a>  
 
 27. <a id="endnote-27"></a>
    Source: developers.google.com  
-   Link: [https://developers.google.com/search/docs/appearance/structured-data/product](https://developers.google.com/search/docs/appearance/structured-data/product)  
+   Link: <a href="https://developers.google.com/search/docs/appearance/structured-data/product" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/docs/appearance/structured-data/product</a>  
 
 28. <a id="endnote-28"></a>
    Source: GOV.UK  
-   Link: [https://www.gov.uk/cma-cases/social-media-endorsements](https://www.gov.uk/cma-cases/social-media-endorsements)  
+   Link: <a href="https://www.gov.uk/cma-cases/social-media-endorsements" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/cma-cases/social-media-endorsements</a>  
 
 29. <a id="endnote-29"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=7vBIxJA6NaQ](https://www.youtube.com/watch?v=7vBIxJA6NaQ)  
+   Link: <a href="https://www.youtube.com/watch?v=7vBIxJA6NaQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7vBIxJA6NaQ</a>  
 
 30. <a id="endnote-30"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: [https://assets.publishing.service.gov.uk/media/5fe496018fa8f56af2a85fea/Appendix_P_-_specialised_search_v.8_WEB.pdf](https://assets.publishing.service.gov.uk/media/5fe496018fa8f56af2a85fea/Appendix_P_-_specialised_search_v.8_WEB.pdf)  
+   Link: <a href="https://assets.publishing.service.gov.uk/media/5fe496018fa8f56af2a85fea/Appendix_P_-_specialised_search_v.8_WEB.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5fe496018fa8f56af2a85fea/Appendix_P_-_specialised_search_v.8_WEB.pdf</a>  
 
 31. <a id="endnote-31"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: [https://assets.publishing.service.gov.uk/media/68b81754536d629f9c82aa16/Who_regulates_hidden_advertising.pdf](https://assets.publishing.service.gov.uk/media/68b81754536d629f9c82aa16/Who_regulates_hidden_advertising.pdf)  
+   Link: <a href="https://assets.publishing.service.gov.uk/media/68b81754536d629f9c82aa16/Who_regulates_hidden_advertising.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/68b81754536d629f9c82aa16/Who_regulates_hidden_advertising.pdf</a>  
 
 32. <a id="endnote-32"></a>
    Source: youtube.com  
-   Link: [http://www.youtube.com/watch?v=9QCRfyqKlYw](http://www.youtube.com/watch?v=9QCRfyqKlYw)  
+   Link: <a href="http://www.youtube.com/watch?v=9QCRfyqKlYw" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=9QCRfyqKlYw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Make an Affiliate Marketing Website | Passive Income Blueprint 2026...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: youtube.com  
-   Link: [http://www.youtube.com/watch?v=HkYQ6qc56hI](http://www.youtube.com/watch?v=HkYQ6qc56hI)  
+   Link: <a href="http://www.youtube.com/watch?v=HkYQ6qc56hI" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=HkYQ6qc56hI</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How To Make A Comparison Page In WordPress Fast...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: youtube.com  
    Title: How To Make A Comparison Page In Word Press Fast!  
-   Link: [http://www.youtube.com/watch?v=5MY5R4DO184](http://www.youtube.com/watch?v=5MY5R4DO184)  
+   Link: <a href="http://www.youtube.com/watch?v=5MY5R4DO184" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=5MY5R4DO184</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Make a Price Comparison Affiliate Marketing Website | Full WordPress Tutorial (2025)...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: youtube.com  
-   Link: [http://www.youtube.com/watch?v=otERuPdI-3U](http://www.youtube.com/watch?v=otERuPdI-3U)  
+   Link: <a href="http://www.youtube.com/watch?v=otERuPdI-3U" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=otERuPdI-3U</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>[PART 7] Create Affiliate Product Comparison Review Table in Wordpress FREE...</p></details>
 
 36. <a id="endnote-36"></a>
    Source: youtube.com  
    Title: [PART 7] Create Affiliate Product Comparison Review Table in Wordpress FREE!  
-   Link: [http://www.youtube.com/watch?v=EzYzRu3Qtw4](http://www.youtube.com/watch?v=EzYzRu3Qtw4)  
+   Link: <a href="http://www.youtube.com/watch?v=EzYzRu3Qtw4" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=EzYzRu3Qtw4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Create product comparison vs pages affiliate marketing website How To Make Affiliate Marketing Comparison Pages In WordPress 2025 (Quick...</p></details>
 
 37. <a id="endnote-37"></a>
    Source: nngroup.com  
-   Link: [https://www.nngroup.com/articles/comparison-tables/](https://www.nngroup.com/articles/comparison-tables/)  
+   Link: <a href="https://www.nngroup.com/articles/comparison-tables/" target="_blank" rel="noopener noreferrer nofollow">https://www.nngroup.com/articles/comparison-tables/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Nielsen Norman GroupComparison Tables for Products, Services, and FeaturesFebruary 9, 2024 — 9 Feb 2024 — A table that uses columns for p...</p></details>
    Published: February 9, 2024  
 
 38. <a id="endnote-38"></a>
    Source: nngroup.com  
    Title: Nielsen Norman Group Mobile Tables: Comparisons and Other Data Tables  
-   Link: [https://www.nngroup.com/articles/mobile-tables/](https://www.nngroup.com/articles/mobile-tables/)  
+   Link: <a href="https://www.nngroup.com/articles/mobile-tables/" target="_blank" rel="noopener noreferrer nofollow">https://www.nngroup.com/articles/mobile-tables/</a>  
 
 39. <a id="endnote-39"></a>
    Source: asa.org.uk  
-   Link: [https://www.asa.org.uk/codes-and-rulings/rulings.html?date_period=past_year&issue=&media_channel=&topic=F9DA2FCE-F62F-49BE-AEC6BCF4FA07070A%2C3706465E-E1B2-4E6A-ABCB7AB8E256827E](https://www.asa.org.uk/codes-and-rulings/rulings.html?date_period=past_year&issue=&media_channel=&topic=F9DA2FCE-F62F-49BE-AEC6BCF4FA07070A%2C3706465E-E1B2-4E6A-ABCB7AB8E256827E)  
+   Link: <a href="https://www.asa.org.uk/codes-and-rulings/rulings.html?date_period=past_year&amp;issue=&amp;media_channel=&amp;topic=F9DA2FCE-F62F-49BE-AEC6BCF4FA07070A%2C3706465E-E1B2-4E6A-ABCB7AB8E256827E" target="_blank" rel="noopener noreferrer nofollow">https://www.asa.org.uk/codes-and-rulings/rulings.html?date_period=past_year&amp;issue=&amp;media_channel=&amp;topic=F9DA2FCE-F62F-49BE-AEC6BCF4FA07070A%2C3706465E-E1B2-4E6A-ABCB7AB8E256827E</a>  
 
 40. <a id="endnote-40"></a>
    Source: asa.org.uk  
-   Link: [https://www.asa.org.uk/codes-and-rulings/rulings.html?date_period=past_year&issue=&media_channel=&topic=8826BD5B-0831-49D4-B2320D113773A3DA%2C7E2B6966-95A4-4509-AD744D6397CAC795](https://www.asa.org.uk/codes-and-rulings/rulings.html?date_period=past_year&issue=&media_channel=&topic=8826BD5B-0831-49D4-B2320D113773A3DA%2C7E2B6966-95A4-4509-AD744D6397CAC795)  
+   Link: <a href="https://www.asa.org.uk/codes-and-rulings/rulings.html?date_period=past_year&amp;issue=&amp;media_channel=&amp;topic=8826BD5B-0831-49D4-B2320D113773A3DA%2C7E2B6966-95A4-4509-AD744D6397CAC795" target="_blank" rel="noopener noreferrer nofollow">https://www.asa.org.uk/codes-and-rulings/rulings.html?date_period=past_year&amp;issue=&amp;media_channel=&amp;topic=8826BD5B-0831-49D4-B2320D113773A3DA%2C7E2B6966-95A4-4509-AD744D6397CAC795</a>  
 
 41. <a id="endnote-41"></a>
    Source: asa.org.uk  
-   Link: [https://www.asa.org.uk/codes-and-rulings/rulings.html?q=Comparisons](https://www.asa.org.uk/codes-and-rulings/rulings.html?q=Comparisons)  
+   Link: <a href="https://www.asa.org.uk/codes-and-rulings/rulings.html?q=Comparisons" target="_blank" rel="noopener noreferrer nofollow">https://www.asa.org.uk/codes-and-rulings/rulings.html?q=Comparisons</a>  
 
 42. <a id="endnote-42"></a>
    Source: asa.org.uk  
-   Link: [https://www.asa.org.uk/codes-and-rulings/rulings.html?date_period=past_year&issue=9EDD13C6-91FE-4698-A7517E0C28EB1729%2C&media_channel=&topic=3706465E-E1B2-4E6A-ABCB7AB8E256827E%2CB9497F61-870A-4053-A85BC98F42051F66](https://www.asa.org.uk/codes-and-rulings/rulings.html?date_period=past_year&issue=9EDD13C6-91FE-4698-A7517E0C28EB1729%2C&media_channel=&topic=3706465E-E1B2-4E6A-ABCB7AB8E256827E%2CB9497F61-870A-4053-A85BC98F42051F66)  
+   Link: <a href="https://www.asa.org.uk/codes-and-rulings/rulings.html?date_period=past_year&amp;issue=9EDD13C6-91FE-4698-A7517E0C28EB1729%2C&amp;media_channel=&amp;topic=3706465E-E1B2-4E6A-ABCB7AB8E256827E%2CB9497F61-870A-4053-A85BC98F42051F66" target="_blank" rel="noopener noreferrer nofollow">https://www.asa.org.uk/codes-and-rulings/rulings.html?date_period=past_year&amp;issue=9EDD13C6-91FE-4698-A7517E0C28EB1729%2C&amp;media_channel=&amp;topic=3706465E-E1B2-4E6A-ABCB7AB8E256827E%2CB9497F61-870A-4053-A85BC98F42051F66</a>  
 
 43. <a id="endnote-43"></a>
    Source: shopify.com  
    Title: affiliate disclosure  
-   Link: [https://www.shopify.com/uk/blog/affiliate-disclosure](https://www.shopify.com/uk/blog/affiliate-disclosure)  
+   Link: <a href="https://www.shopify.com/uk/blog/affiliate-disclosure" target="_blank" rel="noopener noreferrer nofollow">https://www.shopify.com/uk/blog/affiliate-disclosure</a>  
 
 44. <a id="endnote-44"></a>
    Source: imd.org  
    Title: affiliate marketing  
-   Link: [https://www.imd.org/blog/marketing/affiliate-marketing/](https://www.imd.org/blog/marketing/affiliate-marketing/)  
+   Link: <a href="https://www.imd.org/blog/marketing/affiliate-marketing/" target="_blank" rel="noopener noreferrer nofollow">https://www.imd.org/blog/marketing/affiliate-marketing/</a>  
 
 ### Additional References
 
 45. <a id="endnote-45"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/385156670_Assessing_the_Influence_of_Product_Page_Design_on_Purchasing_Influence_of_Products_in_Online_Marketplaces](https://www.researchgate.net/publication/385156670_Assessing_the_Influence_of_Product_Page_Design_on_Purchasing_Influence_of_Products_in_Online_Marketplaces)  
+   Link: <a href="https://www.researchgate.net/publication/385156670_Assessing_the_Influence_of_Product_Page_Design_on_Purchasing_Influence_of_Products_in_Online_Marketplaces" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/385156670_Assessing_the_Influence_of_Product_Page_Design_on_Purchasing_Influence_of_Products_in_Online_Marketplaces</a>  
 
 46. <a id="endnote-46"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/pulse/asa-upholds-complaints-against-four-misleading-product-andrew-keogh-rbzee](https://www.linkedin.com/pulse/asa-upholds-complaints-against-four-misleading-product-andrew-keogh-rbzee)  
+   Link: <a href="https://www.linkedin.com/pulse/asa-upholds-complaints-against-four-misleading-product-andrew-keogh-rbzee" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/asa-upholds-complaints-against-four-misleading-product-andrew-keogh-rbzee</a>  
 
 47. <a id="endnote-47"></a>
    Source: stevens-bolton.com  
-   Link: [https://www.stevens-bolton.com/insights/102mqaf/asa-issues-first-rulings-under-new-lfh-advertising-restrictions/](https://www.stevens-bolton.com/insights/102mqaf/asa-issues-first-rulings-under-new-lfh-advertising-restrictions/)  
+   Link: <a href="https://www.stevens-bolton.com/insights/102mqaf/asa-issues-first-rulings-under-new-lfh-advertising-restrictions/" target="_blank" rel="noopener noreferrer nofollow">https://www.stevens-bolton.com/insights/102mqaf/asa-issues-first-rulings-under-new-lfh-advertising-restrictions/</a>  
 
 48. <a id="endnote-48"></a>
    Source: geniuslink.com  
-   Link: [https://geniuslink.com/blog/amazon-affiliate-disclosure-guide/](https://geniuslink.com/blog/amazon-affiliate-disclosure-guide/)  
+   Link: <a href="https://geniuslink.com/blog/amazon-affiliate-disclosure-guide/" target="_blank" rel="noopener noreferrer nofollow">https://geniuslink.com/blog/amazon-affiliate-disclosure-guide/</a>  
 
 49. <a id="endnote-49"></a>
    Source: asa.org.uk  
-   Link: [https://www.asa.org.uk/static/uploaded/3af39c72-76e1-4a59-b2b47e81a034cd1d.pdf](https://www.asa.org.uk/static/uploaded/3af39c72-76e1-4a59-b2b47e81a034cd1d.pdf)  
+   Link: <a href="https://www.asa.org.uk/static/uploaded/3af39c72-76e1-4a59-b2b47e81a034cd1d.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.asa.org.uk/static/uploaded/3af39c72-76e1-4a59-b2b47e81a034cd1d.pdf</a>  
 
 50. <a id="endnote-50"></a>
    Source: thebcma.info  
-   Link: [https://www.thebcma.info/onewebmedia/DOWNLOADABLE%20DOCUMENTS/BCMA%20Influencer%20Marketing%20Guidelines%20and%20Best%20Practice%20UK.pdf](https://www.thebcma.info/onewebmedia/DOWNLOADABLE%20DOCUMENTS/BCMA%20Influencer%20Marketing%20Guidelines%20and%20Best%20Practice%20UK.pdf)  
+   Link: <a href="https://www.thebcma.info/onewebmedia/DOWNLOADABLE%20DOCUMENTS/BCMA%20Influencer%20Marketing%20Guidelines%20and%20Best%20Practice%20UK.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.thebcma.info/onewebmedia/DOWNLOADABLE%20DOCUMENTS/BCMA%20Influencer%20Marketing%20Guidelines%20and%20Best%20Practice%20UK.pdf</a>  
 
 51. <a id="endnote-51"></a>
    Source: linkbuildingjournal.co.uk  
-   Link: [https://linkbuildingjournal.co.uk/uk-disclosure-asa-cap/](https://linkbuildingjournal.co.uk/uk-disclosure-asa-cap/)  
+   Link: <a href="https://linkbuildingjournal.co.uk/uk-disclosure-asa-cap/" target="_blank" rel="noopener noreferrer nofollow">https://linkbuildingjournal.co.uk/uk-disclosure-asa-cap/</a>  
 
 52. <a id="endnote-52"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/pulse/google-seller-ratings-product-reviews-platform-tara-johnson](https://www.linkedin.com/pulse/google-seller-ratings-product-reviews-platform-tara-johnson)  
+   Link: <a href="https://www.linkedin.com/pulse/google-seller-ratings-product-reviews-platform-tara-johnson" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/google-seller-ratings-product-reviews-platform-tara-johnson</a>  
 
 53. <a id="endnote-53"></a>
    Source: growbydata.com  
-   Link: [https://growbydata.com/googles-product-reviews/](https://growbydata.com/googles-product-reviews/)  
+   Link: <a href="https://growbydata.com/googles-product-reviews/" target="_blank" rel="noopener noreferrer nofollow">https://growbydata.com/googles-product-reviews/</a>  
 
 54. <a id="endnote-54"></a>
    Source: asa.org.uk  
-   Link: [https://www.asa.org.uk/rulings/grind-coffee-roasters-ltd-a25-1313854-grind-coffee-roasters-ltd.html](https://www.asa.org.uk/rulings/grind-coffee-roasters-ltd-a25-1313854-grind-coffee-roasters-ltd.html)  
+   Link: <a href="https://www.asa.org.uk/rulings/grind-coffee-roasters-ltd-a25-1313854-grind-coffee-roasters-ltd.html" target="_blank" rel="noopener noreferrer nofollow">https://www.asa.org.uk/rulings/grind-coffee-roasters-ltd-a25-1313854-grind-coffee-roasters-ltd.html</a>

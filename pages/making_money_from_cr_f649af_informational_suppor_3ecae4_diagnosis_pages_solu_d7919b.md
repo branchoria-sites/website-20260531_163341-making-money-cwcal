@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /support-pages/
 nav_short_title: Diagnosis Pages
 title: Can a problem page lead to revenue?
-title_full: Can a problem page lead to revenue? | Support Pages
+title_full: Can a problem page lead to revenue?
 display_title_short: Diagnosis Pages
 display_title: Diagnosis Pages
 heading_title: Can a problem page lead to revenue?
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-31 15:42:19'
-parent_title: Can Informational Pages Still Earn Revenue? | Affiliate Engines
+parent_title: Can Informational Pages Still Earn Revenue?
 parent_permalink: /support-pages/
 parent_nav_short_title: Support Pages
 parent_heading_title: Can Informational Pages Still Earn Revenue?
@@ -276,7 +276,6 @@ image: /assets/images/making_money_from_cr_f649af_informational_suppor_3ecae4_di
 
 Yes, a problem page can lead to revenue, but only when it helps the reader identify the cause of a problem before pushing a solution. In many affiliate-driven website systems, some of the highest-value visitors arrive with symptoms rather than product intent. They search for things like “why does my bedroom smell damp?”, “why am I waking up with shoulder pain?”, or “why is my tumble dryer taking so long to dry clothes?” They do not yet know whether they need a dehumidifier, a new mattress, a pillow, a replacement appliance, a repair part, or no purchase at all.
 
-
 <img src="{{ "/assets/images/making_money_from_cr_f649af_informational_suppor_3ecae4_diagnosis_pages_solu_d7919b-Illustration-1-dark.svg" | relative_url }}" alt="Diagnosis Pages illustration 1" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_informational_suppor_3ecae4_diagnosis_pages_solu_d7919b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_informational_suppor_3ecae4_diagnosis_pages_solu_d7919b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 That makes diagnosis pages commercially important. They sit between pure information and buying intent. Instead of immediately recommending products, they narrow possibilities, separate causes, and direct readers into the most relevant solution path. This mirrors Google's research on the “messy middle” of purchasing, where people move repeatedly between exploration and evaluation before deciding what to buy. <span class="citation-chip-wrap"><a class="citation-chip" href="https://business.google.com/aunz/think/consumer-insights/navigating-purchase-behavior-and-decision-making/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: business.google.com">[Google Business]</a><span class="citation-popover" role="note"><span class="citation-popover-source">business.google.com</span><span class="citation-popover-snippet">As people explore and evaluate in the messy middle, cognitive biases shape their shopping behavior and...</span></span></span>
 
@@ -289,7 +288,6 @@ The strongest diagnosis pages are built around branching outcomes rather than si
 A common mistake is treating troubleshooting as a content dead end. A better approach is to treat the page as a decision framework.
 
 Consider a query such as “why is my bedroom damp?” The visitor may assume they need a dehumidifier. In reality, the cause could be:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -308,7 +306,6 @@ Likely causeNext page typeCommercial categoryCondensationVentilation guideExtrac
 The diagnosis page therefore becomes a routing layer. It helps the user avoid the wrong purchase while increasing the chance that readers who do need products reach the correct buying page.
 
 This structure is valuable for large-scale affiliate publishing because the same template can be reused across many problem categories:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -337,7 +334,6 @@ Google's research describes shoppers moving between exploration and evaluation s
 
 In practice, this means:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Higher relevance between page and recommendation
@@ -359,9 +355,7 @@ If a page about back pain immediately recommends mattresses without discussing p
 
 A better structure is:
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/-c9AUhXAFD8" title="Information Scent" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=-c9AUhXAFD8" target="_blank" rel="noopener noreferrer">Information Scent</a></p><p class="youtube-embed-meta">Channel: NNgroup &middot; Views: 13.0K &middot; Uploaded: November 2020 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=-c9AUhXAFD8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=-c9AUhXAFD8">Open on YouTube</a></p></div></div></div>
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -399,7 +393,6 @@ Consider a page answering:
 
 Potential causes include:
 
-
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
 * Mattress firmness issues
@@ -435,7 +428,6 @@ A website generation system can scale this pattern because many symptoms share t
 
 The symptom becomes the entry point into several monetised content branches.
 
-
 <img src="{{ "/assets/images/making_money_from_cr_f649af_informational_suppor_3ecae4_diagnosis_pages_solu_d7919b-Illustration-2-dark.svg" | relative_url }}" alt="Diagnosis Pages illustration 2" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_informational_suppor_3ecae4_diagnosis_pages_solu_d7919b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_informational_suppor_3ecae4_diagnosis_pages_solu_d7919b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Damp problems: a high-value diagnostic content model
 
@@ -469,12 +461,11 @@ Paradoxically, this can improve revenue.
 
 A reader who trusts the diagnosis is more likely to follow solution guides later than a reader who feels pushed towards an inappropriate purchase.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_xGmA7SeoqA" title="Ask a Rearcher: How do we decode the messy middle of the consumer purchase journey?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_xGmA7SeoqA" target="_blank" rel="noopener noreferrer">Ask a Rearcher: How do we decode the messy middle of the consumer purchase journey?</a></p><p class="youtube-embed-meta">Channel: Think with Google &middot; Views: 5.9K &middot; Uploaded: February 2021 &middot; Length: 3 minutes 17 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_xGmA7SeoqA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_xGmA7SeoqA">Open on YouTube</a></p></div></div></div>
 
 ## Appliance problems and replacement decisions
 
-Appliance troubleshooting pages often sit very close to [commercial intent]({{ 'intent-topics/' | relative_url }}).
+Appliance troubleshooting pages often sit very close to commercial intent.
 
 Queries such as:
 
@@ -485,7 +476,6 @@ Queries such as:
 usually indicate a reader deciding between repair and replacement.
 
 The diagnosis page can separate:
-
 
 <img src="{{ "/assets/images/making_money_from_cr_f649af_informational_suppor_3ecae4_diagnosis_pages_solu_d7919b-Illustration-3-dark.svg" | relative_url }}" alt="Diagnosis Pages illustration 3" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_informational_suppor_3ecae4_diagnosis_pages_solu_d7919b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_informational_suppor_3ecae4_diagnosis_pages_solu_d7919b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Simple fixes
@@ -522,7 +512,6 @@ Examples include:
 These outcomes naturally lead into replacement guides.
 
 A page explaining when a fault is likely to indicate appliance replacement often converts better than a generic “best washing machines” page because the reader has already reached the replacement decision.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/AnAlZedD3CM" title="How to Find BUYER Intent Keywords (5 Advanced Tactics)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=AnAlZedD3CM" target="_blank" rel="noopener noreferrer">How to Find BUYER Intent Keywords (5 Advanced Tactics)</a></p><p class="youtube-embed-meta">Channel: Robbie Richards &middot; Views: 7.8K &middot; Uploaded: October 2020 &middot; Length: 19 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=AnAlZedD3CM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=AnAlZedD3CM">Open on YouTube</a></p></div></div></div>
 
@@ -985,115 +974,115 @@ Instead of asking readers to choose between products, it helps them discover whe
 
 1. <a id="endnote-1"></a>
    Source: business.google.com  
-   Link: [https://business.google.com/aunz/think/consumer-insights/navigating-purchase-behavior-and-decision-making/](https://business.google.com/aunz/think/consumer-insights/navigating-purchase-behavior-and-decision-making/)  
+   Link: <a href="https://business.google.com/aunz/think/consumer-insights/navigating-purchase-behavior-and-decision-making/" target="_blank" rel="noopener noreferrer nofollow">https://business.google.com/aunz/think/consumer-insights/navigating-purchase-behavior-and-decision-making/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>As people explore and evaluate in the messy middle, cognitive biases shape their shopping behavior and...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: business.google.com  
    Title: messy middle 2023  
-   Link: [https://business.google.com/aunz/think/consumer-insights/messy-middle-2023/](https://business.google.com/aunz/think/consumer-insights/messy-middle-2023/)  
+   Link: <a href="https://business.google.com/aunz/think/consumer-insights/messy-middle-2023/" target="_blank" rel="noopener noreferrer nofollow">https://business.google.com/aunz/think/consumer-insights/messy-middle-2023/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Behaviour in the Messy MiddleUnderstand the buying behaviour of omnichannel shoppers and navigate the Messy Middle of e-commerce customer...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: thinkwithgoogle.com  
-   Link: [https://www.thinkwithgoogle.com/_qs/documents/9998/Decoding_Decisions_The_Messy_Middle_of_Purchase_Behavior.pdf](https://www.thinkwithgoogle.com/_qs/documents/9998/Decoding_Decisions_The_Messy_Middle_of_Purchase_Behavior.pdf)  
+   Link: <a href="https://www.thinkwithgoogle.com/_qs/documents/9998/Decoding_Decisions_The_Messy_Middle_of_Purchase_Behavior.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.thinkwithgoogle.com/_qs/documents/9998/Decoding_Decisions_The_Messy_Middle_of_Purchase_Behavior.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Google BusinessDecoding DecisionsAnd while there&#x27;s still plenty of tactical value in both of these approaches, the exploration and evalua...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: nngroup.com  
    Title: information scent  
-   Link: [https://www.nngroup.com/articles/information-scent/](https://www.nngroup.com/articles/information-scent/)  
+   Link: <a href="https://www.nngroup.com/articles/information-scent/" target="_blank" rel="noopener noreferrer nofollow">https://www.nngroup.com/articles/information-scent/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nielsen Norman GroupInformation Scent: How Users Decide Where to Go NextFeb 2, 2020 — Summary: When deciding which links to click on the...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: nngroup.com  
-   Link: [https://www.nngroup.com/articles/information-foraging/](https://www.nngroup.com/articles/information-foraging/)  
+   Link: <a href="https://www.nngroup.com/articles/information-foraging/" target="_blank" rel="noopener noreferrer nofollow">https://www.nngroup.com/articles/information-foraging/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nielsen Norman GroupInformation Foraging: A Theory of How People Navigate on...Nov 10, 2019 — Each source of information thus emits a “s...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Information](https://en.wikipedia.org/wiki/Information)  
+   Link: <a href="https://en.wikipedia.org/wiki/Information" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Information</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>InformationInformation is an abstract concept that refers to something which has the power to inform. At the most fundamental level, i...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: nngroup.com  
    Title: information scent  
-   Link: [https://www.nngroup.com/videos/information-scent/](https://www.nngroup.com/videos/information-scent/)  
+   Link: <a href="https://www.nngroup.com/videos/information-scent/" target="_blank" rel="noopener noreferrer nofollow">https://www.nngroup.com/videos/information-scent/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>(Video)Nov 27, 2020 — Information scent can be used to analyze how people assess a link and the page context surrounding the link to judg...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: dictionary.cambridge.org  
-   Link: [https://dictionary.cambridge.org/dictionary/english/information](https://dictionary.cambridge.org/dictionary/english/information)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>| English meaning - Cambridge Dictionary3 days ago — Information is an uncountable noun meaning &#x27;facts about someone or something&#x27;. It is...</p></details>
+   Link: <a href="https://dictionary.cambridge.org/dictionary/english/information" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/information</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>English meaning - Cambridge Dictionary3 days ago — Information is an uncountable noun meaning &#x27;facts about someone or something&#x27;. It is...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: neveralwaysbook.com  
    Title: messy middle  
-   Link: [https://neveralwaysbook.com/learn/messy-middle](https://neveralwaysbook.com/learn/messy-middle)  
+   Link: <a href="https://neveralwaysbook.com/learn/messy-middle" target="_blank" rel="noopener noreferrer nofollow">https://neveralwaysbook.com/learn/messy-middle</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Marketing: Google&#x27;s Consumer Journey Model1 May 2026 — The messy middle is Google&#x27;s research-backed model describing the complex phase be...</p></details>
    Published: May 2026  
 
 10. <a id="endnote-10"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/pulse/contextual-menus-clean-ui-costly-ux-aleksandra-smith-cirqe](https://www.linkedin.com/pulse/contextual-menus-clean-ui-costly-ux-aleksandra-smith-cirqe)  
+   Link: <a href="https://www.linkedin.com/pulse/contextual-menus-clean-ui-costly-ux-aleksandra-smith-cirqe" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/contextual-menus-clean-ui-costly-ux-aleksandra-smith-cirqe</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Nielsen Norman Group: &quot;In studies on icon...Read more...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: uxtigers.com  
    Title: information scent  
-   Link: [https://www.uxtigers.com/post/information-scent](https://www.uxtigers.com/post/information-scent)  
+   Link: <a href="https://www.uxtigers.com/post/information-scent" target="_blank" rel="noopener noreferrer nofollow">https://www.uxtigers.com/post/information-scent</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How Users Decide Where to ClickJul 26, 2024 — Information scent determines users&#x27; ability to predict what they will find if they pursue a...</p></details>
 
 ### Additional References
 
 12. <a id="endnote-12"></a>
    Source: ipa.co.uk  
-   Link: [https://ipa.co.uk/effworks/marketing-marketing/decoding-decisions](https://ipa.co.uk/effworks/marketing-marketing/decoding-decisions)  
+   Link: <a href="https://ipa.co.uk/effworks/marketing-marketing/decoding-decisions" target="_blank" rel="noopener noreferrer nofollow">https://ipa.co.uk/effworks/marketing-marketing/decoding-decisions</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Decoding DecisionsThe &#x27;messy middle&#x27; of purchase behaviour. How people decide which products and brands to buy is fascinating, but comple...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: merriam-webster.com  
-   Link: [https://www.merriam-webster.com/dictionary/information](https://www.merriam-webster.com/dictionary/information)  
+   Link: <a href="https://www.merriam-webster.com/dictionary/information" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/information</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>INFORMATION Definition &amp; MeaningThe meaning of INFORMATION is knowledge gained from investigation, study, or instruction. How to use info...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: mrs.org.uk  
-   Link: [https://www.mrs.org.uk/pdf/NCI5%20-%20Google%20%26%20The%20Behavioural%20Architects.pdf](https://www.mrs.org.uk/pdf/NCI5%20-%20Google%20%26%20The%20Behavioural%20Architects.pdf)  
+   Link: <a href="https://www.mrs.org.uk/pdf/NCI5%20-%20Google%20%26%20The%20Behavioural%20Architects.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.mrs.org.uk/pdf/NCI5%20-%20Google%20%26%20The%20Behavioural%20Architects.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Surpassing Expectations in the Messy MiddleWe explore strategies for success in the &quot;messy middle&quot; – where consumers actively explore and...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: impact.com  
-   Link: [https://impact.com/affiliate/affiliate-onboarding-challenges-and-solutions/](https://impact.com/affiliate/affiliate-onboarding-challenges-and-solutions/)  
+   Link: <a href="https://impact.com/affiliate/affiliate-onboarding-challenges-and-solutions/" target="_blank" rel="noopener noreferrer nofollow">https://impact.com/affiliate/affiliate-onboarding-challenges-and-solutions/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Troubleshooting affiliate onboarding: Top 4 issuesFacing affiliate onboarding issues? Learn 4 common challenges and how to fix them for f...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/pulse/google-decodes-messy-middle-buying-process-g-david-dodd](https://www.linkedin.com/pulse/google-decodes-messy-middle-buying-process-g-david-dodd)  
+   Link: <a href="https://www.linkedin.com/pulse/google-decodes-messy-middle-buying-process-g-david-dodd" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/google-decodes-messy-middle-buying-process-g-david-dodd</a>  
 
 17. <a id="endnote-17"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/710142097/Decoding-Decisions-Marketing-in-the-Messy-Middle-DclfruV](https://www.scribd.com/document/710142097/Decoding-Decisions-Marketing-in-the-Messy-Middle-DclfruV)  
+   Link: <a href="https://www.scribd.com/document/710142097/Decoding-Decisions-Marketing-in-the-Messy-Middle-DclfruV" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/710142097/Decoding-Decisions-Marketing-in-the-Messy-Middle-DclfruV</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>and evaluate in the messy middle. Marketers can influence consumer decision-making by responsibly...Read more...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: sarahwithanh-xo.medium.com  
    Title: com5 problems with Affiliate Marketing and how you can fix them1  
-   Link: [https://sarahwithanh-xo.medium.com/5-problems-with-affiliate-marketing-and-how-you-can-fix-them-4d255c734d0a](https://sarahwithanh-xo.medium.com/5-problems-with-affiliate-marketing-and-how-you-can-fix-them-4d255c734d0a)  
+   Link: <a href="https://sarahwithanh-xo.medium.com/5-problems-with-affiliate-marketing-and-how-you-can-fix-them-4d255c734d0a" target="_blank" rel="noopener noreferrer nofollow">https://sarahwithanh-xo.medium.com/5-problems-with-affiliate-marketing-and-how-you-can-fix-them-4d255c734d0a</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Difficulty attracting traffic. Affiliate marketers rely heavily on web traffic to generate sales. · 2. Low conversion rates · 3. Limited...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: articles.data.blog  
    Title: Articles of Interest The “messy middle” of the purchase journey  
-   Link: [https://articles.data.blog/2020/07/19/the-messy-middle-of-the-purchase-journey/](https://articles.data.blog/2020/07/19/the-messy-middle-of-the-purchase-journey/)  
+   Link: <a href="https://articles.data.blog/2020/07/19/the-messy-middle-of-the-purchase-journey/" target="_blank" rel="noopener noreferrer nofollow">https://articles.data.blog/2020/07/19/the-messy-middle-of-the-purchase-journey/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Articles of InterestThe “messy middle” of the purchase journey - Articles of Interest19 Jul 2020 — This equates to two different mental m...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: iabeurope.eu  
-   Link: [https://iabeurope.eu/knowledge_hub/insights-from-think-with-google-how-people-decide-what-to-buy-lies-in-the-messy-middle-of-the-purchase-journey/](https://iabeurope.eu/knowledge_hub/insights-from-think-with-google-how-people-decide-what-to-buy-lies-in-the-messy-middle-of-the-purchase-journey/)  
+   Link: <a href="https://iabeurope.eu/knowledge_hub/insights-from-think-with-google-how-people-decide-what-to-buy-lies-in-the-messy-middle-of-the-purchase-journey/" target="_blank" rel="noopener noreferrer nofollow">https://iabeurope.eu/knowledge_hub/insights-from-think-with-google-how-people-decide-what-to-buy-lies-in-the-messy-middle-of-the-purchase-journey/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>wing how brands can win and retain customers in the “messy middle” of the purchase...Read more...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: ux.stackexchange.com  
    Title: can navigation same content be repeated in different sections of a website wh  
-   Link: [https://ux.stackexchange.com/questions/54128/can-navigation-same-content-be-repeated-in-different-sections-of-a-website-wh](https://ux.stackexchange.com/questions/54128/can-navigation-same-content-be-repeated-in-different-sections-of-a-website-wh)  
+   Link: <a href="https://ux.stackexchange.com/questions/54128/can-navigation-same-content-be-repeated-in-different-sections-of-a-website-wh" target="_blank" rel="noopener noreferrer nofollow">https://ux.stackexchange.com/questions/54128/can-navigation-same-content-be-repeated-in-different-sections-of-a-website-wh</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>It could be reflective of content-strategy problem, a navigation organization problem, or an audience...Read more...</p></details>

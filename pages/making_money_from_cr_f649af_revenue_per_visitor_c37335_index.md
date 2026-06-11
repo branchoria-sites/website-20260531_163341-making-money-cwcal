@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /making-money-from-cr-f649af-revenue/
 description: Focused pages that expand on Revenue Model.
-date: '2026-05-31'
+date: '2026-06-11'
 layout: default
 parent_basename: making_money_from_cr_f649af_revenue_per_visitor_c37335
-parent_title: Revenue Model | Making Money From Creating Websites Containing Aff
+parent_title: Revenue Model
 parent_nav_short_title: Revenue Model
 parent_permalink: /revenue-model/
 ---

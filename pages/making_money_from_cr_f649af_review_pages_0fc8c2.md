@@ -34,7 +34,7 @@ sidebar_expanded_urls:
 - /making-money-from-creating-websites/
 nav_short_title: Reviews
 title: Why Thin Reviews Fail Affiliate Buyers
-title_full: Why Thin Reviews Fail Affiliate Buyers | Affiliate Engines
+title_full: Why Thin Reviews Fail Affiliate Buyers
 display_title_short: Reviews
 display_title: Reviews
 heading_title: Why Thin Reviews Fail Affiliate Buyers
@@ -318,18 +318,16 @@ image: /assets/images/making_money_from_cr_f649af_review_pages_0fc8c2-overview-s
 
 Thin affiliate reviews fail because they ask the reader to trust a sales page in disguise. A useful review page does the opposite: it helps a buyer decide whether one specific product, service, or platform is right for their situation, explains where it falls short, and gives them checks to make before clicking through. That matters commercially because review traffic is often late-stage traffic. The reader may already know the product name and only need reassurance before buying, trialling, subscribing, or ruling it out.
 
-
 <img src="{{ "/assets/images/making_money_from_cr_f649af_review_pages_0fc8c2-overview.webp" | relative_url }}" alt="Overview image for Reviews" loading="eager" decoding="sync" fetchpriority="high">
-For affiliate websites, the trust problem is also the revenue problem. A review that simply repeats merchant claims may get clicks in the short term, but it gives the reader little reason to believe the publisher, return to the site, follow internal links, or trust other recommendations. Search guidance, advertising rules, and consumer research all point in the same direction: review pages need clear [disclosure]({{ 'disclosure/' | relative_url }}), genuine evaluation, evidence of use or research, and balanced treatment of [limitations]({{ 'limitations/' | relative_url }}). Google’s review guidance explicitly encourages first-hand supporting evidence, explanation of why a product is best for a given purpose, and links to multiple sellers where useful. <span class="citation-chip-wrap"><a class="citation-chip" href="https://developers.google.com/search/docs/specialty/ecommerce/write-high-quality-reviews" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-title">for Developers How To Write Reviews | Google Search Central | Documentation</span><span class="citation-popover-snippet">Google for DevelopersHow To Write Reviews | Google Search Central | Documentation...</span></span></span>
+For affiliate websites, the trust problem is also the revenue problem. A review that simply repeats merchant claims may get clicks in the short term, but it gives the reader little reason to believe the publisher, return to the site, follow internal links, or trust other recommendations. Search guidance, advertising rules, and consumer research all point in the same direction: review pages need clear [disclosure]({{ 'disclosure/' | relative_url }}), genuine evaluation, evidence of use or research, and balanced treatment of [limitations]({{ 'limitations/' | relative_url }}). Google’s review guidance explicitly encourages first-hand supporting evidence, explanation of why a product is best for a given purpose, and links to multiple sellers where useful. <span class="citation-chip-wrap"><a class="citation-chip" href="https://developers.google.com/search/docs/specialty/ecommerce/write-high-quality-reviews" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-title">for Developers How To Write Reviews &#124; Google Search Central &#124; Documentation</span><span class="citation-popover-snippet">Google for DevelopersHow To Write Reviews &#124; Google Search Central &#124; Documentation...</span></span></span>
 
 ## Why thin reviews lose the moment the reader hesitates
 
 A review page usually receives a more sceptical visitor than a broad buying guide. Someone searching for a product review is not just asking “What is this?” They are asking “Can I trust this product, this price, this provider, and this recommendation?” A thin review answers with recycled features: fast, lightweight, premium, easy to use, best value. A trustworthy review answers with fit, trade-offs, proof, and next steps.
 
-The weakness of a thin affiliate review is that it collapses three different jobs into one shallow recommendation. It tries to describe the product, persuade the buyer, and monetise the click without doing enough evaluation. That is risky because buyers now expect to cross-check claims across merchant pages, marketplaces, social proof, independent reviewers, and user comments. BrightLocal’s 2025 consumer review research found that trust in online reviews has weakened compared with earlier years, with far fewer consumers saying they trust reviews as much as personal recommendations. The useful lesson for affiliate review pages is not “reviews no longer matter”, but that readers are more cautious and need more specific evidence before trusting a recommendation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.brightlocal.com/research/local-consumer-review-survey-2025/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brightlocal.com">[BrightLocal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brightlocal.com</span><span class="citation-popover-title">local consumer review survey 2025</span><span class="citation-popover-snippet">BrightLocalLocal Consumer Review Survey 2025January 29, 2025 — 29 Jan 2025 — In fact, while our 2020 report found that 79% of consumers t...</span><span class="citation-popover-meta">Published: January 29, 2025</span></span></span>
+The weakness of a thin affiliate review is that it collapses three different jobs into one shallow recommendation. It tries to describe the product, persuade the buyer, and monetise the click without doing enough evaluation. That is risky because buyers now expect to cross-check claims across merchant pages, marketplaces, social proof, independent reviewers, and user comments. BrightLocal’s 2025 consumer review research found that trust in online reviews has weakened compared with earlier years, with far fewer consumers saying they trust reviews as much as personal recommendations. The useful lesson for affiliate review pages is not “reviews no longer matter”, but that readers are more cautious and need more specific evidence before trusting a recommendation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.brightlocal.com/research/local-consumer-review-survey-2025/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brightlocal.com">[BrightLocal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brightlocal.com</span><span class="citation-popover-title">local consumer review survey 2025</span><span class="citation-popover-snippet">Local Consumer Review Survey 2025January 29, 2025 — 29 Jan 2025 — In fact, while our 2020 report found that 79% of consumers t...</span><span class="citation-popover-meta">Published: January 29, 2025</span></span></span>
 
 This is especially important for software-generated affiliate sites, because scale can easily produce pages that look complete but feel interchangeable. If every review uses the same vague praise, the same merchant screenshots, the same pros and cons, and the same call-to-action, the system is not building review assets; it is producing comparison-shaped advertorial. At scale, the better pattern is to make each review answer product-specific buyer doubts:
-
 
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
@@ -348,9 +346,9 @@ A strong review page does not need to be hostile. It needs to be discriminating.
 
 The most useful review pages define fit before they push a link. “Best for everyone” is rarely believable. “Best for renters who need a compact cordless vacuum for hard floors” is more useful because it ties the recommendation to a real buying context. Fit-based reviewing turns a product page from a sales summary into a decision filter.
 
-This matters for conversion because affiliate review pages often sit near the bottom of the funnel. The reader may already be comparing one product against a shortlist. A review that clearly names the right buyer can increase confidence without needing exaggerated claims. For example, a review of a website builder should separate “good for a quick brochure site” from “good for a complex content site with affiliate templates, [comparison tables]({{ 'tables/' | relative_url }}), and long-term SEO needs”. A review of a mattress should separate side sleepers, heavier sleepers, hot sleepers, return-policy-sensitive buyers, and people replacing a specific firmness level. The commercial value comes from better-matched clicks, not just more clicks.
+This matters for conversion because affiliate review pages often sit near the bottom of the funnel. The reader may already be comparing one product against a shortlist. A review that clearly names the right buyer can increase confidence without needing exaggerated claims. For example, a review of a website builder should separate “good for a quick brochure site” from “good for a complex content site with affiliate templates, comparison [tables]({{ 'tables/' | relative_url }}), and long-term SEO needs”. A review of a mattress should separate side sleepers, heavier sleepers, hot sleepers, return-policy-sensitive buyers, and people replacing a specific firmness level. The commercial value comes from better-matched clicks, not just more clicks.
 
-Google’s guidance on high-quality reviews reinforces this kind of specificity. It asks reviewers to explain what makes something different from competitors, discuss benefits and drawbacks based on original research, describe key decision factors, and include evidence such as visuals, audio, links, or other proof of experience where appropriate. <span class="citation-chip-wrap"><a class="citation-chip" href="https://developers.google.com/search/docs/specialty/ecommerce/write-high-quality-reviews" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-title">for Developers How To Write Reviews | Google Search Central | Documentation</span><span class="citation-popover-snippet">Google for DevelopersHow To Write Reviews | Google Search Central | Documentation...</span></span></span> For an affiliate site, those prompts translate into repeatable page elements:
+Google’s guidance on high-quality reviews reinforces this kind of specificity. It asks reviewers to explain what makes something different from competitors, discuss benefits and drawbacks based on original research, describe key decision factors, and include evidence such as visuals, audio, links, or other proof of experience where appropriate. <span class="citation-chip-wrap"><a class="citation-chip" href="https://developers.google.com/search/docs/specialty/ecommerce/write-high-quality-reviews" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-title">for Developers How To Write Reviews &#124; Google Search Central &#124; Documentation</span><span class="citation-popover-snippet">Google for DevelopersHow To Write Reviews &#124; Google Search Central &#124; Documentation...</span></span></span> For an affiliate site, those prompts translate into repeatable page elements:
 
 * **[Fit summary]({{ 'fit-summary/' | relative_url }}):** who should consider the product and who should not.
 * **Use-case [verdicts]({{ 'verdicts/' | relative_url }}):** how the product performs for common buyer scenarios.
@@ -365,7 +363,6 @@ Google’s guidance on high-quality reviews reinforces this kind of specificity.
 
 The important point is that “fit” should not be a decorative paragraph near the end. It should shape the whole review. If a product is excellent for beginners but weak for advanced users, the introduction, verdict, pros and cons, pricing section, internal links, and call-to-action should all reflect that split.
 
-
 <img src="{{ "/assets/images/making_money_from_cr_f649af_review_pages_0fc8c2-Illustration-1-dark.svg" | relative_url }}" alt="Reviews illustration 1" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_review_pages_0fc8c2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_review_pages_0fc8c2-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Buyer reassurance should reduce doubt, not hide it
 
@@ -377,7 +374,7 @@ A trustworthy review page turns those doubts into visible sections. That helps t
 
 Consumer behaviour research supports the value of this balanced approach. PowerReviews reports that shoppers actively seek out negative reviews because they help them judge whether a product fits their needs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.powerreviews.com/the-complete-guide-to-ratings-reviews/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: powerreviews.com">[PowerReviews]</a><span class="citation-popover" role="note"><span class="citation-popover-source">powerreviews.com</span><span class="citation-popover-title">Power Reviews The Complete Guide to Ratings &amp; Reviews</span><span class="citation-popover-snippet">Power Reviews The Complete Guide to Ratings &amp; Reviews</span></span></span> Baymard’s ecommerce research similarly shows that users often weigh the number of reviews as well as the rating average, because a high score with very few reviews can feel less reliable. <span class="citation-chip-wrap"><a class="citation-chip" href="https://baymard.com/blog/user-perception-of-product-ratings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: baymard.com">[Baymard Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">baymard.com</span><span class="citation-popover-title">Institute Always Show the Number of User Ratings in List Items</span><span class="citation-popover-snippet">Institute Always Show the Number of User Ratings in List Items</span></span></span> Affiliate review pages can use this insight without copying marketplace review systems: they should summarise recurring buyer complaints, distinguish serious flaws from taste-based complaints, and explain what kind of buyer is most affected.
 
-A practical reassurance block might say: the main complaint is not performance but setup time; the refund policy is generous but excludes opened consumables; the cheaper plan removes one feature most small teams need; the product has excellent ratings but the review base is still small; or the merchant’s headline price applies only to annual billing. These details may reduce raw click-through rate from poorly matched readers, but they can improve trust, [merchant conversion]({{ 'merchant-risk/' | relative_url }}), and repeat visits.
+A practical reassurance block might say: the main complaint is not performance but setup time; the refund policy is generous but excludes opened consumables; the cheaper plan removes one feature most small teams need; the product has excellent ratings but the review base is still small; or the merchant’s headline price applies only to annual billing. These details may reduce raw click-through rate from poorly matched readers, but they can improve trust, merchant conversion, and repeat visits.
 
 ## Limitations make the recommendation more believable
 
@@ -391,7 +388,6 @@ Functional limitations are the product’s real weaknesses: a tool lacks advance
 
 For scalable affiliate sites, this suggests a simple rule: every review template should require at least one limitation that affects a real buyer segment. “No product is perfect” is filler. “Not ideal for teams that need role-based permissions because that feature is only on the higher plan” is useful. The limitation should be specific enough to route the reader to an alternative page or offer.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/dpzfNgXSui4" title="The Google Review Strategy NO ONE IS USING (But Everyone Should)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dpzfNgXSui4" target="_blank" rel="noopener noreferrer">The Google Review Strategy NO ONE IS USING (But Everyone Should)</a></p><p class="youtube-embed-meta">Channel: Ranking Academy &middot; Views: 20.2K &middot; Uploaded: June 2025 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dpzfNgXSui4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dpzfNgXSui4">Open on YouTube</a></p></div></div></div>
 
 ## Alternatives prevent the page from becoming a dead end
@@ -399,7 +395,6 @@ For scalable affiliate sites, this suggests a simple rule: every review template
 A review that concludes “buy this” or “do not buy this” wastes part of the reader journey. Many visitors are not binary buyers. They are “maybe, but what else?” buyers. A strong affiliate review therefore includes alternatives that are chosen for decision reasons, not just commission availability.
 
 Alternatives are most useful when they answer a clear contrast:
-
 
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
@@ -411,12 +406,11 @@ Alternatives are most useful when they answer a clear contrast:
 
 </div>
 
-Google’s review guidance says reviewers should consider links to multiple sellers so readers can buy from their preferred merchant. <span class="citation-chip-wrap"><a class="citation-chip" href="https://developers.google.com/search/docs/specialty/ecommerce/write-high-quality-reviews" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-title">for Developers How To Write Reviews | Google Search Central | Documentation</span><span class="citation-popover-snippet">Google for DevelopersHow To Write Reviews | Google Search Central | Documentation...</span></span></span> The same principle can be extended to internal linking: if a reader is not right for the reviewed product, the page should offer the next-best page, not lose them. This is where review pages become part of a revenue system rather than isolated articles.
+Google’s review guidance says reviewers should consider links to multiple sellers so readers can buy from their preferred merchant. <span class="citation-chip-wrap"><a class="citation-chip" href="https://developers.google.com/search/docs/specialty/ecommerce/write-high-quality-reviews" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-title">for Developers How To Write Reviews &#124; Google Search Central &#124; Documentation</span><span class="citation-popover-snippet">Google for DevelopersHow To Write Reviews &#124; Google Search Central &#124; Documentation...</span></span></span> The same principle can be extended to internal linking: if a reader is not right for the reviewed product, the page should offer the next-best page, not lose them. This is where review pages become part of a revenue system rather than isolated articles.
 
 For example, a review of a budget web host might link to “best hosting for high-traffic affiliate sites”, “cheap WordPress hosting alternatives”, and “managed hosting for non-technical beginners”. Those links are not generic SEO decoration. They preserve buyer momentum while moving the reader to a page that may better match intent. The review page becomes a fork in the conversion path: buy this, compare alternatives, or step up to a different category.
 
 This also protects long-term trust. If a product is not right for the reader and the page says so, the site still helps them. That makes the next recommendation more credible.
-
 
 <img src="{{ "/assets/images/making_money_from_cr_f649af_review_pages_0fc8c2-Illustration-2-dark.svg" | relative_url }}" alt="Reviews illustration 2" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_review_pages_0fc8c2-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_review_pages_0fc8c2-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Pricing checks are where many affiliate reviews become outdated
@@ -429,7 +423,6 @@ A review page that builds trust should therefore treat pricing as a check, not a
 
 This is also an important monetisation decision. A review page can send the reader to the merchant too early, before they understand the true cost, or too late, after burying the buying path under unnecessary detail. The better pattern is to place price checks near the verdict and again near the call-to-action:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * The opening verdict should say whether the product is good value at its usual price, only during discounts, or only for a specific plan.
@@ -440,7 +433,6 @@ This is also an important monetisation decision. A review page can send the read
 
 That structure supports [revenue per visitor]({{ 'revenue-model/' | relative_url }}) because it helps the reader click with fewer unresolved objections.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TpYEmQ9njyk" title="New FTC Guidelines For Affiliate &amp; Influencer MarketerS Must Watch Before Making Your Next Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TpYEmQ9njyk" target="_blank" rel="noopener noreferrer">New FTC Guidelines For Affiliate &amp; Influencer MarketerS Must Watch Before Making Your Next Video</a></p><p class="youtube-embed-meta">Channel: Alston Godbolt &middot; Views: 2.7K &middot; Uploaded: October 2023 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TpYEmQ9njyk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TpYEmQ9njyk">Open on YouTube</a></p></div></div></div>
 
 ## Copied merchant claims are the main thin-review failure mode
@@ -449,10 +441,9 @@ The fastest way to produce a review page is to summarise the merchant’s featur
 
 The danger is larger now because generative writing tools make it easy to produce fluent but unsupported reviews. Research on AI-generated product reviews has found that humans can struggle to distinguish machine-generated fake reviews from real ones, with overall accuracy close to chance in one set of studies. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2506.13313" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> That does not mean all AI-assisted content is fake, but it does raise the standard for evidence. A review page that sounds polished but contains no product-specific proof will increasingly look suspicious to both readers and platforms.
 
-Avoiding copied merchant claims means changing the source of the review’s authority. Instead of “the merchant says”, the page should show “we checked”, “buyers commonly report”, “the policy states”, “the plan comparison shows”, “the product differs from its predecessor in these ways”, or “this feature matters only if you need this use case”. Google’s guidance on people-first content asks creators to avoid producing content primarily to manipulate rankings and to evaluate whether content gives readers a satisfying experience. <span class="citation-chip-wrap"><a class="citation-chip" href="https://developers.google.com/search/docs/specialty/ecommerce/write-high-quality-reviews" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-title">for Developers How To Write Reviews | Google Search Central | Documentation</span><span class="citation-popover-snippet">Google for DevelopersHow To Write Reviews | Google Search Central | Documentation...</span></span></span> For review pages, satisfaction comes from independent judgement.
+Avoiding copied merchant claims means changing the source of the review’s authority. Instead of “the merchant says”, the page should show “we checked”, “buyers commonly report”, “the policy states”, “the plan comparison shows”, “the product differs from its predecessor in these ways”, or “this feature matters only if you need this use case”. Google’s guidance on people-first content asks creators to avoid producing content primarily to manipulate rankings and to evaluate whether content gives readers a satisfying experience. <span class="citation-chip-wrap"><a class="citation-chip" href="https://developers.google.com/search/docs/specialty/ecommerce/write-high-quality-reviews" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-title">for Developers How To Write Reviews &#124; Google Search Central &#124; Documentation</span><span class="citation-popover-snippet">Google for DevelopersHow To Write Reviews &#124; Google Search Central &#124; Documentation...</span></span></span> For review pages, satisfaction comes from independent judgement.
 
 A useful anti-copying framework is claim, check, consequence:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -466,7 +457,6 @@ For example, if a merchant claims “unlimited projects”, the review should ch
 
 This pattern is scalable because it can be built into review templates across categories. The exact evidence changes, but the logic stays repeatable.
 
-
 <img src="{{ "/assets/images/making_money_from_cr_f649af_review_pages_0fc8c2-Illustration-3-dark.svg" | relative_url }}" alt="Reviews illustration 3" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_review_pages_0fc8c2-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_review_pages_0fc8c2-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What trustworthy review evidence looks like
 
@@ -477,7 +467,6 @@ Low-risk products may only need clear feature comparison, user-review synthesis,
 Most affiliate sites will sit somewhere below that level of testing, but they can still be honest about their evidence. A review page should not imply hands-on testing if none occurred. A reader may accept a desk-researched review if it is transparent, careful, and useful. They are less likely to forgive a fake first-hand tone.
 
 Evidence types that scale well include:
-
 
 <div class="content-enhancement content-enhancement--decision" markdown="1">
 
@@ -491,7 +480,6 @@ Evidence types that scale well include:
 </div>
 
 The page should distinguish these evidence types clearly. “We tested” is different from “we analysed user reviews” and both are different from “the merchant states”. Blurring those categories may make the copy smoother, but it weakens trust.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Knu_nlcoP3g" title="Learn How to Make a Profitable Product Review Website &amp; Earn Affiliate Commissions! 💰" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Knu_nlcoP3g" target="_blank" rel="noopener noreferrer">Learn How to Make a Profitable Product Review Website &amp; Earn Affiliate Commissions! 💰</a></p><p class="youtube-embed-meta">Channel: Mr Web &middot; Views: 2.8K &middot; Uploaded: February 2024 &middot; Length: 57 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Knu_nlcoP3g" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Knu_nlcoP3g">Open on YouTube</a></p></div></div></div>
 
@@ -512,7 +500,7 @@ A strong review page structure might include: <span class="citation-chip-wrap"><
 
 This is not just a writing preference. It affects monetisation logic. The verdict and fit sections shape click quality. The limitation section protects credibility. The pricing section reduces post-click surprise. The alternatives section captures readers who would otherwise leave. The final click guidance creates a more confident outbound click.
 
-For high-volume website production, the template should also support page classification. A single-product review for “Product X review” should not be treated the same as a “Product X vs Product Y” comparison or a “Best product for use case” buying guide. Review pages are about reassurance for one named product. Comparisons are about trade-offs between named options. Buying guides are about category selection. Mixing those intents can make the page feel unfocused.
+For high-volume website production, the template should also support page classification. A single-product review for “Product X review” should not be treated the same as a “Product X vs Product Y” comparison or a “Best product for use case” buying guide. Review pages are about reassurance for one named product. [Comparisons]({{ 'comparisons/' | relative_url }}) are about trade-offs between named options. Buying guides are about category selection. Mixing those intents can make the page feel unfocused.
 
 ## Trust also depends on what the page refuses to do
 
@@ -954,267 +942,267 @@ A practical review-page quality test is simple: after reading the page, could a 
 1. <a id="endnote-1"></a>
    Source: developers.google.com  
    Title: for Developers How To Write Reviews | Google Search Central | Documentation  
-   Link: [https://developers.google.com/search/docs/specialty/ecommerce/write-high-quality-reviews](https://developers.google.com/search/docs/specialty/ecommerce/write-high-quality-reviews)  
+   Link: <a href="https://developers.google.com/search/docs/specialty/ecommerce/write-high-quality-reviews" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/docs/specialty/ecommerce/write-high-quality-reviews</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Google for DevelopersHow To Write Reviews | Google Search Central | Documentation...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: brightlocal.com  
    Title: local consumer review survey 2025  
-   Link: [https://www.brightlocal.com/research/local-consumer-review-survey-2025/](https://www.brightlocal.com/research/local-consumer-review-survey-2025/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>BrightLocalLocal Consumer Review Survey 2025January 29, 2025 — 29 Jan 2025 — In fact, while our 2020 report found that 79% of consumers t...</p></details>
+   Link: <a href="https://www.brightlocal.com/research/local-consumer-review-survey-2025/" target="_blank" rel="noopener noreferrer nofollow">https://www.brightlocal.com/research/local-consumer-review-survey-2025/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Local Consumer Review Survey 2025January 29, 2025 — 29 Jan 2025 — In fact, while our 2020 report found that 79% of consumers t...</p></details>
    Published: January 29, 2025  
 
 3. <a id="endnote-3"></a>
    Source: powerreviews.com  
    Title: Power Reviews The Complete Guide to Ratings & Reviews  
-   Link: [https://www.powerreviews.com/the-complete-guide-to-ratings-reviews/](https://www.powerreviews.com/the-complete-guide-to-ratings-reviews/)  
+   Link: <a href="https://www.powerreviews.com/the-complete-guide-to-ratings-reviews/" target="_blank" rel="noopener noreferrer nofollow">https://www.powerreviews.com/the-complete-guide-to-ratings-reviews/</a>  
 
 4. <a id="endnote-4"></a>
    Source: baymard.com  
    Title: Institute Always Show the Number of User Ratings in List Items  
-   Link: [https://baymard.com/blog/user-perception-of-product-ratings](https://baymard.com/blog/user-perception-of-product-ratings)  
+   Link: <a href="https://baymard.com/blog/user-perception-of-product-ratings" target="_blank" rel="noopener noreferrer nofollow">https://baymard.com/blog/user-perception-of-product-ratings</a>  
 
 5. <a id="endnote-5"></a>
    Source: asa.org.uk  
    Title: affiliate marketing  
-   Link: [https://www.asa.org.uk/advice-online/affiliate-marketing.html](https://www.asa.org.uk/advice-online/affiliate-marketing.html)  
+   Link: <a href="https://www.asa.org.uk/advice-online/affiliate-marketing.html" target="_blank" rel="noopener noreferrer nofollow">https://www.asa.org.uk/advice-online/affiliate-marketing.html</a>  
 
 6. <a id="endnote-6"></a>
    Source: asa.org.uk  
    Title: get yourself affiliated with the rules on affiliate marketing  
-   Link: [https://www.asa.org.uk/news/get-yourself-affiliated-with-the-rules-on-affiliate-marketing.html](https://www.asa.org.uk/news/get-yourself-affiliated-with-the-rules-on-affiliate-marketing.html)  
+   Link: <a href="https://www.asa.org.uk/news/get-yourself-affiliated-with-the-rules-on-affiliate-marketing.html" target="_blank" rel="noopener noreferrer nofollow">https://www.asa.org.uk/news/get-yourself-affiliated-with-the-rules-on-affiliate-marketing.html</a>  
 
 7. <a id="endnote-7"></a>
    Source: affiliate-program.amazon.com  
-   Link: [https://affiliate-program.amazon.com/help/node/topic/GHQNZAU6669EZS98](https://affiliate-program.amazon.com/help/node/topic/GHQNZAU6669EZS98)  
+   Link: <a href="https://affiliate-program.amazon.com/help/node/topic/GHQNZAU6669EZS98" target="_blank" rel="noopener noreferrer nofollow">https://affiliate-program.amazon.com/help/node/topic/GHQNZAU6669EZS98</a>  
 
 8. <a id="endnote-8"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2506.13313](https://arxiv.org/abs/2506.13313)  
+   Link: <a href="https://arxiv.org/abs/2506.13313" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2506.13313</a>  
 
 9. <a id="endnote-9"></a>
    Source: developers.google.com  
-   Link: [https://developers.google.com/search/docs/fundamentals/creating-helpful-content](https://developers.google.com/search/docs/fundamentals/creating-helpful-content)  
+   Link: <a href="https://developers.google.com/search/docs/fundamentals/creating-helpful-content" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/docs/fundamentals/creating-helpful-content</a>  
 
 10. <a id="endnote-10"></a>
    Source: rtings.com  
    Title: You Might Start Seeing Ads On RTINGS.com  
-   Link: [https://www.rtings.com/company/learn/monetization-and-ads](https://www.rtings.com/company/learn/monetization-and-ads)  
+   Link: <a href="https://www.rtings.com/company/learn/monetization-and-ads" target="_blank" rel="noopener noreferrer nofollow">https://www.rtings.com/company/learn/monetization-and-ads</a>  
 
 11. <a id="endnote-11"></a>
    Source: rtings.com  
    Title: test benches and scoring system  
-   Link: [https://www.rtings.com/company/test-benches-and-scoring-system](https://www.rtings.com/company/test-benches-and-scoring-system)  
+   Link: <a href="https://www.rtings.com/company/test-benches-and-scoring-system" target="_blank" rel="noopener noreferrer nofollow">https://www.rtings.com/company/test-benches-and-scoring-system</a>  
 
 12. <a id="endnote-12"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: [https://assets.publishing.service.gov.uk/media/67eeb64fe9c76fa33048c790/CMA208_-_Fake_reviews_guidance.pdf](https://assets.publishing.service.gov.uk/media/67eeb64fe9c76fa33048c790/CMA208_-_Fake_reviews_guidance.pdf)  
+   Link: <a href="https://assets.publishing.service.gov.uk/media/67eeb64fe9c76fa33048c790/CMA208_-_Fake_reviews_guidance.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/67eeb64fe9c76fa33048c790/CMA208_-_Fake_reviews_guidance.pdf</a>  
 
 13. <a id="endnote-13"></a>
    Source: GOV.UK  
    Title: fake reviews cma208  
-   Link: [https://www.gov.uk/government/publications/fake-reviews-cma208](https://www.gov.uk/government/publications/fake-reviews-cma208)  
+   Link: <a href="https://www.gov.uk/government/publications/fake-reviews-cma208" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/fake-reviews-cma208</a>  
 
 14. <a id="endnote-14"></a>
    Source: support.google.com  
    Title: affiliate disclosure information  
-   Link: [https://support.google.com/webmasters/thread/157311520/affiliate-disclosure-information?hl=en](https://support.google.com/webmasters/thread/157311520/affiliate-disclosure-information?hl=en)  
+   Link: <a href="https://support.google.com/webmasters/thread/157311520/affiliate-disclosure-information?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/webmasters/thread/157311520/affiliate-disclosure-information?hl=en</a>  
 
 15. <a id="endnote-15"></a>
    Source: developers.google.com  
    Title: qualify outbound links  
-   Link: [https://developers.google.com/search/docs/crawling-indexing/qualify-outbound-links](https://developers.google.com/search/docs/crawling-indexing/qualify-outbound-links)  
+   Link: <a href="https://developers.google.com/search/docs/crawling-indexing/qualify-outbound-links" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/docs/crawling-indexing/qualify-outbound-links</a>  
 
 16. <a id="endnote-16"></a>
    Source: support.google.com  
-   Link: [https://support.google.com/merchants/answer/6098512?hl=en-GB](https://support.google.com/merchants/answer/6098512?hl=en-GB)  
+   Link: <a href="https://support.google.com/merchants/answer/6098512?hl=en-GB" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/merchants/answer/6098512?hl=en-GB</a>  
 
 17. <a id="endnote-17"></a>
    Source: support.google.com  
    Title: i had a real review removed for “ fake content that isn’t a genuine experience”  
-   Link: [https://support.google.com/maps/thread/419150782/i-had-a-real-review-removed-for-%E2%80%9C-fake-content-that-isn%E2%80%99t-a-genuine-experience%E2%80%9D?hl=en](https://support.google.com/maps/thread/419150782/i-had-a-real-review-removed-for-%E2%80%9C-fake-content-that-isn%E2%80%99t-a-genuine-experience%E2%80%9D?hl=en)  
+   Link: <a href="https://support.google.com/maps/thread/419150782/i-had-a-real-review-removed-for-%E2%80%9C-fake-content-that-isn%E2%80%99t-a-genuine-experience%E2%80%9D?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/maps/thread/419150782/i-had-a-real-review-removed-for-%E2%80%9C-fake-content-that-isn%E2%80%99t-a-genuine-experience%E2%80%9D?hl=en</a>  
 
 18. <a id="endnote-18"></a>
    Source: powerreviews.com  
    Title: power of reviews 2023  
-   Link: [https://www.powerreviews.com/power-of-reviews-2023/](https://www.powerreviews.com/power-of-reviews-2023/)  
+   Link: <a href="https://www.powerreviews.com/power-of-reviews-2023/" target="_blank" rel="noopener noreferrer nofollow">https://www.powerreviews.com/power-of-reviews-2023/</a>  
 
 19. <a id="endnote-19"></a>
    Source: GOV.UK  
    Title: online consumer reviews  
-   Link: [https://www.gov.uk/cma-cases/online-consumer-reviews](https://www.gov.uk/cma-cases/online-consumer-reviews)  
+   Link: <a href="https://www.gov.uk/cma-cases/online-consumer-reviews" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/cma-cases/online-consumer-reviews</a>  
 
 20. <a id="endnote-20"></a>
    Source: GOV.UK  
    Title: social media endorsements being transparent with your followers  
-   Link: [https://www.gov.uk/government/publications/social-media-endorsements-guidance-for-content-creators/social-media-endorsements-being-transparent-with-your-followers](https://www.gov.uk/government/publications/social-media-endorsements-guidance-for-content-creators/social-media-endorsements-being-transparent-with-your-followers)  
+   Link: <a href="https://www.gov.uk/government/publications/social-media-endorsements-guidance-for-content-creators/social-media-endorsements-being-transparent-with-your-followers" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/social-media-endorsements-guidance-for-content-creators/social-media-endorsements-being-transparent-with-your-followers</a>  
 
 21. <a id="endnote-21"></a>
    Source: GOV.UK  
-   Link: [https://www.gov.uk/cma-cases/online-reviews-and-endorsements](https://www.gov.uk/cma-cases/online-reviews-and-endorsements)  
+   Link: <a href="https://www.gov.uk/cma-cases/online-reviews-and-endorsements" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/cma-cases/online-reviews-and-endorsements</a>  
 
 22. <a id="endnote-22"></a>
    Source: rtings.com  
-   Link: [https://www.rtings.com/company/how-we-make-money](https://www.rtings.com/company/how-we-make-money)  
+   Link: <a href="https://www.rtings.com/company/how-we-make-money" target="_blank" rel="noopener noreferrer nofollow">https://www.rtings.com/company/how-we-make-money</a>  
 
 23. <a id="endnote-23"></a>
    Source: rtings.com  
    Title: how we test  
-   Link: [https://www.rtings.com/tv/learn/how-we-test](https://www.rtings.com/tv/learn/how-we-test)  
+   Link: <a href="https://www.rtings.com/tv/learn/how-we-test" target="_blank" rel="noopener noreferrer nofollow">https://www.rtings.com/tv/learn/how-we-test</a>  
 
 24. <a id="endnote-24"></a>
    Source: rtings.com  
-   Link: [https://www.rtings.com/company/about-us](https://www.rtings.com/company/about-us)  
+   Link: <a href="https://www.rtings.com/company/about-us" target="_blank" rel="noopener noreferrer nofollow">https://www.rtings.com/company/about-us</a>  
 
 25. <a id="endnote-25"></a>
    Source: baymard.com  
    Title: respond to negative user reviews  
-   Link: [https://baymard.com/blog/respond-to-negative-user-reviews](https://baymard.com/blog/respond-to-negative-user-reviews)  
+   Link: <a href="https://baymard.com/blog/respond-to-negative-user-reviews" target="_blank" rel="noopener noreferrer nofollow">https://baymard.com/blog/respond-to-negative-user-reviews</a>  
 
 26. <a id="endnote-26"></a>
    Source: baymard.com  
-   Link: [https://baymard.com/](https://baymard.com/)  
+   Link: <a href="https://baymard.com/" target="_blank" rel="noopener noreferrer nofollow">https://baymard.com/</a>  
 
 27. <a id="endnote-27"></a>
    Source: baymard.com  
    Title: current state ecommerce product page ux  
-   Link: [https://baymard.com/blog/current-state-ecommerce-product-page-ux](https://baymard.com/blog/current-state-ecommerce-product-page-ux)  
+   Link: <a href="https://baymard.com/blog/current-state-ecommerce-product-page-ux" target="_blank" rel="noopener noreferrer nofollow">https://baymard.com/blog/current-state-ecommerce-product-page-ux</a>  
 
 28. <a id="endnote-28"></a>
    Source: baymard.com  
    Title: user reviews dtc  
-   Link: [https://baymard.com/blog/user-reviews-dtc](https://baymard.com/blog/user-reviews-dtc)  
+   Link: <a href="https://baymard.com/blog/user-reviews-dtc" target="_blank" rel="noopener noreferrer nofollow">https://baymard.com/blog/user-reviews-dtc</a>  
 
 29. <a id="endnote-29"></a>
    Source: baymard.com  
    Title: allow reviewers to upload images  
-   Link: [https://baymard.com/blog/allow-reviewers-to-upload-images](https://baymard.com/blog/allow-reviewers-to-upload-images)  
+   Link: <a href="https://baymard.com/blog/allow-reviewers-to-upload-images" target="_blank" rel="noopener noreferrer nofollow">https://baymard.com/blog/allow-reviewers-to-upload-images</a>  
 
 30. <a id="endnote-30"></a>
    Source: baymard.com  
    Title: sort by customer ratings  
-   Link: [https://baymard.com/blog/sort-by-customer-ratings](https://baymard.com/blog/sort-by-customer-ratings)  
+   Link: <a href="https://baymard.com/blog/sort-by-customer-ratings" target="_blank" rel="noopener noreferrer nofollow">https://baymard.com/blog/sort-by-customer-ratings</a>  
 
 31. <a id="endnote-31"></a>
    Source: brightlocal.com  
    Title: the state of reviews 2025  
-   Link: [https://www.brightlocal.com/webinars/the-state-of-reviews-2025/](https://www.brightlocal.com/webinars/the-state-of-reviews-2025/)  
+   Link: <a href="https://www.brightlocal.com/webinars/the-state-of-reviews-2025/" target="_blank" rel="noopener noreferrer nofollow">https://www.brightlocal.com/webinars/the-state-of-reviews-2025/</a>  
 
 32. <a id="endnote-32"></a>
    Source: brightlocal.com  
    Title: local consumer review survey  
-   Link: [https://www.brightlocal.com/research/local-consumer-review-survey/](https://www.brightlocal.com/research/local-consumer-review-survey/)  
+   Link: <a href="https://www.brightlocal.com/research/local-consumer-review-survey/" target="_blank" rel="noopener noreferrer nofollow">https://www.brightlocal.com/research/local-consumer-review-survey/</a>  
 
 33. <a id="endnote-33"></a>
    Source: brightlocal.com  
-   Link: [https://www.brightlocal.com/research/](https://www.brightlocal.com/research/)  
+   Link: <a href="https://www.brightlocal.com/research/" target="_blank" rel="noopener noreferrer nofollow">https://www.brightlocal.com/research/</a>  
 
 34. <a id="endnote-34"></a>
    Source: brightlocal.com  
    Title: local seo statistics  
-   Link: [https://www.brightlocal.com/resources/local-seo-statistics/](https://www.brightlocal.com/resources/local-seo-statistics/)  
+   Link: <a href="https://www.brightlocal.com/resources/local-seo-statistics/" target="_blank" rel="noopener noreferrer nofollow">https://www.brightlocal.com/resources/local-seo-statistics/</a>  
 
 35. <a id="endnote-35"></a>
    Source: affiliate-program.amazon.com  
-   Link: [https://affiliate-program.amazon.com/help/operating/agreement](https://affiliate-program.amazon.com/help/operating/agreement)  
+   Link: <a href="https://affiliate-program.amazon.com/help/operating/agreement" target="_blank" rel="noopener noreferrer nofollow">https://affiliate-program.amazon.com/help/operating/agreement</a>  
 
 36. <a id="endnote-36"></a>
    Source: affiliate-program.amazon.in  
-   Link: [https://affiliate-program.amazon.in/help/operating/agreement](https://affiliate-program.amazon.in/help/operating/agreement)  
+   Link: <a href="https://affiliate-program.amazon.in/help/operating/agreement" target="_blank" rel="noopener noreferrer nofollow">https://affiliate-program.amazon.in/help/operating/agreement</a>  
 
 37. <a id="endnote-37"></a>
    Source: ftc.gov  
    Title: s endorsement guides what people are asking  
-   Link: [https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking](https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking)  
+   Link: <a href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking</a>  
 
 38. <a id="endnote-38"></a>
    Source: which.co.uk  
    Title: Which?Which? affiliate activity  
-   Link: [https://www.which.co.uk/help/which-affiliate-activity-aPA408A93lxh](https://www.which.co.uk/help/which-affiliate-activity-aPA408A93lxh)  
+   Link: <a href="https://www.which.co.uk/help/which-affiliate-activity-aPA408A93lxh" target="_blank" rel="noopener noreferrer nofollow">https://www.which.co.uk/help/which-affiliate-activity-aPA408A93lxh</a>  
 
 39. <a id="endnote-39"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/business/2026/mar/27/five-firms-including-autotrader-and-just-eat-investigated-over-fake-review-failings](https://www.theguardian.com/business/2026/mar/27/five-firms-including-autotrader-and-just-eat-investigated-over-fake-review-failings)  
+   Link: <a href="https://www.theguardian.com/business/2026/mar/27/five-firms-including-autotrader-and-just-eat-investigated-over-fake-review-failings" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/business/2026/mar/27/five-firms-including-autotrader-and-just-eat-investigated-over-fake-review-failings</a>  
 
 40. <a id="endnote-40"></a>
    Source: ftc.gov  
-   Link: [https://www.ftc.gov/](https://www.ftc.gov/)  
+   Link: <a href="https://www.ftc.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/</a>  
 
 41. <a id="endnote-41"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/back2gaming/posts/rtingscom-just-announced-they-are-locking-their-full-lab-test-results-and-in-dep/1485976186217770/](https://www.facebook.com/back2gaming/posts/rtingscom-just-announced-they-are-locking-their-full-lab-test-results-and-in-dep/1485976186217770/)  
+   Link: <a href="https://www.facebook.com/back2gaming/posts/rtingscom-just-announced-they-are-locking-their-full-lab-test-results-and-in-dep/1485976186217770/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/back2gaming/posts/rtingscom-just-announced-they-are-locking-their-full-lab-test-results-and-in-dep/1485976186217770/</a>  
 
 42. <a id="endnote-42"></a>
    Source: Wikipedia  
    Title: Federal Trade Commission  
-   Link: [https://en.wikipedia.org/wiki/Federal_Trade_Commission](https://en.wikipedia.org/wiki/Federal_Trade_Commission)  
+   Link: <a href="https://en.wikipedia.org/wiki/Federal_Trade_Commission" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Federal_Trade_Commission</a>  
 
 43. <a id="endnote-43"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/bright-local-seo_local-consumer-review-survey-2025-activity-7290417175922638849-l_s-](https://www.linkedin.com/posts/bright-local-seo_local-consumer-review-survey-2025-activity-7290417175922638849-l_s-)  
+   Link: <a href="https://www.linkedin.com/posts/bright-local-seo_local-consumer-review-survey-2025-activity-7290417175922638849-l_s-" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/bright-local-seo_local-consumer-review-survey-2025-activity-7290417175922638849-l_s-</a>  
 
 44. <a id="endnote-44"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/baymard-institute_product-page-ux-2025-15-pitfalls-and-best-activity-7285002885770182656-N_YX](https://www.linkedin.com/posts/baymard-institute_product-page-ux-2025-15-pitfalls-and-best-activity-7285002885770182656-N_YX)  
+   Link: <a href="https://www.linkedin.com/posts/baymard-institute_product-page-ux-2025-15-pitfalls-and-best-activity-7285002885770182656-N_YX" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/baymard-institute_product-page-ux-2025-15-pitfalls-and-best-activity-7285002885770182656-N_YX</a>  
 
 45. <a id="endnote-45"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/powerreviews_the-complete-guide-to-ratings-reviews-activity-7378846352128204800--m3h](https://www.linkedin.com/posts/powerreviews_the-complete-guide-to-ratings-reviews-activity-7378846352128204800--m3h)  
+   Link: <a href="https://www.linkedin.com/posts/powerreviews_the-complete-guide-to-ratings-reviews-activity-7378846352128204800--m3h" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/powerreviews_the-complete-guide-to-ratings-reviews-activity-7378846352128204800--m3h</a>  
 
 46. <a id="endnote-46"></a>
    Source: usa.gov  
-   Link: [https://www.usa.gov/agencies/federal-trade-commission](https://www.usa.gov/agencies/federal-trade-commission)  
+   Link: <a href="https://www.usa.gov/agencies/federal-trade-commission" target="_blank" rel="noopener noreferrer nofollow">https://www.usa.gov/agencies/federal-trade-commission</a>  
 
 47. <a id="endnote-47"></a>
    Source: regulatoryoversight.com  
    Title: Federal Trade Commission Settled With Shutterstock for $35 Million  
-   Link: [https://www.regulatoryoversight.com/2026/05/federal-trade-commission-settled-with-shutterstock-for-35-million/](https://www.regulatoryoversight.com/2026/05/federal-trade-commission-settled-with-shutterstock-for-35-million/)  
+   Link: <a href="https://www.regulatoryoversight.com/2026/05/federal-trade-commission-settled-with-shutterstock-for-35-million/" target="_blank" rel="noopener noreferrer nofollow">https://www.regulatoryoversight.com/2026/05/federal-trade-commission-settled-with-shutterstock-for-35-million/</a>  
 
 ### Additional References
 
 48. <a id="endnote-48"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=HKVQdlHM_Mo](https://www.youtube.com/watch?v=HKVQdlHM_Mo)  
+   Link: <a href="https://www.youtube.com/watch?v=HKVQdlHM_Mo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HKVQdlHM_Mo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Writing compelling product reviews and recommendations...</p></details>
 
 49. <a id="endnote-49"></a>
    Source: youtube.com  
    Title: How To Optimise Your Website For Leads and Conversions (Beginner Friendly)  
-   Link: [https://www.youtube.com/watch?v=bJ2S9n6_1Mw](https://www.youtube.com/watch?v=bJ2S9n6_1Mw)  
+   Link: <a href="https://www.youtube.com/watch?v=bJ2S9n6_1Mw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bJ2S9n6_1Mw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How To Build An Affiliate Marketing Website With WordPress...</p></details>
 
 50. <a id="endnote-50"></a>
    Source: youtube.com  
    Title: How To Build An Affiliate Marketing Website With Word Press  
-   Link: [https://www.youtube.com/watch?v=STfhVuk3uts](https://www.youtube.com/watch?v=STfhVuk3uts)  
+   Link: <a href="https://www.youtube.com/watch?v=STfhVuk3uts" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=STfhVuk3uts</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Google Discover&#x27;s New Rules, March Core Update Fallout &amp; AI Content Penalty Risks...</p></details>
 
 51. <a id="endnote-51"></a>
    Source: youtube.com  
    Title: Writing compelling product reviews and recommendations  
-   Link: [https://www.youtube.com/watch?v=miwkVcpZ2_g](https://www.youtube.com/watch?v=miwkVcpZ2_g)  
+   Link: <a href="https://www.youtube.com/watch?v=miwkVcpZ2_g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=miwkVcpZ2_g</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How To Optimise Your Website For Leads and Conversions (Beginner Friendly)...</p></details>
 
 52. <a id="endnote-52"></a>
    Source: ftc.gov  
-   Link: [https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews](https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews)  
+   Link: <a href="https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews</a>  
 
 53. <a id="endnote-53"></a>
    Source: ftc.gov  
-   Link: [https://www.ftc.gov/system/files/ftc_gov/pdf/p204500_endorsement_guides_in_2023.pdf](https://www.ftc.gov/system/files/ftc_gov/pdf/p204500_endorsement_guides_in_2023.pdf)  
+   Link: <a href="https://www.ftc.gov/system/files/ftc_gov/pdf/p204500_endorsement_guides_in_2023.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/system/files/ftc_gov/pdf/p204500_endorsement_guides_in_2023.pdf</a>  
 
 54. <a id="endnote-54"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/380508657_The_Impact_of_Online_Reviews_on_Consumers%27_Purchase_Intentions_Examining_the_Social_Influence_of_Online_Reviews_Group_Similarity_and_Self-Construal](https://www.researchgate.net/publication/380508657_The_Impact_of_Online_Reviews_on_Consumers%27_Purchase_Intentions_Examining_the_Social_Influence_of_Online_Reviews_Group_Similarity_and_Self-Construal)  
+   Link: <a href="https://www.researchgate.net/publication/380508657_The_Impact_of_Online_Reviews_on_Consumers%27_Purchase_Intentions_Examining_the_Social_Influence_of_Online_Reviews_Group_Similarity_and_Self-Construal" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/380508657_The_Impact_of_Online_Reviews_on_Consumers%27_Purchase_Intentions_Examining_the_Social_Influence_of_Online_Reviews_Group_Similarity_and_Self-Construal</a>  
 
 55. <a id="endnote-55"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/387949709_Evaluating_the_influence_of_customer_reviews_and_consumer_trust_on_online_purchase_behavior](https://www.researchgate.net/publication/387949709_Evaluating_the_influence_of_customer_reviews_and_consumer_trust_on_online_purchase_behavior)  
+   Link: <a href="https://www.researchgate.net/publication/387949709_Evaluating_the_influence_of_customer_reviews_and_consumer_trust_on_online_purchase_behavior" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/387949709_Evaluating_the_influence_of_customer_reviews_and_consumer_trust_on_online_purchase_behavior</a>  
 
 56. <a id="endnote-56"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/gearoidbuckley_92-of-consumers-trust-peer-recommendations-activity-7416532059055128576-0y_v](https://www.linkedin.com/posts/gearoidbuckley_92-of-consumers-trust-peer-recommendations-activity-7416532059055128576-0y_v)  
+   Link: <a href="https://www.linkedin.com/posts/gearoidbuckley_92-of-consumers-trust-peer-recommendations-activity-7416532059055128576-0y_v" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/gearoidbuckley_92-of-consumers-trust-peer-recommendations-activity-7416532059055128576-0y_v</a>  
 
 57. <a id="endnote-57"></a>
    Source: thetoy.org  
-   Link: [https://thetoy.org/disclosure/](https://thetoy.org/disclosure/)  
+   Link: <a href="https://thetoy.org/disclosure/" target="_blank" rel="noopener noreferrer nofollow">https://thetoy.org/disclosure/</a>

@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /user-journeys/
 nav_short_title: Template Linking
 title: Building Templates That Automate Affiliate Link Placement
-title_full: Building Templates That Automate Affiliate Link Placement | User Journeys
+title_full: Building Templates That Automate Affiliate Link Placement
 display_title_short: Template Linking
 display_title: Template Linking
 heading_title: Building Templates That Automate Affiliate Link Placement
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-31 15:45:12'
-parent_title: How Internal Links Create Affiliate Paths | Affiliate Engines
+parent_title: How Internal Links Create Affiliate Paths
 parent_permalink: /user-journeys/
 parent_nav_short_title: User Journeys
 parent_heading_title: How Internal Links Create Affiliate Paths
@@ -274,11 +274,10 @@ image: /assets/images/making_money_from_cr_f649af_internal_linking_use_8b6d36_li
 
 ## Introduction
 
-[Internal linking]({{ 'user-journeys/' | relative_url }}) becomes difficult the moment an affiliate site moves beyond a few dozen pages. A manual linking strategy may work on a small review site, but large affiliate systems often publish hundreds or thousands of pages across multiple topic clusters. At that scale, revenue depends less on individual links and more on whether the site's templates automatically route users towards commercial pages at the right stage of intent.
-
+Internal linking becomes difficult the moment an affiliate site moves beyond a few dozen pages. A manual linking strategy may work on a small review site, but large affiliate systems often publish hundreds or thousands of pages across multiple topic clusters. At that scale, revenue depends less on individual links and more on whether the site's templates automatically route users towards commercial pages at the right stage of intent.
 
 <img src="{{ "/assets/images/making_money_from_cr_f649af_internal_linking_use_8b6d36_linking_templates_3f3b1f-Illustration-1-dark.svg" | relative_url }}" alt="Template Linking illustration 1" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_internal_linking_use_8b6d36_linking_templates_3f3b1f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_internal_linking_use_8b6d36_linking_templates_3f3b1f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The most successful affiliate content systems do not treat internal linking as a post-publication SEO task. They build linking logic directly into page templates, category structures and content models. This allows every newly generated page to inherit proven [user journeys]({{ 'user-journeys/' | relative_url }}), pass authority towards revenue pages and maintain consistent conversion paths without requiring page-by-page editing. Google's guidance consistently emphasises crawlable links, meaningful anchor text and clear site architecture, while large-site SEO practitioners increasingly focus on template-driven link routing, crawl depth management and authority distribution. <span class="citation-chip-wrap"><a class="citation-chip" href="https://developers.google.com/search/docs/crawling-indexing/links-crawlable" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-snippet">Google for DevelopersSEO Link Best Practices for Google | Google Search CentralLearn how to make your links crawlable so that Google can...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://developers.google.com/search/docs/crawling-indexing/links-crawlable" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-snippet">Google for DevelopersSEO Link Best Practices for Google | Google Search CentralLearn how to make your links crawlable so that Google can...</span></span></span>
+The most successful affiliate content systems do not treat internal linking as a post-publication SEO task. They build linking logic directly into page templates, category structures and content models. This allows every newly generated page to inherit proven [user journeys]({{ 'user-journeys/' | relative_url }}), pass authority towards revenue pages and maintain consistent conversion paths without requiring page-by-page editing. Google's guidance consistently emphasises crawlable links, meaningful anchor text and clear site architecture, while large-site SEO practitioners increasingly focus on template-driven link routing, crawl depth management and authority distribution. <span class="citation-chip-wrap"><a class="citation-chip" href="https://developers.google.com/search/docs/crawling-indexing/links-crawlable" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-snippet">Google for DevelopersSEO Link Best Practices for Google &#124; Google Search CentralLearn how to make your links crawlable so that Google can...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://developers.google.com/search/docs/crawling-indexing/links-crawlable" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-snippet">Google for DevelopersSEO Link Best Practices for Google &#124; Google Search CentralLearn how to make your links crawlable so that Google can...</span></span></span>
 
 For affiliate websites, the goal is not simply to create more links. It is to create repeatable linking systems that move readers from information to evaluation and eventually to affiliate offers.
 
@@ -302,7 +301,7 @@ A visitor searching for "how to choose a camping stove" may enter through an inf
 
 The user moves naturally from research to evaluation without needing custom editorial decisions on every page.
 
-This model also improves authority flow. Informational content often attracts backlinks and organic traffic more easily than commercial pages. Canonical [link paths]({{ 'link-paths/' | relative_url }}) ensure that authority consistently reaches the pages that generate affiliate commissions. Large-site internal-linking frameworks frequently rely on pillar-and-cluster architectures for precisely this reason. Digital Applied <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.siteimprove.com/blog/internal-linking-strategy-for-seo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: siteimprove.com">[Siteimprove]</a><span class="citation-popover" role="note"><span class="citation-popover-source">siteimprove.com</span><span class="citation-popover-title">internal linking strategy for seo</span><span class="citation-popover-snippet">SiteimproveYour Internal Linking Blueprint For Better SEO30 Sept 2025 — Ready to build an internal linking strategy that boosts SEO? Lear...</span></span></span>
+This model also improves authority flow. Informational content often attracts backlinks and organic traffic more easily than commercial pages. Canonical [link paths]({{ 'link-paths/' | relative_url }}) ensure that authority consistently reaches the pages that generate affiliate commissions. Large-site internal-linking frameworks frequently rely on pillar-and-cluster architectures for precisely this reason. Digital Applied <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.siteimprove.com/blog/internal-linking-strategy-for-seo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: siteimprove.com">[Siteimprove]</a><span class="citation-popover" role="note"><span class="citation-popover-source">siteimprove.com</span><span class="citation-popover-title">internal linking strategy for seo</span><span class="citation-popover-snippet">Your Internal Linking Blueprint For Better SEO30 Sept 2025 — Ready to build an internal linking strategy that boosts SEO? Lear...</span></span></span>
 
 ### Building Linking Rules Around Intent Stages
 
@@ -311,7 +310,6 @@ Many affiliate sites organise links by topic. Stronger systems organise them by 
 A simplified journey might look like:
 
 **Problem awareness**
-
 
 <div class="content-enhancement content-enhancement--decision" markdown="1">
 
@@ -378,8 +376,7 @@ Every comparison page might contain:
 
 This creates a network effect. Each new page automatically strengthens the cluster because the linking structure already exists.
 
-Programmatic SEO practitioners increasingly recommend embedding hub-to-spoke, spoke-to-variation and variation-to-variation relationships directly into templates before publication rather than treating internal linking as a later optimisation project. <span class="citation-chip-wrap"><a class="citation-chip" href="https://seomatic.ai/blog/programmatic-seo-internal-linking" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: seomatic.ai">[SEOmatic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">seomatic.ai</span><span class="citation-popover-title">Internal Linking for Programmatic SEO: How to Build It Into</span><span class="citation-popover-snippet">SEOmaticInternal Linking for Programmatic SEO: How to Build It Into...May 15, 2026 — 15 May 2026 — How to configure internal linking acr...</span><span class="citation-popover-meta">Published: May 15, 2026</span></span></span>
-
+Programmatic SEO practitioners increasingly recommend embedding hub-to-spoke, spoke-to-variation and variation-to-variation relationships directly into templates before publication rather than treating internal linking as a later optimisation project. <span class="citation-chip-wrap"><a class="citation-chip" href="https://seomatic.ai/blog/programmatic-seo-internal-linking" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: seomatic.ai">[SEOmatic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">seomatic.ai</span><span class="citation-popover-title">Internal Linking for Programmatic SEO: How to Build It Into</span><span class="citation-popover-snippet">Internal Linking for Programmatic SEO: How to Build It Into...May 15, 2026 — 15 May 2026 — How to configure internal linking acr...</span><span class="citation-popover-meta">Published: May 15, 2026</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/gSrjpnVFR_0" title="How to Use Pillar Content to Build Internal Links" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=gSrjpnVFR_0" target="_blank" rel="noopener noreferrer">How to Use Pillar Content to Build Internal Links</a></p><p class="youtube-embed-meta">Channel: Rank Math SEO &middot; Views: 45.8K &middot; Uploaded: June 2022 &middot; Length: 3 minutes 22 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=gSrjpnVFR_0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=gSrjpnVFR_0">Open on YouTube</a></p></div></div></div>
 
@@ -387,7 +384,7 @@ Programmatic SEO practitioners increasingly recommend embedding hub-to-spoke, sp
 
 One mistake in large affiliate systems is assuming navigation menus provide sufficient internal linking.
 
-Navigation helps discovery, but contextual links carry stronger relevance signals because they appear inside content related to the linked topic. Google's documentation emphasises descriptive, crawlable links that help users and search engines understand page relationships. <span class="citation-chip-wrap"><a class="citation-chip" href="https://developers.google.com/search/docs/crawling-indexing/links-crawlable" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-snippet">Google for DevelopersSEO Link Best Practices for Google | Google Search CentralLearn how to make your links crawlable so that Google can...</span></span></span>
+Navigation helps discovery, but contextual links carry stronger relevance signals because they appear inside content related to the linked topic. Google's documentation emphasises descriptive, crawlable links that help users and search engines understand page relationships. <span class="citation-chip-wrap"><a class="citation-chip" href="https://developers.google.com/search/docs/crawling-indexing/links-crawlable" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-snippet">Google for DevelopersSEO Link Best Practices for Google &#124; Google Search CentralLearn how to make your links crawlable so that Google can...</span></span></span>
 
 For template design, this usually means separating:
 
@@ -414,10 +411,9 @@ Template-based linking can create another problem: repetitive anchor text.
 
 If every article links to the same page using identical [wording]({{ 'wording/' | relative_url }}), the site starts looking mechanically generated. It also reduces the contextual variety that helps search engines understand how pages relate.
 
-Google recommends anchor text that accurately describes the destination page rather than generic phrases such as "click here". <span class="citation-chip-wrap"><a class="citation-chip" href="https://developers.google.com/search/docs/crawling-indexing/links-crawlable" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-snippet">Google for DevelopersSEO Link Best Practices for Google | Google Search CentralLearn how to make your links crawlable so that Google can...</span></span></span>
+Google recommends anchor text that accurately describes the destination page rather than generic phrases such as "click here". <span class="citation-chip-wrap"><a class="citation-chip" href="https://developers.google.com/search/docs/crawling-indexing/links-crawlable" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-snippet">Google for DevelopersSEO Link Best Practices for Google &#124; Google Search CentralLearn how to make your links crawlable so that Google can...</span></span></span>
 
 The challenge is maintaining relevance while avoiding excessive repetition.
-
 
 <img src="{{ "/assets/images/making_money_from_cr_f649af_internal_linking_use_8b6d36_linking_templates_3f3b1f-Illustration-2-dark.svg" | relative_url }}" alt="Template Linking illustration 2" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_internal_linking_use_8b6d36_linking_templates_3f3b1f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_internal_linking_use_8b6d36_linking_templates_3f3b1f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Anchor Pattern Libraries
@@ -425,7 +421,6 @@ The challenge is maintaining relevance while avoiding excessive repetition.
 A scalable solution is to create anchor libraries tied to page categories.
 
 For a page targeting "best office chairs", a template might rotate between:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -443,7 +438,6 @@ This diversity becomes especially important when thousands of pages reference th
 
 A template can draw from:
 
-
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
 * Exact-match variants
@@ -455,7 +449,6 @@ A template can draw from:
 </div>
 
 The result feels editorial rather than automated.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4DgWUgtZGqQ" title="Programmatic SEO: Step-by-Step Case Study" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4DgWUgtZGqQ" target="_blank" rel="noopener noreferrer">Programmatic SEO: Step-by-Step Case Study</a></p><p class="youtube-embed-meta">Channel: Matt Diggity &middot; Views: 66.6K &middot; Uploaded: January 2024 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4DgWUgtZGqQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4DgWUgtZGqQ">Open on YouTube</a></p></div></div></div>
 
@@ -475,14 +468,13 @@ Commercial pages can support stronger evaluation-focused anchors:
 
 This distinction helps reinforce the relationship between content stages while keeping the user journey intuitive.
 
-Many internal-link audits identify overuse of identical anchor text as a recurring weakness on large sites, particularly when links are added through automation without variation controls. <span class="citation-chip-wrap"><a class="citation-chip" href="https://machined.ai/blog/internal-linking-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: machined.ai">[Machined]</a><span class="citation-popover" role="note"><span class="citation-popover-source">machined.ai</span><span class="citation-popover-title">internal linking guide</span><span class="citation-popover-snippet">MachinedInternal Linking: The Complete Guide for SEO11 Feb 2026 — A comprehensive guide to internal linking for SEO, covering best practi...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.edgeoftheweb.co.uk/blog/internal-links-anchor-text-boost-seo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: edgeoftheweb.co.uk">[Edge of the Web]</a><span class="citation-popover" role="note"><span class="citation-popover-source">edgeoftheweb.co.uk</span><span class="citation-popover-title">internal links anchor text boost seo</span><span class="citation-popover-snippet">How we massively boosted SEO with internal links and...19 Feb 2026 — In this article, we&#x27;re going to talk about the basics of internal l...</span></span></span>
+Many internal-link audits identify overuse of identical anchor text as a recurring weakness on large sites, particularly when links are added through automation without variation controls. <span class="citation-chip-wrap"><a class="citation-chip" href="https://machined.ai/blog/internal-linking-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: machined.ai">[Machined]</a><span class="citation-popover" role="note"><span class="citation-popover-source">machined.ai</span><span class="citation-popover-title">internal linking guide</span><span class="citation-popover-snippet">Internal Linking: The Complete Guide for SEO11 Feb 2026 — A comprehensive guide to internal linking for SEO, covering best practi...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.edgeoftheweb.co.uk/blog/internal-links-anchor-text-boost-seo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: edgeoftheweb.co.uk">[Edge of the Web]</a><span class="citation-popover" role="note"><span class="citation-popover-source">edgeoftheweb.co.uk</span><span class="citation-popover-title">internal links anchor text boost seo</span><span class="citation-popover-snippet">How we massively boosted SEO with internal links and...19 Feb 2026 — In this article, we&#x27;re going to talk about the basics of internal l...</span></span></span>
 
 ## Auditing Equity Flows Instead of Counting Links
 
-Large affiliate sites often measure internal linking incorrectly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://machined.ai/blog/internal-linking-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: machined.ai">[machined.ai]</a><span class="citation-popover" role="note"><span class="citation-popover-source">machined.ai</span><span class="citation-popover-title">internal linking guide</span><span class="citation-popover-snippet">MachinedInternal Linking: The Complete Guide for SEO11 Feb 2026 — A comprehensive guide to internal linking for SEO, covering best practi...</span></span></span>
+Large affiliate sites often measure internal linking incorrectly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://machined.ai/blog/internal-linking-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: machined.ai">[machined.ai]</a><span class="citation-popover" role="note"><span class="citation-popover-source">machined.ai</span><span class="citation-popover-title">internal linking guide</span><span class="citation-popover-snippet">Internal Linking: The Complete Guide for SEO11 Feb 2026 — A comprehensive guide to internal linking for SEO, covering best practi...</span></span></span>
 
 They count:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -496,12 +488,10 @@ But these metrics do not reveal whether authority is reaching revenue-generating
 
 A more useful audit focuses on equity flow.
 
-
 <img src="{{ "/assets/images/making_money_from_cr_f649af_internal_linking_use_8b6d36_linking_templates_3f3b1f-Illustration-3-dark.svg" | relative_url }}" alt="Template Linking illustration 3" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_internal_linking_use_8b6d36_linking_templates_3f3b1f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_internal_linking_use_8b6d36_linking_templates_3f3b1f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Identifying Donor Pages
 
 Some pages naturally accumulate authority because they attract:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -522,7 +512,7 @@ An affiliate site should identify:
 
 If a high-authority informational guide receives thousands of visits but only links to other informational articles, revenue opportunities are being lost.
 
-Internal-linking audits increasingly focus on donor-acceptor routing, authority distribution and orphan-page detection rather than simple link counts. Digital Applied <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.seoclarity.net/blog/cheat-sheet-internal-link-analysis" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: seoclarity.net">[2seoClarity]</a><span class="citation-popover" role="note"><span class="citation-popover-source">seoclarity.net</span><span class="citation-popover-title">cheat sheet internal link analysis</span><span class="citation-popover-snippet">seoClarityThe Ultimate Cheat Sheet on Internal Link Analysis for SEO1 Aug 2025 — Internal links help Google and AI search engines site us...</span></span></span>
+Internal-linking audits increasingly focus on donor-acceptor routing, authority distribution and orphan-page detection rather than simple link counts. Digital Applied <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.seoclarity.net/blog/cheat-sheet-internal-link-analysis" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: seoclarity.net">[2seoClarity]</a><span class="citation-popover" role="note"><span class="citation-popover-source">seoclarity.net</span><span class="citation-popover-title">cheat sheet internal link analysis</span><span class="citation-popover-snippet">The Ultimate Cheat Sheet on Internal Link Analysis for SEO1 Aug 2025 — Internal links help Google and AI search engines site us...</span></span></span>
 
 ### Tracking Crawl Depth For Commercial Pages
 
@@ -534,7 +524,7 @@ Homepage → Category → Subcategory → Guide → Review
 
 This weakens visibility and user access.
 
-Large-site architecture guides frequently emphasise shallow click depth because important pages are discovered and revisited more efficiently by both users and search engines. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.siteimprove.com/blog/internal-linking-strategy-for-seo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: siteimprove.com">[Siteimprove]</a><span class="citation-popover" role="note"><span class="citation-popover-source">siteimprove.com</span><span class="citation-popover-title">internal linking strategy for seo</span><span class="citation-popover-snippet">SiteimproveYour Internal Linking Blueprint For Better SEO30 Sept 2025 — Ready to build an internal linking strategy that boosts SEO? Lear...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://web.michaelbell.co.uk/blog/what-is-site-architecture-and-why-it-matters" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: web.michaelbell.co.uk">[MB Web]</a><span class="citation-popover" role="note"><span class="citation-popover-source">web.michaelbell.co.uk</span><span class="citation-popover-title">MB Web What is site architecture and why it matters</span><span class="citation-popover-snippet">is site architecture and why it matters - MB Web20 May 2026 — TL;DR: Site architecture is the deliberate organization of a website&#x27;s page...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
+Large-site architecture guides frequently emphasise shallow click depth because important pages are discovered and revisited more efficiently by both users and search engines. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.siteimprove.com/blog/internal-linking-strategy-for-seo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: siteimprove.com">[Siteimprove]</a><span class="citation-popover" role="note"><span class="citation-popover-source">siteimprove.com</span><span class="citation-popover-title">internal linking strategy for seo</span><span class="citation-popover-snippet">Your Internal Linking Blueprint For Better SEO30 Sept 2025 — Ready to build an internal linking strategy that boosts SEO? Lear...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://web.michaelbell.co.uk/blog/what-is-site-architecture-and-why-it-matters" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: web.michaelbell.co.uk">[MB Web]</a><span class="citation-popover" role="note"><span class="citation-popover-source">web.michaelbell.co.uk</span><span class="citation-popover-title">MB Web What is site architecture and why it matters</span><span class="citation-popover-snippet">is site architecture and why it matters - MB Web20 May 2026 — TL;DR: Site architecture is the deliberate organization of a website&#x27;s page...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
 
 For affiliate systems, templates should aim to keep:
 
@@ -546,7 +536,6 @@ The audit question becomes:
 
 "Can a visitor reach a high-value affiliate page quickly from multiple entry points?"
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/kpz9-QZRYn8" title="How to use Internal Links to Boost Google Rankings" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=kpz9-QZRYn8" target="_blank" rel="noopener noreferrer">How to use Internal Links to Boost Google Rankings</a></p><p class="youtube-embed-meta">Channel: Ahrefs &middot; Views: 74.2K &middot; Uploaded: June 2023 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=kpz9-QZRYn8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=kpz9-QZRYn8">Open on YouTube</a></p></div></div></div>
 
 ### Finding Revenue Orphans
@@ -556,7 +545,7 @@ An orphan page is a page with little or no internal-link support.
 In affiliate projects, orphaned pages are often:
 
 * Product reviews.
-* [Comparison pages]({{ 'comparisons/' | relative_url }}).
+* Comparison pages.
 * Seasonal buying guides.
 * Newly generated commercial content.
 
@@ -1011,148 +1000,148 @@ For affiliate businesses built on large content inventories, that distinction is
 
 1. <a id="endnote-1"></a>
    Source: developers.google.com  
-   Link: [https://developers.google.com/search/docs/crawling-indexing/links-crawlable](https://developers.google.com/search/docs/crawling-indexing/links-crawlable)  
+   Link: <a href="https://developers.google.com/search/docs/crawling-indexing/links-crawlable" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/docs/crawling-indexing/links-crawlable</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Google for DevelopersSEO Link Best Practices for Google | Google Search CentralLearn how to make your links crawlable so that Google can...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: developers.google.com  
-   Link: [https://developers.google.com/search/blog/2008/10/importance-of-link-architecture](https://developers.google.com/search/blog/2008/10/importance-of-link-architecture)  
+   Link: <a href="https://developers.google.com/search/blog/2008/10/importance-of-link-architecture" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/blog/2008/10/importance-of-link-architecture</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Use descriptive anchor text; Verify that Googlebot finds your internal links; You can ask more internal linking questions.Read more...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: siteimprove.com  
    Title: internal linking strategy for seo  
-   Link: [https://www.siteimprove.com/blog/internal-linking-strategy-for-seo/](https://www.siteimprove.com/blog/internal-linking-strategy-for-seo/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SiteimproveYour Internal Linking Blueprint For Better SEO30 Sept 2025 — Ready to build an internal linking strategy that boosts SEO? Lear...</p></details>
+   Link: <a href="https://www.siteimprove.com/blog/internal-linking-strategy-for-seo/" target="_blank" rel="noopener noreferrer nofollow">https://www.siteimprove.com/blog/internal-linking-strategy-for-seo/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Your Internal Linking Blueprint For Better SEO30 Sept 2025 — Ready to build an internal linking strategy that boosts SEO? Lear...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: seomatic.ai  
    Title: Internal Linking for Programmatic SEO: How to Build It Into  
-   Link: [https://seomatic.ai/blog/programmatic-seo-internal-linking](https://seomatic.ai/blog/programmatic-seo-internal-linking)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SEOmaticInternal Linking for Programmatic SEO: How to Build It Into...May 15, 2026 — 15 May 2026 — How to configure internal linking acr...</p></details>
+   Link: <a href="https://seomatic.ai/blog/programmatic-seo-internal-linking" target="_blank" rel="noopener noreferrer nofollow">https://seomatic.ai/blog/programmatic-seo-internal-linking</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Internal Linking for Programmatic SEO: How to Build It Into...May 15, 2026 — 15 May 2026 — How to configure internal linking acr...</p></details>
    Published: May 15, 2026  
 
 5. <a id="endnote-5"></a>
    Source: machined.ai  
    Title: internal linking guide  
-   Link: [https://machined.ai/blog/internal-linking-guide](https://machined.ai/blog/internal-linking-guide)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MachinedInternal Linking: The Complete Guide for SEO11 Feb 2026 — A comprehensive guide to internal linking for SEO, covering best practi...</p></details>
+   Link: <a href="https://machined.ai/blog/internal-linking-guide" target="_blank" rel="noopener noreferrer nofollow">https://machined.ai/blog/internal-linking-guide</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Internal Linking: The Complete Guide for SEO11 Feb 2026 — A comprehensive guide to internal linking for SEO, covering best practi...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: seoclarity.net  
    Title: cheat sheet internal link analysis  
-   Link: [https://www.seoclarity.net/blog/cheat-sheet-internal-link-analysis](https://www.seoclarity.net/blog/cheat-sheet-internal-link-analysis)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>seoClarityThe Ultimate Cheat Sheet on Internal Link Analysis for SEO1 Aug 2025 — Internal links help Google and AI search engines site us...</p></details>
+   Link: <a href="https://www.seoclarity.net/blog/cheat-sheet-internal-link-analysis" target="_blank" rel="noopener noreferrer nofollow">https://www.seoclarity.net/blog/cheat-sheet-internal-link-analysis</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Ultimate Cheat Sheet on Internal Link Analysis for SEO1 Aug 2025 — Internal links help Google and AI search engines site us...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: support.google.com  
    Title: how internal links help seo rankings  
-   Link: [https://support.google.com/webmasters/thread/134874883/how-internal-links-help-seo-rankings?hl=en](https://support.google.com/webmasters/thread/134874883/how-internal-links-help-seo-rankings?hl=en)  
+   Link: <a href="https://support.google.com/webmasters/thread/134874883/how-internal-links-help-seo-rankings?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/webmasters/thread/134874883/how-internal-links-help-seo-rankings?hl=en</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>internal links help SEO rankings11 Nov 2021 — Internal links helps users to navigate from one page to the other, which also helps google...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: support.google.com  
    Title: anchor text for internal link  
-   Link: [https://support.google.com/webmasters/thread/219657551/anchor-text-for-internal-link?hl=en](https://support.google.com/webmasters/thread/219657551/anchor-text-for-internal-link?hl=en)  
+   Link: <a href="https://support.google.com/webmasters/thread/219657551/anchor-text-for-internal-link?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/webmasters/thread/219657551/anchor-text-for-internal-link?hl=en</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>text for internal link6 Jun 2023 — Hello! I have a blog, I want to rank on the first page and for this reason I want to pay attention to...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: digitalapplied.com  
    Title: internal linking strategy 2026 large site architecture guide  
-   Link: [https://www.digitalapplied.com/blog/internal-linking-strategy-2026-large-site-architecture-guide](https://www.digitalapplied.com/blog/internal-linking-strategy-2026-large-site-architecture-guide)  
+   Link: <a href="https://www.digitalapplied.com/blog/internal-linking-strategy-2026-large-site-architecture-guide" target="_blank" rel="noopener noreferrer nofollow">https://www.digitalapplied.com/blog/internal-linking-strategy-2026-large-site-architecture-guide</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Digital AppliedInternal Linking Strategy 2026: Large-Site SEO Guide4 days ago — An internal linking reference for large content sites: pi...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: digitalapplied.com  
    Title: Digital Applied Internal Linking: Topical Authority Playbook  
-   Link: [https://www.digitalapplied.com/blog/internal-linking-strategy-topical-authority-playbook-2026](https://www.digitalapplied.com/blog/internal-linking-strategy-topical-authority-playbook-2026)  
+   Link: <a href="https://www.digitalapplied.com/blog/internal-linking-strategy-topical-authority-playbook-2026" target="_blank" rel="noopener noreferrer nofollow">https://www.digitalapplied.com/blog/internal-linking-strategy-topical-authority-playbook-2026</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Digital AppliedInternal Linking: Topical Authority Playbook - Digital AppliedMay 26, 2026 — 5 days ago — This playbook covers pillar-clus...</p></details>
    Published: May 26, 2026  
 
 11. <a id="endnote-11"></a>
    Source: edgeoftheweb.co.uk  
    Title: internal links anchor text boost seo  
-   Link: [https://www.edgeoftheweb.co.uk/blog/internal-links-anchor-text-boost-seo](https://www.edgeoftheweb.co.uk/blog/internal-links-anchor-text-boost-seo)  
+   Link: <a href="https://www.edgeoftheweb.co.uk/blog/internal-links-anchor-text-boost-seo" target="_blank" rel="noopener noreferrer nofollow">https://www.edgeoftheweb.co.uk/blog/internal-links-anchor-text-boost-seo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How we massively boosted SEO with internal links and...19 Feb 2026 — In this article, we&#x27;re going to talk about the basics of internal l...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: web.michaelbell.co.uk  
    Title: MB Web What is site architecture and why it matters  
-   Link: [https://web.michaelbell.co.uk/blog/what-is-site-architecture-and-why-it-matters](https://web.michaelbell.co.uk/blog/what-is-site-architecture-and-why-it-matters)  
+   Link: <a href="https://web.michaelbell.co.uk/blog/what-is-site-architecture-and-why-it-matters" target="_blank" rel="noopener noreferrer nofollow">https://web.michaelbell.co.uk/blog/what-is-site-architecture-and-why-it-matters</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>is site architecture and why it matters - MB Web20 May 2026 — TL;DR: Site architecture is the deliberate organization of a website&#x27;s page...</p></details>
    Published: May 2026  
 
 13. <a id="endnote-13"></a>
    Source: agent6.com.au  
-   Link: [https://agent6.com.au/site-architecture-and-internal-linking-organising-for-seo/](https://agent6.com.au/site-architecture-and-internal-linking-organising-for-seo/)  
+   Link: <a href="https://agent6.com.au/site-architecture-and-internal-linking-organising-for-seo/" target="_blank" rel="noopener noreferrer nofollow">https://agent6.com.au/site-architecture-and-internal-linking-organising-for-seo/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Site Architecture &amp; Internal Linking: Organising for SEOpetsDesign a scalable site architecture and internal linking strategy: hubs and c...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: contentpen.ai  
    Title: internal linking  
-   Link: [https://contentpen.ai/blog/internal-linking](https://contentpen.ai/blog/internal-linking)  
+   Link: <a href="https://contentpen.ai/blog/internal-linking" target="_blank" rel="noopener noreferrer nofollow">https://contentpen.ai/blog/internal-linking</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Strategy, Types &amp; SEO Best Practices23 Jan 2026 — Learn how internal linking works, why it matters for SEO and AI visibility, and how to...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: incremys.com  
    Title: internal linking  
-   Link: [https://www.incremys.com/en/resources/blog/internal-linking](https://www.incremys.com/en/resources/blog/internal-linking)  
+   Link: <a href="https://www.incremys.com/en/resources/blog/internal-linking" target="_blank" rel="noopener noreferrer nofollow">https://www.incremys.com/en/resources/blog/internal-linking</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>for SEO: Method and Examples (2026)Internal linking for SEO is one of the most controllable levers for improving a site&#x27;s visibility: you...</p></details>
 
 ### Additional References
 
 16. <a id="endnote-16"></a>
    Source: verbolia.com  
-   Link: [https://www.verbolia.com/blog/internal-linking-automation-10-step-seo-guide/](https://www.verbolia.com/blog/internal-linking-automation-10-step-seo-guide/)  
+   Link: <a href="https://www.verbolia.com/blog/internal-linking-automation-10-step-seo-guide/" target="_blank" rel="noopener noreferrer nofollow">https://www.verbolia.com/blog/internal-linking-automation-10-step-seo-guide/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Internal Linking Automation: The 10-Step SEO GuideMaster internal linking for large sites with our 10-step SEO guide. Learn about Verboli...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: screamingfrog.co.uk  
-   Link: [https://www.screamingfrog.co.uk/seo-spider/tutorials/internal-linking-audit-with-the-seo-spider/](https://www.screamingfrog.co.uk/seo-spider/tutorials/internal-linking-audit-with-the-seo-spider/)  
+   Link: <a href="https://www.screamingfrog.co.uk/seo-spider/tutorials/internal-linking-audit-with-the-seo-spider/" target="_blank" rel="noopener noreferrer nofollow">https://www.screamingfrog.co.uk/seo-spider/tutorials/internal-linking-audit-with-the-seo-spider/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Internal Linking Audit With the SEO SpiderI&#x27;ll show you how to conduct an internal linking audit and discover linking opportunities with...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/pulse/ultimate-guide-internal-linking-google-search-central-rahul-kashyap-rrdmc](https://www.linkedin.com/pulse/ultimate-guide-internal-linking-google-search-central-rahul-kashyap-rrdmc)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LinkedInHow to Use Internal Linking for SEO: Google Search CentralUse meaningful anchor text. Anchor text is the text that is displayed f...</p></details>
+   Link: <a href="https://www.linkedin.com/pulse/ultimate-guide-internal-linking-google-search-central-rahul-kashyap-rrdmc" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/ultimate-guide-internal-linking-google-search-central-rahul-kashyap-rrdmc</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Use Internal Linking for SEO: Google Search CentralUse meaningful anchor text. Anchor text is the text that is displayed f...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: vudigital.co.uk  
    Title: We cover taxonomy, navigation, internal linking, and tools you  
-   Link: [https://www.vudigital.co.uk/blog/web-development/mastering-site-structure-information-architecture-for-better-seo-and-user-journeys/](https://www.vudigital.co.uk/blog/web-development/mastering-site-structure-information-architecture-for-better-seo-and-user-journeys/)  
+   Link: <a href="https://www.vudigital.co.uk/blog/web-development/mastering-site-structure-information-architecture-for-better-seo-and-user-journeys/" target="_blank" rel="noopener noreferrer nofollow">https://www.vudigital.co.uk/blog/web-development/mastering-site-structure-information-architecture-for-better-seo-and-user-journeys/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mastering Site Structure: Information Architecture for Better...26 Apr 2022 — Discover how to plan website information architecture that...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: seranking.com  
    Title: These links are especially important for both users and search engines.Read more  
-   Link: [https://seranking.com/blog/internal-links/](https://seranking.com/blog/internal-links/)  
+   Link: <a href="https://seranking.com/blog/internal-links/" target="_blank" rel="noopener noreferrer nofollow">https://seranking.com/blog/internal-links/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Internal Links: An SEO Guide to Proper...14 Nov 2024 — An internal link is a hyperlink that connects one page to another page on the sam...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: clickshark.co.uk  
    Title: Best Internal Linking Strategies for Affiliate Sites  
-   Link: [https://clickshark.co.uk/internal-linking-for-affiliate-sites/](https://clickshark.co.uk/internal-linking-for-affiliate-sites/)  
+   Link: <a href="https://clickshark.co.uk/internal-linking-for-affiliate-sites/" target="_blank" rel="noopener noreferrer nofollow">https://clickshark.co.uk/internal-linking-for-affiliate-sites/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Click SharkDiscover the best internal linking strategies for affiliate sites to improve SEO, user experience, and increase affiliate conv...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: seostrategy.co.uk  
-   Link: [https://www.seostrategy.co.uk/technical-seo/site-architecture-guide/](https://www.seostrategy.co.uk/technical-seo/site-architecture-guide/)  
+   Link: <a href="https://www.seostrategy.co.uk/technical-seo/site-architecture-guide/" target="_blank" rel="noopener noreferrer nofollow">https://www.seostrategy.co.uk/technical-seo/site-architecture-guide/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>es crawlability, topical authority and user experience — from URL structure and...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: wild-pr.co.uk  
-   Link: [https://wild-pr.co.uk/a-guide-to-googles-new-link-best-practices/](https://wild-pr.co.uk/a-guide-to-googles-new-link-best-practices/)  
+   Link: <a href="https://wild-pr.co.uk/a-guide-to-googles-new-link-best-practices/" target="_blank" rel="noopener noreferrer nofollow">https://wild-pr.co.uk/a-guide-to-googles-new-link-best-practices/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A guide to Google&#x27;s new link best practices7 Mar 2023 — Anchor text (also known as link text) is the visible, clickable text of a link...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: rankability.com  
    Title: Are Internal Links a Google Ranking Factor?  
-   Link: [https://www.rankability.com/ranking-factors/google/internal-links/](https://www.rankability.com/ranking-factors/google/internal-links/)  
+   Link: <a href="https://www.rankability.com/ranking-factors/google/internal-links/" target="_blank" rel="noopener noreferrer nofollow">https://www.rankability.com/ranking-factors/google/internal-links/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>control how PageRank/authority and context flow, influence crawlability/indexation, and improve engagement—all of which...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: ranknest.io  
    Title: internal linking massive e commerce sites  
-   Link: [https://www.ranknest.io/blog/internal-linking-massive-e-commerce-sites](https://www.ranknest.io/blog/internal-linking-massive-e-commerce-sites)  
+   Link: <a href="https://www.ranknest.io/blog/internal-linking-massive-e-commerce-sites" target="_blank" rel="noopener noreferrer nofollow">https://www.ranknest.io/blog/internal-linking-massive-e-commerce-sites</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Internal Linking for Massive E-commerce Sites – RankNest18 May 2026 — Learn how to scale internal linking for 10000+ product catalogs wit...</p></details>
-   Published: May 2026  
+   Published: May 2026

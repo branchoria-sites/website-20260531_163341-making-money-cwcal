@@ -255,8 +255,7 @@ image: /assets/images/making_money_from_cr_f649af-overview-social.jpg
 
 ## Introduction
 
-For a scalable website system, the practical question is not “Can affiliate links make money?” but “Which page patterns repeatedly turn visitors into revenue?” That depends on topic selection, page type, offer fit, [internal linking]({{ 'user-journeys/' | relative_url }}), [disclosure]({{ 'disclosure/' | relative_url }}), and measurement. A useful affiliate site is therefore less like a random blog and more like a structured decision engine: it attracts people with a problem, narrows their choices, explains trade-offs, and points them towards offers that genuinely fit the intent.
-
+For a scalable website system, the practical question is not “Can affiliate links make money?” but “Which page patterns repeatedly turn visitors into revenue?” That depends on topic selection, page type, [offer fit]({{ 'offer-fit/' | relative_url }}), internal linking, [disclosure]({{ 'disclosure/' | relative_url }}), and measurement. A useful affiliate site is therefore less like a random blog and more like a structured decision engine: it attracts people with a problem, narrows their choices, explains trade-offs, and points them towards offers that genuinely fit the intent.
 
 <img src="{{ "/assets/images/making_money_from_cr_f649af-overview.webp" | relative_url }}" alt="Overview image for Making Money From Creating Websites Containing Aff" loading="eager" decoding="sync" fetchpriority="high">
 ## How affiliate websites actually earn
@@ -267,7 +266,7 @@ That chain matters because each step can break. A page can rank for a keyword bu
 
 The useful working model is:
 
-Revenue per visitor = visitor intent × click-through rate × merchant conversion rate × commission value.
+[Revenue per visitor]({{ 'revenue-model/' | relative_url }}) = visitor intent × click-through rate × merchant conversion rate × commission value.
 
 This is why two pages with the same traffic can earn very different amounts. A page about “how to clean trainers” may attract useful traffic but have a weak commercial moment unless it recommends cleaning kits, protectors, or replacement shoes at the right point. A page comparing “best running shoes for flat feet” may attract fewer visitors but create a stronger buying path because the reader is already evaluating products.
 
@@ -275,10 +274,9 @@ This is why two pages with the same traffic can earn very different amounts. A p
 
 The best affiliate topics sit where the reader has a clear decision to make and where a merchant offer can solve the problem. A website-generation system should therefore classify topics by intent before creating pages at scale.
 
-High-intent topics usually include product categories, service comparisons, alternatives, “best for” pages, reviews, deals, and problem-specific buying guides. Lower-intent topics include broad definitions, news summaries, history pages, or general advice where the reader may not be close to purchase. These lower-intent pages can still support a site by attracting links, answering questions, and feeding readers towards commercial pages, but they should not be treated as equal revenue opportunities.
+High-[intent topics]({{ 'intent-topics/' | relative_url }}) usually include product categories, service [comparisons]({{ 'comparisons/' | relative_url }}), alternatives, “best for” pages, reviews, deals, and problem-specific buying guides. Lower-intent topics include broad definitions, news summaries, history pages, or general advice where the reader may not be close to purchase. These lower-intent pages can still support a site by attracting links, answering questions, and feeding readers towards commercial pages, but they should not be treated as equal revenue opportunities.
 
 A practical topic-scoring model might include:
-
 
 <div class="content-enhancement content-enhancement--decision" markdown="1">
 
@@ -303,17 +301,16 @@ A “best” page works when readers want a shortlist rather than an exhaustive 
 
 For a scalable system, the template should force a reason for each recommendation. “Best overall”, “best budget option”, “best for beginners”, and “best for advanced users” are useful only when the category supports those distinctions. Thin lists that repeat merchant descriptions add little value, and Google has long warned that affiliate sites using content available across many other sites without substantial added value can be considered low quality. <span class="citation-chip-wrap"><a class="citation-chip" href="https://developers.google.com/search/blog/2014/01/affiliate-programs-and-added-value" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-title">affiliate programs and added value</span><span class="citation-popover-snippet">affiliate programs and added value</span></span></span>
 
-
 <img src="{{ "/assets/images/making_money_from_cr_f649af-Illustration-1-dark.svg" | relative_url }}" alt="Making Money From Creating Websites Containing Aff illustration 1" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Comparison pages
 
 A comparison page works when the reader is choosing between named options: “A vs B”, “X alternatives”, or “is X better than Y?” These pages are powerful because the reader has already narrowed the market. The job is to clarify the trade-off.
 
-The best [comparison pages]({{ 'comparisons/' | relative_url }}) do not try to make every option look equally good. They say who each option is for, who should avoid it, and what decision factor matters most. A comparison between two hosting companies, for example, may turn on renewal pricing, support, performance, WordPress tools, and migration help. The affiliate link should appear at the point where the recommendation is justified, not before the reader understands the difference.
+The best comparison pages do not try to make every option look equally good. They say who each option is for, who should avoid it, and what decision factor matters most. A comparison between two hosting companies, for example, may turn on renewal pricing, support, performance, WordPress tools, and migration help. The affiliate link should appear at the point where the recommendation is justified, not before the reader understands the difference.
 
 ### Review pages
 
-A review page works when the reader wants reassurance about one product, service, or platform. The strongest reviews are specific: they describe real features, limitations, pricing issues, alternatives, and fit. For physical products, Google’s product structured data guidance shows how search can display product information such as price, availability, ratings, and shipping details when pages use eligible structured data correctly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://developers.google.com/search/blog/2014/01/affiliate-programs-and-added-value" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-title">affiliate programs and added value</span><span class="citation-popover-snippet">affiliate programs and added value</span></span></span>
+A review page works when the reader wants reassurance about one product, service, or platform. The strongest reviews are specific: they describe real features, [limitations]({{ 'limitations/' | relative_url }}), pricing issues, alternatives, and fit. For physical products, Google’s product structured data guidance shows how search can display product information such as price, availability, ratings, and shipping details when pages use eligible structured data correctly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://developers.google.com/search/blog/2014/01/affiliate-programs-and-added-value" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-title">affiliate programs and added value</span><span class="citation-popover-snippet">affiliate programs and added value</span></span></span>
 
 For affiliate sites, the commercial danger is copying merchant claims. A review that only says a product is “great value” and “easy to use” gives the reader little reason to trust the recommendation. A better page explains what type of buyer should choose it, what the competing options do better, and what the reader should check before buying.
 
@@ -323,7 +320,6 @@ Informational pages can still support affiliate revenue when they are connected 
 
 The key is not to force affiliate links into every paragraph. A reader who is still learning may need a guide, calculator, glossary, or decision tree before a product link makes sense. For scaled site production, support pages should be mapped to the commercial pages they feed.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/w3-obcXkyA4" title="Thin content with little or no added value" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=w3-obcXkyA4" target="_blank" rel="noopener noreferrer">Thin content with little or no added value</a></p><p class="youtube-embed-meta">Channel: Google Search Central &middot; Views: 180.1K &middot; Uploaded: August 2013 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=w3-obcXkyA4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=w3-obcXkyA4">Open on YouTube</a></p></div></div></div>
 
 ## Matching offers to intent
@@ -331,7 +327,6 @@ The key is not to force affiliate links into every paragraph. A reader who is st
 Affiliate monetisation improves when offers are selected by reader intent rather than by commission rate alone. A high commission is not attractive if the offer does not fit the visitor’s problem, the brand is weak, or the conversion rate is poor.
 
 A useful offer-matching framework is:
-
 
 <div class="content-enhancement content-enhancement--decision" markdown="1">
 
@@ -346,14 +341,13 @@ A useful offer-matching framework is:
 
 A page about “best accounting software for sole traders” should prioritise software with pricing, features, and compliance fit for that audience. A page about “best enterprise accounting software” needs a different offer set, often with lead-generation or demo-booking goals rather than instant purchase. The same topic cluster may therefore need different conversion paths depending on business size, budget, and urgency.
 
-Affiliate networks and platforms increasingly emphasise measurement, attribution, and partner reporting because brands want to understand which partners drive valuable outcomes, not just clicks. Awin says its platform gives publishers access to real-time reporting across metrics, while Impact’s affiliate material frames tracking as the basis for understanding programme effectiveness. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.awin.com/gb/pricing/affiliate-partners" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: awin.com">[Awin]</a><span class="citation-popover" role="note"><span class="citation-popover-source">awin.com</span><span class="citation-popover-snippet">AwinPublisher partners start affiliate marketing for freeBecome an affiliate marketing publisher partner with Awin at no cost and start e...</span></span></span>
+Affiliate networks and platforms increasingly emphasise measurement, attribution, and partner reporting because brands want to understand which partners drive valuable outcomes, not just clicks. Awin says its platform gives publishers access to real-time reporting across metrics, while Impact’s affiliate material frames tracking as the basis for understanding programme effectiveness. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.awin.com/gb/pricing/affiliate-partners" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: awin.com">[Awin]</a><span class="citation-popover" role="note"><span class="citation-popover-source">awin.com</span><span class="citation-popover-snippet">Publisher partners start affiliate marketing for freeBecome an affiliate marketing publisher partner with Awin at no cost and start e...</span></span></span>
 
 ## Designing pages for clicks without losing trust
 
 Affiliate links should be visible, useful, and honest. A page that hides links or overloads the reader with buttons may get some clicks, but it can also reduce trust and weaken long-term performance.
 
 Good conversion design usually includes:
-
 
 <div class="content-enhancement content-enhancement--benefit" markdown="1">
 
@@ -367,7 +361,7 @@ Good conversion design usually includes:
 
 </div>
 
-[Disclosures]({{ 'disclosures/' | relative_url }}) are not optional window dressing. The UK Advertising Standards Authority’s guidance says affiliate marketing content can fall within the CAP Code and that, depending on the arrangement, either the whole content or particular affiliate-linked parts may need to be identified as advertising. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.asa.org.uk/advice-online/affiliate-marketing.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asa.org.uk">[asa.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asa.org.uk</span><span class="citation-popover-title">affiliate marketing</span><span class="citation-popover-snippet">affiliate marketing</span></span></span> The US Federal Trade Commission similarly says material connections between advertisers and endorsers should be disclosed clearly; its endorsement guidance is often relevant where sites serve US audiences or work with US programmes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ftc.gov/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Disclosures are not optional window dressing. The UK Advertising Standards Authority’s guidance says affiliate marketing content can fall within the CAP Code and that, depending on the arrangement, either the whole content or particular affiliate-linked parts may need to be identified as advertising. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.asa.org.uk/advice-online/affiliate-marketing.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asa.org.uk">[asa.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asa.org.uk</span><span class="citation-popover-title">affiliate marketing</span><span class="citation-popover-snippet">affiliate marketing</span></span></span> The US Federal Trade Commission similarly says material connections between advertisers and endorsers should be disclosed clearly; its endorsement guidance is often relevant where sites serve US audiences or work with US programmes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ftc.gov/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 For a website system, this means disclosure should be part of the template, not an afterthought. It should appear where readers will see it before acting on affiliate links, written in plain language rather than legal fog. A simple statement such as “We may earn a commission if you buy through links on this page, at no extra cost to you” is clearer than burying disclosure in a footer.
 
@@ -376,7 +370,6 @@ For a website system, this means disclosure should be part of the template, not 
 Internal links are not just an SEO device. On an affiliate site, they shape the reader’s path from question to decision.
 
 A good cluster might include:
-
 
 <div class="content-enhancement content-enhancement--decision" markdown="1">
 
@@ -393,14 +386,12 @@ This structure lets the site serve different levels of buying intent. A visitor 
 
 For scalable production, internal linking should be rule-based. Informational pages should link to the most relevant commercial page in their cluster. Best-of pages should link to reviews and comparisons for products they mention. Review pages should link back to category guides and alternatives. This creates a repeatable user flow rather than isolated pages competing with each other.
 
-
 <img src="{{ "/assets/images/making_money_from_cr_f649af-Illustration-2-dark.svg" | relative_url }}" alt="Making Money From Creating Websites Containing Aff illustration 2" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Measuring what is worth scaling
 
 The most useful affiliate metrics are not vanity traffic numbers. They show where money is created or lost.
 
 Key metrics include:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -414,12 +405,11 @@ Key metrics include:
 
 </div>
 
-Earnings per click, often shortened to EPC, is widely used in affiliate marketing because it converts commission performance into a comparable click-level metric. It is useful for comparing offers, but it can be misleading if coupon sites, cashback partners, review sites, and editorial publishers are all mixed together because their traffic and conversion behaviour differ. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.affiversemedia.com/what-is-epc-in-affiliate-marketing-the-ultimate-performance-metric-that-drives-success/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: affiversemedia.com">[- Affiverse]</a><span class="citation-popover" role="note"><span class="citation-popover-source">affiversemedia.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Earnings per click, often shortened to EPC, is widely used in affiliate marketing because it converts commission performance into a comparable click-level metric. It is useful for comparing offers, but it can be misleading if coupon sites, cashback partners, review sites, and editorial publishers are all mixed together because their traffic and conversion behaviour differ. - Affiverse <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.affiversemedia.com/what-is-epc-in-affiliate-marketing-the-ultimate-performance-metric-that-drives-success/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: affiversemedia.com">[affiversemedia.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">affiversemedia.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 A practical site system should therefore measure at several levels: page, template, offer, cluster, and traffic source. If “best budget X” pages consistently produce lower commission but higher click-through, they may still be valuable. If “premium X review” pages produce fewer clicks but much higher revenue per visitor, they may deserve more internal links and expansion into adjacent products.
 
 Recent benchmark commentary from Impact suggests that shoppers have been clicking more while converting less in some affiliate programmes, with 2025 data showing clicks up but conversions down year on year. That reinforces the need to measure the full path, not just clicks. More clicks are not automatically better if the traffic is less ready, the offer is weaker, or the merchant page fails to convert. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://impact.com/affiliate/affiliate-marketing-benchmark/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: impact.com">[impact.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">impact.com</span><span class="citation-popover-title">affiliate marketing benchmark</span><span class="citation-popover-snippet">affiliate marketing benchmark</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cX395xZqjxc" title="I Designed the PERFECT Affiliate Website. Here&#x27;s what Happened..." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cX395xZqjxc" target="_blank" rel="noopener noreferrer">I Designed the PERFECT Affiliate Website. Here&#x27;s what Happened...</a></p><p class="youtube-embed-meta">Channel: Matt Diggity &middot; Views: 34.7K &middot; Uploaded: November 2022 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cX395xZqjxc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cX395xZqjxc">Open on YouTube</a></p></div></div></div>
 
@@ -430,21 +420,15 @@ Thin affiliate content is one of the main risks in high-volume website productio
 This does not mean affiliate sites are automatically low quality. It means the page must do something useful beyond sending the visitor elsewhere. Useful added value can include:
 
 * Original testing or hands-on observations.
-* Clear comparison [criteria]({{ 'criteria/' | relative_url }}).
-
-<div class="content-enhancement content-enhancement--caution" markdown="1">
-
+* Clear comparison criteria.
 * Current pricing and feature interpretation.
 * Fit-based recommendations for different users.
 * Explanation of trade-offs and limitations.
 * Better organisation of choices than the merchant provides.
-* Decision tools, calculators, filters, or checklists.
+* [Decision tools]({{ 'decision-tools/' | relative_url }}), calculators, filters, or checklists.
 * Clear warnings about who should not buy.
 
-</div>
-
 For a scaled website system, the anti-thin-content rule is simple: do not generate a page unless the template has a job that helps the reader decide. A “best” page needs real criteria. A comparison page needs genuine differences. A review page needs a verdict and alternatives. An informational page needs a clear next step. Pages that merely restate product descriptions are unlikely to build trust or durable search visibility.
-
 
 <img src="{{ "/assets/images/making_money_from_cr_f649af-Illustration-3-dark.svg" | relative_url }}" alt="Making Money From Creating Websites Containing Aff illustration 3" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Compliance and technical basics
@@ -465,6 +449,8 @@ A scalable affiliate website is not built by writing thousands of disconnected a
 
 The most repeatable patterns are:
 
+<div class="content-enhancement content-enhancement--benefit" markdown="1">
+
 * **Problem-led buying guides:** “Best X for Y” where Y is a clear use case.
 * **Named comparisons:** “X vs Y” where readers are choosing between options.
 * **Alternatives pages:** “Best alternatives to X” where readers are dissatisfied or price-sensitive.
@@ -472,12 +458,13 @@ The most repeatable patterns are:
 * **Cluster support pages:** Informational explainers that naturally link into buying pages.
 * **Accessory and add-on pages:** Smaller purchase decisions that sit near a main product category.
 
+</div>
+
 The system should expand from evidence, not guesses. If a “best for beginners” page type performs well in one software category, it may be worth testing in adjacent categories. If comparison pages outperform broad guides in web hosting, the same pattern may apply to VPNs, website builders, or ecommerce platforms. If a cluster has traffic but low revenue per visitor, the issue may be weak intent, poor offer matching, or missing internal links to stronger commercial pages.
 
 A useful rule is to scale the pattern, not just the topic. The topic is “standing desks”. The pattern is “best standing desks for small spaces with a comparison table, sizing guidance, and links to merchant pages with stock and delivery information”. The pattern is what can be repeated.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/JAlP8uOisO0" title="How to make an Affiliate Website (Niche Website) with WordPress 2023" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=JAlP8uOisO0" target="_blank" rel="noopener noreferrer">How to make an Affiliate Website (Niche Website) with WordPress 2023</a></p><p class="youtube-embed-meta">Channel: Alex Cooper - WP Eagle &middot; Views: 7.0K &middot; Uploaded: March 2023 &middot; Length: 1 hour 34 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=JAlP8uOisO0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=JAlP8uOisO0">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TdO7nPxhx5U" title="How To Make Money With Amazon Affiliate: Step by Step Guide" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TdO7nPxhx5U" target="_blank" rel="noopener noreferrer">How To Make Money With Amazon Affiliate: Step by Step Guide</a></p><p class="youtube-embed-meta">Channel: Authority Hacker Podcast &middot; Views: 5.5K &middot; Uploaded: June 2021 &middot; Length: 16 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TdO7nPxhx5U" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TdO7nPxhx5U">Open on YouTube</a></p></div></div></div>
 
 ## Common failure modes
 
@@ -486,7 +473,7 @@ Many affiliate websites fail because they confuse publishing volume with monetis
 The most common failure modes are:
 
 * **Traffic without intent:** The site attracts readers who want information but not products.
-* **Intent without [offer fit]({{ 'offer-fit/' | relative_url }}):** The page attracts buyers but promotes poor or irrelevant merchants.
+* **Intent without offer fit:** The page attracts buyers but promotes poor or irrelevant merchants.
 * **Offer fit without trust:** The page looks like a commission grab rather than a helpful guide.
 * **Clicks without conversions:** Readers click, but the merchant page, price, stock, or attribution model fails.
 * **Commission without durability:** The page earns briefly but depends on outdated prices, thin content, or unstable rankings.
@@ -851,257 +838,257 @@ For a website-generation and monetisation system, the central lesson is to treat
 1. <a id="endnote-1"></a>
    Source: impact.com  
    Title: What is affiliate tracking? The basics for publishers  
-   Link: [https://impact.com/affiliate/what-is-affiliate-tracking-the-basics-for-publishers/](https://impact.com/affiliate/what-is-affiliate-tracking-the-basics-for-publishers/)  
+   Link: <a href="https://impact.com/affiliate/what-is-affiliate-tracking-the-basics-for-publishers/" target="_blank" rel="noopener noreferrer nofollow">https://impact.com/affiliate/what-is-affiliate-tracking-the-basics-for-publishers/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>August 5, 2024 — Affiliate tracking captures the customer page views, clicks, and conversion data that affiliates provide to a brand.Read...</p></details>
    Published: August 5, 2024  
 
 2. <a id="endnote-2"></a>
    Source: awin.com  
-   Link: [https://www.awin.com/gb/pricing/affiliate-partners](https://www.awin.com/gb/pricing/affiliate-partners)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AwinPublisher partners start affiliate marketing for freeBecome an affiliate marketing publisher partner with Awin at no cost and start e...</p></details>
+   Link: <a href="https://www.awin.com/gb/pricing/affiliate-partners" target="_blank" rel="noopener noreferrer nofollow">https://www.awin.com/gb/pricing/affiliate-partners</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Publisher partners start affiliate marketing for freeBecome an affiliate marketing publisher partner with Awin at no cost and start e...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: developers.google.com  
    Title: affiliate programs and added value  
-   Link: [https://developers.google.com/search/blog/2014/01/affiliate-programs-and-added-value](https://developers.google.com/search/blog/2014/01/affiliate-programs-and-added-value)  
+   Link: <a href="https://developers.google.com/search/blog/2014/01/affiliate-programs-and-added-value" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/blog/2014/01/affiliate-programs-and-added-value</a>  
 
 4. <a id="endnote-4"></a>
    Source: developers.google.com  
-   Link: [https://developers.google.com/search/docs/appearance/structured-data/product](https://developers.google.com/search/docs/appearance/structured-data/product)  
+   Link: <a href="https://developers.google.com/search/docs/appearance/structured-data/product" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/docs/appearance/structured-data/product</a>  
 
 5. <a id="endnote-5"></a>
    Source: asa.org.uk  
    Title: affiliate marketing  
-   Link: [https://www.asa.org.uk/advice-online/affiliate-marketing.html](https://www.asa.org.uk/advice-online/affiliate-marketing.html)  
+   Link: <a href="https://www.asa.org.uk/advice-online/affiliate-marketing.html" target="_blank" rel="noopener noreferrer nofollow">https://www.asa.org.uk/advice-online/affiliate-marketing.html</a>  
 
 6. <a id="endnote-6"></a>
    Source: asa.org.uk  
    Title: get yourself affiliated with the rules on affiliate marketing  
-   Link: [https://www.asa.org.uk/news/get-yourself-affiliated-with-the-rules-on-affiliate-marketing.html](https://www.asa.org.uk/news/get-yourself-affiliated-with-the-rules-on-affiliate-marketing.html)  
+   Link: <a href="https://www.asa.org.uk/news/get-yourself-affiliated-with-the-rules-on-affiliate-marketing.html" target="_blank" rel="noopener noreferrer nofollow">https://www.asa.org.uk/news/get-yourself-affiliated-with-the-rules-on-affiliate-marketing.html</a>  
 
 7. <a id="endnote-7"></a>
    Source: impact.com  
    Title: affiliate marketing benchmark  
-   Link: [https://impact.com/affiliate/affiliate-marketing-benchmark/](https://impact.com/affiliate/affiliate-marketing-benchmark/)  
+   Link: <a href="https://impact.com/affiliate/affiliate-marketing-benchmark/" target="_blank" rel="noopener noreferrer nofollow">https://impact.com/affiliate/affiliate-marketing-benchmark/</a>  
 
 8. <a id="endnote-8"></a>
    Source: developers.google.com  
-   Link: [https://developers.google.com/search/docs/essentials/spam-policies](https://developers.google.com/search/docs/essentials/spam-policies)  
+   Link: <a href="https://developers.google.com/search/docs/essentials/spam-policies" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/docs/essentials/spam-policies</a>  
 
 9. <a id="endnote-9"></a>
    Source: developers.google.com  
-   Link: [https://developers.google.com/search/docs/crawling-indexing/qualify-outbound-links](https://developers.google.com/search/docs/crawling-indexing/qualify-outbound-links)  
+   Link: <a href="https://developers.google.com/search/docs/crawling-indexing/qualify-outbound-links" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/docs/crawling-indexing/qualify-outbound-links</a>  
 
 10. <a id="endnote-10"></a>
    Source: developers.google.com  
-   Link: [https://developers.google.com/search/docs/appearance/structured-data/product-snippet](https://developers.google.com/search/docs/appearance/structured-data/product-snippet)  
+   Link: <a href="https://developers.google.com/search/docs/appearance/structured-data/product-snippet" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/docs/appearance/structured-data/product-snippet</a>  
 
 11. <a id="endnote-11"></a>
    Source: awin.com  
    Title: what the cap code means for affiliates  
-   Link: [https://www.awin.com/gb/compliance-and-regulations/what-the-cap-code-means-for-affiliates](https://www.awin.com/gb/compliance-and-regulations/what-the-cap-code-means-for-affiliates)  
+   Link: <a href="https://www.awin.com/gb/compliance-and-regulations/what-the-cap-code-means-for-affiliates" target="_blank" rel="noopener noreferrer nofollow">https://www.awin.com/gb/compliance-and-regulations/what-the-cap-code-means-for-affiliates</a>  
 
 12. <a id="endnote-12"></a>
    Source: awin.com  
    Title: affiliate trends 2025  
-   Link: [https://www.awin.com/gb/sector-insights/affiliate-trends-2025](https://www.awin.com/gb/sector-insights/affiliate-trends-2025)  
+   Link: <a href="https://www.awin.com/gb/sector-insights/affiliate-trends-2025" target="_blank" rel="noopener noreferrer nofollow">https://www.awin.com/gb/sector-insights/affiliate-trends-2025</a>  
 
 13. <a id="endnote-13"></a>
    Source: awin.com  
    Title: new influencer marketing  
-   Link: [https://www.awin.com/gb/sector-insights/new-influencer-marketing](https://www.awin.com/gb/sector-insights/new-influencer-marketing)  
+   Link: <a href="https://www.awin.com/gb/sector-insights/new-influencer-marketing" target="_blank" rel="noopener noreferrer nofollow">https://www.awin.com/gb/sector-insights/new-influencer-marketing</a>  
 
 14. <a id="endnote-14"></a>
    Source: awin.com  
    Title: forrester affiliate survey  
-   Link: [https://www.awin.com/gb/sector-insights/awin-forrester-affiliate-survey](https://www.awin.com/gb/sector-insights/awin-forrester-affiliate-survey)  
+   Link: <a href="https://www.awin.com/gb/sector-insights/awin-forrester-affiliate-survey" target="_blank" rel="noopener noreferrer nofollow">https://www.awin.com/gb/sector-insights/awin-forrester-affiliate-survey</a>  
 
 15. <a id="endnote-15"></a>
    Source: awin.com  
-   Link: [https://www.awin.com/](https://www.awin.com/)  
+   Link: <a href="https://www.awin.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.awin.com/</a>  
 
 16. <a id="endnote-16"></a>
    Source: awin.com  
-   Link: [https://www.awin.com/gb/market-insights](https://www.awin.com/gb/market-insights)  
+   Link: <a href="https://www.awin.com/gb/market-insights" target="_blank" rel="noopener noreferrer nofollow">https://www.awin.com/gb/market-insights</a>  
 
 17. <a id="endnote-17"></a>
    Source: help.awin.com  
    Title: partner types overview  
-   Link: [https://help.awin.com/docs/partner-types-overview](https://help.awin.com/docs/partner-types-overview)  
+   Link: <a href="https://help.awin.com/docs/partner-types-overview" target="_blank" rel="noopener noreferrer nofollow">https://help.awin.com/docs/partner-types-overview</a>  
 
 18. <a id="endnote-18"></a>
    Source: awin.com  
-   Link: [https://www.awin.com/gb/case-studies](https://www.awin.com/gb/case-studies)  
+   Link: <a href="https://www.awin.com/gb/case-studies" target="_blank" rel="noopener noreferrer nofollow">https://www.awin.com/gb/case-studies</a>  
 
 19. <a id="endnote-19"></a>
    Source: support.google.com  
    Title: manual action for thin content  
-   Link: [https://support.google.com/webmasters/thread/71950043/manual-action-for-thin-content?hl=en](https://support.google.com/webmasters/thread/71950043/manual-action-for-thin-content?hl=en)  
+   Link: <a href="https://support.google.com/webmasters/thread/71950043/manual-action-for-thin-content?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/webmasters/thread/71950043/manual-action-for-thin-content?hl=en</a>  
 
 20. <a id="endnote-20"></a>
    Source: google.com  
-   Link: [https://www.google.com/](https://www.google.com/)  
+   Link: <a href="https://www.google.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.google.com/</a>  
 
 21. <a id="endnote-21"></a>
    Source: support.google.com  
    Title: is affiliate marketing dead  
-   Link: [https://support.google.com/webmasters/thread/257058271/is-affiliate-marketing-dead?hl=en](https://support.google.com/webmasters/thread/257058271/is-affiliate-marketing-dead?hl=en)  
+   Link: <a href="https://support.google.com/webmasters/thread/257058271/is-affiliate-marketing-dead?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/webmasters/thread/257058271/is-affiliate-marketing-dead?hl=en</a>  
 
 22. <a id="endnote-22"></a>
    Source: support.google.com  
-   Link: [https://support.google.com/webmasters/thread/302446608/provide-details-about-the-affiliate-products-review-guidelines-and-can-we-used-more-than-ads-network?hl=en](https://support.google.com/webmasters/thread/302446608/provide-details-about-the-affiliate-products-review-guidelines-and-can-we-used-more-than-ads-network?hl=en)  
+   Link: <a href="https://support.google.com/webmasters/thread/302446608/provide-details-about-the-affiliate-products-review-guidelines-and-can-we-used-more-than-ads-network?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/webmasters/thread/302446608/provide-details-about-the-affiliate-products-review-guidelines-and-can-we-used-more-than-ads-network?hl=en</a>  
 
 23. <a id="endnote-23"></a>
    Source: support.google.com  
    Title: merchant listings structured data for affiliate sites  
-   Link: [https://support.google.com/webmasters/thread/233393083/merchant-listings-structured-data-for-affiliate-sites?hl=en](https://support.google.com/webmasters/thread/233393083/merchant-listings-structured-data-for-affiliate-sites?hl=en)  
+   Link: <a href="https://support.google.com/webmasters/thread/233393083/merchant-listings-structured-data-for-affiliate-sites?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/webmasters/thread/233393083/merchant-listings-structured-data-for-affiliate-sites?hl=en</a>  
 
 24. <a id="endnote-24"></a>
    Source: support.google.com  
    Title: sponsored links rel attribute  
-   Link: [https://support.google.com/webmasters/thread/118842020/sponsored-links-rel-attribute?hl=en](https://support.google.com/webmasters/thread/118842020/sponsored-links-rel-attribute?hl=en)  
+   Link: <a href="https://support.google.com/webmasters/thread/118842020/sponsored-links-rel-attribute?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/webmasters/thread/118842020/sponsored-links-rel-attribute?hl=en</a>  
 
 25. <a id="endnote-25"></a>
    Source: developers.google.com  
    Title: intro structured data  
-   Link: [https://developers.google.com/search/docs/appearance/structured-data/intro-structured-data](https://developers.google.com/search/docs/appearance/structured-data/intro-structured-data)  
+   Link: <a href="https://developers.google.com/search/docs/appearance/structured-data/intro-structured-data" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/docs/appearance/structured-data/intro-structured-data</a>  
 
 26. <a id="endnote-26"></a>
    Source: developers.google.com  
    Title: merchant listings  
-   Link: [https://developers.google.com/search/blog/2022/09/merchant-listings](https://developers.google.com/search/blog/2022/09/merchant-listings)  
+   Link: <a href="https://developers.google.com/search/blog/2022/09/merchant-listings" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/blog/2022/09/merchant-listings</a>  
 
 27. <a id="endnote-27"></a>
    Source: impact.com  
    Title: creator attribution marketing models  
-   Link: [https://impact.com/affiliate/creator-attribution-marketing-models/](https://impact.com/affiliate/creator-attribution-marketing-models/)  
+   Link: <a href="https://impact.com/affiliate/creator-attribution-marketing-models/" target="_blank" rel="noopener noreferrer nofollow">https://impact.com/affiliate/creator-attribution-marketing-models/</a>  
 
 28. <a id="endnote-28"></a>
    Source: impact.com  
-   Link: [https://impact.com/affiliate/5-effective-affiliate-commission-structures/](https://impact.com/affiliate/5-effective-affiliate-commission-structures/)  
+   Link: <a href="https://impact.com/affiliate/5-effective-affiliate-commission-structures/" target="_blank" rel="noopener noreferrer nofollow">https://impact.com/affiliate/5-effective-affiliate-commission-structures/</a>  
 
 29. <a id="endnote-29"></a>
    Source: asa.org.uk  
-   Link: [https://www.asa.org.uk/static/uploaded/3af39c72-76e1-4a59-b2b47e81a034cd1d.pdf](https://www.asa.org.uk/static/uploaded/3af39c72-76e1-4a59-b2b47e81a034cd1d.pdf)  
+   Link: <a href="https://www.asa.org.uk/static/uploaded/3af39c72-76e1-4a59-b2b47e81a034cd1d.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.asa.org.uk/static/uploaded/3af39c72-76e1-4a59-b2b47e81a034cd1d.pdf</a>  
 
 30. <a id="endnote-30"></a>
    Source: keyword.com  
    Title: affiliate links seo rankings  
-   Link: [https://keyword.com/blog/affiliate-links-seo-rankings/](https://keyword.com/blog/affiliate-links-seo-rankings/)  
+   Link: <a href="https://keyword.com/blog/affiliate-links-seo-rankings/" target="_blank" rel="noopener noreferrer nofollow">https://keyword.com/blog/affiliate-links-seo-rankings/</a>  
 
 31. <a id="endnote-31"></a>
    Source: affiliate-program.amazon.com  
-   Link: [https://affiliate-program.amazon.com/help/node/topic/GHQNZAU6669EZS98](https://affiliate-program.amazon.com/help/node/topic/GHQNZAU6669EZS98)  
+   Link: <a href="https://affiliate-program.amazon.com/help/node/topic/GHQNZAU6669EZS98" target="_blank" rel="noopener noreferrer nofollow">https://affiliate-program.amazon.com/help/node/topic/GHQNZAU6669EZS98</a>  
 
 32. <a id="endnote-32"></a>
    Source: affiliate-program.amazon.com  
-   Link: [https://affiliate-program.amazon.com/help/operating/policies](https://affiliate-program.amazon.com/help/operating/policies)  
+   Link: <a href="https://affiliate-program.amazon.com/help/operating/policies" target="_blank" rel="noopener noreferrer nofollow">https://affiliate-program.amazon.com/help/operating/policies</a>  
 
 33. <a id="endnote-33"></a>
    Source: affiliate-program.amazon.co.uk  
    Title: Amazon Associates Amazon.co.uk Associates Central  
-   Link: [https://affiliate-program.amazon.co.uk/help/node/topic/GHQNZAU6669EZS98](https://affiliate-program.amazon.co.uk/help/node/topic/GHQNZAU6669EZS98)  
+   Link: <a href="https://affiliate-program.amazon.co.uk/help/node/topic/GHQNZAU6669EZS98" target="_blank" rel="noopener noreferrer nofollow">https://affiliate-program.amazon.co.uk/help/node/topic/GHQNZAU6669EZS98</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Amazon AssociatesAmazon.co.uk Associates Central - HelpTo meet the Associate Program&#x27;s requirements, you must (1) include a legally compl...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: affiliate-program.amazon.co.uk  
-   Link: [https://affiliate-program.amazon.co.uk/help/operating/agreement](https://affiliate-program.amazon.co.uk/help/operating/agreement)  
+   Link: <a href="https://affiliate-program.amazon.co.uk/help/operating/agreement" target="_blank" rel="noopener noreferrer nofollow">https://affiliate-program.amazon.co.uk/help/operating/agreement</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Amazon AssociatesAssociates Program Operating Agreement15 Oct 2025 — You will not disclose Confidential Information to any third party (o...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: ftc.gov  
-   Link: [https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews](https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews)  
+   Link: <a href="https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews</a>  
 
 36. <a id="endnote-36"></a>
    Source: ftc.gov  
    Title: s endorsement guides what people are asking  
-   Link: [https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking](https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking)  
+   Link: <a href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking</a>  
 
 37. <a id="endnote-37"></a>
    Source: affiversemedia.com  
-   Link: [https://www.affiversemedia.com/what-is-epc-in-affiliate-marketing-the-ultimate-performance-metric-that-drives-success/](https://www.affiversemedia.com/what-is-epc-in-affiliate-marketing-the-ultimate-performance-metric-that-drives-success/)  
+   Link: <a href="https://www.affiversemedia.com/what-is-epc-in-affiliate-marketing-the-ultimate-performance-metric-that-drives-success/" target="_blank" rel="noopener noreferrer nofollow">https://www.affiversemedia.com/what-is-epc-in-affiliate-marketing-the-ultimate-performance-metric-that-drives-success/</a>  
 
 38. <a id="endnote-38"></a>
    Source: ftc.gov  
-   Link: [https://www.ftc.gov/](https://www.ftc.gov/)  
+   Link: <a href="https://www.ftc.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/</a>  
 
 39. <a id="endnote-39"></a>
    Source: geniuslink.com  
    Title: amazon associates requirements  
-   Link: [https://geniuslink.com/blog/amazon-associates-requirements/](https://geniuslink.com/blog/amazon-associates-requirements/)  
+   Link: <a href="https://geniuslink.com/blog/amazon-associates-requirements/" target="_blank" rel="noopener noreferrer nofollow">https://geniuslink.com/blog/amazon-associates-requirements/</a>  
 
 40. <a id="endnote-40"></a>
    Source: kirkland.com  
-   Link: [https://www.kirkland.com/publications/kirkland-alert/2023/07/federal-trade-commission-releases-first-updates-to-endorsement-guides-in-14-years](https://www.kirkland.com/publications/kirkland-alert/2023/07/federal-trade-commission-releases-first-updates-to-endorsement-guides-in-14-years)  
+   Link: <a href="https://www.kirkland.com/publications/kirkland-alert/2023/07/federal-trade-commission-releases-first-updates-to-endorsement-guides-in-14-years" target="_blank" rel="noopener noreferrer nofollow">https://www.kirkland.com/publications/kirkland-alert/2023/07/federal-trade-commission-releases-first-updates-to-endorsement-guides-in-14-years</a>  
 
 41. <a id="endnote-41"></a>
    Source: affiversemedia.com  
    Title: google ai search guidelines affiliates  
-   Link: [https://www.affiversemedia.com/google-ai-search-guidelines-affiliates/](https://www.affiversemedia.com/google-ai-search-guidelines-affiliates/)  
+   Link: <a href="https://www.affiversemedia.com/google-ai-search-guidelines-affiliates/" target="_blank" rel="noopener noreferrer nofollow">https://www.affiversemedia.com/google-ai-search-guidelines-affiliates/</a>  
 
 42. <a id="endnote-42"></a>
    Source: richads.com  
-   Link: [https://richads.com/blog/what-is/epc/](https://richads.com/blog/what-is/epc/)  
+   Link: <a href="https://richads.com/blog/what-is/epc/" target="_blank" rel="noopener noreferrer nofollow">https://richads.com/blog/what-is/epc/</a>  
 
 43. <a id="endnote-43"></a>
    Source: dustinhowes.com  
    Title: impact com  
-   Link: [https://dustinhowes.com/impact-com/](https://dustinhowes.com/impact-com/)  
+   Link: <a href="https://dustinhowes.com/impact-com/" target="_blank" rel="noopener noreferrer nofollow">https://dustinhowes.com/impact-com/</a>  
 
 44. <a id="endnote-44"></a>
    Source: wix.com  
    Title: thin content  
-   Link: [https://www.wix.com/seo/learn/resource/thin-content](https://www.wix.com/seo/learn/resource/thin-content)  
+   Link: <a href="https://www.wix.com/seo/learn/resource/thin-content" target="_blank" rel="noopener noreferrer nofollow">https://www.wix.com/seo/learn/resource/thin-content</a>  
 
 45. <a id="endnote-45"></a>
    Source: en.ryte.com  
    Title: Thin Content  
-   Link: [https://en.ryte.com/wiki/Thin_Content](https://en.ryte.com/wiki/Thin_Content)  
+   Link: <a href="https://en.ryte.com/wiki/Thin_Content" target="_blank" rel="noopener noreferrer nofollow">https://en.ryte.com/wiki/Thin_Content</a>  
 
 ### Additional References
 
 46. <a id="endnote-46"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=JAlP8uOisO0](https://www.youtube.com/watch?v=JAlP8uOisO0)  
+   Link: <a href="https://www.youtube.com/watch?v=JAlP8uOisO0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=JAlP8uOisO0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>I Designed the PERFECT Affiliate Website. Here&#x27;s what Happened...</p></details>
 
 47. <a id="endnote-47"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=e2EImNQLsao](https://www.youtube.com/watch?v=e2EImNQLsao)  
+   Link: <a href="https://www.youtube.com/watch?v=e2EImNQLsao" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=e2EImNQLsao</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Find the Best Niche for Affiliate Marketing (5 Simple Steps)...</p></details>
 
 48. <a id="endnote-48"></a>
    Source: youtube.com  
    Title: I Designed the PERFECT Affiliate Website. Here's what Happened  
-   Link: [https://www.youtube.com/watch?v=cX395xZqjxc](https://www.youtube.com/watch?v=cX395xZqjxc)  
+   Link: <a href="https://www.youtube.com/watch?v=cX395xZqjxc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cX395xZqjxc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How To Make Money With Amazon Affiliate: Step by Step Guide...</p></details>
 
 49. <a id="endnote-49"></a>
    Source: youtube.com  
    Title: How To Make Money With Amazon Affiliate: Step by Step Guide  
-   Link: [https://www.youtube.com/watch?v=TdO7nPxhx5U](https://www.youtube.com/watch?v=TdO7nPxhx5U)  
+   Link: <a href="https://www.youtube.com/watch?v=TdO7nPxhx5U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TdO7nPxhx5U</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How To Build An Affiliate Marketing Website 2026 (COMPLETE GUIDE)...</p></details>
 
 50. <a id="endnote-50"></a>
    Source: trackier.com  
-   Link: [https://trackier.com/affiliate-attribution-modelstypes-and-how-it-works/](https://trackier.com/affiliate-attribution-modelstypes-and-how-it-works/)  
+   Link: <a href="https://trackier.com/affiliate-attribution-modelstypes-and-how-it-works/" target="_blank" rel="noopener noreferrer nofollow">https://trackier.com/affiliate-attribution-modelstypes-and-how-it-works/</a>  
 
 51. <a id="endnote-51"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/pulse/affiliate-marketing-kpis-program-manager-metrics-2024-victor-giurgiu-ybraf](https://www.linkedin.com/pulse/affiliate-marketing-kpis-program-manager-metrics-2024-victor-giurgiu-ybraf)  
+   Link: <a href="https://www.linkedin.com/pulse/affiliate-marketing-kpis-program-manager-metrics-2024-victor-giurgiu-ybraf" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/affiliate-marketing-kpis-program-manager-metrics-2024-victor-giurgiu-ybraf</a>  
 
 52. <a id="endnote-52"></a>
    Source: wecantrack.com  
-   Link: [https://wecantrack.com/insights/affiliate-program-performance-statistics/](https://wecantrack.com/insights/affiliate-program-performance-statistics/)  
+   Link: <a href="https://wecantrack.com/insights/affiliate-program-performance-statistics/" target="_blank" rel="noopener noreferrer nofollow">https://wecantrack.com/insights/affiliate-program-performance-statistics/</a>  
 
 53. <a id="endnote-53"></a>
    Source: geniuslink.com  
-   Link: [https://geniuslink.com/blog/amazon-affiliate-disclosure-guide/](https://geniuslink.com/blog/amazon-affiliate-disclosure-guide/)  
+   Link: <a href="https://geniuslink.com/blog/amazon-affiliate-disclosure-guide/" target="_blank" rel="noopener noreferrer nofollow">https://geniuslink.com/blog/amazon-affiliate-disclosure-guide/</a>  
 
 54. <a id="endnote-54"></a>
    Source: termly.io  
-   Link: [https://termly.io/resources/articles/amazon-affiliate-disclosure/](https://termly.io/resources/articles/amazon-affiliate-disclosure/)  
+   Link: <a href="https://termly.io/resources/articles/amazon-affiliate-disclosure/" target="_blank" rel="noopener noreferrer nofollow">https://termly.io/resources/articles/amazon-affiliate-disclosure/</a>  
 
 55. <a id="endnote-55"></a>
    Source: iubenda.com  
-   Link: [https://www.iubenda.com/en/blog/amazon-affiliate-disclosure-example/](https://www.iubenda.com/en/blog/amazon-affiliate-disclosure-example/)  
+   Link: <a href="https://www.iubenda.com/en/blog/amazon-affiliate-disclosure-example/" target="_blank" rel="noopener noreferrer nofollow">https://www.iubenda.com/en/blog/amazon-affiliate-disclosure-example/</a>

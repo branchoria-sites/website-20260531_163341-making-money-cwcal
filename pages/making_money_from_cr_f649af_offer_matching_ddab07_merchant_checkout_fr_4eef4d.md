@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /offer-fit/
 nav_short_title: Checkout Friction
 title: The Sale Can Still Fail After the Click
-title_full: The Sale Can Still Fail After the Click | Offer Fit
+title_full: The Sale Can Still Fail After the Click
 display_title_short: Checkout Friction
 display_title: Checkout Friction
 heading_title: The Sale Can Still Fail After the Click
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-31 15:43:16'
-parent_title: Are High Commissions Always Better? | Affiliate Engines
+parent_title: Are High Commissions Always Better?
 parent_permalink: /offer-fit/
 parent_nav_short_title: Offer Fit
 parent_heading_title: Are High Commissions Always Better?
@@ -276,9 +276,8 @@ image: /assets/images/making_money_from_cr_f649af_offer_matching_ddab07_merchant
 
 An affiliate page can do everything right and still lose the sale after the click. The visitor trusts the recommendation, clicks through, adds the product to their basket, and then abandons the purchase because the merchant introduces friction: unexpected delivery costs, forced account creation, poor mobile checkout, weak [trust signals]({{ 'trust-signals/' | relative_url }}), stock problems, confusing returns policies, or payment issues.
 
-
 <img src="{{ "/assets/images/making_money_from_cr_f649af_offer_matching_ddab07_merchant_checkout_fr_4eef4d-Illustration-1-dark.svg" | relative_url }}" alt="Checkout Friction illustration 1" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_offer_matching_ddab07_merchant_checkout_fr_4eef4d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_offer_matching_ddab07_merchant_checkout_fr_4eef4d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-For affiliate publishers, this creates a hidden revenue problem. The content generates intent and traffic, but the merchant controls the final conversion path. A programme advertising high commissions may still produce weak earnings if its checkout experience leaks buyers. In practice, many affiliate websites earn more from merchants with lower commission rates but smoother buying experiences because more visitors actually complete the purchase. Checkout quality is therefore part of [offer matching]({{ 'offer-fit/' | relative_url }}), not a separate concern.
+For affiliate publishers, this creates a hidden revenue problem. The content generates intent and traffic, but the merchant controls the final conversion path. A programme advertising high commissions may still produce weak earnings if its checkout experience leaks buyers. In practice, many affiliate websites earn more from merchants with lower commission rates but smoother buying experiences because more visitors actually complete the purchase. Checkout quality is therefore part of offer matching, not a separate concern.
 
 ## The Sale Can Still Fail After the Click
 
@@ -287,7 +286,6 @@ Many affiliate publishers focus heavily on click-through rate because it is visi
 Research from Baymard Institute consistently finds that around 70% of online shopping carts are abandoned before purchase completion. While not every abandoned cart represents a lost affiliate commission, the scale of checkout leakage is large enough that merchant-side friction becomes a major revenue variable. <span class="citation-chip-wrap"><a class="citation-chip" href="https://baymard.com/lists/cart-abandonment-rate" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: baymard.com">[Baymard Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">baymard.com</span><span class="citation-popover-title">cart abandonment rate</span><span class="citation-popover-snippet">Baymard Institute50 Cart Abandonment Rate Statistics 2026 – Cart &amp; Checkout22 Sept 2025 — Reasons for Abandoning Online Purchases at Chec...</span></span></span>
 
 This creates an important distinction:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -299,7 +297,7 @@ This creates an important distinction:
 
 An affiliate site comparing laptop deals, coffee machines, web-hosting packages, or fitness equipment may send highly qualified buyers to a merchant. If the merchant then creates uncertainty or inconvenience, the conversion loss belongs to the affiliate even though the affiliate cannot directly control the checkout.
 
-This is why experienced affiliates often track earnings per click rather than commission percentages alone. A merchant converting twice as many visitors can outperform a higher-paying programme with a weaker checkout experience. <span class="citation-chip-wrap"><a class="citation-chip" href="https://wecantrack.com/insights/affiliate-conversion-statistics/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wecantrack.com">[wecantrack]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wecantrack.com</span><span class="citation-popover-title">Finance affiliates often see 2-5%, while general retail sees 1-3%.Read more</span><span class="citation-popover-snippet">wecantrack70+ Affiliate Conversion Rate StatisticsMarch 23, 2026 — Average affiliate conversion rates range from 1-5% depending on niche...</span><span class="citation-popover-meta">Published: March 23, 2026</span></span></span>
+This is why experienced affiliates often track earnings per click rather than commission percentages alone. A merchant converting twice as many visitors can outperform a higher-paying programme with a weaker checkout experience. <span class="citation-chip-wrap"><a class="citation-chip" href="https://wecantrack.com/insights/affiliate-conversion-statistics/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wecantrack.com">[wecantrack]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wecantrack.com</span><span class="citation-popover-title">Finance affiliates often see 2-5%, while general retail sees 1-3%.Read more</span><span class="citation-popover-snippet">70+ Affiliate Conversion Rate StatisticsMarch 23, 2026 — Average affiliate conversion rates range from 1-5% depending on niche...</span><span class="citation-popover-meta">Published: March 23, 2026</span></span></span>
 
 ## Post-Click Problems Affiliates Cannot Ignore
 
@@ -315,10 +313,9 @@ A page promoting a £49 product may appear attractive in search results, but if 
 
 This is particularly damaging on:
 
-* Budget-focused [comparison pages]({{ 'comparisons/' | relative_url }})
+<div class="content-enhancement content-enhancement--comparison" markdown="1">
 
-<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
-
+* Budget-focused comparison pages
 * "Best under £50" style content
 * Voucher and discount pages
 * Price-sensitive consumer electronics
@@ -334,7 +331,6 @@ Many merchants still interrupt checkout with mandatory registration requirements
 
 Baymard's research identifies required account creation as a significant abandonment trigger. Users who intended to make a quick purchase are suddenly asked to create passwords, verify emails, and complete additional steps before payment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://baymard.com/lists/cart-abandonment-rate" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: baymard.com">[Baymard Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">baymard.com</span><span class="citation-popover-title">cart abandonment rate</span><span class="citation-popover-snippet">Baymard Institute50 Cart Abandonment Rate Statistics 2026 – Cart &amp; Checkout22 Sept 2025 — Reasons for Abandoning Online Purchases at Chec...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://makecommerce.net/how-to-reduce-cart-abandonment-in-ecommerce-5-easy-steps/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: makecommerce.net">[MakeCommerce From an affiliate perspective]</a><span class="citation-popover" role="note"><span class="citation-popover-source">makecommerce.net</span><span class="citation-popover-title">how to reduce cart abandonment in ecommerce 5 easy steps</span><span class="citation-popover-snippet">How to Reduce Cart Abandonment in Ecommerce: 5 Easy...10 Feb 2026 — Complex checkout processes remain a leading cause of abandonment, wi...</span></span></span>, this is particularly dangerous because:
 
-
 <div class="content-enhancement content-enhancement--decision" markdown="1">
 
 * The buyer already completed the difficult decision-making stage.
@@ -349,10 +345,9 @@ When reviewing merchants, affiliates should test whether guest checkout is avail
 
 ### Mobile checkout problems quietly reduce commissions
 
-Many affiliate traffic sources are heavily mobile. Product [review pages]({{ 'reviews/' | relative_url }}), gift guides, comparison articles, and social-driven content frequently receive the majority of their visitors from phones.
+Many affiliate traffic sources are heavily mobile. Product review pages, gift guides, comparison articles, and social-driven content frequently receive the majority of their visitors from phones.
 
 Mobile users are more vulnerable to checkout friction because:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -369,13 +364,11 @@ A merchant with an excellent desktop checkout but a frustrating mobile experienc
 
 This becomes especially important when building content clusters expected to attract mobile-first audiences, such as travel, fashion, lifestyle, gifts, and impulse-purchase consumer products.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/vv74GmBXxHE" title="15 UX Best Practices for Creating User-Friendly E-Commerce Product Pages" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=vv74GmBXxHE" target="_blank" rel="noopener noreferrer">15 UX Best Practices for Creating User-Friendly E-Commerce Product Pages</a></p><p class="youtube-embed-meta">Channel: Baymard Institute &middot; Views: 9.6K &middot; Uploaded: January 2025 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=vv74GmBXxHE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=vv74GmBXxHE">Open on YouTube</a></p></div></div></div>
 
 ### Checkout errors and technical failures are invisible commission killers
 
 Some merchants lose sales through simple operational failures:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -402,7 +395,6 @@ A merchant can have an attractive affiliate programme while being unable to fulf
 
 Common problems include:
 
-
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
 * Popular products repeatedly out of stock
@@ -426,7 +418,6 @@ Examples include:
 
 A scalable affiliate system should monitor merchant reliability, not simply product relevance.
 
-
 <img src="{{ "/assets/images/making_money_from_cr_f649af_offer_matching_ddab07_merchant_checkout_fr_4eef4d-Illustration-2-dark.svg" | relative_url }}" alt="Checkout Friction illustration 2" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_offer_matching_ddab07_merchant_checkout_fr_4eef4d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_offer_matching_ddab07_merchant_checkout_fr_4eef4d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Delivery expectations influence conversion
 
@@ -444,7 +435,6 @@ For example:
 The specialist merchant appears more profitable on paper. However, if delivery estimates stretch to ten days while competitors offer next-day shipping, conversion rates may collapse.
 
 Affiliate revenue depends on completed orders, not theoretical commissions.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/5iuOdB21WIY" title="How to Optimize Your Ecommerce Checkout Process (25 Tips!)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=5iuOdB21WIY" target="_blank" rel="noopener noreferrer">How to Optimize Your Ecommerce Checkout Process (25 Tips!)</a></p><p class="youtube-embed-meta">Channel: The Good &middot; Views: 1.1K &middot; Uploaded: September 2021 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=5iuOdB21WIY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=5iuOdB21WIY">Open on YouTube</a></p></div></div></div>
 
@@ -488,7 +478,6 @@ Common warning signs include:
 
 A visitor who happily clicked an affiliate link may still abandon the purchase if the merchant appears unreliable at the moment payment details are requested.
 
-
 <img src="{{ "/assets/images/making_money_from_cr_f649af_offer_matching_ddab07_merchant_checkout_fr_4eef4d-Illustration-3-dark.svg" | relative_url }}" alt="Checkout Friction illustration 3" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_offer_matching_ddab07_merchant_checkout_fr_4eef4d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_offer_matching_ddab07_merchant_checkout_fr_4eef4d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How to Screen Merchant Pages Before Linking
 
@@ -503,6 +492,67 @@ Before giving a merchant prominent placement:
 1. Visit the landing page.
 2. Add products to the basket.
 3. Progress through checkout.
+4. Review shipping costs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://baymard.com/lists/cart-abandonment-rate" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: baymard.com">[baymard.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">baymard.com</span><span class="citation-popover-title">cart abandonment rate</span><span class="citation-popover-snippet">Baymard Institute50 Cart Abandonment Rate Statistics 2026 – Cart &amp; Checkout22 Sept 2025 — Reasons for Abandoning Online Purchases at Chec...</span></span></span>
+5. Examine delivery estimates.
+6. Check payment methods.
+7. Read returns information.
+
+Many conversion problems become obvious within minutes.
+
+A merchant that looks strong in an affiliate network dashboard can reveal serious usability problems during a real purchase attempt.
+
+### Compare merchants as a buyer, not as an affiliate
+
+A useful exercise is to open three competing merchants simultaneously and compare:
+
+* Final delivered price
+* Checkout steps
+* Delivery speed
+* Return terms
+* Trust signals
+* Mobile experience
+
+The merchant offering the highest commission is often not the one providing the smoothest buying experience.
+
+For affiliate sites built at scale, these [comparisons]({{ 'comparisons/' | relative_url }}) can be standardised into merchant scoring systems that influence offer placement decisions.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/hyiKYcJTIxA" title="Why Customers Bail at Your Activewear Checkout (5 Fixes)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=hyiKYcJTIxA" target="_blank" rel="noopener noreferrer">Why Customers Bail at Your Activewear Checkout (5 Fixes)</a></p><p class="youtube-embed-meta">Channel: FittDesign Studio &middot; Views: 68 &middot; Uploaded: February 2026 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=hyiKYcJTIxA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=hyiKYcJTIxA">Open on YouTube</a></p></div></div></div>
+
+### Watch for friction patterns that repeat
+
+Certain warning signs tend to predict poor affiliate performance:
+
+* Prices that rise significantly at checkout
+* Aggressive upsells before payment
+* Excessive form fields
+* Required account registration
+* Limited payment methods
+* Poor mobile layouts
+* Slow page loading
+* Unclear stock status
+* Vague return information
+
+Individually, each issue may seem minor. Combined, they can reduce conversion rates dramatically.
+
+Baymard's checkout research repeatedly shows that abandonment is often driven by accumulated friction rather than a single catastrophic problem. <span class="citation-chip-wrap"><a class="citation-chip" href="https://baymard.com/lists/cart-abandonment-rate" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: baymard.com">[Baymard Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">baymard.com</span><span class="citation-popover-title">cart abandonment rate</span><span class="citation-popover-snippet">Baymard Institute50 Cart Abandonment Rate Statistics 2026 – Cart &amp; Checkout22 Sept 2025 — Reasons for Abandoning Online Purchases at Chec...</span></span></span>
+
+## Why Merchant Quality Belongs in Offer Matching
+
+Offer matching is often discussed as a content problem: matching the right product to the right reader intent. But the merchant experience is part of the same system.
+
+A recommendation only earns money when all stages succeed:
+
+1. The page matches search intent.
+2. The visitor clicks.
+3. The merchant builds confidence.
+4. Checkout remains friction-free.
+5. Payment completes successfully.
+
+A weakness at any stage lowers [revenue per visitor]({{ 'revenue-model/' | relative_url }}).
+
+This is why mature affiliate operations frequently favour merchants that convert reliably over merchants that merely advertise attractive commissions. A lower-paying merchant with transparent pricing, strong stock availability, trusted payment options, clear returns policies, and a smooth checkout can generate more revenue across thousands of pages than a higher-paying programme that loses buyers after the click.
+
+For large-scale website monetisation systems, merchant screening should therefore be treated as part of content monetisation logic rather than an afterthought. The recommendation is only as valuable as the checkout that follows it.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -905,181 +955,118 @@ Before giving a merchant prominent placement:
 </script>
 </section>
 
-4. Review shipping costs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://baymard.com/lists/cart-abandonment-rate" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: baymard.com">[baymard.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">baymard.com</span><span class="citation-popover-title">cart abandonment rate</span><span class="citation-popover-snippet">Baymard Institute50 Cart Abandonment Rate Statistics 2026 – Cart &amp; Checkout22 Sept 2025 — Reasons for Abandoning Online Purchases at Chec...</span></span></span>
-5. Examine delivery estimates.
-6. Check payment methods.
-7. Read returns information.
-
-Many conversion problems become obvious within minutes.
-
-A merchant that looks strong in an affiliate network dashboard can reveal serious usability problems during a real purchase attempt.
-
-### Compare merchants as a buyer, not as an affiliate
-
-A useful exercise is to open three competing merchants simultaneously and compare:
-
-* Final delivered price
-* Checkout steps
-* Delivery speed
-* Return terms
-* Trust signals
-* Mobile experience
-
-The merchant offering the highest commission is often not the one providing the smoothest buying experience.
-
-For affiliate sites built at scale, these [comparisons]({{ 'comparisons/' | relative_url }}) can be standardised into merchant scoring systems that influence offer placement decisions.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/hyiKYcJTIxA" title="Why Customers Bail at Your Activewear Checkout (5 Fixes)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=hyiKYcJTIxA" target="_blank" rel="noopener noreferrer">Why Customers Bail at Your Activewear Checkout (5 Fixes)</a></p><p class="youtube-embed-meta">Channel: FittDesign Studio &middot; Views: 68 &middot; Uploaded: February 2026 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=hyiKYcJTIxA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=hyiKYcJTIxA">Open on YouTube</a></p></div></div></div>
-
-### Watch for friction patterns that repeat
-
-Certain warning signs tend to predict poor affiliate performance:
-
-* Prices that rise significantly at checkout
-* Aggressive upsells before payment
-* Excessive form fields
-* Required account registration
-* Limited payment methods
-* Poor mobile layouts
-* Slow page loading
-* Unclear stock status
-* Vague return information
-
-Individually, each issue may seem minor. Combined, they can reduce conversion rates dramatically.
-
-Baymard's checkout research repeatedly shows that abandonment is often driven by accumulated friction rather than a single catastrophic problem. <span class="citation-chip-wrap"><a class="citation-chip" href="https://baymard.com/lists/cart-abandonment-rate" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: baymard.com">[Baymard Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">baymard.com</span><span class="citation-popover-title">cart abandonment rate</span><span class="citation-popover-snippet">Baymard Institute50 Cart Abandonment Rate Statistics 2026 – Cart &amp; Checkout22 Sept 2025 — Reasons for Abandoning Online Purchases at Chec...</span></span></span>
-
-## Why Merchant Quality Belongs in Offer Matching
-
-Offer matching is often discussed as a content problem: matching the right product to the right reader intent. But the merchant experience is part of the same system.
-
-A recommendation only earns money when all stages succeed:
-
-1. The page matches search intent.
-2. The visitor clicks.
-3. The merchant builds confidence.
-4. Checkout remains friction-free.
-5. Payment completes successfully.
-
-A weakness at any stage lowers [revenue per visitor]({{ 'revenue-model/' | relative_url }}).
-
-This is why mature affiliate operations frequently favour merchants that convert reliably over merchants that merely advertise attractive commissions. A lower-paying merchant with transparent pricing, strong stock availability, trusted payment options, clear returns policies, and a smooth checkout can generate more revenue across thousands of pages than a higher-paying programme that loses buyers after the click.
-
-For large-scale website monetisation systems, merchant screening should therefore be treated as part of content monetisation logic rather than an afterthought. The recommendation is only as valuable as the checkout that follows it.
-
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: baymard.com  
-   Link: [https://baymard.com/research/checkout-usability](https://baymard.com/research/checkout-usability)  
+   Link: <a href="https://baymard.com/research/checkout-usability" target="_blank" rel="noopener noreferrer nofollow">https://baymard.com/research/checkout-usability</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Baymard InstituteE-Commerce Cart &amp; Checkout Usability ResearchAt Baymard we&#x27;ve tracked the global average cart abandonment rate for 14 ye...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: baymard.com  
    Title: cart abandonment rate  
-   Link: [https://baymard.com/lists/cart-abandonment-rate](https://baymard.com/lists/cart-abandonment-rate)  
+   Link: <a href="https://baymard.com/lists/cart-abandonment-rate" target="_blank" rel="noopener noreferrer nofollow">https://baymard.com/lists/cart-abandonment-rate</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Baymard Institute50 Cart Abandonment Rate Statistics 2026 – Cart &amp; Checkout22 Sept 2025 — Reasons for Abandoning Online Purchases at Chec...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: wecantrack.com  
    Title: Finance affiliates often see 2-5%, while general retail sees 1-3%.Read more  
-   Link: [https://wecantrack.com/insights/affiliate-conversion-statistics/](https://wecantrack.com/insights/affiliate-conversion-statistics/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>wecantrack70+ Affiliate Conversion Rate StatisticsMarch 23, 2026 — Average affiliate conversion rates range from 1-5% depending on niche...</p></details>
+   Link: <a href="https://wecantrack.com/insights/affiliate-conversion-statistics/" target="_blank" rel="noopener noreferrer nofollow">https://wecantrack.com/insights/affiliate-conversion-statistics/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>70+ Affiliate Conversion Rate StatisticsMarch 23, 2026 — Average affiliate conversion rates range from 1-5% depending on niche...</p></details>
    Published: March 23, 2026  
 
 4. <a id="endnote-4"></a>
    Source: baymard.com  
-   Link: [https://baymard.com/learn/reduce-cart-abandonment](https://baymard.com/learn/reduce-cart-abandonment)  
+   Link: <a href="https://baymard.com/learn/reduce-cart-abandonment" target="_blank" rel="noopener noreferrer nofollow">https://baymard.com/learn/reduce-cart-abandonment</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unexpected costs appear too late · 2. Forced account creation · 3. Overly complex checkout...Read more...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: makecommerce.net  
    Title: how to reduce cart abandonment in ecommerce 5 easy steps  
-   Link: [https://makecommerce.net/how-to-reduce-cart-abandonment-in-ecommerce-5-easy-steps/](https://makecommerce.net/how-to-reduce-cart-abandonment-in-ecommerce-5-easy-steps/)  
+   Link: <a href="https://makecommerce.net/how-to-reduce-cart-abandonment-in-ecommerce-5-easy-steps/" target="_blank" rel="noopener noreferrer nofollow">https://makecommerce.net/how-to-reduce-cart-abandonment-in-ecommerce-5-easy-steps/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Reduce Cart Abandonment in Ecommerce: 5 Easy...10 Feb 2026 — Complex checkout processes remain a leading cause of abandonment, wi...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: floatingcta.com  
-   Link: [https://floatingcta.com/insights/affiliate-marketing-conversion-rate/](https://floatingcta.com/insights/affiliate-marketing-conversion-rate/)  
+   Link: <a href="https://floatingcta.com/insights/affiliate-marketing-conversion-rate/" target="_blank" rel="noopener noreferrer nofollow">https://floatingcta.com/insights/affiliate-marketing-conversion-rate/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Affiliate Marketing Conversion Rates: 2026 Benchmarks by...May 1, 2026 — Awin reports over 50% of affiliate-driven visits come from mobi...</p></details>
    Published: May 1, 2026  
 
 7. <a id="endnote-7"></a>
    Source: baymard.com  
-   Link: [https://baymard.com/learn/audit-checkout-flow-hidden-friction](https://baymard.com/learn/audit-checkout-flow-hidden-friction)  
+   Link: <a href="https://baymard.com/learn/audit-checkout-flow-hidden-friction" target="_blank" rel="noopener noreferrer nofollow">https://baymard.com/learn/audit-checkout-flow-hidden-friction</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Baymard InstituteHow to Audit Your Checkout Flow for Hidden FrictionAnalytics show where users drop off; a UX audit tells you why. Use th...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: growth-engines.com  
    Title: ecommerce checkout optimization  
-   Link: [https://growth-engines.com/insights/ecommerce/ecommerce-checkout-optimization](https://growth-engines.com/insights/ecommerce/ecommerce-checkout-optimization)  
+   Link: <a href="https://growth-engines.com/insights/ecommerce/ecommerce-checkout-optimization" target="_blank" rel="noopener noreferrer nofollow">https://growth-engines.com/insights/ecommerce/ecommerce-checkout-optimization</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Baymard&#x27;s checkout usability study found that 19% of users abandoned a checkout in the...Read more...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: baymard.com  
-   Link: [https://baymard.com/blog/ecommerce-checkout-usability-report-and-benchmark](https://baymard.com/blog/ecommerce-checkout-usability-report-and-benchmark)  
+   Link: <a href="https://baymard.com/blog/ecommerce-checkout-usability-report-and-benchmark" target="_blank" rel="noopener noreferrer nofollow">https://baymard.com/blog/ecommerce-checkout-usability-report-and-benchmark</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reasons for Cart Abandonment – Why 70% of Do So21 Sept 2016 — The report is 718 pages long, and outlines 134 design guidelines on how to...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: baymard.com  
    Title: current state of checkout ux  
-   Link: [https://baymard.com/blog/current-state-of-checkout-ux](https://baymard.com/blog/current-state-of-checkout-ux)  
+   Link: <a href="https://baymard.com/blog/current-state-of-checkout-ux" target="_blank" rel="noopener noreferrer nofollow">https://baymard.com/blog/current-state-of-checkout-ux</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Checkout UX Best Practices 202525 Nov 2025 — During testing, we observed that extensive and strict password rules can cause up to an 19%...</p></details>
 
 ### Additional References
 
 11. <a id="endnote-11"></a>
    Source: impact.com  
-   Link: [https://impact.com/partnerships/the-holy-grail-of-affiliate-marketing-metrics/](https://impact.com/partnerships/the-holy-grail-of-affiliate-marketing-metrics/)  
+   Link: <a href="https://impact.com/partnerships/the-holy-grail-of-affiliate-marketing-metrics/" target="_blank" rel="noopener noreferrer nofollow">https://impact.com/partnerships/the-holy-grail-of-affiliate-marketing-metrics/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Holy Grail of Affiliate Marketing MetricsMost affiliate managers recognize that more revenues are better, higher conversion rates and...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/baymard-institute_how-to-audit-your-checkout-flow-for-hidden-activity-7460629993577021440-dbxT](https://www.linkedin.com/posts/baymard-institute_how-to-audit-your-checkout-flow-for-hidden-activity-7460629993577021440-dbxT)  
+   Link: <a href="https://www.linkedin.com/posts/baymard-institute_how-to-audit-your-checkout-flow-for-hidden-activity-7460629993577021440-dbxT" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/baymard-institute_how-to-audit-your-checkout-flow-for-hidden-activity-7460629993577021440-dbxT</a>  
 
 13. <a id="endnote-13"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40balaji.y/solving-shopping-cart-abandonment-a-case-study-in-checkout-redesign-b98721f66911](https://medium.com/%40balaji.y/solving-shopping-cart-abandonment-a-case-study-in-checkout-redesign-b98721f66911)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MediumSolving Shopping Cart Abandonment: A Case Study in...Unexpected Costs. This is the number one reason for cart abandonment. · Lack...</p></details>
+   Link: <a href="https://medium.com/%40balaji.y/solving-shopping-cart-abandonment-a-case-study-in-checkout-redesign-b98721f66911" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40balaji.y/solving-shopping-cart-abandonment-a-case-study-in-checkout-redesign-b98721f66911</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Solving Shopping Cart Abandonment: A Case Study in...Unexpected Costs. This is the number one reason for cart abandonment. · Lack...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: thrivecart.com  
    Title: affiliate marketers everything you need to know about conversion rates  
-   Link: [https://thrivecart.com/blog/affiliate-marketers-everything-you-need-to-know-about-conversion-rates/?srsltid=AfmBOoqkQcD75ZZ1MkoILOdE0gq3OWElFZQ2komInxW56_8qBYsBJ3xO](https://thrivecart.com/blog/affiliate-marketers-everything-you-need-to-know-about-conversion-rates/?srsltid=AfmBOoqkQcD75ZZ1MkoILOdE0gq3OWElFZQ2komInxW56_8qBYsBJ3xO)  
+   Link: <a href="https://thrivecart.com/blog/affiliate-marketers-everything-you-need-to-know-about-conversion-rates/?srsltid=AfmBOoqkQcD75ZZ1MkoILOdE0gq3OWElFZQ2komInxW56_8qBYsBJ3xO" target="_blank" rel="noopener noreferrer nofollow">https://thrivecart.com/blog/affiliate-marketers-everything-you-need-to-know-about-conversion-rates/?srsltid=AfmBOoqkQcD75ZZ1MkoILOdE0gq3OWElFZQ2komInxW56_8qBYsBJ3xO</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Compute Affiliate Marketing Conversion Rate31 Mar 2026 — The affiliate marketing conversion rate means the percentage of the numbe...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/pulse/why-holiday-shoppers-abandon-carts-how-good-ux-can-prevent-smith-a8ede](https://www.linkedin.com/pulse/why-holiday-shoppers-abandon-carts-how-good-ux-can-prevent-smith-a8ede)  
+   Link: <a href="https://www.linkedin.com/pulse/why-holiday-shoppers-abandon-carts-how-good-ux-can-prevent-smith-a8ede" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/why-holiday-shoppers-abandon-carts-how-good-ux-can-prevent-smith-a8ede</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ollection raises concerns about misuse and marketing abuse...Read more...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: zipchat.ai  
    Title: Seven in ten shoppers who add a product to a cart do not buy.Read more  
-   Link: [https://www.zipchat.ai/blog/cart-abandonment-benchmarks-and-causes](https://www.zipchat.ai/blog/cart-abandonment-benchmarks-and-causes)  
+   Link: <a href="https://www.zipchat.ai/blog/cart-abandonment-benchmarks-and-causes" target="_blank" rel="noopener noreferrer nofollow">https://www.zipchat.ai/blog/cart-abandonment-benchmarks-and-causes</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Cart Abandonment Rate Benchmarks &amp; Causes (2026 Data)25 Apr 2026 — Summary: The global cart abandonment rate is 70.19% (Baymard Institute...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: webeyez.com  
    Title: Conversion Rate Affiliate Marketing  
-   Link: [https://webeyez.com/insights/guides/conversion-rate-affiliate-marketing-optimization-guide](https://webeyez.com/insights/guides/conversion-rate-affiliate-marketing-optimization-guide)  
+   Link: <a href="https://webeyez.com/insights/guides/conversion-rate-affiliate-marketing-optimization-guide" target="_blank" rel="noopener noreferrer nofollow">https://webeyez.com/insights/guides/conversion-rate-affiliate-marketing-optimization-guide</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Conversion rate in affiliate marketing measures how effectively affiliate traffic converts into desired actions such as sales or sign-ups...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: themehigh.com  
    Title: psychology of checkout optimization  
-   Link: [https://www.themehigh.com/blog/psychology-of-checkout-optimization/](https://www.themehigh.com/blog/psychology-of-checkout-optimization/)  
+   Link: <a href="https://www.themehigh.com/blog/psychology-of-checkout-optimization/" target="_blank" rel="noopener noreferrer nofollow">https://www.themehigh.com/blog/psychology-of-checkout-optimization/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Psychology of Checkout Optimization19 Sept 2025 — Cart abandonment rates hover around 70% across industries, and the checkout process...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: reddit.com  
    Title: We recently signup for impact.com  
-   Link: [https://www.reddit.com/r/Affiliatemarketing/comments/1mkmhfv/we_recently_signup_for_impactcom_now_not_sure/](https://www.reddit.com/r/Affiliatemarketing/comments/1mkmhfv/we_recently_signup_for_impactcom_now_not_sure/)  
+   Link: <a href="https://www.reddit.com/r/Affiliatemarketing/comments/1mkmhfv/we_recently_signup_for_impactcom_now_not_sure/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Affiliatemarketing/comments/1mkmhfv/we_recently_signup_for_impactcom_now_not_sure/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Now not sure whats...We recently signed up for impact... Its been almost 21 days... it took them 15 days to get us onboarded properly t...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: impact.com  
    Title: affiliate marketing benchmark  
-   Link: [https://impact.com/affiliate/affiliate-marketing-benchmark/](https://impact.com/affiliate/affiliate-marketing-benchmark/)  
+   Link: <a href="https://impact.com/affiliate/affiliate-marketing-benchmark/" target="_blank" rel="noopener noreferrer nofollow">https://impact.com/affiliate/affiliate-marketing-benchmark/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Affiliate Benchmark 2025: Fewer Buys, Higher Order ValueLonger research, shorter purchase windows. Discover how 2025 shopper behavior imp...</p></details>

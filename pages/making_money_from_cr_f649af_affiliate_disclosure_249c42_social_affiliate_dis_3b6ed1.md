@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /trust-rules/
 nav_short_title: Social Posts
 title: How Affiliate Disclosures Get Hidden on Social Media
-title_full: How Affiliate Disclosures Get Hidden on Social Media | Trust Rules
+title_full: How Affiliate Disclosures Get Hidden on Social Media
 display_title_short: Social Posts
 display_title: Social Posts
 heading_title: How Affiliate Disclosures Get Hidden on Social Media
@@ -202,7 +202,8 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: How Affiliate Sites Keep Reader Trust | Affiliate Engines
+date: '2026-05-31 16:30:54'
+parent_title: How Affiliate Sites Keep Reader Trust
 parent_permalink: /trust-rules/
 parent_nav_short_title: Trust Rules
 parent_heading_title: How Affiliate Sites Keep Reader Trust
@@ -265,7 +266,6 @@ next_link:
   permalink: /trust-signals/
   short_title: Trust Signals
   heading_title: What Makes an Affiliate Recommendation Feel Honest?
-date: '2026-05-31 16:30:54 '
 header:
   og_image: /assets/images/making_money_from_cr_f649af_affiliate_disclosure_249c42_social_affiliate_dis_3b6ed1-Illustration-1-social.jpg
   preview_image: /assets/images/making_money_from_cr_f649af_affiliate_disclosure_249c42_social_affiliate_dis_3b6ed1-Illustration-1.webp
@@ -276,7 +276,6 @@ image: /assets/images/making_money_from_cr_f649af_affiliate_disclosure_249c42_so
 
 When earning revenue through affiliate links shared on social media, **affiliate [disclosures]({{ 'disclosures/' | relative_url }}) must stay visible** — not tucked away where users won’t see them before interacting with your content. Regulatory bodies in both the United States (such as the **Federal Trade Commission, FTC**) and the United Kingdom (such as the **Advertising Standards Authority/Committee of Advertising Practice, ASA/CAP**) require that any material connection between a creator and a brand be clearly and conspicuously disclosed **wherever the affiliate content appears**, including in captions, video overlays and live content. If disclosures are cut off, hidden after a “more” button, or buried in hashtags, platforms’ built‑in labels alone are unlikely to satisfy legal and trust expectations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ftc.gov/influencers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-
 <img src="{{ "/assets/images/making_money_from_cr_f649af_affiliate_disclosure_249c42_social_affiliate_dis_3b6ed1-Illustration-1-dark.svg" | relative_url }}" alt="Social Posts illustration 1" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_affiliate_disclosure_249c42_social_affiliate_dis_3b6ed1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_affiliate_disclosure_249c42_social_affiliate_dis_3b6ed1-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Caption Cut‑Offs and Mobile Visibility Problems
 
@@ -284,28 +283,26 @@ On platforms like **Instagram, TikTok, Facebook and X**, the default user interf
 
 Practical visibility rules for captions:
 
-* **Place your [disclosure]({{ 'disclosure/' | relative_url }}) at the very start of the caption**, before any endorsement or affiliate link appears. Terms like `#ad`, `#sponsored` or `Affiliate link — I earn a commission` should be among the first text lines. <span class="citation-chip-wrap"><a class="citation-chip" href="https://creatorflow.so/blog/instagram-affiliate-disclosure-ftc-rules/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: creatorflow.so">[CreatorFlow]</a><span class="citation-popover" role="note"><span class="citation-popover-source">creatorflow.so</span><span class="citation-popover-title">Creator Flow Instagram Affiliate Disclosure: FTC Rules and Templates</span><span class="citation-popover-snippet">CreatorFlowInstagram Affiliate Disclosure: FTC Rules and TemplatesMay 7, 2026...</span><span class="citation-popover-meta">Published: May 7, 2026</span></span></span>
-* Avoid burying disclosure in a sea of hashtags or after product promotion text; the FTC has specifically noted that hiding `#ad` below many hashtags undermines visibility. <span class="citation-chip-wrap"><a class="citation-chip" href="https://influenceflow.io/resources/ftc-disclosure-requirements-for-influencer-marketing-complete-2025-guide/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: influenceflow.io">[InfluenceFlow]</a><span class="citation-popover" role="note"><span class="citation-popover-source">influenceflow.io</span><span class="citation-popover-title">Influence Flow FTC Disclosure Requirements for Influencer Marketing</span><span class="citation-popover-snippet">InfluenceFlowFTC Disclosure Requirements for Influencer Marketing |...December 20, 2025...</span><span class="citation-popover-meta">Published: December 20, 2025</span></span></span>
-* If the platform truncates after ~125 characters or so (common on Instagram), ensure disclosure is fully visible within that first uncut portion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://creatorflow.so/blog/instagram-affiliate-disclosure-ftc-rules/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: creatorflow.so">[CreatorFlow]</a><span class="citation-popover" role="note"><span class="citation-popover-source">creatorflow.so</span><span class="citation-popover-title">Creator Flow Instagram Affiliate Disclosure: FTC Rules and Templates</span><span class="citation-popover-snippet">CreatorFlowInstagram Affiliate Disclosure: FTC Rules and TemplatesMay 7, 2026...</span><span class="citation-popover-meta">Published: May 7, 2026</span></span></span>
+* **Place your [disclosure]({{ 'disclosure/' | relative_url }}) at the very start of the caption**, before any endorsement or affiliate link appears. Terms like `#ad`, `#sponsored` or `Affiliate link — I earn a commission` should be among the first text lines. <span class="citation-chip-wrap"><a class="citation-chip" href="https://creatorflow.so/blog/instagram-affiliate-disclosure-ftc-rules/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: creatorflow.so">[CreatorFlow]</a><span class="citation-popover" role="note"><span class="citation-popover-source">creatorflow.so</span><span class="citation-popover-title">Creator Flow Instagram Affiliate Disclosure: FTC Rules and Templates</span><span class="citation-popover-snippet">Instagram Affiliate Disclosure: FTC Rules and TemplatesMay 7, 2026...</span><span class="citation-popover-meta">Published: May 7, 2026</span></span></span>
+* Avoid burying disclosure in a sea of hashtags or after product promotion text; the FTC has specifically noted that hiding `#ad` below many hashtags undermines visibility. <span class="citation-chip-wrap"><a class="citation-chip" href="https://influenceflow.io/resources/ftc-disclosure-requirements-for-influencer-marketing-complete-2025-guide/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: influenceflow.io">[InfluenceFlow]</a><span class="citation-popover" role="note"><span class="citation-popover-source">influenceflow.io</span><span class="citation-popover-title">Influence Flow FTC Disclosure Requirements for Influencer Marketing</span><span class="citation-popover-snippet">FTC Disclosure Requirements for Influencer Marketing &#124;...December 20, 2025...</span><span class="citation-popover-meta">Published: December 20, 2025</span></span></span>
+* If the platform truncates after ~125 characters or so (common on Instagram), ensure disclosure is fully visible within that first uncut portion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://creatorflow.so/blog/instagram-affiliate-disclosure-ftc-rules/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: creatorflow.so">[CreatorFlow]</a><span class="citation-popover" role="note"><span class="citation-popover-source">creatorflow.so</span><span class="citation-popover-title">Creator Flow Instagram Affiliate Disclosure: FTC Rules and Templates</span><span class="citation-popover-snippet">Instagram Affiliate Disclosure: FTC Rules and TemplatesMay 7, 2026...</span><span class="citation-popover-meta">Published: May 7, 2026</span></span></span>
 
-Both US and UK regulators emphasise **prominence over mere presence**: a disclosure technically present but hidden by UI design or user behaviour does *not* satisfy transparency requirements. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.asa.org.uk/advice-online/recognising-ads-social-media.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asa.org.uk">[ASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asa.org.uk</span><span class="citation-popover-title">ASARecognising ads: Social media and influencer marketing</span><span class="citation-popover-snippet">ASA | CAP...</span></span></span>
-
+Both US and UK regulators emphasise **prominence over mere presence**: a disclosure technically present but hidden by UI design or user behaviour does *not* satisfy transparency requirements. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.asa.org.uk/advice-online/recognising-ads-social-media.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asa.org.uk">[ASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asa.org.uk</span><span class="citation-popover-title">ASARecognising ads: Social media and influencer marketing</span><span class="citation-popover-snippet">CAP...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/RJ6sGg4jOR0" title="Are Influencers In TROUBLE? New FTC Rules Change EVERYTHING!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=RJ6sGg4jOR0" target="_blank" rel="noopener noreferrer">Are Influencers In TROUBLE? New FTC Rules Change EVERYTHING!</a></p><p class="youtube-embed-meta">Channel: Jen Luv &middot; Views: 27.0K &middot; Uploaded: July 2023 &middot; Length: 29 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=RJ6sGg4jOR0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=RJ6sGg4jOR0">Open on YouTube</a></p></div></div></div>
 
 ## Video Overlays and Spoken Disclosure Cues
 
-Short‑form video platforms (Reels, TikTok, YouTube Shorts) and live streams present unique visibility challenges because the viewer may never pause to read a caption. Regulatory guidance makes it clear that **disclosure must be integrated into the video content itself**, not just the text description. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.auditsocials.com/blog/ftc-affiliate-disclosure-requirements-2026-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: auditsocials.com">[AuditSocials]</a><span class="citation-popover" role="note"><span class="citation-popover-source">auditsocials.com</span><span class="citation-popover-title">ftc affiliate disclosure requirements 2026 guide</span><span class="citation-popover-snippet">AuditSocialsFTC Affiliate Disclosure 2026: Rules + $51,744 PenaltiesMarch 14, 2026...</span><span class="citation-popover-meta">Published: March 14, 2026</span></span></span>
+Short‑form video platforms (Reels, TikTok, YouTube Shorts) and live streams present unique visibility challenges because the viewer may never pause to read a caption. Regulatory guidance makes it clear that **disclosure must be integrated into the video content itself**, not just the text description. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.auditsocials.com/blog/ftc-affiliate-disclosure-requirements-2026-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: auditsocials.com">[AuditSocials]</a><span class="citation-popover" role="note"><span class="citation-popover-source">auditsocials.com</span><span class="citation-popover-title">ftc affiliate disclosure requirements 2026 guide</span><span class="citation-popover-snippet">FTC Affiliate Disclosure 2026: Rules + $51,744 PenaltiesMarch 14, 2026...</span><span class="citation-popover-meta">Published: March 14, 2026</span></span></span>
 
-<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.postaffiliatepro.com/faq/why-disclose-affiliate-links/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: postaffiliatepro.com">[Best practices for videos:]</a><span class="citation-popover" role="note"><span class="citation-popover-source">postaffiliatepro.com</span><span class="citation-popover-title">Do I Have to Disclose Affiliate Links?</span><span class="citation-popover-snippet">Legal Requirements &amp; Best Practices | Post Affiliate ProWHAT CONSTITUTES A CLEAR AND CONSPICUOUS DISCLOSURE The FTC doesn’t prescribe exa...</span></span></span>
+Best practices for videos: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.postaffiliatepro.com/faq/why-disclose-affiliate-links/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: postaffiliatepro.com">[postaffiliatepro.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">postaffiliatepro.com</span><span class="citation-popover-title">Do I Have to Disclose Affiliate Links?</span><span class="citation-popover-snippet">Legal Requirements &amp; Best Practices &#124; Post Affiliate ProWHAT CONSTITUTES A CLEAR AND CONSPICUOUS DISCLOSURE The FTC doesn’t prescribe exa...</span></span></span>
 
-* **On‑screen text overlay** in the first seconds of the video stating that affiliate content or commission applies — not just a caption. <span class="citation-chip-wrap"><a class="citation-chip" href="https://creatorflow.so/blog/instagram-affiliate-disclosure-ftc-rules/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: creatorflow.so">[CreatorFlow]</a><span class="citation-popover" role="note"><span class="citation-popover-source">creatorflow.so</span><span class="citation-popover-title">Creator Flow Instagram Affiliate Disclosure: FTC Rules and Templates</span><span class="citation-popover-snippet">CreatorFlowInstagram Affiliate Disclosure: FTC Rules and TemplatesMay 7, 2026...</span><span class="citation-popover-meta">Published: May 7, 2026</span></span></span>
-* **Verbal disclosure** early in the video (e.g., “This video contains affiliate links and I may earn a commission at no extra cost”) for accessibility and to catch viewers who watch without sound. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.auditsocials.com/blog/ftc-affiliate-disclosure-requirements-2026-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: auditsocials.com">[AuditSocials]</a><span class="citation-popover" role="note"><span class="citation-popover-source">auditsocials.com</span><span class="citation-popover-title">ftc affiliate disclosure requirements 2026 guide</span><span class="citation-popover-snippet">AuditSocialsFTC Affiliate Disclosure 2026: Rules + $51,744 PenaltiesMarch 14, 2026...</span><span class="citation-popover-meta">Published: March 14, 2026</span></span></span>
+* **On‑screen text overlay** in the first seconds of the video stating that affiliate content or commission applies — not just a caption. <span class="citation-chip-wrap"><a class="citation-chip" href="https://creatorflow.so/blog/instagram-affiliate-disclosure-ftc-rules/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: creatorflow.so">[CreatorFlow]</a><span class="citation-popover" role="note"><span class="citation-popover-source">creatorflow.so</span><span class="citation-popover-title">Creator Flow Instagram Affiliate Disclosure: FTC Rules and Templates</span><span class="citation-popover-snippet">Instagram Affiliate Disclosure: FTC Rules and TemplatesMay 7, 2026...</span><span class="citation-popover-meta">Published: May 7, 2026</span></span></span>
+* **Verbal disclosure** early in the video (e.g., “This video contains affiliate links and I may earn a commission at no extra cost”) for accessibility and to catch viewers who watch without sound. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.auditsocials.com/blog/ftc-affiliate-disclosure-requirements-2026-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: auditsocials.com">[AuditSocials]</a><span class="citation-popover" role="note"><span class="citation-popover-source">auditsocials.com</span><span class="citation-popover-title">ftc affiliate disclosure requirements 2026 guide</span><span class="citation-popover-snippet">FTC Affiliate Disclosure 2026: Rules + $51,744 PenaltiesMarch 14, 2026...</span><span class="citation-popover-meta">Published: March 14, 2026</span></span></span>
 * For longer/series videos or live streams, **repeat the disclosure** periodically so that viewers who join mid‑stream still see it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ftc.gov/influencers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
-* Relying solely on platform tools like Instagram’s “Paid Partnership” label or YouTube’s “Paid Promotion” tag is not sufficient under FTC rules; supplementary in‑video disclosures are recommended. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.auditsocials.com/blog/ftc-affiliate-disclosure-requirements-2026-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: auditsocials.com">[AuditSocials]</a><span class="citation-popover" role="note"><span class="citation-popover-source">auditsocials.com</span><span class="citation-popover-title">ftc affiliate disclosure requirements 2026 guide</span><span class="citation-popover-snippet">AuditSocialsFTC Affiliate Disclosure 2026: Rules + $51,744 PenaltiesMarch 14, 2026...</span><span class="citation-popover-meta">Published: March 14, 2026</span></span></span>
+* Relying solely on platform tools like Instagram’s “Paid Partnership” label or YouTube’s “Paid Promotion” tag is not sufficient under FTC rules; supplementary in‑video disclosures are recommended. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.auditsocials.com/blog/ftc-affiliate-disclosure-requirements-2026-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: auditsocials.com">[AuditSocials]</a><span class="citation-popover" role="note"><span class="citation-popover-source">auditsocials.com</span><span class="citation-popover-title">ftc affiliate disclosure requirements 2026 guide</span><span class="citation-popover-snippet">FTC Affiliate Disclosure 2026: Rules + $51,744 PenaltiesMarch 14, 2026...</span><span class="citation-popover-meta">Published: March 14, 2026</span></span></span>
 
-Putting the disclosure in the video description alone also risks non‑visibility on mobile when users see only the top few lines without expanding “show more.” <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.auditsocials.com/blog/ftc-affiliate-disclosure-requirements-2026-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: auditsocials.com">[AuditSocials]</a><span class="citation-popover" role="note"><span class="citation-popover-source">auditsocials.com</span><span class="citation-popover-title">ftc affiliate disclosure requirements 2026 guide</span><span class="citation-popover-snippet">AuditSocialsFTC Affiliate Disclosure 2026: Rules + $51,744 PenaltiesMarch 14, 2026...</span><span class="citation-popover-meta">Published: March 14, 2026</span></span></span>
-
+Putting the disclosure in the video description alone also risks non‑visibility on mobile when users see only the top few lines without expanding “show more.” <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.auditsocials.com/blog/ftc-affiliate-disclosure-requirements-2026-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: auditsocials.com">[AuditSocials]</a><span class="citation-popover" role="note"><span class="citation-popover-source">auditsocials.com</span><span class="citation-popover-title">ftc affiliate disclosure requirements 2026 guide</span><span class="citation-popover-snippet">FTC Affiliate Disclosure 2026: Rules + $51,744 PenaltiesMarch 14, 2026...</span><span class="citation-popover-meta">Published: March 14, 2026</span></span></span>
 
 <img src="{{ "/assets/images/making_money_from_cr_f649af_affiliate_disclosure_249c42_social_affiliate_dis_3b6ed1-Illustration-2-dark.svg" | relative_url }}" alt="Social Posts illustration 2" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_affiliate_disclosure_249c42_social_affiliate_dis_3b6ed1-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_affiliate_disclosure_249c42_social_affiliate_dis_3b6ed1-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## When Short Posts Still Need Commercial Clarity
@@ -314,16 +311,14 @@ Even extremely brief posts — a tweet with a link, a single‑image Instagram p
 
 Key implementation points:
 
-* **Short captions:** Start with disclosure rather than squeezing it at the end of limited characters. <span class="citation-chip-wrap"><a class="citation-chip" href="https://creatorflow.so/blog/instagram-affiliate-disclosure-ftc-rules/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: creatorflow.so">[CreatorFlow]</a><span class="citation-popover" role="note"><span class="citation-popover-source">creatorflow.so</span><span class="citation-popover-title">Creator Flow Instagram Affiliate Disclosure: FTC Rules and Templates</span><span class="citation-popover-snippet">CreatorFlowInstagram Affiliate Disclosure: FTC Rules and TemplatesMay 7, 2026...</span><span class="citation-popover-meta">Published: May 7, 2026</span></span></span>
-* **One‑frame stories and images:** Use overlay text (e.g. “#ad”) in the image or story slide itself so it appears without tapping anything. <span class="citation-chip-wrap"><a class="citation-chip" href="https://creatorflow.so/blog/instagram-affiliate-disclosure-ftc-rules/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: creatorflow.so">[CreatorFlow]</a><span class="citation-popover" role="note"><span class="citation-popover-source">creatorflow.so</span><span class="citation-popover-title">Creator Flow Instagram Affiliate Disclosure: FTC Rules and Templates</span><span class="citation-popover-snippet">CreatorFlowInstagram Affiliate Disclosure: FTC Rules and TemplatesMay 7, 2026...</span><span class="citation-popover-meta">Published: May 7, 2026</span></span></span>
+* **Short captions:** Start with disclosure rather than squeezing it at the end of limited characters. <span class="citation-chip-wrap"><a class="citation-chip" href="https://creatorflow.so/blog/instagram-affiliate-disclosure-ftc-rules/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: creatorflow.so">[CreatorFlow]</a><span class="citation-popover" role="note"><span class="citation-popover-source">creatorflow.so</span><span class="citation-popover-title">Creator Flow Instagram Affiliate Disclosure: FTC Rules and Templates</span><span class="citation-popover-snippet">Instagram Affiliate Disclosure: FTC Rules and TemplatesMay 7, 2026...</span><span class="citation-popover-meta">Published: May 7, 2026</span></span></span>
+* **One‑frame stories and images:** Use overlay text (e.g. “#ad”) in the image or story slide itself so it appears without tapping anything. <span class="citation-chip-wrap"><a class="citation-chip" href="https://creatorflow.so/blog/instagram-affiliate-disclosure-ftc-rules/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: creatorflow.so">[CreatorFlow]</a><span class="citation-popover" role="note"><span class="citation-popover-source">creatorflow.so</span><span class="citation-popover-title">Creator Flow Instagram Affiliate Disclosure: FTC Rules and Templates</span><span class="citation-popover-snippet">Instagram Affiliate Disclosure: FTC Rules and TemplatesMay 7, 2026...</span><span class="citation-popover-meta">Published: May 7, 2026</span></span></span>
 * **Multi‑image posts:** Each frame with an affiliate promotion should include a visible disclosure element somewhere obvious on screen or in the visible portion of the caption. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gov.uk/government/publications/social-media-endorsements-guidance-for-content-creators/social-media-endorsements-being-transparent-with-your-followers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">Social media endorsements: guidance for content creators</span><span class="citation-popover-snippet">Social media endorsements: guidance for content creators</span></span></span>
 * **Cross‑platform consistency:** Posting a link to affiliate content on one platform (e.g., linking to a blog post with affiliate links) *also* requires disclosure in that shared social post if you stand to earn commission. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gov.uk/government/publications/social-media-endorsements-guidance-for-content-creators/social-media-endorsements-being-transparent-with-your-followers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">Social media endorsements: guidance for content creators</span><span class="citation-popover-snippet">Social media endorsements: guidance for content creators</span></span></span>
 
-The UK’s ASA/CAP guidance similarly emphasises that affiliate or advertorial posts must be **“obviously identifiable as advertising”** before any user engagement — a generic disclaimer on a profile page or buried elsewhere won’t suffice when the actual promotional content appears in a feed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.asa.org.uk/advice-online/affiliate-marketing.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asa.org.uk">[ASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asa.org.uk</span><span class="citation-popover-title">ASAOnline Affiliate Marketing</span><span class="citation-popover-snippet">ASA | CAPMarch 22, 2023...</span><span class="citation-popover-meta">Published: March 22, 2023</span></span></span>
-
+The UK’s ASA/CAP guidance similarly emphasises that affiliate or advertorial posts must be **“obviously identifiable as advertising”** before any user engagement — a generic disclaimer on a profile page or buried elsewhere won’t suffice when the actual promotional content appears in a feed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.asa.org.uk/advice-online/affiliate-marketing.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asa.org.uk">[ASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asa.org.uk</span><span class="citation-popover-title">ASAOnline Affiliate Marketing</span><span class="citation-popover-snippet">CAPMarch 22, 2023...</span><span class="citation-popover-meta">Published: March 22, 2023</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9bddsIKkfe0" title="Lawyer Explains FTC Endorsement Guides for Influencers" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9bddsIKkfe0" target="_blank" rel="noopener noreferrer">Lawyer Explains FTC Endorsement Guides for Influencers</a></p><p class="youtube-embed-meta">Channel: The Creator Cafe, with Lawyer Kae &middot; Views: 257 &middot; Uploaded: July 2023 &middot; Length: 16 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9bddsIKkfe0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9bddsIKkfe0">Open on YouTube</a></p></div></div></div>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Q1D_dZdExHA" title="EP 118. Disclosures 101: FTC Guidelines for Social Media Influencers" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Q1D_dZdExHA" target="_blank" rel="noopener noreferrer">EP 118. Disclosures 101: FTC Guidelines for Social Media Influencers</a></p><p class="youtube-embed-meta">Channel: Law Chat For Entrepreneurs &middot; Views: 168 &middot; Uploaded: December 2022 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Q1D_dZdExHA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Q1D_dZdExHA">Open on YouTube</a></p></div></div></div>
 
@@ -337,7 +332,6 @@ For practitioners integrating social content into an affiliate revenue strategy,
 * **Cross‑channel consistency:** Parallel disclosures across all formats (caption text, video overlay, verbal cue) increases conversion trust and reduces legal risk.
 
 In social media contexts where attention is brief and UI space is limited, **visibility trumps mere existence**. A disclosure that users don’t see before engaging with an affiliate link fails both trust and compliance tests — a risk that directly impacts conversion outcomes and legal exposure for affiliate‑based revenue strategies. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ftc.gov/influencers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
-
 
 <img src="{{ "/assets/images/making_money_from_cr_f649af_affiliate_disclosure_249c42_social_affiliate_dis_3b6ed1-Illustration-3-dark.svg" | relative_url }}" alt="Social Posts illustration 3" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_affiliate_disclosure_249c42_social_affiliate_dis_3b6ed1-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_affiliate_disclosure_249c42_social_affiliate_dis_3b6ed1-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -762,86 +756,86 @@ In social media contexts where attention is brief and UI space is limited, **vis
 
 1. <a id="endnote-1"></a>
    Source: ftc.gov  
-   Link: [https://www.ftc.gov/influencers](https://www.ftc.gov/influencers)  
+   Link: <a href="https://www.ftc.gov/influencers" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/influencers</a>  
 
 2. <a id="endnote-2"></a>
    Source: asa.org.uk  
    Title: ASARecognising ads: Social media and influencer marketing  
-   Link: [https://www.asa.org.uk/advice-online/recognising-ads-social-media.html](https://www.asa.org.uk/advice-online/recognising-ads-social-media.html)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ASA | CAP...</p></details>
+   Link: <a href="https://www.asa.org.uk/advice-online/recognising-ads-social-media.html" target="_blank" rel="noopener noreferrer nofollow">https://www.asa.org.uk/advice-online/recognising-ads-social-media.html</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>CAP...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: creatorflow.so  
    Title: Creator Flow Instagram Affiliate Disclosure: FTC Rules and Templates  
-   Link: [https://creatorflow.so/blog/instagram-affiliate-disclosure-ftc-rules/](https://creatorflow.so/blog/instagram-affiliate-disclosure-ftc-rules/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CreatorFlowInstagram Affiliate Disclosure: FTC Rules and TemplatesMay 7, 2026...</p></details>
+   Link: <a href="https://creatorflow.so/blog/instagram-affiliate-disclosure-ftc-rules/" target="_blank" rel="noopener noreferrer nofollow">https://creatorflow.so/blog/instagram-affiliate-disclosure-ftc-rules/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Instagram Affiliate Disclosure: FTC Rules and TemplatesMay 7, 2026...</p></details>
    Published: May 7, 2026  
 
 4. <a id="endnote-4"></a>
    Source: influenceflow.io  
    Title: Influence Flow FTC Disclosure Requirements for Influencer Marketing  
-   Link: [https://influenceflow.io/resources/ftc-disclosure-requirements-for-influencer-marketing-complete-2025-guide/](https://influenceflow.io/resources/ftc-disclosure-requirements-for-influencer-marketing-complete-2025-guide/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>InfluenceFlowFTC Disclosure Requirements for Influencer Marketing |...December 20, 2025...</p></details>
+   Link: <a href="https://influenceflow.io/resources/ftc-disclosure-requirements-for-influencer-marketing-complete-2025-guide/" target="_blank" rel="noopener noreferrer nofollow">https://influenceflow.io/resources/ftc-disclosure-requirements-for-influencer-marketing-complete-2025-guide/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>FTC Disclosure Requirements for Influencer Marketing |...December 20, 2025...</p></details>
    Published: December 20, 2025  
 
 5. <a id="endnote-5"></a>
    Source: auditsocials.com  
    Title: ftc affiliate disclosure requirements 2026 guide  
-   Link: [https://www.auditsocials.com/blog/ftc-affiliate-disclosure-requirements-2026-guide](https://www.auditsocials.com/blog/ftc-affiliate-disclosure-requirements-2026-guide)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AuditSocialsFTC Affiliate Disclosure 2026: Rules + $51,744 PenaltiesMarch 14, 2026...</p></details>
+   Link: <a href="https://www.auditsocials.com/blog/ftc-affiliate-disclosure-requirements-2026-guide" target="_blank" rel="noopener noreferrer nofollow">https://www.auditsocials.com/blog/ftc-affiliate-disclosure-requirements-2026-guide</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>FTC Affiliate Disclosure 2026: Rules + $51,744 PenaltiesMarch 14, 2026...</p></details>
    Published: March 14, 2026  
 
 6. <a id="endnote-6"></a>
    Source: GOV.UK  
    Title: Social media endorsements: guidance for content creators  
-   Link: [https://www.gov.uk/government/publications/social-media-endorsements-guidance-for-content-creators/social-media-endorsements-being-transparent-with-your-followers](https://www.gov.uk/government/publications/social-media-endorsements-guidance-for-content-creators/social-media-endorsements-being-transparent-with-your-followers)  
+   Link: <a href="https://www.gov.uk/government/publications/social-media-endorsements-guidance-for-content-creators/social-media-endorsements-being-transparent-with-your-followers" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/social-media-endorsements-guidance-for-content-creators/social-media-endorsements-being-transparent-with-your-followers</a>  
 
 7. <a id="endnote-7"></a>
    Source: asa.org.uk  
    Title: ASAOnline Affiliate Marketing  
-   Link: [https://www.asa.org.uk/advice-online/affiliate-marketing.html](https://www.asa.org.uk/advice-online/affiliate-marketing.html)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ASA | CAPMarch 22, 2023...</p></details>
+   Link: <a href="https://www.asa.org.uk/advice-online/affiliate-marketing.html" target="_blank" rel="noopener noreferrer nofollow">https://www.asa.org.uk/advice-online/affiliate-marketing.html</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>CAPMarch 22, 2023...</p></details>
    Published: March 22, 2023  
 
 8. <a id="endnote-8"></a>
    Source: ftc.gov  
    Title: FT C's Endorsement Guides: What People Are Asking | Federal Trade Commission  
-   Link: [https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides](https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides)  
+   Link: <a href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>THEY WILL FLY ME TO THE LAUNCH AND PUT ME UP IN A HOTEL FOR A COUPLE OF NIGHTS. THEY AREN’T PAYING ME OR GIVING ME ANYTHIN...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: youtube.com  
-   Link: [http://www.youtube.com/watch?v=Hq1UDKzazVQ](http://www.youtube.com/watch?v=Hq1UDKzazVQ)  
+   Link: <a href="http://www.youtube.com/watch?v=Hq1UDKzazVQ" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=Hq1UDKzazVQ</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>EP 118. Disclosures 101: FTC Guidelines for Social Media Influencers...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: youtube.com  
    Title: EP 118. Disclosures 101: FTC Guidelines for Social Media Influencers  
-   Link: [http://www.youtube.com/watch?v=Q1D_dZdExHA](http://www.youtube.com/watch?v=Q1D_dZdExHA)  
+   Link: <a href="http://www.youtube.com/watch?v=Q1D_dZdExHA" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=Q1D_dZdExHA</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Decoding the FTC: Understanding New Endorsement Guidelines For Influencer Marketing With Rob Freund...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: youtube.com  
-   Link: [http://www.youtube.com/watch?v=pfdDMXxvLHI](http://www.youtube.com/watch?v=pfdDMXxvLHI)  
+   Link: <a href="http://www.youtube.com/watch?v=pfdDMXxvLHI" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=pfdDMXxvLHI</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Lawyer Explains FTC Endorsement Guides for Influencers...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: youtube.com  
    Title: Lawyer Explains FTC Endorsement Guides for Influencers  
-   Link: [http://www.youtube.com/watch?v=9bddsIKkfe0](http://www.youtube.com/watch?v=9bddsIKkfe0)  
+   Link: <a href="http://www.youtube.com/watch?v=9bddsIKkfe0" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=9bddsIKkfe0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Are Influencers In TROUBLE? New FTC Rules Change EVERYTHING...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: youtube.com  
    Title: Are Influencers In TROUBLE? New FTC Rules Change EVERYTHING!  
-   Link: [http://www.youtube.com/watch?v=RJ6sGg4jOR0](http://www.youtube.com/watch?v=RJ6sGg4jOR0)  
+   Link: <a href="http://www.youtube.com/watch?v=RJ6sGg4jOR0" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=RJ6sGg4jOR0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FTC Endorsement Guides influencer affiliate disclosure rules New FTC Guidelines &amp; Disclosures that Brands, Agencies and Influencers Need...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: asa.org.uk  
    Title: Affiliate Marketing: New Advertising Guidance for social influencers  
-   Link: [https://www.asa.org.uk/news/insight-affiliate-marketing-new-advertising-guidance-for-social-influencers.html](https://www.asa.org.uk/news/insight-affiliate-marketing-new-advertising-guidance-for-social-influencers.html)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ASA | CAPMarch 9, 2017 — AFFILIATE MARKETING: NEW ADVERTISING GUIDANCE FOR SOCIAL INFLUENCERS * CAP News * 09 Mar 2017 Image: Affiliate M...</p></details>
+   Link: <a href="https://www.asa.org.uk/news/insight-affiliate-marketing-new-advertising-guidance-for-social-influencers.html" target="_blank" rel="noopener noreferrer nofollow">https://www.asa.org.uk/news/insight-affiliate-marketing-new-advertising-guidance-for-social-influencers.html</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>CAPMarch 9, 2017 — AFFILIATE MARKETING: NEW ADVERTISING GUIDANCE FOR SOCIAL INFLUENCERS * CAP News * 09 Mar 2017 Image: Affiliate M...</p></details>
    Published: March 9, 2017  
 
 ### Additional References
@@ -849,65 +843,65 @@ In social media contexts where attention is brief and UI space is limited, **vis
 15. <a id="endnote-15"></a>
    Source: affiliyo.com  
    Title: FT C affiliate disclosure rules + copy-paste templates per platform | Affiliyo  
-   Link: [https://affiliyo.com/blog/ftc-affiliate-disclosure-rules](https://affiliyo.com/blog/ftc-affiliate-disclosure-rules)  
+   Link: <a href="https://affiliyo.com/blog/ftc-affiliate-disclosure-rules" target="_blank" rel="noopener noreferrer nofollow">https://affiliyo.com/blog/ftc-affiliate-disclosure-rules</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FTC affiliate disclosure rules + copy-paste templates per platform | AffiliyoFebruary 10, 2026 — ← Blog ·Compliance·10 Feb 2026·7 min rea...</p></details>
    Published: February 10, 2026  
 
 16. <a id="endnote-16"></a>
    Source: track360.io  
    Title: ftc affiliate disclosure rules operator compliance guide 2026  
-   Link: [https://track360.io/blog/ftc-affiliate-disclosure-rules-operator-compliance-guide-2026](https://track360.io/blog/ftc-affiliate-disclosure-rules-operator-compliance-guide-2026)  
+   Link: <a href="https://track360.io/blog/ftc-affiliate-disclosure-rules-operator-compliance-guide-2026" target="_blank" rel="noopener noreferrer nofollow">https://track360.io/blog/ftc-affiliate-disclosure-rules-operator-compliance-guide-2026</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>* Instagram (feed posts): Disclosure must appear in the caption above the &#x27;more&#x27; fold, ideally within the first 3 lines. &#x27;#ad&#x27; is accepta...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: automateed.com  
    Title: affiliate agreement basics for digital products  
-   Link: [https://www.automateed.com/affiliate-agreement-basics-for-digital-products](https://www.automateed.com/affiliate-agreement-basics-for-digital-products)  
+   Link: <a href="https://www.automateed.com/affiliate-agreement-basics-for-digital-products" target="_blank" rel="noopener noreferrer nofollow">https://www.automateed.com/affiliate-agreement-basics-for-digital-products</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FTC Disclosure Rules for Affiliates: What You Must Know in 2026March 16, 2026 — FTC DISCLOSURE RULES FOR AFFILIATES: WHAT YOU MUST KNOW I...</p></details>
    Published: March 16, 2026  
 
 18. <a id="endnote-18"></a>
    Source: earnifyhub.com  
    Title: ftc affiliate disclosure requirements 2026  
-   Link: [https://earnifyhub.com/blog/affiliate/ftc-affiliate-disclosure-requirements-2026.php](https://earnifyhub.com/blog/affiliate/ftc-affiliate-disclosure-requirements-2026.php)  
+   Link: <a href="https://earnifyhub.com/blog/affiliate/ftc-affiliate-disclosure-requirements-2026.php" target="_blank" rel="noopener noreferrer nofollow">https://earnifyhub.com/blog/affiliate/ftc-affiliate-disclosure-requirements-2026.php</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>WHERE TO PLACE DISCLOSURES (ABOVE THE FOLD, NEAR LINKS) Placement is as important as language. The FTC requires disclosures to be clear a...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: postaffiliatepro.com  
    Title: Do I Have to Disclose Affiliate Links?  
-   Link: [https://www.postaffiliatepro.com/faq/why-disclose-affiliate-links/](https://www.postaffiliatepro.com/faq/why-disclose-affiliate-links/)  
+   Link: <a href="https://www.postaffiliatepro.com/faq/why-disclose-affiliate-links/" target="_blank" rel="noopener noreferrer nofollow">https://www.postaffiliatepro.com/faq/why-disclose-affiliate-links/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Legal Requirements &amp; Best Practices | Post Affiliate ProWHAT CONSTITUTES A CLEAR AND CONSPICUOUS DISCLOSURE The FTC doesn’t prescribe exa...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: asa.org.uk  
    Title: It does not constitute legal advice  
-   Link: [https://www.asa.org.uk/advice-online/recognising-ads-brand-owned-and-paid-social-media.html](https://www.asa.org.uk/advice-online/recognising-ads-brand-owned-and-paid-social-media.html)  
+   Link: <a href="https://www.asa.org.uk/advice-online/recognising-ads-brand-owned-and-paid-social-media.html" target="_blank" rel="noopener noreferrer nofollow">https://www.asa.org.uk/advice-online/recognising-ads-brand-owned-and-paid-social-media.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Recognising ads: Brand-owned and paid social media - ASA | CAPMarch 23, 2023 — RECOGNISING ADS: BRAND-OWNED AND PAID SOCIAL MEDIA * Advic...</p></details>
    Published: March 23, 2023  
 
 21. <a id="endnote-21"></a>
    Source: legalforge.app  
    Title: ftc affiliate disclosure compliance  
-   Link: [https://www.legalforge.app/blog/ftc-affiliate-disclosure-compliance](https://www.legalforge.app/blog/ftc-affiliate-disclosure-compliance)  
+   Link: <a href="https://www.legalforge.app/blog/ftc-affiliate-disclosure-compliance" target="_blank" rel="noopener noreferrer nofollow">https://www.legalforge.app/blog/ftc-affiliate-disclosure-compliance</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FTC Affiliate Disclosure: Complete Compliance Guide (2026) | LegalForgeFebruary 10, 2026 — THE 4 PS OF CLEAR DISCLOSURES: PROMINENCE, PRE...</p></details>
    Published: February 10, 2026  
 
 22. <a id="endnote-22"></a>
    Source: brandwatch.com  
    Title: What is an FTC disclosure?  
-   Link: [https://www.brandwatch.com/social-media-glossary/ftc-disclosure/](https://www.brandwatch.com/social-media-glossary/ftc-disclosure/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>| Brandwatch Social Media GlossaryMarch 15, 2026 — FTC DISCLOSURE FTC disclosure is a statement required by the U.S. Federal Trade Commis...</p></details>
+   Link: <a href="https://www.brandwatch.com/social-media-glossary/ftc-disclosure/" target="_blank" rel="noopener noreferrer nofollow">https://www.brandwatch.com/social-media-glossary/ftc-disclosure/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Brandwatch Social Media GlossaryMarch 15, 2026 — FTC DISCLOSURE FTC disclosure is a statement required by the U.S. Federal Trade Commis...</p></details>
    Published: March 15, 2026  
 
 23. <a id="endnote-23"></a>
    Source: termly.io  
    Title: FT C Affiliate Disclosure  
-   Link: [https://termly.io/resources/articles/ftc-affiliate-disclosure/](https://termly.io/resources/articles/ftc-affiliate-disclosure/)  
+   Link: <a href="https://termly.io/resources/articles/ftc-affiliate-disclosure/" target="_blank" rel="noopener noreferrer nofollow">https://termly.io/resources/articles/ftc-affiliate-disclosure/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Anyone engaged in affiliate marketing needs an FTC affiliate disclosure. Examples of affiliate marketing include product [reviews](&amp;#123;&amp;#123; &#x27;reviews/&#x27; | relative_url &amp;#125;&amp;#125;), paid gu...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: asa.org.uk  
    Title: #Influencing Responsibly  
-   Link: [https://www.asa.org.uk/news/influencingresponsibly-make-clear-upfront-when-ads-are-ads.html](https://www.asa.org.uk/news/influencingresponsibly-make-clear-upfront-when-ads-are-ads.html)  
+   Link: <a href="https://www.asa.org.uk/news/influencingresponsibly-make-clear-upfront-when-ads-are-ads.html" target="_blank" rel="noopener noreferrer nofollow">https://www.asa.org.uk/news/influencingresponsibly-make-clear-upfront-when-ads-are-ads.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>#InfluencingResponsibly - Make clear upfront when ads are ads - ASA | CAPMarch 25, 2021 — LABEL ALL RELEVANT STORIES When a piece of ad c...</p></details>
-   Published: March 25, 2021  
+   Published: March 25, 2021

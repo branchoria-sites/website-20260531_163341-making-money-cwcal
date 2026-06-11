@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /intent-topics/
 nav_short_title: Versus pages
 title: When a versus page earns its click
-title_full: When a versus page earns its click | Intent Topics
+title_full: When a versus page earns its click
 display_title_short: Versus pages
 display_title: Versus pages
 heading_title: When a versus page earns its click
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-31 13:13:46'
-parent_title: Which Affiliate Topics Are Worth Building? | Affiliate Engines
+parent_title: Which Affiliate Topics Are Worth Building?
 parent_permalink: /intent-topics/
 parent_nav_short_title: Intent Topics
 parent_heading_title: Which Affiliate Topics Are Worth Building?
@@ -268,34 +268,31 @@ image: /assets/images/making_money_from_cr_f649af_commercial_intent_to_bcfe92_ve
 
 ## Introduction
 
-Versus pages — dedicated “Product A vs Product B” [comparison pages]({{ 'comparisons/' | relative_url }}) — are a distinct commercial content format aligned with **commercial investigation intent**: the moment when a reader already knows the category they want and is trying to choose between specific named options. Unlike general [reviews]({{ 'reviews/' | relative_url }}) or “best of” guides, versus pages zero in on differences that matter to a prospective buyer at the final stage *before* purchase, capturing traffic that is close enough in the buyer journey to be highly monetisable with affiliate offers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.modobeam.com/versus-pages/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: modobeam.com">[modobeam.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">modobeam.com</span><span class="citation-popover-title">What Are Versus Pages? | A Guide to Comparison Content</span><span class="citation-popover-snippet">July 2, 2025...</span><span class="citation-popover-meta">Published: July 2, 2025</span></span></span>
-
+Versus pages — dedicated “Product A vs Product B” comparison pages — are a distinct commercial content format aligned with **commercial investigation intent**: the moment when a reader already knows the category they want and is trying to choose between specific named options. Unlike general [reviews]({{ 'reviews/' | relative_url }}) or “best of” guides, versus pages zero in on differences that matter to a prospective buyer at the final stage *before* purchase, capturing traffic that is close enough in the buyer journey to be highly monetisable with affiliate offers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.modobeam.com/versus-pages/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: modobeam.com">[modobeam.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">modobeam.com</span><span class="citation-popover-title">What Are Versus Pages? &#124; A Guide to Comparison Content</span><span class="citation-popover-snippet">July 2, 2025...</span><span class="citation-popover-meta">Published: July 2, 2025</span></span></span>
 
 <img src="{{ "/assets/images/making_money_from_cr_f649af_commercial_intent_to_bcfe92_versus_pages_fbd582-Illustration-1-dark.svg" | relative_url }}" alt="Versus pages illustration 1" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_commercial_intent_to_bcfe92_versus_pages_fbd582-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_commercial_intent_to_bcfe92_versus_pages_fbd582-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 In affiliate website systems, choosing versus topics with real decision tension can increase [revenue per visitor]({{ 'revenue-model/' | relative_url }}) because these pages match searcher intent more precisely than broad informational content. They aim not simply to attract readers but to **convert them by helping them decide**, which creates a clearer and shorter path to affiliate commissions.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/QN8aX6rsar4" title="How To Create FREE Amazon Affiliate Product Comparisons Tables on a WordPress Blog" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=QN8aX6rsar4" target="_blank" rel="noopener noreferrer">How To Create FREE Amazon Affiliate Product Comparisons Tables on a WordPress Blog</a></p><p class="youtube-embed-meta">Channel: Ana - The She Approach &middot; Views: 15.5K &middot; Uploaded: October 2021 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=QN8aX6rsar4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=QN8aX6rsar4">Open on YouTube</a></p></div></div></div>
 
 ## Choosing Versus Topics With Real Decision Tension
 
-A versus page is not valuable simply because it mentions two product names. It earns its traffic when **the query reflects a real decision moment** — that is, when a searcher’s intent is genuinely commercial investigation rather than curiosity or brand recognition. Typical versus queries include named products with modifiers like “vs”, “compare”, “difference”, or “which is better for X”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ahrefs.com/blog/keyword-intent/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ahrefs.com">[Ahrefs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ahrefs.com</span><span class="citation-popover-title">Keyword Intent: What It Is and How to Use It in Your SEO Strategy</span><span class="citation-popover-snippet">AhrefsKeyword Intent: What It Is and How to Use It in Your SEO StrategyMarch 13, 2026...</span><span class="citation-popover-meta">Published: March 13, 2026</span></span></span>
+A versus page is not valuable simply because it mentions two product names. It earns its traffic when **the query reflects a real decision moment** — that is, when a searcher’s intent is genuinely commercial investigation rather than curiosity or brand recognition. Typical versus queries include named products with modifiers like “vs”, “compare”, “difference”, or “which is better for X”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ahrefs.com/blog/keyword-intent/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ahrefs.com">[Ahrefs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ahrefs.com</span><span class="citation-popover-title">Keyword Intent: What It Is and How to Use It in Your SEO Strategy</span><span class="citation-popover-snippet">Keyword Intent: What It Is and How to Use It in Your SEO StrategyMarch 13, 2026...</span><span class="citation-popover-meta">Published: March 13, 2026</span></span></span>
 
-What separates a versus topic worth creating from one that isn’t: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.modobeam.com/versus-pages/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: modobeam.com">[modobeam.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">modobeam.com</span><span class="citation-popover-title">What Are Versus Pages? | A Guide to Comparison Content</span><span class="citation-popover-snippet">July 2, 2025...</span><span class="citation-popover-meta">Published: July 2, 2025</span></span></span>
+What separates a versus topic worth creating from one that isn’t: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.modobeam.com/versus-pages/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: modobeam.com">[modobeam.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">modobeam.com</span><span class="citation-popover-title">What Are Versus Pages? &#124; A Guide to Comparison Content</span><span class="citation-popover-snippet">July 2, 2025...</span><span class="citation-popover-meta">Published: July 2, 2025</span></span></span>
 
-* **Intent specificity:** The query must signal that the reader has already narrowed down to those products and wants to choose between them. Queries like “Dyson V11 vs V15” or “iPhone 15 vs Samsung Galaxy S24 camera” are classic examples because they reflect a choice between specific models. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.modobeam.com/versus-pages/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: modobeam.com">[modobeam.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">modobeam.com</span><span class="citation-popover-title">What Are Versus Pages? | A Guide to Comparison Content</span><span class="citation-popover-snippet">July 2, 2025...</span><span class="citation-popover-meta">Published: July 2, 2025</span></span></span>
+* **Intent specificity:** The query must signal that the reader has already narrowed down to those products and wants to choose between them. Queries like “Dyson V11 vs V15” or “iPhone 15 vs Samsung Galaxy S24 camera” are classic examples because they reflect a choice between specific models. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.modobeam.com/versus-pages/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: modobeam.com">[modobeam.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">modobeam.com</span><span class="citation-popover-title">What Are Versus Pages? &#124; A Guide to Comparison Content</span><span class="citation-popover-snippet">July 2, 2025...</span><span class="citation-popover-meta">Published: July 2, 2025</span></span></span>
 * **Commercial opportunity:** There must be affiliate offers available for both (or one) products with reasonable conversion potential and tracking. If one option lacks affiliate support, the versus page must still add value by helping the reader understand trade‑offs (and linking appropriately), rather than simply recycling a product page.
-* **Search volume and SERP intent match:** The topic should have enough search volume to justify building and maintaining content. High‑intent “X vs Y” long‑tail keywords are often lower in volume than general terms, but the [commercial intent]({{ 'intent-topics/' | relative_url }}) they represent can be significantly stronger. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ahrefs.com/blog/keyword-intent/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ahrefs.com">[Ahrefs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ahrefs.com</span><span class="citation-popover-title">Keyword Intent: What It Is and How to Use It in Your SEO Strategy</span><span class="citation-popover-snippet">AhrefsKeyword Intent: What It Is and How to Use It in Your SEO StrategyMarch 13, 2026...</span><span class="citation-popover-meta">Published: March 13, 2026</span></span></span>
+* **Search volume and SERP intent match:** The topic should have enough search volume to justify building and maintaining content. High‑intent “X vs Y” long‑tail keywords are often lower in volume than general terms, but the commercial intent they represent can be significantly stronger. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ahrefs.com/blog/keyword-intent/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ahrefs.com">[Ahrefs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ahrefs.com</span><span class="citation-popover-title">Keyword Intent: What It Is and How to Use It in Your SEO Strategy</span><span class="citation-popover-snippet">Keyword Intent: What It Is and How to Use It in Your SEO StrategyMarch 13, 2026...</span><span class="citation-popover-meta">Published: March 13, 2026</span></span></span>
 * **Distinct user needs:** There must be genuine differences that affect purchase decisions (feature sets, pricing, use‑case fit, performance trade‑offs), otherwise the versus page risks feeling superficial.
 
 A versus page topic with real tension is effective when **neither product clearly dominates for all audiences**, and the reader genuinely benefits from seeing structured [comparisons]({{ 'comparisons/' | relative_url }}). Pages where one option is clearly inferior in every dimension — or where differences are negligible — rarely satisfy search intent and tend to underperform. <span class="citation-chip-wrap"><a class="citation-chip" href="https://searchfoundry.co.uk/blog/winning-the-consideration-stage-a-blueprint-for-high-converting-comparison-and-alternative-pages/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: searchfoundry.co.uk">[The Search Foundry]</a><span class="citation-popover" role="note"><span class="citation-popover-source">searchfoundry.co.uk</span><span class="citation-popover-snippet">The Search FoundryWinning the Consideration Stage: A Blueprint for High-Converting Comparison and Alternative Pages - The Search FoundryM...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/s5VZaXi7RF4" title="Keyword Research Tips for Affiliate Marketing Sites" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=s5VZaXi7RF4" target="_blank" rel="noopener noreferrer">Keyword Research Tips for Affiliate Marketing Sites</a></p><p class="youtube-embed-meta">Channel: Ahrefs &middot; Views: 67.3K &middot; Uploaded: August 2020 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=s5VZaXi7RF4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=s5VZaXi7RF4">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/AKazMBlLQMA" title="Leadpages Vs Unbounce (Comparing Unbounce Vs Leadpages Landing Pages)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=AKazMBlLQMA" target="_blank" rel="noopener noreferrer">Leadpages Vs Unbounce (Comparing Unbounce Vs Leadpages Landing Pages)</a></p><p class="youtube-embed-meta">Channel: Marketing Island &middot; Views: 769 &middot; Uploaded: May 2022 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=AKazMBlLQMA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=AKazMBlLQMA">Open on YouTube</a></p></div></div></div>
 
 ## Comparison‑Table Attributes That Readers Actually Use
 
-Well‑structured versus pages hinge on fields that matter to decision‑making — and research shows that users engage most with **attribute comparisons they can scan quickly and trust**. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.surfient.com/guides/product-comparison-pages-ai" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: surfient.com">[Surfient]</a><span class="citation-popover" role="note"><span class="citation-popover-source">surfient.com</span><span class="citation-popover-title">Product comparison pages cited by AI engines — Surfient</span><span class="citation-popover-snippet">SurfientProduct comparison pages cited by AI engines — SurfientApril 21, 2026...</span><span class="citation-popover-meta">Published: April 21, 2026</span></span></span>
+Well‑structured versus pages hinge on fields that matter to decision‑making — and research shows that users engage most with **attribute comparisons they can scan quickly and trust**. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.surfient.com/guides/product-comparison-pages-ai" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: surfient.com">[Surfient]</a><span class="citation-popover" role="note"><span class="citation-popover-source">surfient.com</span><span class="citation-popover-title">Product comparison pages cited by AI engines — Surfient</span><span class="citation-popover-snippet">Product comparison pages cited by AI engines — SurfientApril 21, 2026...</span><span class="citation-popover-meta">Published: April 21, 2026</span></span></span>
 
 Key [attributes]({{ 'attributes/' | relative_url }}) that genuinely assist decisions include:
 
@@ -305,21 +302,19 @@ Key [attributes]({{ 'attributes/' | relative_url }}) that genuinely assist decis
 * **Pros and cons succinctly stated:** Clear, honest trade‑offs instead of promotional language. This builds trust and reduces friction later in the funnel.
 * **Visual comparatives:** [Tables]({{ 'tables/' | relative_url }}), charts, or checklists that support easy side‑by‑side scanning. Opaque prose buried in paragraphs rarely serves the quick decision mindset that versus searchers have.
 
-Experimentation by conversion optimisation practitioners shows that **small structural choices** (such as where a comparison table sits, how attributes are labelled, and how interactive elements behave) have outsized effects on click‑through and affiliate conversion rates. <span class="citation-chip-wrap"><a class="citation-chip" href="https://atticusli.com/blog/posts/product-comparison-pages-19-experiments/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atticusli.com">[Atticus Li]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atticusli.com</span><span class="citation-popover-snippet">Atticus LiProduct Comparison Pages: 19 Experiments Reveal What Actually Converts | Atticus LiMarch 31, 2026...</span><span class="citation-popover-meta">Published: March 31, 2026</span></span></span>
-
+Experimentation by conversion optimisation practitioners shows that **small structural choices** (such as where a comparison table sits, how attributes are labelled, and how interactive elements behave) have outsized effects on click‑through and affiliate conversion rates. <span class="citation-chip-wrap"><a class="citation-chip" href="https://atticusli.com/blog/posts/product-comparison-pages-19-experiments/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atticusli.com">[Atticus Li]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atticusli.com</span><span class="citation-popover-snippet">Atticus LiProduct Comparison Pages: 19 Experiments Reveal What Actually Converts &#124; Atticus LiMarch 31, 2026...</span><span class="citation-popover-meta">Published: March 31, 2026</span></span></span>
 
 <img src="{{ "/assets/images/making_money_from_cr_f649af_commercial_intent_to_bcfe92_versus_pages_fbd582-Illustration-2-dark.svg" | relative_url }}" alt="Versus pages illustration 2" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_commercial_intent_to_bcfe92_versus_pages_fbd582-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_commercial_intent_to_bcfe92_versus_pages_fbd582-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Linking Versus Pages to Reviews, Alternatives, and Offers
 
 Versus pages rarely stand alone in a high‑performing affiliate system. They are most effective when **strategically connected to adjacent content and offers**.
 
-* **[Internal linking]({{ 'user-journeys/' | relative_url }}) to detailed reviews:** When a reader wants deeper analysis of “Product A’s durability” or “Product B’s warranty”, linking to standalone reviews gives evidence depth without cluttering the versus page.
+* **Internal linking to detailed reviews:** When a reader wants deeper analysis of “Product A’s durability” or “Product B’s warranty”, linking to standalone reviews gives evidence depth without cluttering the versus page.
 * **Linking to alternative comparison pages:** A versus page can be part of a cluster — e.g., “X vs Y” alongside “X vs Z”, and “Y vs Z”, and “Best alternatives to X” — helping capture comparison intent across a broader set of high‑intent queries.
 * **Clear next‑action offers:** Include affiliate links that match the searcher’s intent — not just buy buttons but contextually relevant modifiers like “Check latest price”, “See deals on Amazon”, or “Compare colours and sizes”.
-* **Avoiding thin redirects:** Modern search engines and users alike devalue “bridge pages” that exist mainly to push users off to merchants without meaningful decision support content. Versus pages should minimise that thin‑page feel by embedding analysis, context, and next‑step clarity before offering links. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fintelconnect.com/article/bridge-pages-vs-affiliate-marketing-2026/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fintelconnect.com">[Fintel Connect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fintelconnect.com</span><span class="citation-popover-title">bridge pages vs affiliate marketing 2026</span><span class="citation-popover-snippet">Fintel ConnectBridge Pages vs Affiliate Marketing in 2026: How to Stay Compliant and Still Convert | Article | Fintel ConnectMarch 4, 2026...</span><span class="citation-popover-meta">Published: March 4, 2026</span></span></span>
+* **Avoiding thin redirects:** Modern search engines and users alike devalue “bridge pages” that exist mainly to push users off to merchants without meaningful decision support content. Versus pages should minimise that thin‑page feel by embedding analysis, context, and next‑step clarity before offering links. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fintelconnect.com/article/bridge-pages-vs-affiliate-marketing-2026/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fintelconnect.com">[Fintel Connect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fintelconnect.com</span><span class="citation-popover-title">bridge pages vs affiliate marketing 2026</span><span class="citation-popover-snippet">Fintel ConnectBridge Pages vs Affiliate Marketing in 2026: How to Stay Compliant and Still Convert &#124; Article &#124; Fintel ConnectMarch 4, 2026...</span><span class="citation-popover-meta">Published: March 4, 2026</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/AKazMBlLQMA" title="Leadpages Vs Unbounce (Comparing Unbounce Vs Leadpages Landing Pages)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=AKazMBlLQMA" target="_blank" rel="noopener noreferrer">Leadpages Vs Unbounce (Comparing Unbounce Vs Leadpages Landing Pages)</a></p><p class="youtube-embed-meta">Channel: Marketing Island &middot; Views: 769 &middot; Uploaded: May 2022 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=AKazMBlLQMA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=AKazMBlLQMA">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/EgIi0m6qysU" title="How to Building an Amazon Product Comparison Site with WordPress" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=EgIi0m6qysU" target="_blank" rel="noopener noreferrer">How to Building an Amazon Product Comparison Site with WordPress</a></p><p class="youtube-embed-meta">Channel: KeywordRush &middot; Views: 1.9K &middot; Uploaded: March 2024 &middot; Length: 4 minutes 14 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=EgIi0m6qysU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=EgIi0m6qysU">Open on YouTube</a></p></div></div></div>
 
 ## What Success Looks Like in Affiliate Systems
 
@@ -327,10 +322,9 @@ In a scalable affiliate content system, versus pages act as **commercial‑inves
 
 * **Higher conversion rates:** Because versus traffic is closer to purchase than general informational traffic, even modest volumes can produce outsized affiliate revenue.
 * **Lower bounce and higher engagement:** Users scanning attributes and trade‑offs engage deeper with structured content than with generic listicles or product pages alone.
-* **SEO value over time:** Long‑tail versus queries often face lower competition and align well with modern intent classification in search and AI retrieval systems, improving rankings and resilience to algorithm shifts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.surfient.com/guides/product-comparison-pages-ai" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: surfient.com">[Surfient]</a><span class="citation-popover" role="note"><span class="citation-popover-source">surfient.com</span><span class="citation-popover-title">Product comparison pages cited by AI engines — Surfient</span><span class="citation-popover-snippet">SurfientProduct comparison pages cited by AI engines — SurfientApril 21, 2026...</span><span class="citation-popover-meta">Published: April 21, 2026</span></span></span>
+* **SEO value over time:** Long‑tail versus queries often face lower competition and align well with modern intent classification in search and AI retrieval systems, improving rankings and resilience to algorithm shifts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.surfient.com/guides/product-comparison-pages-ai" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: surfient.com">[Surfient]</a><span class="citation-popover" role="note"><span class="citation-popover-source">surfient.com</span><span class="citation-popover-title">Product comparison pages cited by AI engines — Surfient</span><span class="citation-popover-snippet">Product comparison pages cited by AI engines — SurfientApril 21, 2026...</span><span class="citation-popover-meta">Published: April 21, 2026</span></span></span>
 
 Versus pages thrive when **the content genuinely helps the reader choose**, not just when they mention product names. That reader‑centric evidence — structured comparisons, honest framings of trade‑offs, and clear linkage to offers — is what turns traffic into revenue in affiliate contexts.
-
 
 <img src="{{ "/assets/images/making_money_from_cr_f649af_commercial_intent_to_bcfe92_versus_pages_fbd582-Illustration-3-dark.svg" | relative_url }}" alt="Versus pages illustration 3" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_commercial_intent_to_bcfe92_versus_pages_fbd582-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_commercial_intent_to_bcfe92_versus_pages_fbd582-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -756,46 +750,46 @@ Versus pages thrive when **the content genuinely helps the reader choose**, not 
 1. <a id="endnote-1"></a>
    Source: modobeam.com  
    Title: What Are Versus Pages? | A Guide to Comparison Content  
-   Link: [https://www.modobeam.com/versus-pages/](https://www.modobeam.com/versus-pages/)  
+   Link: <a href="https://www.modobeam.com/versus-pages/" target="_blank" rel="noopener noreferrer nofollow">https://www.modobeam.com/versus-pages/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>July 2, 2025...</p></details>
    Published: July 2, 2025  
 
 2. <a id="endnote-2"></a>
    Source: ahrefs.com  
    Title: Keyword Intent: What It Is and How to Use It in Your SEO Strategy  
-   Link: [https://ahrefs.com/blog/keyword-intent/](https://ahrefs.com/blog/keyword-intent/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AhrefsKeyword Intent: What It Is and How to Use It in Your SEO StrategyMarch 13, 2026...</p></details>
+   Link: <a href="https://ahrefs.com/blog/keyword-intent/" target="_blank" rel="noopener noreferrer nofollow">https://ahrefs.com/blog/keyword-intent/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Keyword Intent: What It Is and How to Use It in Your SEO StrategyMarch 13, 2026...</p></details>
    Published: March 13, 2026  
 
 3. <a id="endnote-3"></a>
    Source: surfient.com  
    Title: Product comparison pages cited by AI engines — Surfient  
-   Link: [https://www.surfient.com/guides/product-comparison-pages-ai](https://www.surfient.com/guides/product-comparison-pages-ai)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SurfientProduct comparison pages cited by AI engines — SurfientApril 21, 2026...</p></details>
+   Link: <a href="https://www.surfient.com/guides/product-comparison-pages-ai" target="_blank" rel="noopener noreferrer nofollow">https://www.surfient.com/guides/product-comparison-pages-ai</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Product comparison pages cited by AI engines — SurfientApril 21, 2026...</p></details>
    Published: April 21, 2026  
 
 4. <a id="endnote-4"></a>
    Source: searchfoundry.co.uk  
-   Link: [https://searchfoundry.co.uk/blog/winning-the-consideration-stage-a-blueprint-for-high-converting-comparison-and-alternative-pages/](https://searchfoundry.co.uk/blog/winning-the-consideration-stage-a-blueprint-for-high-converting-comparison-and-alternative-pages/)  
+   Link: <a href="https://searchfoundry.co.uk/blog/winning-the-consideration-stage-a-blueprint-for-high-converting-comparison-and-alternative-pages/" target="_blank" rel="noopener noreferrer nofollow">https://searchfoundry.co.uk/blog/winning-the-consideration-stage-a-blueprint-for-high-converting-comparison-and-alternative-pages/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Search FoundryWinning the Consideration Stage: A Blueprint for High-Converting Comparison and Alternative Pages - The Search FoundryM...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: atticusli.com  
-   Link: [https://atticusli.com/blog/posts/product-comparison-pages-19-experiments/](https://atticusli.com/blog/posts/product-comparison-pages-19-experiments/)  
+   Link: <a href="https://atticusli.com/blog/posts/product-comparison-pages-19-experiments/" target="_blank" rel="noopener noreferrer nofollow">https://atticusli.com/blog/posts/product-comparison-pages-19-experiments/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Atticus LiProduct Comparison Pages: 19 Experiments Reveal What Actually Converts | Atticus LiMarch 31, 2026...</p></details>
    Published: March 31, 2026  
 
 6. <a id="endnote-6"></a>
    Source: fintelconnect.com  
    Title: bridge pages vs affiliate marketing 2026  
-   Link: [https://www.fintelconnect.com/article/bridge-pages-vs-affiliate-marketing-2026/](https://www.fintelconnect.com/article/bridge-pages-vs-affiliate-marketing-2026/)  
+   Link: <a href="https://www.fintelconnect.com/article/bridge-pages-vs-affiliate-marketing-2026/" target="_blank" rel="noopener noreferrer nofollow">https://www.fintelconnect.com/article/bridge-pages-vs-affiliate-marketing-2026/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fintel ConnectBridge Pages vs Affiliate Marketing in 2026: How to Stay Compliant and Still Convert | Article | Fintel ConnectMarch 4, 2026...</p></details>
    Published: March 4, 2026  
 
 7. <a id="endnote-7"></a>
    Source: seohandbook.co.uk  
    Title: Search Intent | the seo handbook  
-   Link: [https://seohandbook.co.uk/keyword-research/search-intent/](https://seohandbook.co.uk/keyword-research/search-intent/)  
+   Link: <a href="https://seohandbook.co.uk/keyword-research/search-intent/" target="_blank" rel="noopener noreferrer nofollow">https://seohandbook.co.uk/keyword-research/search-intent/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>* Informational * Navigational * Commercial search intent * Transactional * Why is intent matching the primary ranking factor? * Intent a...</p></details>
 
 ### Additional References
@@ -803,67 +797,67 @@ Versus pages thrive when **the content genuinely helps the reader choose**, not 
 8. <a id="endnote-8"></a>
    Source: affiversemedia.com  
    Title: How to Build Software Comparison Pages That Convert: A Guide for Affiliates  
-   Link: [https://www.affiversemedia.com/how-to-build-software-comparison-pages-that-convert-a-guide-for-affiliates/](https://www.affiversemedia.com/how-to-build-software-comparison-pages-that-convert-a-guide-for-affiliates/)  
+   Link: <a href="https://www.affiversemedia.com/how-to-build-software-comparison-pages-that-convert-a-guide-for-affiliates/" target="_blank" rel="noopener noreferrer nofollow">https://www.affiversemedia.com/how-to-build-software-comparison-pages-that-convert-a-guide-for-affiliates/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AffiverseFebruary 5, 2026 — By Rishi Lakhani HOW TO BUILD SOFTWARE COMPARISON PAGES THAT CONVERT: A GUIDE FOR AFFILIATES Article • Februa...</p></details>
    Published: February 5, 2026  
 
 9. <a id="endnote-9"></a>
    Source: bigtee.dev  
    Title: Learn how to align your product or service keywords with what your cus  
-   Link: [https://bigtee.dev/blog/search-intent-seo/](https://bigtee.dev/blog/search-intent-seo/)  
+   Link: <a href="https://bigtee.dev/blog/search-intent-seo/" target="_blank" rel="noopener noreferrer nofollow">https://bigtee.dev/blog/search-intent-seo/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Search Intent &amp; Product Keywords: SEO Guide | BigTeeDecember 17, 2025 — 2025-12-17 • SEO • 10 min read SEARCH INTENT SEO: THE KEY TO CONV...</p></details>
    Published: December 17, 2025  
 
 10. <a id="endnote-10"></a>
    Source: postaffiliatepro.com  
    Title: What Makes Product Comparisons Effective for Affiliate Content?  
-   Link: [https://www.postaffiliatepro.com/faq/effective-product-comparisons-affiliate-content/](https://www.postaffiliatepro.com/faq/effective-product-comparisons-affiliate-content/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>| Post Affiliate ProWHAT MAKES PRODUCT COMPARISONS EFFECTIVE FOR AFFILIATE CONTENT? Learn what makes product comparisons effective for af...</p></details>
+   Link: <a href="https://www.postaffiliatepro.com/faq/effective-product-comparisons-affiliate-content/" target="_blank" rel="noopener noreferrer nofollow">https://www.postaffiliatepro.com/faq/effective-product-comparisons-affiliate-content/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Post Affiliate ProWHAT MAKES PRODUCT COMPARISONS EFFECTIVE FOR AFFILIATE CONTENT? Learn what makes product comparisons effective for af...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: orr-consulting.com  
    Title: landing pages vs homepages vs product pages what converts best in 2026  
-   Link: [https://www.orr-consulting.com/post/landing-pages-vs-homepages-vs-product-pages-what-converts-best-in-2026](https://www.orr-consulting.com/post/landing-pages-vs-homepages-vs-product-pages-what-converts-best-in-2026)  
+   Link: <a href="https://www.orr-consulting.com/post/landing-pages-vs-homepages-vs-product-pages-what-converts-best-in-2026" target="_blank" rel="noopener noreferrer nofollow">https://www.orr-consulting.com/post/landing-pages-vs-homepages-vs-product-pages-what-converts-best-in-2026</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>* Image: Writer: Linda Orr Linda Orr * Feb 16 * 5 min read If you’re driving traffic from Google Ads, Meta, LinkedIn, email...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: judeluxe.com  
    Title: Category Page vs Product Page Ads: Which Landing Page Wins?  
-   Link: [https://judeluxe.com/insights/category-page-vs-product-page](https://judeluxe.com/insights/category-page-vs-product-page)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>| JudeLuxeMarch 2026•6 min read CATEGORY PAGE VS PRODUCT PAGE ADS: WHICH LANDING PAGE WINS? You&#x27;re paying £2-5 per click. Where that clic...</p></details>
+   Link: <a href="https://judeluxe.com/insights/category-page-vs-product-page" target="_blank" rel="noopener noreferrer nofollow">https://judeluxe.com/insights/category-page-vs-product-page</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>JudeLuxeMarch 2026•6 min read CATEGORY PAGE VS PRODUCT PAGE ADS: WHICH LANDING PAGE WINS? You&#x27;re paying £2-5 per click. Where that clic...</p></details>
    Published: March 2026  
 
 13. <a id="endnote-13"></a>
    Source: mattmcwilliams.com  
    Title: How to Write a Comparison Post for Affiliate Marketing  
-   Link: [https://www.mattmcwilliams.com/how-to-write-a-comparison-post-for-affiliate-marketing/](https://www.mattmcwilliams.com/how-to-write-a-comparison-post-for-affiliate-marketing/)  
+   Link: <a href="https://www.mattmcwilliams.com/how-to-write-a-comparison-post-for-affiliate-marketing/" target="_blank" rel="noopener noreferrer nofollow">https://www.mattmcwilliams.com/how-to-write-a-comparison-post-for-affiliate-marketing/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Affiliate Guy Matt McWilliams - Advice for Affiliate Program ManagersMarch 27, 2026 — HOW TO WRITE A COMPARISON POST FOR AFFILIATE MA...</p></details>
    Published: March 27, 2026  
 
 14. <a id="endnote-14"></a>
    Source: usearticle.com  
    Title: A practical affiliate framework for trust, ranking  
-   Link: [https://www.usearticle.com/blog/ultimate-guide-to-product-comparisons-that-convert-affiliate-framework-for-2026](https://www.usearticle.com/blog/ultimate-guide-to-product-comparisons-that-convert-affiliate-framework-for-2026)  
+   Link: <a href="https://www.usearticle.com/blog/ultimate-guide-to-product-comparisons-that-convert-affiliate-framework-for-2026" target="_blank" rel="noopener noreferrer nofollow">https://www.usearticle.com/blog/ultimate-guide-to-product-comparisons-that-convert-affiliate-framework-for-2026</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ultimate Guide to Product Comparisons That Convert (Affiliate Framework for 2026) | UseArticle BlogJanuary 5, 2026 — ULTIMATE GUIDE TO PR...</p></details>
    Published: January 5, 2026  
 
 15. <a id="endnote-15"></a>
    Source: usearticle.com  
    Title: A practical affiliate framework for trust, ranking  
-   Link: [https://www.usearticle.com/blog/ultimate-guide-to-product-comparisons-that-convert-affiliate-framework-for-2026---cmk138qe00002kz04t1rqx5ky](https://www.usearticle.com/blog/ultimate-guide-to-product-comparisons-that-convert-affiliate-framework-for-2026---cmk138qe00002kz04t1rqx5ky)  
+   Link: <a href="https://www.usearticle.com/blog/ultimate-guide-to-product-comparisons-that-convert-affiliate-framework-for-2026---cmk138qe00002kz04t1rqx5ky" target="_blank" rel="noopener noreferrer nofollow">https://www.usearticle.com/blog/ultimate-guide-to-product-comparisons-that-convert-affiliate-framework-for-2026---cmk138qe00002kz04t1rqx5ky</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ultimate Guide to Product Comparisons That Convert (Affiliate Framework for 2026)January 5, 2026 — ULTIMATE GUIDE TO PRODUCT COMPARISONS...</p></details>
    Published: January 5, 2026  
 
 16. <a id="endnote-16"></a>
    Source: gatilab.com  
    Title: Product Page SEO: Structure to Rank and Convert  
-   Link: [https://gatilab.com/product-pages-seo/](https://gatilab.com/product-pages-seo/)  
+   Link: <a href="https://gatilab.com/product-pages-seo/" target="_blank" rel="noopener noreferrer nofollow">https://gatilab.com/product-pages-seo/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>April 14, 2026 — PRODUCT PAGE SEO VS CATEGORY PAGE SEO Element | Product page | Category page --- | --- | --- URL pattern | `/products/{p...</p></details>
    Published: April 14, 2026  
 
 17. <a id="endnote-17"></a>
    Source: ecomseo.co  
    Title: seo for ecommerce product pages  
-   Link: [https://www.ecomseo.co/blog/seo-for-ecommerce-product-pages](https://www.ecomseo.co/blog/seo-for-ecommerce-product-pages)  
+   Link: <a href="https://www.ecomseo.co/blog/seo-for-ecommerce-product-pages" target="_blank" rel="noopener noreferrer nofollow">https://www.ecomseo.co/blog/seo-for-ecommerce-product-pages</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Rank HigherFebruary 26, 2026 — SEO FOR ECOMMERCE PRODUCT PAGES: RANK HIGHER Optimize ecommerce product pages for SEO with actionable tips...</p></details>
-   Published: February 26, 2026  
+   Published: February 26, 2026

@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /intent-topics/
 nav_short_title: Intent ladder
 title: How close is the reader to buying?
-title_full: How close is the reader to buying? | Intent Topics
+title_full: How close is the reader to buying?
 display_title_short: Intent ladder
 display_title: Intent ladder
 heading_title: How close is the reader to buying?
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-31 13:13:30'
-parent_title: Which Affiliate Topics Are Worth Building? | Affiliate Engines
+parent_title: Which Affiliate Topics Are Worth Building?
 parent_permalink: /intent-topics/
 parent_nav_short_title: Intent Topics
 parent_heading_title: Which Affiliate Topics Are Worth Building?
@@ -276,7 +276,6 @@ image: /assets/images/making_money_from_cr_f649af_commercial_intent_to_bcfe92_bu
 
 A buyer-intent ladder is a practical way to separate traffic that is merely interested from traffic that is moving towards a purchase decision. For affiliate websites, this distinction often matters more than raw search volume. A keyword can attract thousands of visitors and still produce little revenue if most readers are only learning. A smaller keyword can earn far more if the searcher is already comparing products, checking alternatives, evaluating risk, or preparing to buy.
 
-
 <img src="{{ "/assets/images/making_money_from_cr_f649af_commercial_intent_to_bcfe92_buyer_intent_ladder_6ae267-Illustration-1-dark.svg" | relative_url }}" alt="Intent ladder illustration 1" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_commercial_intent_to_bcfe92_buyer_intent_ladder_6ae267-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_commercial_intent_to_bcfe92_buyer_intent_ladder_6ae267-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The value of the ladder is that it gives a repeatable topic-selection framework. Instead of asking, “Does this keyword get searches?”, the better question becomes, “How close is this reader to taking action, and what decision is the page helping them make?” Commercial affiliate content tends to perform best when it matches a specific decision stage and gives the user a clear route towards choosing a product, service, or provider. Google’s product review guidance and helpful-content systems increasingly reward pages that genuinely help people evaluate options rather than simply summarising products. <span class="citation-chip-wrap"><a class="citation-chip" href="https://developers.google.com/search/blog/2021/04/product-reviews-update" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-title">product reviews update</span><span class="citation-popover-snippet">Google for DevelopersWhat creators should know about Google&#x27;s April 2021...8 Apr 2021 — We&#x27;re sharing an improvement to our ranking syst...</span><span class="citation-popover-meta">Published: April 2021</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://developers.google.com/search/blog/2021/04/product-reviews-update" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-title">product reviews update</span><span class="citation-popover-snippet">Google for DevelopersWhat creators should know about Google&#x27;s April 2021...8 Apr 2021 — We&#x27;re sharing an improvement to our ranking syst...</span><span class="citation-popover-meta">Published: April 2021</span></span></span>
 
@@ -292,7 +291,7 @@ The important shift is not the keyword [wording]({{ 'wording/' | relative_url }}
 
 Someone searching for “what is an ergonomic chair” may not even know whether they need one. Someone searching for “best ergonomic chair for lower back pain” has already identified a problem and is actively looking for solutions. Someone searching for “Herman Miller Aeron vs Steelcase Leap” is evaluating named products and is often much closer to a buying decision.
 
-[Commercial intent]({{ 'intent-topics/' | relative_url }}) keywords are commonly defined as searches used to research products, brands, or services before purchase. Third-party comparison and review content frequently ranks because searchers want information that feels independent from the seller's own marketing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.semrush.com/blog/commercial-intent-keywords/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: semrush.com">[Semrush]</a><span class="citation-popover" role="note"><span class="citation-popover-source">semrush.com</span><span class="citation-popover-title">commercial intent keywords</span><span class="citation-popover-snippet">SemrushCommercial Intent Keywords: The Complete Guide for...3 Dec 2025 — Commercial intent keywords are search terms used to research a...</span></span></span>
+Commercial intent keywords are commonly defined as searches used to research products, brands, or services before purchase. Third-party comparison and review content frequently ranks because searchers want information that feels independent from the seller's own marketing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.semrush.com/blog/commercial-intent-keywords/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: semrush.com">[Semrush]</a><span class="citation-popover" role="note"><span class="citation-popover-source">semrush.com</span><span class="citation-popover-title">commercial intent keywords</span><span class="citation-popover-snippet">Commercial Intent Keywords: The Complete Guide for...3 Dec 2025 — Commercial intent keywords are search terms used to research a...</span></span></span>
 
 For affiliate topic selection, this means that two keywords with similar search volumes can have completely different revenue potential because they sit at different points on the ladder.
 
@@ -308,7 +307,6 @@ General informational searches are rarely the strongest direct affiliate opportu
 
 Examples include:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * “What is cloud storage?”
@@ -318,7 +316,6 @@ Examples include:
 </div>
 
 These pages can still be valuable because they:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -339,7 +336,6 @@ The next stage appears when the user recognises a problem and starts searching f
 
 Examples include:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * “Best mattress for side sleepers”
@@ -352,7 +348,6 @@ These keywords are valuable because they combine a need with a product category.
 
 The page's job becomes narrowing options rather than teaching fundamentals. This often creates a clearer route to affiliate offers because the reader has already accepted that some type of product may be required.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0CR9Nbn6L7o" title="Google Product Reviews Update Explained" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0CR9Nbn6L7o" target="_blank" rel="noopener noreferrer">Google Product Reviews Update Explained</a></p><p class="youtube-embed-meta">Channel: Matt Diggity &middot; Views: 23.1K &middot; Uploaded: April 2021 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0CR9Nbn6L7o" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0CR9Nbn6L7o">Open on YouTube</a></p></div></div></div>
 
 ### Comparison pages
@@ -360,7 +355,6 @@ The page's job becomes narrowing options rather than teaching fundamentals. This
 Comparison searches often represent one of the strongest affiliate formats.
 
 Examples include:
-
 
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
@@ -372,7 +366,7 @@ Examples include:
 
 The reader has already narrowed the market and is now trying to eliminate uncertainty.
 
-Research from Nielsen Norman Group notes that [comparison tables]({{ 'tables/' | relative_url }}) help users evaluate alternatives and support decision-making when the number of choices is manageable. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nngroup.com/articles/comparison-tables/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nngroup.com">[Nielsen Norman Group]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nngroup.com</span><span class="citation-popover-snippet">Nielsen Norman GroupComparison Tables for Products, Services, and Features9 Feb 2024 — Comparison tables support compensatory decision ma...</span></span></span>
+Research from Nielsen Norman Group notes that comparison [tables]({{ 'tables/' | relative_url }}) help users evaluate alternatives and support decision-making when the number of choices is manageable. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nngroup.com/articles/comparison-tables/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nngroup.com">[Nielsen Norman Group]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nngroup.com</span><span class="citation-popover-snippet">Nielsen Norman GroupComparison Tables for Products, Services, and Features9 Feb 2024 — Comparison tables support compensatory decision ma...</span></span></span>
 
 This is why comparison content is so common among successful affiliate sites. The page serves a specific decision function: identifying meaningful differences between competing options.
 
@@ -382,7 +376,6 @@ Review searches often sit even higher on the intent ladder.
 
 Examples include:
 
-
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
 * “MeacoDry Arete One review”
@@ -391,7 +384,7 @@ Examples include:
 
 </div>
 
-At this stage, the reader may already be leaning towards a particular purchase and is looking for reassurance, limitations, strengths, pricing context, or real-world experience.
+At this stage, the reader may already be leaning towards a particular purchase and is looking for reassurance, [limitations]({{ 'limitations/' | relative_url }}), strengths, pricing context, or real-world experience.
 
 Google's product review systems specifically reward content that demonstrates meaningful analysis and useful evaluation rather than thin summaries. <span class="citation-chip-wrap"><a class="citation-chip" href="https://developers.google.com/search/blog/2021/04/product-reviews-update" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-title">product reviews update</span><span class="citation-popover-snippet">Google for DevelopersWhat creators should know about Google&#x27;s April 2021...8 Apr 2021 — We&#x27;re sharing an improvement to our ranking syst...</span><span class="citation-popover-meta">Published: April 2021</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://developers.google.com/search/blog/2021/04/product-reviews-update" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-title">product reviews update</span><span class="citation-popover-snippet">Google for DevelopersWhat creators should know about Google&#x27;s April 2021...8 Apr 2021 — We&#x27;re sharing an improvement to our ranking syst...</span><span class="citation-popover-meta">Published: April 2021</span></span></span>
 
@@ -420,14 +413,12 @@ usually indicate that the reader is actively evaluating options.
 
 The search itself reveals a buying-related task. The user is not asking for general knowledge. They are asking for help choosing.
 
-
 <img src="{{ "/assets/images/making_money_from_cr_f649af_commercial_intent_to_bcfe92_buyer_intent_ladder_6ae267-Illustration-2-dark.svg" | relative_url }}" alt="Intent ladder illustration 2" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_commercial_intent_to_bcfe92_buyer_intent_ladder_6ae267-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_commercial_intent_to_bcfe92_buyer_intent_ladder_6ae267-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### The search includes constraints
 
 Constraints often indicate a real purchasing scenario.
 
 Examples include:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -440,7 +431,6 @@ Examples include:
 These searches are commercially valuable because they combine product interest with practical decision [criteria]({{ 'criteria/' | relative_url }}).
 
 The page can directly connect products to the user's requirements.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/VDSphJeM-k8" title="How I Write Product Reviews That Rank on Google and Convert Readers" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=VDSphJeM-k8" target="_blank" rel="noopener noreferrer">How I Write Product Reviews That Rank on Google and Convert Readers</a></p><p class="youtube-embed-meta">Channel: Thrive Themes &middot; Views: 1.6K &middot; Uploaded: May 2025 &middot; Length: 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=VDSphJeM-k8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=VDSphJeM-k8">Open on YouTube</a></p></div></div></div>
 
@@ -472,7 +462,6 @@ These searches reveal both intent and motivation.
 
 The reader has already recognised a problem and is actively exploring replacements.
 
-
 <img src="{{ "/assets/images/making_money_from_cr_f649af_commercial_intent_to_bcfe92_buyer_intent_ladder_6ae267-Illustration-3-dark.svg" | relative_url }}" alt="Intent ladder illustration 3" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_commercial_intent_to_bcfe92_buyer_intent_ladder_6ae267-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_commercial_intent_to_bcfe92_buyer_intent_ladder_6ae267-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why search volume can hide poor monetisation potential
 
@@ -494,13 +483,12 @@ For topic selection, revenue potential is often a combination of:
 * Buyer intent
 * Offer quality
 * Commission value
-* [Merchant conversion]({{ 'merchant-risk/' | relative_url }}) rate
+* Merchant conversion rate
 * Search volume
 
 Search volume alone only measures attention. It does not measure purchasing readiness.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/POsaV2YzRr8" title="Comparison Tables: 5 Scenarios When Not to Use Them" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=POsaV2YzRr8" target="_blank" rel="noopener noreferrer">Comparison Tables: 5 Scenarios When Not to Use Them</a></p><p class="youtube-embed-meta">Channel: NNgroup &middot; Views: 3.1K &middot; Uploaded: April 2025 &middot; Length: 3 minutes 5 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=POsaV2YzRr8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=POsaV2YzRr8">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ahQ8tRIZwh0" title="Explicit Decisions: Help Your Users Choose Correctly" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ahQ8tRIZwh0" target="_blank" rel="noopener noreferrer">Explicit Decisions: Help Your Users Choose Correctly</a></p><p class="youtube-embed-meta">Channel: NNgroup &middot; Views: 2.4K &middot; Uploaded: March 2025 &middot; Length: 2 minutes 50 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ahQ8tRIZwh0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ahQ8tRIZwh0">Open on YouTube</a></p></div></div></div>
 
 ## Building content clusters around intent progression
 
@@ -538,7 +526,7 @@ A large percentage of earnings often concentrate around a relatively small group
 
 * Product reviews <span class="citation-chip-wrap"><a class="citation-chip" href="https://developers.google.com/search/blog/2021/04/product-reviews-update" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[developers.google.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-title">product reviews update</span><span class="citation-popover-snippet">Google for DevelopersWhat creators should know about Google&#x27;s April 2021...8 Apr 2021 — We&#x27;re sharing an improvement to our ranking syst...</span><span class="citation-popover-meta">Published: April 2021</span></span></span>
 * Alternatives pages
-* [Comparison pages]({{ 'comparisons/' | relative_url }})
+* Comparison pages
 * “Best for” pages
 * Pricing and value assessments
 
@@ -967,166 +955,166 @@ The practical question is not whether a keyword has traffic. It is whether the s
 
 1. <a id="endnote-1"></a>
    Source: developers.google.com  
-   Title: product reviews update  
-   Link: [https://developers.google.com/search/blog/2021/04/product-reviews-update](https://developers.google.com/search/blog/2021/04/product-reviews-update)  
+   Title: product [reviews](&#123;&#123; 'reviews/' | relative_url &#125;&#125;) update  
+   Link: <a href="https://developers.google.com/search/blog/2021/04/product-reviews-update" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/blog/2021/04/product-reviews-update</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Google for DevelopersWhat creators should know about Google&#x27;s April 2021...8 Apr 2021 — We&#x27;re sharing an improvement to our ranking syst...</p></details>
    Published: April 2021  
 
 2. <a id="endnote-2"></a>
    Source: developers.google.com  
-   Link: [https://developers.google.com/search/docs/fundamentals/creating-helpful-content](https://developers.google.com/search/docs/fundamentals/creating-helpful-content)  
+   Link: <a href="https://developers.google.com/search/docs/fundamentals/creating-helpful-content" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/docs/fundamentals/creating-helpful-content</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Helpful, Reliable, People-First ContentGoogle&#x27;s ranking systems are designed to present helpful, reliable information that&#x27;s created to b...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: developers.google.com  
    Title: helpful content update  
-   Link: [https://developers.google.com/search/blog/2022/08/helpful-content-update](https://developers.google.com/search/blog/2022/08/helpful-content-update)  
+   Link: <a href="https://developers.google.com/search/blog/2022/08/helpful-content-update" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/blog/2022/08/helpful-content-update</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Google for DevelopersWhat creators should know about Google&#x27;s August 2022...The helpful content update aims to better reward content whe...</p></details>
    Published: August 2022  
 
 4. <a id="endnote-4"></a>
    Source: semrush.com  
    Title: commercial intent keywords  
-   Link: [https://www.semrush.com/blog/commercial-intent-keywords/](https://www.semrush.com/blog/commercial-intent-keywords/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SemrushCommercial Intent Keywords: The Complete Guide for...3 Dec 2025 — Commercial intent keywords are search terms used to research a...</p></details>
+   Link: <a href="https://www.semrush.com/blog/commercial-intent-keywords/" target="_blank" rel="noopener noreferrer nofollow">https://www.semrush.com/blog/commercial-intent-keywords/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Commercial Intent Keywords: The Complete Guide for...3 Dec 2025 — Commercial intent keywords are search terms used to research a...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: semrush.com  
    Title: types of keywords commercial informational navigational transactional  
-   Link: [https://www.semrush.com/blog/types-of-keywords-commercial-informational-navigational-transactional/](https://www.semrush.com/blog/types-of-keywords-commercial-informational-navigational-transactional/)  
+   Link: <a href="https://www.semrush.com/blog/types-of-keywords-commercial-informational-navigational-transactional/" target="_blank" rel="noopener noreferrer nofollow">https://www.semrush.com/blog/types-of-keywords-commercial-informational-navigational-transactional/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>4 Types of Keywords in SEO (+ Examples)21 Jan 2025 — Semrush can help you identify a keyword&#x27;s intent by labeling each with abbreviations...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: developers.google.com  
    Title: product reviews update and your site  
-   Link: [https://developers.google.com/search/blog/2021/12/product-reviews-update-and-your-site](https://developers.google.com/search/blog/2021/12/product-reviews-update-and-your-site)  
+   Link: <a href="https://developers.google.com/search/blog/2021/12/product-reviews-update-and-your-site" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/blog/2021/12/product-reviews-update-and-your-site</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Google for DevelopersDecember 2021 Product reviews update and your site1 Dec 2021 — We are now rolling out a new update, the first major...</p></details>
    Published: December 2021  
 
 7. <a id="endnote-7"></a>
    Source: gambling-affiliation.com  
    Title: Commercial vs. Informational Keywords. Commercial Keywords  
-   Link: [https://www.gambling-affiliation.com/en/seo-affiliate-marketing](https://www.gambling-affiliation.com/en/seo-affiliate-marketing)  
+   Link: <a href="https://www.gambling-affiliation.com/en/seo-affiliate-marketing" target="_blank" rel="noopener noreferrer nofollow">https://www.gambling-affiliation.com/en/seo-affiliate-marketing</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Ultimate Guide to SEO for Affiliate MarketersTargeting long-tail keywords can attract more qualified traffic, leading to better conve...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: developers.google.com  
    Title: link tagging and link spam update  
-   Link: [https://developers.google.com/search/blog/2021/07/link-tagging-and-link-spam-update](https://developers.google.com/search/blog/2021/07/link-tagging-and-link-spam-update)  
+   Link: <a href="https://developers.google.com/search/blog/2021/07/link-tagging-and-link-spam-update" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/blog/2021/07/link-tagging-and-link-spam-update</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>more...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: google.com  
-   Link: [https://www.google.com/](https://www.google.com/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>GoogleSearch the world&#x27;s information, including webpages, images, videos and more. Google has many special features to help you find exac...</p></details>
+   Link: <a href="https://www.google.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.google.com/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Search the world&#x27;s information, including webpages, images, videos and more. Google has many special features to help you find exac...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: support.google.com  
    Title: low traffic affiliate site what can i do better  
-   Link: [https://support.google.com/webmasters/thread/112211009/low-traffic-affiliate-site-what-can-i-do-better?hl=en](https://support.google.com/webmasters/thread/112211009/low-traffic-affiliate-site-what-can-i-do-better?hl=en)  
+   Link: <a href="https://support.google.com/webmasters/thread/112211009/low-traffic-affiliate-site-what-can-i-do-better?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/webmasters/thread/112211009/low-traffic-affiliate-site-what-can-i-do-better?hl=en</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Traffic Affiliate Site - What Can I Do Better?3 Jun 2021 — My feeling (backed up by user feedback) is that it genuinely helps people choo...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: affiliate.com  
-   Link: [https://affiliate.com/](https://affiliate.com/)  
+   Link: <a href="https://affiliate.com/" target="_blank" rel="noopener noreferrer nofollow">https://affiliate.com/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Powering the Future of AI and Traditional...Affiliate.com fuels the next generation of digital commerce for publishers, networks, and br...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: medium.com  
-   Link: [https://medium.com/archilyse/comparison-[tables](https://medium.com/archilyse/comparison-[tables)  
+   Link: <a href="https://medium.com/archilyse/comparison-tables-in-property-search-da78f258e6c4" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/archilyse/comparison-tables-in-property-search-da78f258e6c4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Comparison Tables in Property Search | by MargareteGood comparison tables, especially in property search, can help to reduce cognitive bi...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: nngroup.com  
-   Link: [https://www.nngroup.com/articles/comparison-tables/](https://www.nngroup.com/articles/comparison-tables/)  
+   Link: <a href="https://www.nngroup.com/articles/comparison-tables/" target="_blank" rel="noopener noreferrer nofollow">https://www.nngroup.com/articles/comparison-tables/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Nielsen Norman GroupComparison Tables for Products, Services, and Features9 Feb 2024 — Comparison tables support compensatory decision ma...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: nngroup.com  
    Title: Comparison Tables for Products, Services, and Features.Read more  
-   Link: [https://www.nngroup.com/topic/comparison/](https://www.nngroup.com/topic/comparison/)  
+   Link: <a href="https://www.nngroup.com/topic/comparison/" target="_blank" rel="noopener noreferrer nofollow">https://www.nngroup.com/topic/comparison/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Nielsen Norman Groupcomparison Articles, Videos, Reports, and Training CoursesUsers approach these tools with an exploratory mindset and...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: basecloudglobal.com  
-   Link: [https://basecloudglobal.com/seo-for-affiliate-marketing-how-to-drive-organic-traffic/](https://basecloudglobal.com/seo-for-affiliate-marketing-how-to-drive-organic-traffic/)  
+   Link: <a href="https://basecloudglobal.com/seo-for-affiliate-marketing-how-to-drive-organic-traffic/" target="_blank" rel="noopener noreferrer nofollow">https://basecloudglobal.com/seo-for-affiliate-marketing-how-to-drive-organic-traffic/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>BaseCloudSEO for Affiliate Marketing: How to Drive Organic TrafficConversion rates on commercial pages are typically 5-10x higher than in...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: mangools.com  
    Title: affiliate seo  
-   Link: [https://mangools.com/blog/affiliate-seo/](https://mangools.com/blog/affiliate-seo/)  
+   Link: <a href="https://mangools.com/blog/affiliate-seo/" target="_blank" rel="noopener noreferrer nofollow">https://mangools.com/blog/affiliate-seo/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Marketing: The Ultimate Guide for Beginners...23 Mar 2026 — Ultimately, the goal of affiliate SEO is to rank for transactional, commerci...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: dictionary.cambridge.org  
-   Link: [https://dictionary.cambridge.org/dictionary/english/affiliate](https://dictionary.cambridge.org/dictionary/english/affiliate)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>| English meaning - Cambridge Dictionaryto cause a group to become part of or form a close relationship with another, usually larger, gro...</p></details>
+   Link: <a href="https://dictionary.cambridge.org/dictionary/english/affiliate" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/affiliate</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>English meaning - Cambridge Dictionaryto cause a group to become part of or form a close relationship with another, usually larger, gro...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: Wikipedia  
    Title: Affiliate marketing  
-   Link: [https://en.wikipedia.org/wiki/Affiliate_marketing](https://en.wikipedia.org/wiki/Affiliate_marketing)  
+   Link: <a href="https://en.wikipedia.org/wiki/Affiliate_marketing" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Affiliate_marketing</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Affiliate marketingAffiliate marketing is a marketing arrangement in which affiliates receive a commission for each visit, signup or s...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: nielsentam.com.au  
-   Link: [https://www.nielsentam.com.au/](https://www.nielsentam.com.au/)  
+   Link: <a href="https://www.nielsentam.com.au/" target="_blank" rel="noopener noreferrer nofollow">https://www.nielsentam.com.au/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Television • Audience • MeasurementNielsen Television Audience Measurement Australia (Nielsen TAM), an affiliate of Nielsen, was original...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: au.linkedin.com  
-   Link: [https://au.linkedin.com/company/nielsen](https://au.linkedin.com/company/nielsen)  
+   Link: <a href="https://au.linkedin.com/company/nielsen" target="_blank" rel="noopener noreferrer nofollow">https://au.linkedin.com/company/nielsen</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>shapes the world&#x27;s media and content as a global leader in audience insights, data and analytics. Through our understanding of...Read more...</p></details>
 
 ### Additional References
 
 21. <a id="endnote-21"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/nielsen-norman-group_comparison-tables-for-products-services-activity-7164262029220909057-JpKs](https://www.linkedin.com/posts/nielsen-norman-group_comparison-tables-for-products-services-activity-7164262029220909057-JpKs)  
+   Link: <a href="https://www.linkedin.com/posts/nielsen-norman-group_comparison-tables-for-products-services-activity-7164262029220909057-JpKs" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/nielsen-norman-group_comparison-tables-for-products-services-activity-7164262029220909057-JpKs</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Comparison Tables for Products, Services, and FeaturesComparison Tables for Products, Services, and Features nngroup.com... Comparing op...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/pulse/googles-product-reviews-update-elevating-standards-review-ansari-i3qdf](https://www.linkedin.com/pulse/googles-product-reviews-update-elevating-standards-review-ansari-i3qdf)  
+   Link: <a href="https://www.linkedin.com/pulse/googles-product-reviews-update-elevating-standards-review-ansari-i3qdf" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/googles-product-reviews-update-elevating-standards-review-ansari-i3qdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Elevating the Standards for High-Quality Review ContentGoogle&#x27;s Product Reviews Update has emerged as a game-changer, reshaping how produ...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: mavenbird.com  
-   Link: [https://www.mavenbird.com/blog/post/how-googles-product-review-update-shaped-the-rankings-insights-and-winners](https://www.mavenbird.com/blog/post/how-googles-product-review-update-shaped-the-rankings-insights-and-winners)  
+   Link: <a href="https://www.mavenbird.com/blog/post/how-googles-product-review-update-shaped-the-rankings-insights-and-winners" target="_blank" rel="noopener noreferrer nofollow">https://www.mavenbird.com/blog/post/how-googles-product-review-update-shaped-the-rankings-insights-and-winners</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How Google&#x27;s Product Review Update Shaped the RankingsLearn how Google&#x27;s product review update impacted rankings and what insights you ca...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/company/nielsen](https://www.linkedin.com/company/nielsen)  
+   Link: <a href="https://www.linkedin.com/company/nielsen" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/company/nielsen</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NielsenNielsen shapes the world&#x27;s media and content as a global leader in audience insights, data and analytics. Through our understandin...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/pulse/keyword-research-affiliate-marketing-md-jonayed-mia-pboac](https://www.linkedin.com/pulse/keyword-research-affiliate-marketing-md-jonayed-mia-pboac)  
+   Link: <a href="https://www.linkedin.com/pulse/keyword-research-affiliate-marketing-md-jonayed-mia-pboac" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/keyword-research-affiliate-marketing-md-jonayed-mia-pboac</a>  
 
 26. <a id="endnote-26"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=POsaV2YzRr8](https://www.youtube.com/watch?v=POsaV2YzRr8)  
+   Link: <a href="https://www.youtube.com/watch?v=POsaV2YzRr8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=POsaV2YzRr8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Comparison Tables: 5 Scenarios When Not to Use ThemUse these five questions to help you decide whether or not a comparison table would be...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=ahQ8tRIZwh0](https://www.youtube.com/watch?v=ahQ8tRIZwh0)  
+   Link: <a href="https://www.youtube.com/watch?v=ahQ8tRIZwh0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ahQ8tRIZwh0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Explicit Decisions: Help Your Users Choose CorrectlyMake sure your users make the correct decisions the first time by making distinctions...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=0CR9Nbn6L7o](https://www.youtube.com/watch?v=0CR9Nbn6L7o)  
+   Link: <a href="https://www.youtube.com/watch?v=0CR9Nbn6L7o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0CR9Nbn6L7o</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Google Product Reviews Update ExplainedHave you been hit by the new Google Product Reviews Update? Find out everything need to know about...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: ideaclan.com  
    Title: affiliate marketing content strategy a complete guide for growth  
-   Link: [https://ideaclan.com/affiliate-marketing-content-strategy-a-complete-guide-for-growth/](https://ideaclan.com/affiliate-marketing-content-strategy-a-complete-guide-for-growth/)  
+   Link: <a href="https://ideaclan.com/affiliate-marketing-content-strategy-a-complete-guide-for-growth/" target="_blank" rel="noopener noreferrer nofollow">https://ideaclan.com/affiliate-marketing-content-strategy-a-complete-guide-for-growth/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Affiliate Marketing Content Strategy: A Complete Guide for...9 Feb 2026 — Buyer intent generally falls into three main categories: Infor...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/505129697/document](https://www.scribd.com/document/505129697/document)  
+   Link: <a href="https://www.scribd.com/document/505129697/document" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/505129697/document</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Product [Comparisons](&amp;#123;&amp;#123; &#x27;comparisons/&#x27; | relative_url &amp;#125;&amp;#125;) An essential element of the buying experience is comparison shopping.Read more...</p></details>

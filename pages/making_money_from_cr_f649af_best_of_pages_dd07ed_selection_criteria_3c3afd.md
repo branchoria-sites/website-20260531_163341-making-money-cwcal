@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /best-lists/
 nav_short_title: Criteria
 title: What makes a best of shortlist believable?
-title_full: What makes a best of shortlist believable? | Best Lists
+title_full: What makes a best of shortlist believable?
 display_title_short: Criteria
 display_title: Criteria
 heading_title: What makes a best of shortlist believable?
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-31 13:14:27'
-parent_title: What Makes a Best Of Page Convert? | Affiliate Engines
+parent_title: What Makes a Best Of Page Convert?
 parent_permalink: /best-lists/
 parent_nav_short_title: Best Lists
 parent_heading_title: What Makes a Best Of Page Convert?
@@ -276,14 +276,12 @@ image: /assets/images/making_money_from_cr_f649af_best_of_pages_dd07ed_selection
 
 A best-of page becomes believable when readers can see how the shortlist was created. The problem with many affiliate-driven rankings is not that they contain affiliate links; it is that they present conclusions without showing the decision process. A shortlist that explains its selection criteria, weighting, exclusions, and evidence gives readers a reason to trust the recommendations rather than assume the ranking was driven by commission rates.
 
-
 <img src="{{ "/assets/images/making_money_from_cr_f649af_best_of_pages_dd07ed_selection_criteria_3c3afd-Illustration-1-dark.svg" | relative_url }}" alt="Criteria illustration 1" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_best_of_pages_dd07ed_selection_criteria_3c3afd-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_best_of_pages_dd07ed_selection_criteria_3c3afd-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This matters directly to website monetisation. Readers are more likely to click through and convert when they believe the recommendations were chosen for their needs rather than for the publisher's earnings. Google's guidance for review and recommendation content repeatedly emphasises insightful analysis, supporting evidence, and clear explanations of why an item is considered best for a particular purpose. <span class="citation-chip-wrap"><a class="citation-chip" href="https://developers.google.com/search/docs/appearance/reviews-system" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-snippet">Google for DevelopersGoogle Search&#x27;s Reviews SystemThe reviews system aims to better reward high quality reviews, which is content that p...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://developers.google.com/search/docs/appearance/reviews-system" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-snippet">Google for DevelopersGoogle Search&#x27;s Reviews SystemThe reviews system aims to better reward high quality reviews, which is content that p...</span></span></span>
 
 ## What makes a best-of shortlist believable?
 
 A trustworthy shortlist answers three questions:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -296,7 +294,6 @@ A trustworthy shortlist answers three questions:
 When those answers are visible, the page shifts from "here are some affiliate links" to "here is a documented recommendation process".
 
 A useful criteria section often includes:
-
 
 <div class="content-enhancement content-enhancement--benefit" markdown="1">
 
@@ -335,7 +332,6 @@ A freelancer choosing accounting software cares about different factors than an 
 
 For products such as office chairs, standing desks, or headphones, relevant criteria may include:
 
-
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
 * Build quality.
@@ -349,7 +345,6 @@ For products such as office chairs, standing desks, or headphones, relevant crit
 
 Readers become suspicious when rankings focus heavily on features while ignoring durability, reliability, or ownership costs.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/vE_A4IhmkKQ" title="Give me 8 Minutes and You&#x27;ll Win at SEO in 2025" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=vE_A4IhmkKQ" target="_blank" rel="noopener noreferrer">Give me 8 Minutes and You&#x27;ll Win at SEO in 2025</a></p><p class="youtube-embed-meta">Channel: Ahrefs &middot; Views: 72.5K &middot; Uploaded: July 2025 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=vE_A4IhmkKQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=vE_A4IhmkKQ">Open on YouTube</a></p></div></div></div>
 
 ### Financial or high-trust categories
@@ -357,7 +352,6 @@ Readers become suspicious when rankings focus heavily on features while ignoring
 In categories such as banking, insurance, VPNs, health products, or security software, trust-related factors often matter more than raw feature counts.
 
 Useful criteria may include:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -373,7 +367,6 @@ Useful criteria may include:
 The more consequential the purchase decision, the more important it becomes to show why specific criteria were chosen.
 
 For affiliate publishers building scalable website systems, this means shortlist templates should be category-specific. Reusing identical scoring criteria across unrelated verticals weakens credibility and conversion potential because readers can tell the page was not designed around their actual decision. <span class="citation-chip-wrap"><a class="citation-chip" href="https://developers.google.com/search/docs/appearance/reviews-system" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-snippet">Google for DevelopersGoogle Search&#x27;s Reviews SystemThe reviews system aims to better reward high quality reviews, which is content that p...</span></span></span>
-
 
 <img src="{{ "/assets/images/making_money_from_cr_f649af_best_of_pages_dd07ed_selection_criteria_3c3afd-Illustration-2-dark.svg" | relative_url }}" alt="Criteria illustration 2" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_best_of_pages_dd07ed_selection_criteria_3c3afd-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_best_of_pages_dd07ed_selection_criteria_3c3afd-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How to explain evidence without overclaiming
@@ -407,7 +400,6 @@ Another useful technique is acknowledging uncertainty.
 
 For example:
 
-
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
 * "Long-term durability data is limited because the product is relatively new."
@@ -418,7 +410,6 @@ For example:
 
 These statements often increase trust because they show the publisher is not trying to win every argument.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/yR75ZAWPhXo" title="Simple Articles + Affiliate Links = 2.3M A Year? - Use My Ai Method!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=yR75ZAWPhXo" target="_blank" rel="noopener noreferrer">Simple Articles + Affiliate Links = 2.3M A Year? - Use My Ai Method!</a></p><p class="youtube-embed-meta">Channel: affiliatemarketingmc &middot; Views: 7.2K &middot; Uploaded: May 2026 &middot; Length: 45 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=yR75ZAWPhXo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=yR75ZAWPhXo">Open on YouTube</a></p></div></div></div>
 
 ## Showing what was excluded builds confidence
@@ -427,8 +418,7 @@ Many shortlist pages only discuss the winners.
 
 A stronger approach briefly explains why some products did not make the list.
 
-<span class="citation-chip-wrap"><a class="citation-chip" href="https://craftindustryalliance.org/five-common-mistakes-involving-ftc-disclosures-for-affiliates-and-how-to-avoid-them/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: craftindustryalliance.org">[Examples:]</a><span class="citation-popover" role="note"><span class="citation-popover-source">craftindustryalliance.org</span><span class="citation-popover-snippet">5 Common Mistakes Involving FTC Disclosures for...24 Jun 2024 — Learn the common mistakes involving FTC disclosures for affiliates and h...</span></span></span>
-
+Examples: <span class="citation-chip-wrap"><a class="citation-chip" href="https://craftindustryalliance.org/five-common-mistakes-involving-ftc-disclosures-for-affiliates-and-how-to-avoid-them/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: craftindustryalliance.org">[craftindustryalliance.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">craftindustryalliance.org</span><span class="citation-popover-snippet">5 Common Mistakes Involving FTC Disclosures for...24 Jun 2024 — Learn the common mistakes involving FTC disclosures for affiliates and h...</span></span></span>
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -446,7 +436,6 @@ This creates a visible decision boundary.
 Readers can see that inclusion was earned rather than automatic.
 
 From a monetisation perspective, exclusion criteria also reduce accusations of bias. If readers understand why a product failed to qualify, they are less likely to assume that commission rates determined the outcome.
-
 
 <img src="{{ "/assets/images/making_money_from_cr_f649af_best_of_pages_dd07ed_selection_criteria_3c3afd-Illustration-3-dark.svg" | relative_url }}" alt="Criteria illustration 3" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_best_of_pages_dd07ed_selection_criteria_3c3afd-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_best_of_pages_dd07ed_selection_criteria_3c3afd-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Where criteria should appear on the page
@@ -479,23 +468,22 @@ Each recommendation should clearly state which criteria led to that designation.
 
 The reader should never have to guess why a product received a particular label.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/FJUB41PZkhY" title="How Can We Study Website Credibility? (Katie Sherwin)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=FJUB41PZkhY" target="_blank" rel="noopener noreferrer">How Can We Study Website Credibility? (Katie Sherwin)</a></p><p class="youtube-embed-meta">Channel: NNgroup &middot; Views: 5.5K &middot; Uploaded: November 2016 &middot; Length: 2 minutes 28 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=FJUB41PZkhY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=FJUB41PZkhY">Open on YouTube</a></p></div></div></div>
 
 ## Transparency matters as much as the criteria themselves
 
 Even strong criteria can lose credibility if readers suspect hidden incentives.
 
-Trust increases when pages clearly disclose affiliate relationships and explain how recommendations are made. Regulatory guidance around endorsements and affiliate marketing consistently emphasises that promotional relationships should be disclosed clearly and that endorsements should not be misleading. Federal Trade Commission <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.automateed.com/ftc-disclosure-rules-for-affiliates" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: automateed.com">[automateed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">automateed.com</span><span class="citation-popover-snippet">AutomateedFTC Disclosure Rules for Affiliates: What You Must Know in...16 Mar 2026 — The FTC requires that you disclose any material con...</span></span></span> A shortlist therefore becomes more believable when it openly states:
+Trust increases when pages clearly disclose affiliate relationships and explain how recommendations are made. Regulatory guidance around endorsements and affiliate marketing consistently emphasises that promotional relationships should be disclosed clearly and that endorsements should not be misleading. Federal Trade Commission <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.automateed.com/ftc-disclosure-rules-for-affiliates" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: automateed.com">[automateed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">automateed.com</span><span class="citation-popover-snippet">FTC Disclosure Rules for Affiliates: What You Must Know in...16 Mar 2026 — The FTC requires that you disclose any material con...</span></span></span> A shortlist therefore becomes more believable when it openly states:
 
-* That affiliate commissions may be earned. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.automateed.com/ftc-disclosure-rules-for-affiliates" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: automateed.com">[automateed.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">automateed.com</span><span class="citation-popover-snippet">AutomateedFTC Disclosure Rules for Affiliates: What You Must Know in...16 Mar 2026 — The FTC requires that you disclose any material con...</span></span></span>
+* That affiliate commissions may be earned. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.automateed.com/ftc-disclosure-rules-for-affiliates" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: automateed.com">[automateed.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">automateed.com</span><span class="citation-popover-snippet">FTC Disclosure Rules for Affiliates: What You Must Know in...16 Mar 2026 — The FTC requires that you disclose any material con...</span></span></span>
 * That commissions did not determine ranking positions.
 * Whether products were tested directly, researched, or both.
 * Any limitations in the evaluation process.
 
-Research on affiliate disclosure practices has repeatedly found that users struggle to recognise promotional relationships when [disclosures]({{ 'disclosures/' | relative_url }}) are vague or incomplete, making clear explanations particularly important for trust. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1809.00620" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivEndorsements on Social Media: An Empirical Study of Affiliate Marketing Disclosures on YouTube and PinterestSeptember 3, 2018...</span><span class="citation-popover-meta">Published: September 3, 2018</span></span></span>
+Research on affiliate disclosure practices has repeatedly found that users struggle to recognise promotional relationships when [disclosures]({{ 'disclosures/' | relative_url }}) are vague or incomplete, making clear explanations particularly important for trust. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1809.00620" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Endorsements on Social Media: An Empirical Study of Affiliate Marketing Disclosures on YouTube and PinterestSeptember 3, 2018...</span><span class="citation-popover-meta">Published: September 3, 2018</span></span></span>
 
-For affiliate websites, the highest-converting shortlist is rarely the one that hides [commercial intent]({{ 'intent-topics/' | relative_url }}). It is usually the one that makes its decision process visible enough that readers believe the recommendations would remain largely the same even if commissions disappeared.
+For affiliate websites, the highest-converting shortlist is rarely the one that hides commercial intent. It is usually the one that makes its decision process visible enough that readers believe the recommendations would remain largely the same even if commissions disappeared.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -918,187 +906,187 @@ For affiliate websites, the highest-converting shortlist is rarely the one that 
 
 1. <a id="endnote-1"></a>
    Source: developers.google.com  
-   Link: [https://developers.google.com/search/docs/appearance/reviews-system](https://developers.google.com/search/docs/appearance/reviews-system)  
+   Link: <a href="https://developers.google.com/search/docs/appearance/reviews-system" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/docs/appearance/reviews-system</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Google for DevelopersGoogle Search&#x27;s Reviews SystemThe reviews system aims to better reward high quality reviews, which is content that p...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: developers.google.com  
    Title: for Developers How To Write Reviews | Google Search Central | Documentation  
-   Link: [https://developers.google.com/search/docs/specialty/ecommerce/write-high-quality-reviews](https://developers.google.com/search/docs/specialty/ecommerce/write-high-quality-reviews)  
+   Link: <a href="https://developers.google.com/search/docs/specialty/ecommerce/write-high-quality-reviews" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/docs/specialty/ecommerce/write-high-quality-reviews</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Google for DevelopersHow To Write Reviews | Google Search Central | Documentation...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: developers.google.com  
-   Link: [https://developers.google.com/search/docs/fundamentals/creating-helpful-content](https://developers.google.com/search/docs/fundamentals/creating-helpful-content)  
+   Link: <a href="https://developers.google.com/search/docs/fundamentals/creating-helpful-content" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/docs/fundamentals/creating-helpful-content</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Helpful, Reliable, People-First ContentGoogle&#x27;s ranking systems are designed to present helpful, reliable information that&#x27;s created to b...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCCredibility judgments in web page design – a brief review  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC4863498/](https://pmc.ncbi.nlm.nih.gov/articles/PMC4863498/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4863498/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4863498/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>judgments in web page design – a brief review - PMCby O Selejan · 2016 · Cited by 26 — In this brief review, our work has focused on the...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: automateed.com  
-   Link: [https://www.automateed.com/ftc-disclosure-rules-for-affiliates](https://www.automateed.com/ftc-disclosure-rules-for-affiliates)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AutomateedFTC Disclosure Rules for Affiliates: What You Must Know in...16 Mar 2026 — The FTC requires that you disclose any material con...</p></details>
+   Link: <a href="https://www.automateed.com/ftc-disclosure-rules-for-affiliates" target="_blank" rel="noopener noreferrer nofollow">https://www.automateed.com/ftc-disclosure-rules-for-affiliates</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>FTC Disclosure Rules for Affiliates: What You Must Know in...16 Mar 2026 — The FTC requires that you disclose any material con...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/1809.00620](https://arxiv.org/abs/1809.00620)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivEndorsements on Social Media: An Empirical Study of Affiliate Marketing Disclosures on YouTube and PinterestSeptember 3, 2018...</p></details>
+   Link: <a href="https://arxiv.org/abs/1809.00620" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1809.00620</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Endorsements on Social Media: An Empirical Study of Affiliate Marketing Disclosures on YouTube and PinterestSeptember 3, 2018...</p></details>
    Published: September 3, 2018  
 
 7. <a id="endnote-7"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/1803.08488](https://arxiv.org/abs/1803.08488)  
+   Link: <a href="https://arxiv.org/abs/1803.08488" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1803.08488</a>  
 
 8. <a id="endnote-8"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2603.04383](https://arxiv.org/abs/2603.04383)  
+   Link: <a href="https://arxiv.org/abs/2603.04383" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2603.04383</a>  
 
 9. <a id="endnote-9"></a>
    Source: developers.google.com  
-   Link: [https://developers.google.com/search/docs/appearance/structured-data/product](https://developers.google.com/search/docs/appearance/structured-data/product)  
+   Link: <a href="https://developers.google.com/search/docs/appearance/structured-data/product" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/docs/appearance/structured-data/product</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>to Product Structured Data on GoogleWhen you add structured data to your product pages, your product information can appear in richer way...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: support.google.com  
-   Link: [https://support.google.com/merchants/answer/6098512?hl=en](https://support.google.com/merchants/answer/6098512?hl=en)  
+   Link: <a href="https://support.google.com/merchants/answer/6098512?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/merchants/answer/6098512?hl=en</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ratings policies - Google Merchant Center HelpRetailers must share all their reviews with Google through monthly updates · Review feeds m...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: support.google.com  
-   Link: [https://support.google.com/merchants/answer/7052112?hl=en-GB](https://support.google.com/merchants/answer/7052112?hl=en-GB)  
+   Link: <a href="https://support.google.com/merchants/answer/7052112?hl=en-GB" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/merchants/answer/7052112?hl=en-GB</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>data specification - Google Merchant Center HelpUse this guide to format your product information for Merchant Center. Google uses this d...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: support.google.com  
-   Link: [https://support.google.com/product-documentation/answer/10115141?hl=en](https://support.google.com/product-documentation/answer/10115141?hl=en)  
+   Link: <a href="https://support.google.com/product-documentation/answer/10115141?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/product-documentation/answer/10115141?hl=en</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Store review guidelinesYour content should reflect your genuine experience of a product, and should not be posted just to manipulate a pr...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: doesinfotech.com  
    Title: google product reviews and helpful content updates 2021 2022  
-   Link: [https://doesinfotech.com/google-product-reviews-and-helpful-content-updates-2021-2022/](https://doesinfotech.com/google-product-reviews-and-helpful-content-updates-2021-2022/)  
+   Link: <a href="https://doesinfotech.com/google-product-reviews-and-helpful-content-updates-2021-2022/" target="_blank" rel="noopener noreferrer nofollow">https://doesinfotech.com/google-product-reviews-and-helpful-content-updates-2021-2022/</a>  
 
 14. <a id="endnote-14"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=v9x0koBEAO4](https://www.youtube.com/watch?v=v9x0koBEAO4)  
+   Link: <a href="https://www.youtube.com/watch?v=v9x0koBEAO4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=v9x0koBEAO4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Simple Articles + Affiliate Links = 2.3M A Year? - Use My Ai Method...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: youtube.com  
    Title: Simple Articles + Affiliate Links = 2.3M A Year?  
-   Link: [https://www.youtube.com/watch?v=yR75ZAWPhXo](https://www.youtube.com/watch?v=yR75ZAWPhXo)  
+   Link: <a href="https://www.youtube.com/watch?v=yR75ZAWPhXo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yR75ZAWPhXo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How I Lost 80% of Traffic and Rebuilt My Blog...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: youtube.com  
    Title: How I Lost 80% of Traffic and Rebuilt My Blog  
-   Link: [https://www.youtube.com/watch?v=tX9Gvbucl0o](https://www.youtube.com/watch?v=tX9Gvbucl0o)  
+   Link: <a href="https://www.youtube.com/watch?v=tX9Gvbucl0o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tX9Gvbucl0o</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>$5,000+ Per Month in Affiliate Income Report (Earnings Analysis)...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: youtube.com  
    Title: $5,000+ Per Month in Affiliate Income Report (Earnings Analysis)  
-   Link: [https://www.youtube.com/watch?v=DvufYxYRHhY](https://www.youtube.com/watch?v=DvufYxYRHhY)  
+   Link: <a href="https://www.youtube.com/watch?v=DvufYxYRHhY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DvufYxYRHhY</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Give me 8 Minutes and You&#x27;ll Win at SEO in 2025...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=vE_A4IhmkKQ](https://www.youtube.com/watch?v=vE_A4IhmkKQ)  
+   Link: <a href="https://www.youtube.com/watch?v=vE_A4IhmkKQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vE_A4IhmkKQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Google product reviews update affiliate marketing trustworthy content I Tried Affiliate Marketing #Shorts Jenny Hoyos...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: ftc.gov  
-   Link: [https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking](https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking)  
+   Link: <a href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade CommissionFTC&#x27;s Endorsement Guides: What People Are Asking29 Jun 2023 — The Guides, at their core, reflect the basic truth...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: uk.linkedin.com  
-   Link: [https://uk.linkedin.com/company/nielsen](https://uk.linkedin.com/company/nielsen)  
+   Link: <a href="https://uk.linkedin.com/company/nielsen" target="_blank" rel="noopener noreferrer nofollow">https://uk.linkedin.com/company/nielsen</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>shapes the world&#x27;s media and content as a global leader in audience insights, data and analytics. Through our understanding of...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=FJUB41PZkhY](https://www.youtube.com/watch?v=FJUB41PZkhY)  
+   Link: <a href="https://www.youtube.com/watch?v=FJUB41PZkhY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=FJUB41PZkhY</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>r not they convert...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=DM-DVExbkUE](https://www.youtube.com/watch?v=DM-DVExbkUE)  
+   Link: <a href="https://www.youtube.com/watch?v=DM-DVExbkUE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DM-DVExbkUE</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ts, this episode dives into a critical issue: the reliability of...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=pAWcYSBQHNc](https://www.youtube.com/watch?v=pAWcYSBQHNc)  
+   Link: <a href="https://www.youtube.com/watch?v=pAWcYSBQHNc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=pAWcYSBQHNc</a>  
 
 24. <a id="endnote-24"></a>
    Source: m.youtube.com  
-   Link: [https://m.youtube.com/watch?v=TpYEmQ9njyk](https://m.youtube.com/watch?v=TpYEmQ9njyk)  
+   Link: <a href="https://m.youtube.com/watch?v=TpYEmQ9njyk" target="_blank" rel="noopener noreferrer nofollow">https://m.youtube.com/watch?v=TpYEmQ9njyk</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Disclose Brand Deals and Affiliate Links on YouTube — FTC Endorsement Guidelines...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=Z0RkLSgwQS4](https://www.youtube.com/watch?v=Z0RkLSgwQS4)  
+   Link: <a href="https://www.youtube.com/watch?v=Z0RkLSgwQS4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Z0RkLSgwQS4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Disclose Brand Deals and Affiliate Links on YouTube...Tips on how to properly disclose brand deals, paid sponsorships and affilia...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: ftc.gov  
-   Link: [https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews](https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews)  
+   Link: <a href="https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Endorsements, Influencers, and ReviewsOne key is to make a good disclosure of your relationship to the brand. This brochure from FTC staf...</p></details>
 
 ### Additional References
 
 27. <a id="endnote-27"></a>
    Source: medium.com  
-   Link: [https://medium.com/zero-one-design/designing-for-trust-in-the-fintech-era-14e27dde8aaf](https://medium.com/zero-one-design/designing-for-trust-in-the-fintech-era-14e27dde8aaf)  
+   Link: <a href="https://medium.com/zero-one-design/designing-for-trust-in-the-fintech-era-14e27dde8aaf" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/zero-one-design/designing-for-trust-in-the-fintech-era-14e27dde8aaf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Designing for Trust in the Fintech Era | by Zero One DesignNielsen Norman Group show that 46 % of users cite visual simplicity as the top...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40maravia90_sr/unveiling-the-power-of-trust-leveraging-the-pyramid-of-trust-in-content-strategy-868402145469](https://medium.com/%40maravia90_sr/unveiling-the-power-of-trust-leveraging-the-pyramid-of-trust-in-content-strategy-868402145469)  
+   Link: <a href="https://medium.com/%40maravia90_sr/unveiling-the-power-of-trust-leveraging-the-pyramid-of-trust-in-content-strategy-868402145469" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40maravia90_sr/unveiling-the-power-of-trust-leveraging-the-pyramid-of-trust-in-content-strategy-868402145469</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Leveraging the Pyramid of Trust in Content StrategyThe Pyramid of Trust is a powerful framework that illustrates the varying levels of tr...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/reenanaik_why-so-many-info-tips-are-bad-and-how-to-activity-7423046088888090624-7tBF](https://www.linkedin.com/posts/reenanaik_why-so-many-info-tips-are-bad-and-how-to-activity-7423046088888090624-7tBF)  
+   Link: <a href="https://www.linkedin.com/posts/reenanaik_why-so-many-info-tips-are-bad-and-how-to-activity-7423046088888090624-7tBF" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/reenanaik_why-so-many-info-tips-are-bad-and-how-to-activity-7423046088888090624-7tBF</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Nielsen Norman Group: UX Decisions MatterTrust begins the moment someone lands on your product before they create an account, before they...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: federal-lawyer.com  
-   Link: [https://federal-lawyer.com/ftc-defense/affiliate-disclosure/](https://federal-lawyer.com/ftc-defense/affiliate-disclosure/)  
+   Link: <a href="https://federal-lawyer.com/ftc-defense/affiliate-disclosure/" target="_blank" rel="noopener noreferrer nofollow">https://federal-lawyer.com/ftc-defense/affiliate-disclosure/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding the FTC&#x27;s Affiliate Disclosure RulesLearn what affiliate marketers and companies need to know about the FTC&#x27;s affiliate dis...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: adamigo.ai  
-   Link: [https://www.adamigo.ai/blog/ultimate-guide-to-ftc-ad-disclosures](https://www.adamigo.ai/blog/ultimate-guide-to-ftc-ad-disclosures)  
+   Link: <a href="https://www.adamigo.ai/blog/ultimate-guide-to-ftc-ad-disclosures" target="_blank" rel="noopener noreferrer nofollow">https://www.adamigo.ai/blog/ultimate-guide-to-ftc-ad-disclosures</a>  
 
 32. <a id="endnote-32"></a>
    Source: craftindustryalliance.org  
-   Link: [https://craftindustryalliance.org/five-common-mistakes-involving-ftc-disclosures-for-affiliates-and-how-to-avoid-them/](https://craftindustryalliance.org/five-common-mistakes-involving-ftc-disclosures-for-affiliates-and-how-to-avoid-them/)  
+   Link: <a href="https://craftindustryalliance.org/five-common-mistakes-involving-ftc-disclosures-for-affiliates-and-how-to-avoid-them/" target="_blank" rel="noopener noreferrer nofollow">https://craftindustryalliance.org/five-common-mistakes-involving-ftc-disclosures-for-affiliates-and-how-to-avoid-them/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>5 Common Mistakes Involving FTC Disclosures for...24 Jun 2024 — Learn the common mistakes involving FTC disclosures for affiliates and h...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: rioseo.com  
    Title: googles product reviews updates boost your business with trustworthy feedback  
-   Link: [https://www.rioseo.com/blog/googles-product-reviews-updates-boost-your-business-with-trustworthy-feedback/](https://www.rioseo.com/blog/googles-product-reviews-updates-boost-your-business-with-trustworthy-feedback/)  
+   Link: <a href="https://www.rioseo.com/blog/googles-product-reviews-updates-boost-your-business-with-trustworthy-feedback/" target="_blank" rel="noopener noreferrer nofollow">https://www.rioseo.com/blog/googles-product-reviews-updates-boost-your-business-with-trustworthy-feedback/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Google&#x27;s Product Reviews Updates: Boost Your Business23 Feb 2023 — As per the Google Search Central guidelines, “The product reviews syst...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: media.nngroup.com  
    Title: Presenting Company Information on Corporate Websites 3rd Edition  
-   Link: [https://media.nngroup.com/media/reports/free/Presenting_Company_Information_on_Corporate_Websites_3rd_Edition.pdf](https://media.nngroup.com/media/reports/free/Presenting_Company_Information_on_Corporate_Websites_3rd_Edition.pdf)  
+   Link: <a href="https://media.nngroup.com/media/reports/free/Presenting_Company_Information_on_Corporate_Websites_3rd_Edition.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.nngroup.com/media/reports/free/Presenting_Company_Information_on_Corporate_Websites_3rd_Edition.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Us SectionsOscar displayed a section of endorsements on its site which helped to build trust and credibility among users. One user explor...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: commercev3.com  
-   Link: [https://commercev3.com/resources/blog/googles-new-product-ratings-policy-things-every-business-needs-to-know/](https://commercev3.com/resources/blog/googles-new-product-ratings-policy-things-every-business-needs-to-know/)  
+   Link: <a href="https://commercev3.com/resources/blog/googles-new-product-ratings-policy-things-every-business-needs-to-know/" target="_blank" rel="noopener noreferrer nofollow">https://commercev3.com/resources/blog/googles-new-product-ratings-policy-things-every-business-needs-to-know/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Learn key updates, best practices, and how they impact your business in this essential guide...</p></details>
 
 36. <a id="endnote-36"></a>
    Source: seozoom.com  
    Title: google reviews system the algorithm on product reviews  
-   Link: [https://www.seozoom.com/google-reviews-system-the-algorithm-on-product-reviews/](https://www.seozoom.com/google-reviews-system-the-algorithm-on-product-reviews/)  
+   Link: <a href="https://www.seozoom.com/google-reviews-system-the-algorithm-on-product-reviews/" target="_blank" rel="noopener noreferrer nofollow">https://www.seozoom.com/google-reviews-system-the-algorithm-on-product-reviews/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Google Reviews System: the algorithm on product reviews17 Apr 2023 — Guide to Reviews system, the Google algorithm evaluating reviews, an...</p></details>

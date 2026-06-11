@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /support-pages/
 nav_short_title: Trust Limits
 title: When should information not become a review?
-title_full: When should information not become a review? | Support Pages
+title_full: When should information not become a review?
 display_title_short: Trust Limits
 display_title: Trust Limits
 heading_title: When should information not become a review?
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-31 15:42:32'
-parent_title: Can Informational Pages Still Earn Revenue? | Affiliate Engines
+parent_title: Can Informational Pages Still Earn Revenue?
 parent_permalink: /support-pages/
 parent_nav_short_title: Support Pages
 parent_heading_title: Can Informational Pages Still Earn Revenue?
@@ -270,9 +270,8 @@ image: /assets/images/making_money_from_cr_f649af_informational_suppor_3ecae4_in
 
 Not every informational page should recommend a product. In affiliate publishing, one of the fastest ways to weaken trust is to turn an explanation page into a sales page before the reader has enough information to make a decision. A visitor asking “what does this feature do?”, “why is this happening?”, or “how do these options differ?” is often still in an exploration phase rather than an evaluation phase. Pushing product recommendations too early can make the content feel biased, incomplete, or commercially motivated rather than genuinely helpful. Research into online buying behaviour consistently shows that people move between exploration and evaluation before purchasing, rather than following a simple linear funnel. <span class="citation-chip-wrap"><a class="citation-chip" href="https://business.google.com/en-all/think/consumer-insights/navigating-purchase-behavior-and-decision-making/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: business.google.com">[Google Business]</a><span class="citation-popover" role="note"><span class="citation-popover-source">business.google.com</span><span class="citation-popover-snippet">Google BusinessHow people decide what to buy lies in the &#x27;messy middle&#x27; of...This equates to two different mental modes in the messy mid...</span></span></span>
 
-
 <img src="{{ "/assets/images/making_money_from_cr_f649af_informational_suppor_3ecae4_info_pages_not_revie_167b36-Illustration-1-dark.svg" | relative_url }}" alt="Trust Limits illustration 1" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_informational_suppor_3ecae4_info_pages_not_revie_167b36-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_informational_suppor_3ecae4_info_pages_not_revie_167b36-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-For websites that earn through affiliate links, this creates an important structural rule: some pages should explain, diagnose, clarify, or educate without attempting to choose a product for the reader. Their commercial role is not direct conversion. Their role is to increase understanding, build confidence, and create a natural route into [comparison pages]({{ 'comparisons/' | relative_url }}), [reviews]({{ 'reviews/' | relative_url }}), buyer's guides, or category recommendations when the reader is genuinely ready.
+For websites that earn through affiliate links, this creates an important structural rule: some pages should explain, diagnose, clarify, or educate without attempting to choose a product for the reader. Their commercial role is not direct conversion. Their role is to increase understanding, build confidence, and create a natural route into comparison pages, [reviews]({{ 'reviews/' | relative_url }}), buyer's guides, or category recommendations when the reader is genuinely ready.
 
 ## When should information not become a review?
 
@@ -297,7 +296,6 @@ A recommendation made before the reader has entered evaluation mode often create
 A useful test is to ask what evidence the page actually contains.
 
 If a page explains:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -337,7 +335,6 @@ Common examples include:
 
 A visitor searching for a definition or explanation lands on a page and immediately sees:
 
-
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
 * "Top Picks"
@@ -359,7 +356,6 @@ Another trust problem appears when a page suddenly recommends products without s
 
 For example:
 
-
 <div class="content-enhancement content-enhancement--checklist" markdown="1">
 
 * page topic: "What size air purifier do I need?"
@@ -373,7 +369,6 @@ Without room-size calculations, airflow requirements, or coverage explanations, 
 
 The reader has no reason to trust them.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/-c9AUhXAFD8" title="Information Scent" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=-c9AUhXAFD8" target="_blank" rel="noopener noreferrer">Information Scent</a></p><p class="youtube-embed-meta">Channel: NNgroup &middot; Views: 13.0K &middot; Uploaded: November 2020 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=-c9AUhXAFD8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=-c9AUhXAFD8">Open on YouTube</a></p></div></div></div>
 
 ### Diagnosing problems with a product replacement shortcut
@@ -381,7 +376,6 @@ The reader has no reason to trust them.
 This is common in home, technology, health-adjacent, and appliance niches.
 
 Examples include:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -404,10 +398,14 @@ When every diagnosis ends in a purchase recommendation, users begin to assume th
 
 Large-scale affiliate sites sometimes develop a template problem where every page contains:
 
+<div class="content-enhancement content-enhancement--comparison" markdown="1">
+
 * product boxes
 * affiliate links
 * recommendation widgets
-* [comparison tables]({{ 'tables/' | relative_url }})
+* comparison tables
+
+</div>
 
 regardless of intent.
 
@@ -427,7 +425,6 @@ Users tend to follow links when the next step feels relevant to their current go
 
 A reader who searches:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * "what does OLED mean?"
@@ -442,22 +439,16 @@ If the page immediately pushes products, many users leave.
 
 By contrast, a page that first solves the informational problem can create a stronger transition:
 
-
-<div class="content-enhancement content-enhancement--checklist" markdown="1">
-
 * understand the concept
 * identify relevant buying factors
 * recognise personal requirements
 * continue into a comparison page
-
-</div>
 
 The affiliate click occurs later, but often with higher intent.
 
 From a revenue-system perspective, this means a support page can contribute significant commercial value without containing direct recommendations.
 
 Its value comes from moving qualified readers forward.
-
 
 <img src="{{ "/assets/images/making_money_from_cr_f649af_informational_suppor_3ecae4_info_pages_not_revie_167b36-Illustration-2-dark.svg" | relative_url }}" alt="Trust Limits illustration 2" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_informational_suppor_3ecae4_info_pages_not_revie_167b36-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_informational_suppor_3ecae4_info_pages_not_revie_167b36-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Safer paths into reviews and comparison pages
@@ -486,7 +477,6 @@ Only after establishing differences should it introduce links such as:
 
 The reader now understands why those pages matter.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_xGmA7SeoqA" title="Ask a Rearcher: How do we decode the messy middle of the consumer purchase journey?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_xGmA7SeoqA" target="_blank" rel="noopener noreferrer">Ask a Rearcher: How do we decode the messy middle of the consumer purchase journey?</a></p><p class="youtube-embed-meta">Channel: Think with Google &middot; Views: 5.9K &middot; Uploaded: February 2021 &middot; Length: 3 minutes 17 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_xGmA7SeoqA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_xGmA7SeoqA">Open on YouTube</a></p></div></div></div>
 
 ### Build buying criteria instead of product rankings
@@ -504,7 +494,6 @@ without naming products.
 The buying guide then becomes the page that applies those criteria.
 
 This separation creates a cleaner content architecture and makes internal links feel more useful.
-
 
 <img src="{{ "/assets/images/making_money_from_cr_f649af_informational_suppor_3ecae4_info_pages_not_revie_167b36-Illustration-3-dark.svg" | relative_url }}" alt="Trust Limits illustration 3" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_informational_suppor_3ecae4_info_pages_not_revie_167b36-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_informational_suppor_3ecae4_info_pages_not_revie_167b36-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Use decision checkpoints
@@ -561,8 +550,7 @@ The site gradually develops a pattern the reader learns to trust:
 
 When those roles remain clear, product recommendations feel earned rather than inserted.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/KGm17ERgqTw" title="Fractured Search Intent: Understanding Mixed SERPs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=KGm17ERgqTw" target="_blank" rel="noopener noreferrer">Fractured Search Intent: Understanding Mixed SERPs</a></p><p class="youtube-embed-meta">Channel: Ahrefs &middot; Views: 32.7K &middot; Uploaded: January 2022 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=KGm17ERgqTw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=KGm17ERgqTw">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/SLm9lJnBvyo" title="Content Strategy for Affiliate Marketing Sites [3.3]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=SLm9lJnBvyo" target="_blank" rel="noopener noreferrer">Content Strategy for Affiliate Marketing Sites [3.3]</a></p><p class="youtube-embed-meta">Channel: Ahrefs &middot; Views: 24.5K &middot; Uploaded: March 2023 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=SLm9lJnBvyo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=SLm9lJnBvyo">Open on YouTube</a></p></div></div></div>
 
 ## Designing page systems that respect trust limits
 
@@ -1019,41 +1007,41 @@ Some pages make money best by increasing trust, clarifying choices, and feeding 
 
 1. <a id="endnote-1"></a>
    Source: business.google.com  
-   Link: [https://business.google.com/en-all/think/consumer-insights/navigating-purchase-behavior-and-decision-making/](https://business.google.com/en-all/think/consumer-insights/navigating-purchase-behavior-and-decision-making/)  
+   Link: <a href="https://business.google.com/en-all/think/consumer-insights/navigating-purchase-behavior-and-decision-making/" target="_blank" rel="noopener noreferrer nofollow">https://business.google.com/en-all/think/consumer-insights/navigating-purchase-behavior-and-decision-making/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Google BusinessHow people decide what to buy lies in the &#x27;messy middle&#x27; of...This equates to two different mental modes in the messy mid...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: business.google.com  
-   Link: [https://business.google.com/aunz/think/consumer-insights/messy-middle-2023/](https://business.google.com/aunz/think/consumer-insights/messy-middle-2023/)  
+   Link: <a href="https://business.google.com/aunz/think/consumer-insights/messy-middle-2023/" target="_blank" rel="noopener noreferrer nofollow">https://business.google.com/aunz/think/consumer-insights/messy-middle-2023/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Google BusinessBuyer Behaviour in the Messy MiddleUnderstand the buying behaviour of omnichannel shoppers and navigate the Messy Middle o...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: business.google.com  
    Title: messy middle 2023  
-   Link: [https://business.google.com/en-all/think/consumer-insights/messy-middle-2023/](https://business.google.com/en-all/think/consumer-insights/messy-middle-2023/)  
+   Link: <a href="https://business.google.com/en-all/think/consumer-insights/messy-middle-2023/" target="_blank" rel="noopener noreferrer nofollow">https://business.google.com/en-all/think/consumer-insights/messy-middle-2023/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Behaviour in the Messy MiddleUnderstand the buying behaviour of omnichannel shoppers and navigate the Messy Middle of e-commerce customer...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: thinkwithgoogle.com  
-   Link: [https://www.thinkwithgoogle.com/_qs/documents/9998/Decoding_Decisions_The_Messy_Middle_of_Purchase_Behavior.pdf](https://www.thinkwithgoogle.com/_qs/documents/9998/Decoding_Decisions_The_Messy_Middle_of_Purchase_Behavior.pdf)  
+   Link: <a href="https://www.thinkwithgoogle.com/_qs/documents/9998/Decoding_Decisions_The_Messy_Middle_of_Purchase_Behavior.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.thinkwithgoogle.com/_qs/documents/9998/Decoding_Decisions_The_Messy_Middle_of_Purchase_Behavior.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Decoding DecisionsIn our model, between the twin poles of trigger and purchase, sits the messy middle, in which consumers loop between ex...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: nngroup.com  
    Title: information scent  
-   Link: [https://www.nngroup.com/articles/information-scent/](https://www.nngroup.com/articles/information-scent/)  
+   Link: <a href="https://www.nngroup.com/articles/information-scent/" target="_blank" rel="noopener noreferrer nofollow">https://www.nngroup.com/articles/information-scent/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nielsen Norman GroupInformation Scent: How Users Decide Where to Go Next2 Feb 2020 — When deciding which links to click on the web, users...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: nngroup.com  
    Title: information foraging  
-   Link: [https://www.nngroup.com/articles/information-foraging/](https://www.nngroup.com/articles/information-foraging/)  
+   Link: <a href="https://www.nngroup.com/articles/information-foraging/" target="_blank" rel="noopener noreferrer nofollow">https://www.nngroup.com/articles/information-foraging/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nielsen Norman GroupInformation Foraging: A Theory of How People Navigate on...10 Nov 2019 — Summary: To decide whether to visit a page...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: neveralwaysbook.com  
    Title: messy middle  
-   Link: [https://neveralwaysbook.com/learn/messy-middle](https://neveralwaysbook.com/learn/messy-middle)  
+   Link: <a href="https://neveralwaysbook.com/learn/messy-middle" target="_blank" rel="noopener noreferrer nofollow">https://neveralwaysbook.com/learn/messy-middle</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Marketing: Google&#x27;s Consumer Journey Model1 May 2026 — The messy middle is Google&#x27;s research-backed model describing the complex phase be...</p></details>
    Published: May 2026  
 
@@ -1061,49 +1049,49 @@ Some pages make money best by increasing trust, clarifying choices, and feeding 
 
 8. <a id="endnote-8"></a>
    Source: ipa.co.uk  
-   Link: [https://ipa.co.uk/effworks/marketing-marketing/decoding-decisions](https://ipa.co.uk/effworks/marketing-marketing/decoding-decisions)  
+   Link: <a href="https://ipa.co.uk/effworks/marketing-marketing/decoding-decisions" target="_blank" rel="noopener noreferrer nofollow">https://ipa.co.uk/effworks/marketing-marketing/decoding-decisions</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Decoding DecisionsThe &#x27;messy middle&#x27; of purchase behaviour. How people decide which products and brands to buy is fascinating, but comple...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/company/nielsen](https://www.linkedin.com/company/nielsen)  
+   Link: <a href="https://www.linkedin.com/company/nielsen" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/company/nielsen</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NielsenNielsen shapes the world&#x27;s media and content as a global leader in audience insights, data and analytics. Through our understandin...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: medium.com  
-   Link: [https://medium.com/astrolabs/understanding-information-scent-95a6554007d4](https://medium.com/astrolabs/understanding-information-scent-95a6554007d4)  
+   Link: <a href="https://medium.com/astrolabs/understanding-information-scent-95a6554007d4" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/astrolabs/understanding-information-scent-95a6554007d4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding Information ScentInformation scent is basically the strength and correlation of the information provided on a site in compa...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: federal-lawyer.com  
-   Link: [https://federal-lawyer.com/ftc-defense/affiliate-[disclosure](https://federal-lawyer.com/ftc-defense/affiliate-[disclosure)  
+   Link: <a href="https://federal-lawyer.com/ftc-defense/affiliate-[disclosure" target="_blank" rel="noopener noreferrer nofollow">https://federal-lawyer.com/ftc-defense/affiliate-[disclosure</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding the FTC&#x27;s Affiliate Disclosure RulesLearn what affiliate marketers and companies need to know about the FTC&#x27;s affiliate dis...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: uxdesign.cc  
-   Link: [https://uxdesign.cc/from-consideration-to-purchase-breaking-down-googles-messy-middle-for-product-managers-8f6252ccca1a](https://uxdesign.cc/from-consideration-to-purchase-breaking-down-googles-messy-middle-for-product-managers-8f6252ccca1a)  
+   Link: <a href="https://uxdesign.cc/from-consideration-to-purchase-breaking-down-googles-messy-middle-for-product-managers-8f6252ccca1a" target="_blank" rel="noopener noreferrer nofollow">https://uxdesign.cc/from-consideration-to-purchase-breaking-down-googles-messy-middle-for-product-managers-8f6252ccca1a</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Messy Middle: From consideration to purchase5 Mar 2024 — Google&#x27;s “Messy Middle” research sheds light on the complex decision-making proc...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: consultantlm.com  
-   Link: [https://consultantlm.com/consultant-article/ftc-affiliate-disclosure-rules-2025-how-to-avoid-lawsuits-and-legal-penalties-for-your-website](https://consultantlm.com/consultant-article/ftc-affiliate-disclosure-rules-2025-how-to-avoid-lawsuits-and-legal-penalties-for-your-website)  
+   Link: <a href="https://consultantlm.com/consultant-article/ftc-affiliate-disclosure-rules-2025-how-to-avoid-lawsuits-and-legal-penalties-for-your-website" target="_blank" rel="noopener noreferrer nofollow">https://consultantlm.com/consultant-article/ftc-affiliate-disclosure-rules-2025-how-to-avoid-lawsuits-and-legal-penalties-for-your-website</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade Commission has established comprehensive guidelines to regulate endorsements, testimonials, and influencer marketing...Rea...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: affiversemedia.com  
-   Link: [https://www.affiversemedia.com/the-complete-guide-to-affiliate-marketing-transparency-building-trust-in-a-performance-driven-industry/](https://www.affiversemedia.com/the-complete-guide-to-affiliate-marketing-transparency-building-trust-in-a-performance-driven-industry/)  
+   Link: <a href="https://www.affiversemedia.com/the-complete-guide-to-affiliate-marketing-transparency-building-trust-in-a-performance-driven-industry/" target="_blank" rel="noopener noreferrer nofollow">https://www.affiversemedia.com/the-complete-guide-to-affiliate-marketing-transparency-building-trust-in-a-performance-driven-industry/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Complete Guide to Affiliate Marketing TransparencyAug 20, 2025 — Recent ASA rulings mandate that affiliates use clear language to dis...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/pulse/google-decodes-messy-middle-buying-process-g-david-dodd](https://www.linkedin.com/pulse/google-decodes-messy-middle-buying-process-g-david-dodd)  
+   Link: <a href="https://www.linkedin.com/pulse/google-decodes-messy-middle-buying-process-g-david-dodd" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/google-decodes-messy-middle-buying-process-g-david-dodd</a>  
 
 16. <a id="endnote-16"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/710142097/Decoding-Decisions-Marketing-in-the-Messy-Middle-DclfruV](https://www.scribd.com/document/710142097/Decoding-Decisions-Marketing-in-the-Messy-Middle-DclfruV)  
+   Link: <a href="https://www.scribd.com/document/710142097/Decoding-Decisions-Marketing-in-the-Messy-Middle-DclfruV" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/710142097/Decoding-Decisions-Marketing-in-the-Messy-Middle-DclfruV</a>  
 
 17. <a id="endnote-17"></a>
    Source: ftc.gov  
    Title: s endorsement guides what people are asking  
-   Link: [https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking](https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking)  
+   Link: <a href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FTC&#x27;s Endorsement Guides: What People Are AskingJun 29, 2023 — Here are answers to some of the most frequently asked questions from adver...</p></details>

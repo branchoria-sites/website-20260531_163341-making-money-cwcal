@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /trust-rules/
 nav_short_title: Trust Signals
 title: What Makes an Affiliate Recommendation Feel Honest?
-title_full: What Makes an Affiliate Recommendation Feel Honest? | Trust Rules
+title_full: What Makes an Affiliate Recommendation Feel Honest?
 display_title_short: Trust Signals
 display_title: Trust Signals
 heading_title: What Makes an Affiliate Recommendation Feel Honest?
@@ -202,7 +202,8 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: How Affiliate Sites Keep Reader Trust | Affiliate Engines
+date: '2026-05-31 16:30:29'
+parent_title: How Affiliate Sites Keep Reader Trust
 parent_permalink: /trust-rules/
 parent_nav_short_title: Trust Rules
 parent_heading_title: How Affiliate Sites Keep Reader Trust
@@ -265,7 +266,6 @@ next_link:
   permalink: /wording/
   short_title: Wording
   heading_title: What Should an Affiliate Disclosure Actually Say?
-date: '2026-05-31 16:30:29 '
 header:
   og_image: /assets/images/making_money_from_cr_f649af_affiliate_disclosure_249c42_affiliate_trust_sign_9b06ce-Illustration-1-social.jpg
   preview_image: /assets/images/making_money_from_cr_f649af_affiliate_disclosure_249c42_affiliate_trust_sign_9b06ce-Illustration-1.webp
@@ -276,16 +276,14 @@ image: /assets/images/making_money_from_cr_f649af_affiliate_disclosure_249c42_af
 
 Readers do not trust affiliate recommendations simply because a page contains a [disclosure]({{ 'disclosure/' | relative_url }}). They trust recommendations when the page demonstrates that a real evaluation happened and that the recommendation survives honest scrutiny. A disclosure explains the commercial relationship; trust signals explain why the recommendation should still be taken seriously.
 
-
 <img src="{{ "/assets/images/making_money_from_cr_f649af_affiliate_disclosure_249c42_affiliate_trust_sign_9b06ce-Illustration-1-dark.svg" | relative_url }}" alt="Trust Signals illustration 1" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_affiliate_disclosure_249c42_affiliate_trust_sign_9b06ce-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_affiliate_disclosure_249c42_affiliate_trust_sign_9b06ce-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-For affiliate websites, this distinction matters commercially. Pages that feel like disguised adverts often struggle to convert informed buyers, especially in competitive sectors where visitors compare several [reviews]({{ 'reviews/' | relative_url }}) before purchasing. By contrast, pages that show evidence, trade-offs, testing notes, update history, and genuine [selection criteria]({{ 'criteria/' | relative_url }}) tend to keep users engaged for longer and make affiliate links feel like a logical next step rather than a sales funnel.
+For affiliate websites, this distinction matters commercially. Pages that feel like disguised adverts often struggle to convert informed buyers, especially in competitive sectors where visitors compare several [reviews]({{ 'reviews/' | relative_url }}) before purchasing. By contrast, pages that show evidence, trade-offs, testing notes, update history, and genuine selection [criteria]({{ 'criteria/' | relative_url }}) tend to keep users engaged for longer and make affiliate links feel like a logical next step rather than a sales funnel.
 
 Trust signals are therefore not cosmetic additions. They are conversion assets that influence both user confidence and broader quality signals associated with trustworthy content. Google's guidance repeatedly emphasises experience, expertise, and trustworthiness as markers of quality, particularly where recommendations influence purchasing decisions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://services.google.com/fh/files/misc/hsw-sqrg.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: services.google.com">[Google Services]</a><span class="citation-popover" role="note"><span class="citation-popover-source">services.google.com</span><span class="citation-popover-snippet">Google ServicesSearch Quality Rater Guidelines: An OverviewIn determining page quality, Raters must consider EEAT: The first-hand experie...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://developers.google.com/search/docs/fundamentals/creating-helpful-content" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-snippet">Helpful, Reliable, People-First ContentGoogle&#x27;s ranking systems are designed to present helpful, reliable information that&#x27;s created to b...</span></span></span>
 
 ## Why Readers Distrust Many Affiliate Reviews
 
 The average internet user has seen countless "best product" lists that appear to recommend every item equally. Several patterns immediately trigger scepticism:
-
 
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
@@ -318,10 +316,14 @@ Instead of:
 
 A stronger recommendation explains:
 
+<div class="content-enhancement content-enhancement--checklist" markdown="1">
+
 * Who the product is for.
-* What [criteria]({{ 'criteria/' | relative_url }}) were evaluated.
+* What criteria were evaluated.
 * Which alternatives were considered.
 * Why this option won.
+
+</div>
 
 For example:
 
@@ -368,7 +370,6 @@ The second statement contains an observation. The first contains marketing langu
 
 For affiliate websites at scale, this distinction is important because generic promotional [wording]({{ 'wording/' | relative_url }}) creates detectable patterns that reduce perceived authenticity across an entire site.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Nrz_4P3QCt4" title="What is Google E-E-A-T (plus tools to improve yours)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Nrz_4P3QCt4" target="_blank" rel="noopener noreferrer">What is Google E-E-A-T (plus tools to improve yours)</a></p><p class="youtube-embed-meta">Channel: Semrush &middot; Views: 9.8K &middot; Uploaded: May 2024 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Nrz_4P3QCt4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Nrz_4P3QCt4">Open on YouTube</a></p></div></div></div>
 
 ### Visible update dates
@@ -380,7 +381,6 @@ Software changes, prices move, products become unavailable, and competitors rele
 A visible update date signals active maintenance. It reassures visitors that the recommendation was not abandoned years ago.
 
 This is particularly valuable on:
-
 
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
@@ -402,10 +402,9 @@ One of the fastest ways to make a recommendation feel credible is to admit where
 
 A review that contains no drawbacks often appears dishonest.
 
-Readers know every product has limitations.
+Readers know every product has [limitations]({{ 'limitations/' | relative_url }}).
 
 Examples include:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -444,7 +443,6 @@ Higher-trust pages recognise that different readers have different priorities.
 
 Examples:
 
-
 <div class="content-enhancement content-enhancement--decision" markdown="1">
 
 * Best budget option.
@@ -456,10 +454,9 @@ Examples:
 
 </div>
 
-This approach demonstrates editorial judgement and creates more natural [offer matching]({{ 'offer-fit/' | relative_url }}).
+This approach demonstrates editorial judgement and creates more natural offer matching.
 
 It also improves monetisation because multiple products can be recommended legitimately without making the page look manipulated.
-
 
 <img src="{{ "/assets/images/making_money_from_cr_f649af_affiliate_disclosure_249c42_affiliate_trust_sign_9b06ce-Illustration-2-dark.svg" | relative_url }}" alt="Trust Signals illustration 2" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_affiliate_disclosure_249c42_affiliate_trust_sign_9b06ce-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_affiliate_disclosure_249c42_affiliate_trust_sign_9b06ce-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Acknowledging uncertainty
@@ -469,7 +466,6 @@ Not every recommendation needs absolute confidence.
 Sometimes evidence is mixed.
 
 Examples include:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -486,26 +482,20 @@ A statement such as:
 
 often increases credibility because it reflects genuine uncertainty rather than pretending complete knowledge.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/m__413T78AY" title="How To Build Trust Online In Affiliate Marketing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=m__413T78AY" target="_blank" rel="noopener noreferrer">How To Build Trust Online In Affiliate Marketing</a></p><p class="youtube-embed-meta">Channel: Matt Diggity &middot; Views: 5.3K &middot; Uploaded: July 2021 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=m__413T78AY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=m__413T78AY">Open on YouTube</a></p></div></div></div>
 
 ## Trust Signals Around Disclosure Itself
 
 Affiliate disclosure and recommendation credibility reinforce one another.
 
-Research examining affiliate disclosures found that users often fail to understand vague or abbreviated disclosure wording, while clearer explanatory disclosures improve understanding of the commercial relationship. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1809.00620" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivEndorsements on Social Media: An Empirical Study of Affiliate Marketing Disclosures on YouTube and PinterestSeptember 3, 2018...</span><span class="citation-popover-meta">Published: September 3, 2018</span></span></span>
+Research examining affiliate [disclosures]({{ 'disclosures/' | relative_url }}) found that users often fail to understand vague or abbreviated disclosure wording, while clearer explanatory disclosures improve understanding of the commercial relationship. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1809.00620" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Endorsements on Social Media: An Empirical Study of Affiliate Marketing Disclosures on YouTube and PinterestSeptember 3, 2018...</span><span class="citation-popover-meta">Published: September 3, 2018</span></span></span>
 
 The most trusted affiliate pages tend to combine:
-
-
-<div class="content-enhancement content-enhancement--checklist" markdown="1">
 
 * Clear disclosure placement.
 * Plain-language commission explanations.
 * Independent review criteria.
 * Visible editorial standards.
-
-</div>
 
 A disclosure becomes more believable when the rest of the page also demonstrates independence.
 
@@ -520,7 +510,6 @@ Without those supporting signals, the disclosure can reinforce the impression th
 ## Template Elements That Build Trust Across Many Pages
 
 Large affiliate websites cannot rely on handcrafted credibility for every page. Trust signals need to be repeatable.
-
 
 <img src="{{ "/assets/images/making_money_from_cr_f649af_affiliate_disclosure_249c42_affiliate_trust_sign_9b06ce-Illustration-3-dark.svg" | relative_url }}" alt="Trust Signals illustration 3" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_affiliate_disclosure_249c42_affiliate_trust_sign_9b06ce-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_affiliate_disclosure_249c42_affiliate_trust_sign_9b06ce-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Consistent review framework
@@ -543,7 +532,7 @@ This consistency also helps website-generation systems standardise page quality 
 
 ### Comparison tables with clear criteria
 
-[Comparison tables]({{ 'tables/' | relative_url }}) reduce suspicion because readers can inspect the evidence themselves.
+Comparison [tables]({{ 'tables/' | relative_url }}) reduce suspicion because readers can inspect the evidence themselves.
 
 Useful comparison fields include:
 
@@ -573,7 +562,6 @@ Useful signals include:
 Google's quality frameworks repeatedly connect trustworthiness with clear information about who created content and why users should trust them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://services.google.com/fh/files/misc/hsw-sqrg.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: services.google.com">[Google Services]</a><span class="citation-popover" role="note"><span class="citation-popover-source">services.google.com</span><span class="citation-popover-snippet">Google ServicesSearch Quality Rater Guidelines: An OverviewIn determining page quality, Raters must consider EEAT: The first-hand experie...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://guidelines.raterhub.com/searchqualityevaluatorguidelines.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: guidelines.raterhub.com">[RaterHub Guidelines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">guidelines.raterhub.com</span><span class="citation-popover-snippet">RaterHub GuidelinesGeneral Guidelines11 Sept 2025 — Introduction to Search Quality Rating. 0.0 The Search Experience... no expertise or...</span></span></span>
 
 For affiliate sites covering specialised topics such as finance, health, software, or technical equipment, author transparency can become a significant differentiator.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/EgFjMHBSFus" title="EEAT in Google for Beginners (Experience, Expertise, Authoritativeness, and Trustworthiness)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=EgFjMHBSFus" target="_blank" rel="noopener noreferrer">EEAT in Google for Beginners (Experience, Expertise, Authoritativeness, and Trustworthiness)</a></p><p class="youtube-embed-meta">Channel: Doug Cunnington &middot; Views: 4.3K &middot; Uploaded: December 2023 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=EgFjMHBSFus" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=EgFjMHBSFus">Open on YouTube</a></p></div></div></div>
 
@@ -957,133 +945,133 @@ When affiliate pages consistently answer that question with evidence rather than
 
 1. <a id="endnote-1"></a>
    Source: services.google.com  
-   Link: [https://services.google.com/fh/files/misc/hsw-sqrg.pdf](https://services.google.com/fh/files/misc/hsw-sqrg.pdf)  
+   Link: <a href="https://services.google.com/fh/files/misc/hsw-sqrg.pdf" target="_blank" rel="noopener noreferrer nofollow">https://services.google.com/fh/files/misc/hsw-sqrg.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Google ServicesSearch Quality Rater Guidelines: An OverviewIn determining page quality, Raters must consider EEAT: The first-hand experie...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: developers.google.com  
-   Link: [https://developers.google.com/search/docs/fundamentals/creating-helpful-content](https://developers.google.com/search/docs/fundamentals/creating-helpful-content)  
+   Link: <a href="https://developers.google.com/search/docs/fundamentals/creating-helpful-content" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/docs/fundamentals/creating-helpful-content</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Helpful, Reliable, People-First ContentGoogle&#x27;s ranking systems are designed to present helpful, reliable information that&#x27;s created to b...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: guidelines.raterhub.com  
-   Link: [https://guidelines.raterhub.com/searchqualityevaluatorguidelines.pdf](https://guidelines.raterhub.com/searchqualityevaluatorguidelines.pdf)  
+   Link: <a href="https://guidelines.raterhub.com/searchqualityevaluatorguidelines.pdf" target="_blank" rel="noopener noreferrer nofollow">https://guidelines.raterhub.com/searchqualityevaluatorguidelines.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>RaterHub GuidelinesGeneral Guidelines11 Sept 2025 — Introduction to Search Quality Rating. 0.0 The Search Experience... no expertise or...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/1809.00620](https://arxiv.org/abs/1809.00620)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivEndorsements on Social Media: An Empirical Study of Affiliate Marketing Disclosures on YouTube and PinterestSeptember 3, 2018...</p></details>
+   Link: <a href="https://arxiv.org/abs/1809.00620" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1809.00620</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Endorsements on Social Media: An Empirical Study of Affiliate Marketing Disclosures on YouTube and PinterestSeptember 3, 2018...</p></details>
    Published: September 3, 2018  
 
 5. <a id="endnote-5"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/1803.08488](https://arxiv.org/abs/1803.08488)  
+   Link: <a href="https://arxiv.org/abs/1803.08488" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1803.08488</a>  
 
 6. <a id="endnote-6"></a>
    Source: google.com  
-   Link: [https://www.google.com/](https://www.google.com/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>GoogleSearch the world&#x27;s information, including webpages, images, videos and more. Google has many special features to help you find exac...</p></details>
+   Link: <a href="https://www.google.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.google.com/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Search the world&#x27;s information, including webpages, images, videos and more. Google has many special features to help you find exac...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: google.com  
-   Link: [https://www.google.com/intl/en_us/search/howsearchworks/how-search-works/ranking-results](https://www.google.com/intl/en_us/search/howsearchworks/how-search-works/ranking-results)  
+   Link: <a href="https://www.google.com/intl/en_us/search/howsearchworks/how-search-works/ranking-results" target="_blank" rel="noopener noreferrer nofollow">https://www.google.com/intl/en_us/search/howsearchworks/how-search-works/ranking-results</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>How Does Google Determine Ranking ResultsDiscover how key factors such as meaning, relevance, and quality are used to generate how websit...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: youtube.com  
    Title: How To Build Trust Online In Affiliate Marketing  
-   Link: [http://www.youtube.com/watch?v=m__413T78AY](http://www.youtube.com/watch?v=m__413T78AY)  
+   Link: <a href="http://www.youtube.com/watch?v=m__413T78AY" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=m__413T78AY</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>What is Google E-E-A-T (plus tools to improve yours)...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: youtube.com  
    Title: What is Google E-E-A-T (plus tools to improve yours)  
-   Link: [http://www.youtube.com/watch?v=Nrz_4P3QCt4](http://www.youtube.com/watch?v=Nrz_4P3QCt4)  
+   Link: <a href="http://www.youtube.com/watch?v=Nrz_4P3QCt4" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=Nrz_4P3QCt4</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>EEAT in Google for Beginners (Experience, Expertise, Authoritativeness, and Trustworthiness)...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: youtube.com  
-   Link: [http://www.youtube.com/watch?v=EgFjMHBSFus](http://www.youtube.com/watch?v=EgFjMHBSFus)  
+   Link: <a href="http://www.youtube.com/watch?v=EgFjMHBSFus" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=EgFjMHBSFus</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Repurpose Podcast Interviews Into Website Content + Build E-E-A-T for Google &amp; AI Visibility...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: youtube.com  
-   Link: [http://www.youtube.com/watch?v=ET5Wjh_V7xs](http://www.youtube.com/watch?v=ET5Wjh_V7xs)  
+   Link: <a href="http://www.youtube.com/watch?v=ET5Wjh_V7xs" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=ET5Wjh_V7xs</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ways to Use EEAT to Rank Higher on Google (Beginner Guide)...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: youtube.com  
    Title: Ways to Use EEAT to Rank Higher on Google (Beginner Guide)  
-   Link: [http://www.youtube.com/watch?v=0dRko7mF3LE](http://www.youtube.com/watch?v=0dRko7mF3LE)  
+   Link: <a href="http://www.youtube.com/watch?v=0dRko7mF3LE" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=0dRko7mF3LE</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Build trust affiliate marketing product reviews website credibility (PLR) EZ Online Credibility Review – Build Trust &amp; Grow Your List in...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: seroundtable.com  
    Title: Search Engine Roundtable E-E-A-T  
-   Link: [https://www.seroundtable.com/google-e-e-a-t-experience-search-quality-raters-guidelines-34576.html](https://www.seroundtable.com/google-e-e-a-t-experience-search-quality-raters-guidelines-34576.html)  
+   Link: <a href="https://www.seroundtable.com/google-e-e-a-t-experience-search-quality-raters-guidelines-34576.html" target="_blank" rel="noopener noreferrer nofollow">https://www.seroundtable.com/google-e-e-a-t-experience-search-quality-raters-guidelines-34576.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Search Engine RoundtableE-E-A-T - &quot;Experience&quot; Added To Revised Search Quality...Dec 16, 2022 — The Google search quality raters guideli...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: hikeseo.co  
-   Link: [https://www.hikeseo.co/learn/technical/google-eeat](https://www.hikeseo.co/learn/technical/google-eeat)  
+   Link: <a href="https://www.hikeseo.co/learn/technical/google-eeat" target="_blank" rel="noopener noreferrer nofollow">https://www.hikeseo.co/learn/technical/google-eeat</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Google&#x27;s Search Quality Rater Guidelines...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=pAWcYSBQHNc](https://www.youtube.com/watch?v=pAWcYSBQHNc)  
+   Link: <a href="https://www.youtube.com/watch?v=pAWcYSBQHNc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=pAWcYSBQHNc</a>  
 
 ### Additional References
 
 16. <a id="endnote-16"></a>
    Source: federalregister.gov  
    Title: guides concerning the use of endorsements and testimonials in advertising  
-   Link: [https://www.federalregister.gov/documents/2023/07/26/2023-14795/guides-concerning-the-use-of-endorsements-and-testimonials-in-advertising](https://www.federalregister.gov/documents/2023/07/26/2023-14795/guides-concerning-the-use-of-endorsements-and-testimonials-in-advertising)  
+   Link: <a href="https://www.federalregister.gov/documents/2023/07/26/2023-14795/guides-concerning-the-use-of-endorsements-and-testimonials-in-advertising" target="_blank" rel="noopener noreferrer nofollow">https://www.federalregister.gov/documents/2023/07/26/2023-14795/guides-concerning-the-use-of-endorsements-and-testimonials-in-advertising</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Guides Concerning the Use of Endorsements and...26 Jul 2023 — The Federal Trade Commission (FTC or Commission) is adopting revised Guide...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: nielsen.com  
-   Link: [https://www.nielsen.com/](https://www.nielsen.com/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nielsen | Audience Is Everything®A global leader in media measurement, analytics and insights, Nielsen shapes the future of media with ac...</p></details>
+   Link: <a href="https://www.nielsen.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.nielsen.com/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Audience Is Everything®A global leader in media measurement, analytics and insights, Nielsen shapes the future of media with ac...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: qualia-academy.co.uk  
-   Link: [https://qualia-academy.co.uk/google-e-e-a-t-guidelines/](https://qualia-academy.co.uk/google-e-e-a-t-guidelines/)  
+   Link: <a href="https://qualia-academy.co.uk/google-e-e-a-t-guidelines/" target="_blank" rel="noopener noreferrer nofollow">https://qualia-academy.co.uk/google-e-e-a-t-guidelines/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Google&#x27;s E-E-A-T Important GuidelinesOne of the most influential frameworks guiding Google&#x27;s content evaluation process is E-E-A-T, which...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: iubenda.com  
-   Link: [https://www.iubenda.com/en/blog/affiliate-disclosure/](https://www.iubenda.com/en/blog/affiliate-disclosure/)  
+   Link: <a href="https://www.iubenda.com/en/blog/affiliate-disclosure/" target="_blank" rel="noopener noreferrer nofollow">https://www.iubenda.com/en/blog/affiliate-disclosure/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Write an Effective Affiliate DisclosureAccording to the FTC, endorsements must reflect the honest opinions and experience of the e...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: adamigo.ai  
-   Link: [https://www.adamigo.ai/blog/ultimate-guide-to-ftc-ad-disclosures](https://www.adamigo.ai/blog/ultimate-guide-to-ftc-ad-disclosures)  
+   Link: <a href="https://www.adamigo.ai/blog/ultimate-guide-to-ftc-ad-disclosures" target="_blank" rel="noopener noreferrer nofollow">https://www.adamigo.ai/blog/ultimate-guide-to-ftc-ad-disclosures</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ultimate Guide to FTC Ad DisclosuresMaterial Connections That Require Disclosure. A material connection refers to any relationship betwee...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: federal-lawyer.com  
-   Link: [https://federal-lawyer.com/ftc-defense/affiliate-disclosure/](https://federal-lawyer.com/ftc-defense/affiliate-disclosure/)  
+   Link: <a href="https://federal-lawyer.com/ftc-defense/affiliate-disclosure/" target="_blank" rel="noopener noreferrer nofollow">https://federal-lawyer.com/ftc-defense/affiliate-disclosure/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding the FTC&#x27;s Affiliate Disclosure RulesLearn what affiliate marketers and companies need to know about the FTC&#x27;s affiliate dis...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: ftc.gov  
    Title: influencers are your materialconnection disclosures clearandconspicuous  
-   Link: [https://www.ftc.gov/business-guidance/blog/2017/04/influencers-are-your-materialconnection-disclosures-clearandconspicuous](https://www.ftc.gov/business-guidance/blog/2017/04/influencers-are-your-materialconnection-disclosures-clearandconspicuous)  
+   Link: <a href="https://www.ftc.gov/business-guidance/blog/2017/04/influencers-are-your-materialconnection-disclosures-clearandconspicuous" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/blog/2017/04/influencers-are-your-materialconnection-disclosures-clearandconspicuous</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Influencers, are your #materialconnection #disclosures...19 Apr 2017 — If there is a material connection between an endorser and an adve...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: dglaw.com  
-   Link: [https://www.dglaw.com/the-deep-dive-ftc-updates-endorsement-guides-for-modern-marketing-and-advertising/](https://www.dglaw.com/the-deep-dive-ftc-updates-endorsement-guides-for-modern-marketing-and-advertising/)  
+   Link: <a href="https://www.dglaw.com/the-deep-dive-ftc-updates-endorsement-guides-for-modern-marketing-and-advertising/" target="_blank" rel="noopener noreferrer nofollow">https://www.dglaw.com/the-deep-dive-ftc-updates-endorsement-guides-for-modern-marketing-and-advertising/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Deep Dive: FTC Updates Endorsement Guides...11 Jul 2023 — On June 29, the FTC announced new Endorsement Guides (Endorsement Guides)...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: ftc.gov  
    Title: s endorsement guides what people are asking  
-   Link: [https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking](https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking)  
+   Link: <a href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade CommissionFTC&#x27;s Endorsement Guides: What People Are Asking29 Jun 2023 — Here are answers to some of the most frequently ask...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: mangools.com  
-   Link: [https://mangools.com/blog/e-e-a-t/](https://mangools.com/blog/e-e-a-t/)  
+   Link: <a href="https://mangools.com/blog/e-e-a-t/" target="_blank" rel="noopener noreferrer nofollow">https://mangools.com/blog/e-e-a-t/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>E-E-A-T &amp; SEO: How does Google evaluate content quality?24 Oct 2023 — Google EEAT stands for Experience, Expertise, Authoritativeness, an...</p></details>

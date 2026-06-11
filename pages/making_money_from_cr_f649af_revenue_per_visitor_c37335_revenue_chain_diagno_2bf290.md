@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /revenue-model/
 nav_short_title: Chain Breaks
 title: Where Affiliate Page Revenue Breaks Down
-title_full: Where Affiliate Page Revenue Breaks Down | Revenue Model
+title_full: Where Affiliate Page Revenue Breaks Down
 display_title_short: Chain Breaks
 display_title: Chain Breaks
 heading_title: Where Affiliate Page Revenue Breaks Down
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-31 15:44:09'
-parent_title: Why Equal Traffic Does Not Mean Equal Earnings | Affiliate Engines
+parent_title: Why Equal Traffic Does Not Mean Equal Earnings
 parent_permalink: /revenue-model/
 parent_nav_short_title: Revenue Model
 parent_heading_title: Why Equal Traffic Does Not Mean Equal Earnings
@@ -276,9 +276,8 @@ image: /assets/images/making_money_from_cr_f649af_revenue_per_visitor_c37335_rev
 
 Affiliate pages often look healthy until revenue is examined. Traffic arrives, rankings hold, and clicks appear in affiliate dashboards, yet earnings remain weak. In most cases, the problem is not “the page” as a whole. The problem is a break somewhere in the revenue chain.
 
-
 <img src="{{ "/assets/images/making_money_from_cr_f649af_revenue_per_visitor_c37335_revenue_chain_diagno_2bf290-Illustration-1-dark.svg" | relative_url }}" alt="Chain Breaks illustration 1" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_revenue_per_visitor_c37335_revenue_chain_diagno_2bf290-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_revenue_per_visitor_c37335_revenue_chain_diagno_2bf290-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-For affiliate websites, [revenue per visitor]({{ 'revenue-model/' | relative_url }}) depends on a sequence of commercial events: the right visitor arrives, clicks an affiliate link, reaches a merchant page, converts into a buyer or lead, and generates meaningful commission. If one stage underperforms, revenue collapses even when the other stages appear healthy. This is why diagnosing under-earning pages requires reading traffic, click and conversion data together rather than treating them as separate reports. Affiliate platforms such as Awin expose metrics including clicks, order value, conversion activity and click-to-sale timing specifically because revenue depends on multiple connected stages rather than traffic alone. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.awin.com/gb/publishers/tools" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: awin.com">[Awin]</a><span class="citation-popover" role="note"><span class="citation-popover-source">awin.com</span><span class="citation-popover-snippet">AwinMarketing Tools for Affiliate PublishersOur suite of affiliate tools is designed to help you make money, track conversions, and choos...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.awin.com/gb/advertisers/tools" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: awin.com">[Awin]</a><span class="citation-popover" role="note"><span class="citation-popover-source">awin.com</span><span class="citation-popover-snippet">Professional Affiliate Tracking PlatformAwin&#x27;s complete tracking solution allows advertisers to record and report on an extensive range o...</span></span></span>
+For affiliate websites, [revenue per visitor]({{ 'revenue-model/' | relative_url }}) depends on a sequence of commercial events: the right visitor arrives, clicks an affiliate link, reaches a merchant page, converts into a buyer or lead, and generates meaningful commission. If one stage underperforms, revenue collapses even when the other stages appear healthy. This is why diagnosing under-earning pages requires reading traffic, click and conversion data together rather than treating them as separate reports. Affiliate platforms such as Awin expose metrics including clicks, order value, conversion activity and click-to-sale timing specifically because revenue depends on multiple connected stages rather than traffic alone. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.awin.com/gb/publishers/tools" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: awin.com">[Awin]</a><span class="citation-popover" role="note"><span class="citation-popover-source">awin.com</span><span class="citation-popover-snippet">Marketing Tools for Affiliate PublishersOur suite of affiliate tools is designed to help you make money, track conversions, and choos...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.awin.com/gb/advertisers/tools" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: awin.com">[Awin]</a><span class="citation-popover" role="note"><span class="citation-popover-source">awin.com</span><span class="citation-popover-snippet">Professional Affiliate Tracking PlatformAwin&#x27;s complete tracking solution allows advertisers to record and report on an extensive range o...</span></span></span>
 
 ## Where Affiliate Page Revenue Breaks Down
 
@@ -289,7 +288,7 @@ A traffic problem means the page is not attracting enough visitors. A revenue-ch
 Consider a page receiving 5,000 visitors per month.
 
 * If it receives only 20 affiliate clicks, the break is probably on-page persuasion, offer visibility or intent mismatch.
-* If it receives 500 clicks but only a handful of sales, the break is probably [merchant conversion]({{ 'merchant-risk/' | relative_url }}), traffic quality or [offer fit]({{ 'offer-fit/' | relative_url }}).
+* If it receives 500 clicks but only a handful of sales, the break is probably merchant conversion, traffic quality or [offer fit]({{ 'offer-fit/' | relative_url }}).
 * If it generates sales but revenue remains low, commission structure, basket value or programme economics may be the limiting factor.
 * If revenue fluctuates despite stable clicks, attribution windows, tracking issues or delayed purchase behaviour may be involved.
 
@@ -319,7 +318,6 @@ This usually indicates that visitors are not reaching a commercial decision poin
 
 Common causes include:
 
-
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
 * Informational search intent rather than buying intent.
@@ -334,19 +332,17 @@ The page may be attracting readers successfully but failing to move them towards
 
 For website-generation systems, this often signals a page classification error. The content may be structured as a general information article when visitors actually need a comparison page, shortlist page or recommendation page.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/AFNH2eGLlPU" title="Amazon Affiliate Marketing for Beginners (2025): Step-By-Step Tutorial" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=AFNH2eGLlPU" target="_blank" rel="noopener noreferrer">Amazon Affiliate Marketing for Beginners (2025): Step-By-Step Tutorial</a></p><p class="youtube-embed-meta">Channel: Justin Brown - Primal Video &middot; Views: 141.5K &middot; Uploaded: May 2025 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=AFNH2eGLlPU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=AFNH2eGLlPU">Open on YouTube</a></p></div></div></div>
 
 ### High click-through rate, low earnings per click
 
 This is one of the most common affiliate failure patterns.
 
-Industry discussions around affiliate landing pages frequently identify high outbound [click rates]({{ 'click-rate/' | relative_url }}) combined with weak EPC (earnings per click) as evidence that users are clicking but not converting after arrival. Common causes include poor traffic qualification, exaggerated positioning, weak merchant pages or mismatched expectations between the affiliate page and the merchant destination. <span class="citation-chip-wrap"><a class="citation-chip" href="https://remoby.com/blog/affiliate-landing-page-strategy-framework/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: remoby.com">[Remoby]</a><span class="citation-popover" role="note"><span class="citation-popover-source">remoby.com</span><span class="citation-popover-snippet">RemobyAffiliate Landing Page Strategy Framework: Choose the...March 27, 2026 — 8 Apr 2026 — Why Do Some Affiliate Landing Pages Get High...</span><span class="citation-popover-meta">Published: March 27, 2026</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.endorsely.com/blog-post/what-is-epc-earnings-per-click-in-affiliate-marketing-explained" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: endorsely.com">[2endorsely.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">endorsely.com</span><span class="citation-popover-snippet">igher conversion rates; Higher average order value (AOV); Better funnel and...Read more...</span></span></span>
+Industry discussions around affiliate landing pages frequently identify high outbound [click rates]({{ 'click-rate/' | relative_url }}) combined with weak EPC (earnings per click) as evidence that users are clicking but not converting after arrival. Common causes include poor traffic qualification, exaggerated positioning, weak merchant pages or mismatched expectations between the affiliate page and the merchant destination. <span class="citation-chip-wrap"><a class="citation-chip" href="https://remoby.com/blog/affiliate-landing-page-strategy-framework/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: remoby.com">[Remoby]</a><span class="citation-popover" role="note"><span class="citation-popover-source">remoby.com</span><span class="citation-popover-snippet">Affiliate Landing Page Strategy Framework: Choose the...March 27, 2026 — 8 Apr 2026 — Why Do Some Affiliate Landing Pages Get High...</span><span class="citation-popover-meta">Published: March 27, 2026</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.endorsely.com/blog-post/what-is-epc-earnings-per-click-in-affiliate-marketing-explained" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: endorsely.com">[2endorsely.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">endorsely.com</span><span class="citation-popover-snippet">igher conversion rates; Higher average order value (AOV); Better funnel and...Read more...</span></span></span>
 
 A page may persuade users to click without preparing them to buy.
 
 For example:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -382,7 +378,6 @@ The affiliate page may be functioning correctly while the merchant fails to conv
 
 This is why experienced affiliate operators compare merchants rather than evaluating commission percentages alone.
 
-
 <img src="{{ "/assets/images/making_money_from_cr_f649af_revenue_per_visitor_c37335_revenue_chain_diagno_2bf290-Illustration-2-dark.svg" | relative_url }}" alt="Chain Breaks illustration 2" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_revenue_per_visitor_c37335_revenue_chain_diagno_2bf290-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_revenue_per_visitor_c37335_revenue_chain_diagno_2bf290-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Merchant Conversion Trap
 
@@ -398,8 +393,7 @@ The lower-paying merchant may generate more revenue from identical traffic becau
 
 For large affiliate content systems, merchant testing should therefore be treated as a page-level variable rather than a permanent assumption. Two otherwise identical pages can produce radically different revenue outcomes depending on destination choice.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zVIExg50wBk" title="What is funnel analysis? (And how to fix conversion bottlenecks)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zVIExg50wBk" target="_blank" rel="noopener noreferrer">What is funnel analysis? (And how to fix conversion bottlenecks)</a></p><p class="youtube-embed-meta">Channel: Funnel &middot; Views: 2.2K &middot; Uploaded: April 2026 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zVIExg50wBk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zVIExg50wBk">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/CclBg0yDwbY" title="How to perform a CRO audit on your site (5 steps)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=CclBg0yDwbY" target="_blank" rel="noopener noreferrer">How to perform a CRO audit on your site (5 steps)</a></p><p class="youtube-embed-meta">Channel: Contentsquare &middot; Views: 301 &middot; Uploaded: December 2025 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=CclBg0yDwbY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=CclBg0yDwbY">Open on YouTube</a></p></div></div></div>
 
 ## When Commission Value Is the Weakest Link
 
@@ -409,10 +403,9 @@ This usually points to commission economics.
 
 Possible causes include:
 
-<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.endorsely.com/blog-post/what-is-epc-earnings-per-click-in-affiliate-marketing-explained" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: endorsely.com">[* Low commission percentages.]</a><span class="citation-popover" role="note"><span class="citation-popover-source">endorsely.com</span><span class="citation-popover-snippet">igher conversion rates; Higher average order value (AOV); Better funnel and...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.endorsely.com/blog-post/what-is-epc-earnings-per-click-in-affiliate-marketing-explained" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: endorsely.com">[* Low average order values.]</a><span class="citation-popover" role="note"><span class="citation-popover-source">endorsely.com</span><span class="citation-popover-snippet">igher conversion rates; Higher average order value (AOV); Better funnel and...Read more...</span></span></span>
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
+* Low commission percentages. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.endorsely.com/blog-post/what-is-epc-earnings-per-click-in-affiliate-marketing-explained" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: endorsely.com">[endorsely.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">endorsely.com</span><span class="citation-popover-snippet">igher conversion rates; Higher average order value (AOV); Better funnel and...Read more...</span></span></span> * Low average order values. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.endorsely.com/blog-post/what-is-epc-earnings-per-click-in-affiliate-marketing-explained" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: endorsely.com">[endorsely.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">endorsely.com</span><span class="citation-popover-snippet">igher conversion rates; Higher average order value (AOV); Better funnel and...Read more...</span></span></span>
 * Products with limited upsell potential.
 * One-off purchases instead of recurring revenue.
 * Short attribution windows.
@@ -425,7 +418,6 @@ Amazon Associates, for example, pays commissions on qualifying purchases, but ca
 A page recommending £20 products may require dramatically more conversions than a page recommending £500 products, even if conversion rates are similar.
 
 For topic selection, this means commercial opportunity cannot be estimated from search demand alone. Expected commission value must be considered alongside intent and conversion potential.
-
 
 <img src="{{ "/assets/images/making_money_from_cr_f649af_revenue_per_visitor_c37335_revenue_chain_diagno_2bf290-Illustration-3-dark.svg" | relative_url }}" alt="Chain Breaks illustration 3" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_revenue_per_visitor_c37335_revenue_chain_diagno_2bf290-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_revenue_per_visitor_c37335_revenue_chain_diagno_2bf290-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Choose the Next Fix by the Weakest Stage
@@ -453,7 +445,6 @@ This approach prevents wasted optimisation effort.
 
 For example:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Improving button placement will not solve a poor-converting merchant.
@@ -464,15 +455,13 @@ For example:
 
 Each fix should correspond to the actual break.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/CclBg0yDwbY" title="How to perform a CRO audit on your site (5 steps)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=CclBg0yDwbY" target="_blank" rel="noopener noreferrer">How to perform a CRO audit on your site (5 steps)</a></p><p class="youtube-embed-meta">Channel: Contentsquare &middot; Views: 301 &middot; Uploaded: December 2025 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=CclBg0yDwbY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=CclBg0yDwbY">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zVIExg50wBk" title="What is funnel analysis? (And how to fix conversion bottlenecks)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zVIExg50wBk" target="_blank" rel="noopener noreferrer">What is funnel analysis? (And how to fix conversion bottlenecks)</a></p><p class="youtube-embed-meta">Channel: Funnel &middot; Views: 2.2K &middot; Uploaded: April 2026 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zVIExg50wBk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zVIExg50wBk">Open on YouTube</a></p></div></div></div>
 
 ## What Revenue Chain Diagnosis Reveals About Scaling
 
 The most valuable outcome of diagnosis is not fixing one page. It is identifying patterns that can be repeated or avoided across an entire site.
 
 If multiple pages show:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -819,161 +808,161 @@ The central lesson is that under-earning affiliate pages rarely fail for mysteri
 
 1. <a id="endnote-1"></a>
    Source: awin.com  
-   Link: [https://www.awin.com/gb/publishers/tools](https://www.awin.com/gb/publishers/tools)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AwinMarketing Tools for Affiliate PublishersOur suite of affiliate tools is designed to help you make money, track conversions, and choos...</p></details>
+   Link: <a href="https://www.awin.com/gb/publishers/tools" target="_blank" rel="noopener noreferrer nofollow">https://www.awin.com/gb/publishers/tools</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Marketing Tools for Affiliate PublishersOur suite of affiliate tools is designed to help you make money, track conversions, and choos...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: awin.com  
-   Link: [https://www.awin.com/gb/advertisers/tools](https://www.awin.com/gb/advertisers/tools)  
+   Link: <a href="https://www.awin.com/gb/advertisers/tools" target="_blank" rel="noopener noreferrer nofollow">https://www.awin.com/gb/advertisers/tools</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Professional Affiliate Tracking PlatformAwin&#x27;s complete tracking solution allows advertisers to record and report on an extensive range o...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: help.awin.com  
    Title: understanding affiliate tracking  
-   Link: [https://help.awin.com/docs/understanding-affiliate-tracking](https://help.awin.com/docs/understanding-affiliate-tracking)  
+   Link: <a href="https://help.awin.com/docs/understanding-affiliate-tracking" target="_blank" rel="noopener noreferrer nofollow">https://help.awin.com/docs/understanding-affiliate-tracking</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Awin Help CenterUnderstanding affiliate tracking9 Mar 2026 — Affiliate tracking is the backbone of your affiliate program, ensuring accur...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: remoby.com  
-   Link: [https://remoby.com/blog/affiliate-landing-page-strategy-framework/](https://remoby.com/blog/affiliate-landing-page-strategy-framework/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RemobyAffiliate Landing Page Strategy Framework: Choose the...March 27, 2026 — 8 Apr 2026 — Why Do Some Affiliate Landing Pages Get High...</p></details>
+   Link: <a href="https://remoby.com/blog/affiliate-landing-page-strategy-framework/" target="_blank" rel="noopener noreferrer nofollow">https://remoby.com/blog/affiliate-landing-page-strategy-framework/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Affiliate Landing Page Strategy Framework: Choose the...March 27, 2026 — 8 Apr 2026 — Why Do Some Affiliate Landing Pages Get High...</p></details>
    Published: March 27, 2026  
 
 5. <a id="endnote-5"></a>
    Source: endorsely.com  
-   Link: [https://www.endorsely.com/blog-post/what-is-epc-earnings-per-click-in-affiliate-marketing-explained](https://www.endorsely.com/blog-post/what-is-epc-earnings-per-click-in-affiliate-marketing-explained)  
+   Link: <a href="https://www.endorsely.com/blog-post/what-is-epc-earnings-per-click-in-affiliate-marketing-explained" target="_blank" rel="noopener noreferrer nofollow">https://www.endorsely.com/blog-post/what-is-epc-earnings-per-click-in-affiliate-marketing-explained</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>igher conversion rates; Higher average order value (AOV); Better funnel and...Read more...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: bluealpha.ai  
    Title: how to measure affiliate marketing complete guide  
-   Link: [https://bluealpha.ai/articles/how-to-measure-affiliate-marketing-complete-guide](https://bluealpha.ai/articles/how-to-measure-affiliate-marketing-complete-guide)  
+   Link: <a href="https://bluealpha.ai/articles/how-to-measure-affiliate-marketing-complete-guide" target="_blank" rel="noopener noreferrer nofollow">https://bluealpha.ai/articles/how-to-measure-affiliate-marketing-complete-guide</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Definition: The percentage of clicks that result in a desired conversion. CVR = (Number of Conversions / Number of...Read more...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: awin.com  
    Title: how to use affiliate marketing to drive low cost conversions for your brand  
-   Link: [https://www.awin.com/us/how-to-use-awin/how-to-use-affiliate-marketing-to-drive-low-cost-conversions-for-your-brand](https://www.awin.com/us/how-to-use-awin/how-to-use-affiliate-marketing-to-drive-low-cost-conversions-for-your-brand)  
+   Link: <a href="https://www.awin.com/us/how-to-use-awin/how-to-use-affiliate-marketing-to-drive-low-cost-conversions-for-your-brand" target="_blank" rel="noopener noreferrer nofollow">https://www.awin.com/us/how-to-use-awin/how-to-use-affiliate-marketing-to-drive-low-cost-conversions-for-your-brand</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>All About Affiliate Marketing Conversion Rates14 Sept 2022 — In affiliate marketing, the conversion rate refers to the percentage of conv...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: affiliate-program.amazon.com  
-   Link: [https://affiliate-program.amazon.com/help/node/topic/GWJ4AHCH7U5LCL86](https://affiliate-program.amazon.com/help/node/topic/GWJ4AHCH7U5LCL86)  
+   Link: <a href="https://affiliate-program.amazon.com/help/node/topic/GWJ4AHCH7U5LCL86" target="_blank" rel="noopener noreferrer nofollow">https://affiliate-program.amazon.com/help/node/topic/GWJ4AHCH7U5LCL86</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Amazon AssociatesWhat items qualify for commission income, and …Associates earn commission income when visitors follow links from their s...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: affiliate-program.amazon.com  
-   Link: [https://affiliate-program.amazon.com/help/node/topic/GRXPHT8U84RAYDXZ](https://affiliate-program.amazon.com/help/node/topic/GRXPHT8U84RAYDXZ)  
+   Link: <a href="https://affiliate-program.amazon.com/help/node/topic/GRXPHT8U84RAYDXZ" target="_blank" rel="noopener noreferrer nofollow">https://affiliate-program.amazon.com/help/node/topic/GRXPHT8U84RAYDXZ</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Commission Income RatesStandard Commission Income for all Qualifying Purchases of Products that are categorized as fine art are limited t...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: affiliate-program.amazon.com  
-   Link: [https://affiliate-program.amazon.com/help/node/topic/GMWAK55DQX8JEK7C](https://affiliate-program.amazon.com/help/node/topic/GMWAK55DQX8JEK7C)  
+   Link: <a href="https://affiliate-program.amazon.com/help/node/topic/GMWAK55DQX8JEK7C" target="_blank" rel="noopener noreferrer nofollow">https://affiliate-program.amazon.com/help/node/topic/GMWAK55DQX8JEK7C</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>To use reportsYou can easily see your earnings by program with commission income and bounties displayed as well as a daily earnings graph...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: affiliate-program.amazon.com  
-   Link: [https://affiliate-program.amazon.com/welcome/ecs](https://affiliate-program.amazon.com/welcome/ecs)  
+   Link: <a href="https://affiliate-program.amazon.com/welcome/ecs" target="_blank" rel="noopener noreferrer nofollow">https://affiliate-program.amazon.com/welcome/ecs</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Associates CentralHome · Tools · Commission Income Statement · Reports · Creator University...Read more...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: awin.com  
    Title: everything you need to know about affiliate tracking  
-   Link: [https://www.awin.com/gb/affiliate-marketing/everything-you-need-to-know-about-affiliate-tracking](https://www.awin.com/gb/affiliate-marketing/everything-you-need-to-know-about-affiliate-tracking)  
+   Link: <a href="https://www.awin.com/gb/affiliate-marketing/everything-you-need-to-know-about-affiliate-tracking" target="_blank" rel="noopener noreferrer nofollow">https://www.awin.com/gb/affiliate-marketing/everything-you-need-to-know-about-affiliate-tracking</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What is affiliate link tracking and how to use it?22 Nov 2022 — Why is affiliate tracking important? Find out how to track links and sale...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: help.awin.com  
    Title: attribution manager  
-   Link: [https://help.awin.com/docs/attribution-manager](https://help.awin.com/docs/attribution-manager)  
+   Link: <a href="https://help.awin.com/docs/attribution-manager" target="_blank" rel="noopener noreferrer nofollow">https://help.awin.com/docs/attribution-manager</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Manager10 Mar 2026 — This article explains where to find Attribution Manager and how to use its features to optimize your affiliate marke...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: awin.com  
    Title: optimisation solutions  
-   Link: [https://www.awin.com/gb/how-to-use-awin/optimisation-solutions](https://www.awin.com/gb/how-to-use-awin/optimisation-solutions)  
+   Link: <a href="https://www.awin.com/gb/how-to-use-awin/optimisation-solutions" target="_blank" rel="noopener noreferrer nofollow">https://www.awin.com/gb/how-to-use-awin/optimisation-solutions</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Features to Optimise your Partner Marketing14 Nov 2023 — Unlock digital success with personalised commission management, actionable repor...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: awin.com  
    Title: affiliate marketing guide  
-   Link: [https://www.awin.com/us/affiliate-marketing/affiliate-marketing-guide](https://www.awin.com/us/affiliate-marketing/affiliate-marketing-guide)  
+   Link: <a href="https://www.awin.com/us/affiliate-marketing/affiliate-marketing-guide" target="_blank" rel="noopener noreferrer nofollow">https://www.awin.com/us/affiliate-marketing/affiliate-marketing-guide</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Affiliate Marketing: The Ultimate Guide 202018 Sept 2020 — For Awin, this means our publishers earn a commission based on a percentage of...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: affiliate-program.amazon.co.uk  
-   Link: [https://affiliate-program.amazon.co.uk/help/node/topic/GRXPHT8U84RAYDXZ](https://affiliate-program.amazon.co.uk/help/node/topic/GRXPHT8U84RAYDXZ)  
+   Link: <a href="https://affiliate-program.amazon.co.uk/help/node/topic/GRXPHT8U84RAYDXZ" target="_blank" rel="noopener noreferrer nofollow">https://affiliate-program.amazon.co.uk/help/node/topic/GRXPHT8U84RAYDXZ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Amazon AssociatesAssociates Program Standard Commission Income StatementA &quot;Direct Qualifying Purchase&quot; means a Qualifying Purchase of a P...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: affiliate-program.amazon.co.uk  
-   Link: [https://affiliate-program.amazon.co.uk/help/node/topic/GWJ4AHCH7U5LCL86](https://affiliate-program.amazon.co.uk/help/node/topic/GWJ4AHCH7U5LCL86)  
+   Link: <a href="https://affiliate-program.amazon.co.uk/help/node/topic/GWJ4AHCH7U5LCL86" target="_blank" rel="noopener noreferrer nofollow">https://affiliate-program.amazon.co.uk/help/node/topic/GWJ4AHCH7U5LCL86</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Amazon AssociatesWhat items qualify for commission income, and how...Associates earn commission income when visitors follow links from t...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: affiliate-program.amazon.co.uk  
    Title: Amazon Associates Amazon.co.uk Associates Central  
-   Link: [https://affiliate-program.amazon.co.uk/help/node/topic/G9SMD8TQHFJ7728F](https://affiliate-program.amazon.co.uk/help/node/topic/G9SMD8TQHFJ7728F)  
+   Link: <a href="https://affiliate-program.amazon.co.uk/help/node/topic/G9SMD8TQHFJ7728F" target="_blank" rel="noopener noreferrer nofollow">https://affiliate-program.amazon.co.uk/help/node/topic/G9SMD8TQHFJ7728F</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Amazon AssociatesAmazon.co.uk Associates Central - HelpYou earn commission income on any qualifying items placed in a customer&#x27;s Shopping...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/Affiliatemarketing/comments/1likr6w/amazon_associates_conversion_rates/](https://www.reddit.com/r/Affiliatemarketing/comments/1likr6w/amazon_associates_conversion_rates/)  
+   Link: <a href="https://www.reddit.com/r/Affiliatemarketing/comments/1likr6w/amazon_associates_conversion_rates/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Affiliatemarketing/comments/1likr6w/amazon_associates_conversion_rates/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Amazon Associates Conversion Rates: r/AffiliatemarketingAs a fellow amazon associate I never tried ads but as per my knowledge you can g...</p></details>
 
 ### Additional References
 
 20. <a id="endnote-20"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/Amazon_Influencer/comments/1sa55dr/amazon_affiliate_dead_as_of_14th_april/](https://www.reddit.com/r/Amazon_Influencer/comments/1sa55dr/amazon_affiliate_dead_as_of_14th_april/)  
+   Link: <a href="https://www.reddit.com/r/Amazon_Influencer/comments/1sa55dr/amazon_affiliate_dead_as_of_14th_april/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Amazon_Influencer/comments/1sa55dr/amazon_affiliate_dead_as_of_14th_april/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Amazon affiliate dead as of 14th April: r/Amazon_InfluencerOther changes: Associates Program Commission Income Statement - Qualifying Pu...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: affiliate-program.amazon.co.uk  
-   Link: [https://affiliate-program.amazon.co.uk/help/node/topic/GQ3LYJNS99FEE8P9](https://affiliate-program.amazon.co.uk/help/node/topic/GQ3LYJNS99FEE8P9)  
+   Link: <a href="https://affiliate-program.amazon.co.uk/help/node/topic/GQ3LYJNS99FEE8P9" target="_blank" rel="noopener noreferrer nofollow">https://affiliate-program.amazon.co.uk/help/node/topic/GQ3LYJNS99FEE8P9</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>happens when I generate qualifying purchases on...Associates earn commission income when visitors follow tagged links from their sites t...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: datafeedwatch.com  
-   Link: [https://www.datafeedwatch.com/blog/the-guide-to-increasing-sales-with-awin](https://www.datafeedwatch.com/blog/the-guide-to-increasing-sales-with-awin)  
+   Link: <a href="https://www.datafeedwatch.com/blog/the-guide-to-increasing-sales-with-awin" target="_blank" rel="noopener noreferrer nofollow">https://www.datafeedwatch.com/blog/the-guide-to-increasing-sales-with-awin</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AWIN Affiliate Network: 8 Things Advertisers Should KnowAwin&#x27;s tracking solution allows advertisers to record and report on a range of da...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/527657240429046/posts/693938490467586/](https://www.facebook.com/groups/527657240429046/posts/693938490467586/)  
+   Link: <a href="https://www.facebook.com/groups/527657240429046/posts/693938490467586/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/527657240429046/posts/693938490467586/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>I am new here and also new to this Amazon Affiliate thing.Can someone explain what amazon emailed to me: &quot;We noticed you haven&#x27;t driven t...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: searlco.com  
    Title: top affiliate marketing metrics a comprehensive guide  
-   Link: [https://www.searlco.com/article/top-affiliate-marketing-metrics-a-comprehensive-guide](https://www.searlco.com/article/top-affiliate-marketing-metrics-a-comprehensive-guide)  
+   Link: <a href="https://www.searlco.com/article/top-affiliate-marketing-metrics-a-comprehensive-guide" target="_blank" rel="noopener noreferrer nofollow">https://www.searlco.com/article/top-affiliate-marketing-metrics-a-comprehensive-guide</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Top Affiliate Marketing Metrics: A Comprehensive Guide30 Apr 2025 — Conversion rate is a critical metric that measures the percentage of...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: alliancevirtualoffices.com  
    Title: what qualifies you to be an amazon affiliate  
-   Link: [https://www.alliancevirtualoffices.com/virtual-office-blog/what-qualifies-you-to-be-an-amazon-affiliate/](https://www.alliancevirtualoffices.com/virtual-office-blog/what-qualifies-you-to-be-an-amazon-affiliate/)  
+   Link: <a href="https://www.alliancevirtualoffices.com/virtual-office-blog/what-qualifies-you-to-be-an-amazon-affiliate/" target="_blank" rel="noopener noreferrer nofollow">https://www.alliancevirtualoffices.com/virtual-office-blog/what-qualifies-you-to-be-an-amazon-affiliate/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Amazon Affiliate Requirements 2025: What You Need to...30 Aug 2024 — For Amazon Associates eligibility, your website or mobile app is th...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/Affiliatemarketing/comments/1ao6jke/what_exactly_are_amazon_qualifying_purchases/](https://www.reddit.com/r/Affiliatemarketing/comments/1ao6jke/what_exactly_are_amazon_qualifying_purchases/)  
+   Link: <a href="https://www.reddit.com/r/Affiliatemarketing/comments/1ao6jke/what_exactly_are_amazon_qualifying_purchases/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Affiliatemarketing/comments/1ao6jke/what_exactly_are_amazon_qualifying_purchases/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>lifying purchase&quot;? If someone clicks on my affiliate links...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: affiliatemarketinghelp.co.uk  
    Title: awin beginners guide for brands  
-   Link: [https://affiliatemarketinghelp.co.uk/awin-beginners-guide-for-brands](https://affiliatemarketinghelp.co.uk/awin-beginners-guide-for-brands)  
+   Link: <a href="https://affiliatemarketinghelp.co.uk/awin-beginners-guide-for-brands" target="_blank" rel="noopener noreferrer nofollow">https://affiliatemarketinghelp.co.uk/awin-beginners-guide-for-brands</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AWIN Beginner Guide For Brands18 Jul 2023 — This guide is designed to assist brands in launching, scaling, and optimising their Affiliate...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: postaffiliatepro.de  
    Title: measure affiliate performance  
-   Link: [https://www.postaffiliatepro.de/faq/measure-affiliate-performance/](https://www.postaffiliatepro.de/faq/measure-affiliate-performance/)  
+   Link: <a href="https://www.postaffiliatepro.de/faq/measure-affiliate-performance/" target="_blank" rel="noopener noreferrer nofollow">https://www.postaffiliatepro.de/faq/measure-affiliate-performance/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Wie man die Leistung von Affiliates misst: Wichtige KPIs und...28 Nov 2025 — Erfahren Sie, wie Sie die Leistung von Affiliates mit wicht...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: digistore24.com  
    Title: affiliate marketing metrics  
-   Link: [https://digistore24.com/en/blog/affiliate-marketing-metrics/](https://digistore24.com/en/blog/affiliate-marketing-metrics/)  
+   Link: <a href="https://digistore24.com/en/blog/affiliate-marketing-metrics/" target="_blank" rel="noopener noreferrer nofollow">https://digistore24.com/en/blog/affiliate-marketing-metrics/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The 4 Most Important Metrics Affiliate Marketers…13 Mar 2026 — Conversion rate, clicks, EPC, RPM, and refund rate each tell you something...</p></details>

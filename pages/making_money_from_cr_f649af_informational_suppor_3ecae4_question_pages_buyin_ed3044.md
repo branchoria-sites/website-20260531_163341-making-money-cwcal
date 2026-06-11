@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /support-pages/
 nav_short_title: Question Pages
 title: Which questions create buying momentum?
-title_full: Which questions create buying momentum? | Support Pages
+title_full: Which questions create buying momentum?
 display_title_short: Question Pages
 display_title: Question Pages
 heading_title: Which questions create buying momentum?
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-31 15:42:04'
-parent_title: Can Informational Pages Still Earn Revenue? | Affiliate Engines
+parent_title: Can Informational Pages Still Earn Revenue?
 parent_permalink: /support-pages/
 parent_nav_short_title: Support Pages
 parent_heading_title: Can Informational Pages Still Earn Revenue?
@@ -276,11 +276,10 @@ image: /assets/images/making_money_from_cr_f649af_informational_suppor_3ecae4_qu
 
 The most valuable informational affiliate pages often answer questions that appear before a product search. Their purpose is not to recommend products immediately. Their purpose is to help the reader discover what actually matters in the decision.
 
-
 <img src="{{ "/assets/images/making_money_from_cr_f649af_informational_suppor_3ecae4_question_pages_buyin_ed3044-Illustration-1-dark.svg" | relative_url }}" alt="Question Pages illustration 1" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_informational_suppor_3ecae4_question_pages_buyin_ed3044-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_informational_suppor_3ecae4_question_pages_buyin_ed3044-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 A question such as “What size dehumidifier do I need?” does more than attract traffic. It reveals buying [criteria]({{ 'criteria/' | relative_url }}): room size, extraction rate, noise level, drainage options and running costs. Once those criteria become clear, the reader is much more likely to engage with a comparison page, buying guide or review because they now understand what they are evaluating.
 
-This is where many affiliate sites either create buying momentum or lose it. Pages that expose decision criteria help readers move from vague uncertainty to structured evaluation. Pages that merely answer broad curiosity questions often generate pageviews without creating a meaningful route towards [commercial intent]({{ 'intent-topics/' | relative_url }}). Google's research on the “messy middle” of purchasing describes how buyers repeatedly move between exploration and evaluation before choosing a product. Question pages are most valuable when they help readers exit exploration with clearer evaluation criteria. <span class="citation-chip-wrap"><a class="citation-chip" href="https://business.google.com/uk/think/consumer-insights/navigating-purchase-behavior-and-decision-making/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: business.google.com">[Google Business]</a><span class="citation-popover" role="note"><span class="citation-popover-source">business.google.com</span><span class="citation-popover-snippet">As people explore and evaluate in the messy middle, cognitive biases shape their shopping behavior and...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://business.google.com/uk/think/consumer-insights/navigating-purchase-behavior-and-decision-making/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: business.google.com">[Google Business]</a><span class="citation-popover" role="note"><span class="citation-popover-source">business.google.com</span><span class="citation-popover-snippet">As people explore and evaluate in the messy middle, cognitive biases shape their shopping behavior and...Read more...</span></span></span>
+This is where many affiliate sites either create buying momentum or lose it. Pages that expose decision criteria help readers move from vague uncertainty to structured evaluation. Pages that merely answer broad curiosity questions often generate pageviews without creating a meaningful route towards commercial intent. Google's research on the “messy middle” of purchasing describes how buyers repeatedly move between exploration and evaluation before choosing a product. Question pages are most valuable when they help readers exit exploration with clearer evaluation criteria. <span class="citation-chip-wrap"><a class="citation-chip" href="https://business.google.com/uk/think/consumer-insights/navigating-purchase-behavior-and-decision-making/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: business.google.com">[Google Business]</a><span class="citation-popover" role="note"><span class="citation-popover-source">business.google.com</span><span class="citation-popover-snippet">As people explore and evaluate in the messy middle, cognitive biases shape their shopping behavior and...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://business.google.com/uk/think/consumer-insights/navigating-purchase-behavior-and-decision-making/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: business.google.com">[Google Business]</a><span class="citation-popover" role="note"><span class="citation-popover-source">business.google.com</span><span class="citation-popover-snippet">As people explore and evaluate in the messy middle, cognitive biases shape their shopping behavior and...Read more...</span></span></span>
 
 ## How early-stage questions expose commercial criteria
 
@@ -291,7 +290,6 @@ A reader who searches “Do I need a 4K monitor?” is rarely asking for a defin
 This changes the structure of the page. Instead of treating the query as an informational endpoint, the page becomes a decision-discovery tool.
 
 For affiliate websites, high-value question pages usually uncover one or more of the following:
-
 
 <div class="content-enhancement content-enhancement--checklist" markdown="1">
 
@@ -320,7 +318,6 @@ Common patterns include:
 
 Examples:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * What size air purifier do I need?
@@ -329,12 +326,11 @@ Examples:
 
 </div>
 
-These questions uncover measurable [selection criteria]({{ 'criteria/' | relative_url }}). Once the answer is known, a product shortlist becomes relevant.
+These questions uncover measurable selection criteria. Once the answer is known, a product shortlist becomes relevant.
 
 **"Is feature X worth paying for?"**
 
 Examples:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -350,7 +346,6 @@ These questions expose willingness-to-pay thresholds. The answer often divides r
 
 Examples:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Heat pump or condenser dryer?
@@ -365,7 +360,6 @@ The question itself signals that the reader has already narrowed the category an
 
 Examples:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * What matters most in a travel camera?
@@ -377,7 +371,6 @@ Examples:
 These pages reveal prioritisation criteria and naturally lead into filtered buying guides.
 
 Research into consumer decision-making consistently shows that buyers move from problem recognition into information gathering before evaluating alternatives. Questions that clarify evaluation criteria sit directly between those stages. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.involve.me/blog/5-stages-of-the-consumer-decision-making-process" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: involve.me">[Involve.me]</a><span class="citation-popover" role="note"><span class="citation-popover-source">involve.me</span><span class="citation-popover-title">5 stages of the consumer decision making process</span><span class="citation-popover-snippet">Stages of the Consumer Decision-Making Process.5 Jun 2025 — 1. Problem or Need Recognition · 2. Information Search · 3. Evaluation of Alt...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://blog.hubspot.com/blog/tabid/6307/bid/33375/16-ways-to-simplify-your-prospects-decision-making-process.aspx" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.hubspot.com">[HubSpot]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.hubspot.com</span><span class="citation-popover-title">16 ways to simplify your prospects decision making process.aspx</span><span class="citation-popover-snippet">HubSpot BlogThe five stages of the consumer decision-making process...25 Feb 2026 — Discover the five stages of the consumer decision-ma...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/-c9AUhXAFD8" title="Information Scent" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=-c9AUhXAFD8" target="_blank" rel="noopener noreferrer">Information Scent</a></p><p class="youtube-embed-meta">Channel: NNgroup &middot; Views: 13.0K &middot; Uploaded: November 2020 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=-c9AUhXAFD8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=-c9AUhXAFD8">Open on YouTube</a></p></div></div></div>
 
@@ -392,7 +385,6 @@ A visitor asks:
 > What size dehumidifier do I need?
 
 The page determines:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -422,7 +414,6 @@ The answer may depend on:
 
 A lightweight side sleeper and a heavier side sleeper may need entirely different products. The informational page exposes the variables before the buying guide appears.
 
-
 <img src="{{ "/assets/images/making_money_from_cr_f649af_informational_suppor_3ecae4_question_pages_buyin_ed3044-Illustration-2-dark.svg" | relative_url }}" alt="Question Pages illustration 2" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_informational_suppor_3ecae4_question_pages_buyin_ed3044-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_informational_suppor_3ecae4_question_pages_buyin_ed3044-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Laptop RAM requirements
 
@@ -440,7 +431,6 @@ The answer separates:
 
 The buying path changes dramatically depending on which use case applies. A successful affiliate page identifies the correct branch before introducing products.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/gH1qIZ8_Qd4" title="Why A Multi-Touch Strategy is Key to Customer Retention and Sales Growth" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=gH1qIZ8_Qd4" target="_blank" rel="noopener noreferrer">Why A Multi-Touch Strategy is Key to Customer Retention and Sales Growth</a></p><p class="youtube-embed-meta">Channel: SMA Marketing &middot; Views: 213 &middot; Uploaded: October 2024 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=gH1qIZ8_Qd4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=gH1qIZ8_Qd4">Open on YouTube</a></p></div></div></div>
 
 ### Coffee machine questions
@@ -456,9 +446,9 @@ The answer may reveal:
 * Drink frequency
 * Budget range
 
-Readers effectively segment themselves. The site can then route them into highly relevant [comparison pages]({{ 'comparisons/' | relative_url }}).
+Readers effectively segment themselves. The site can then route them into highly relevant comparison pages.
 
-This branching structure is particularly useful for scalable website systems because the same pattern can be reused across hundreds of product categories. The question page acts as a classification layer that improves [offer matching]({{ 'offer-fit/' | relative_url }}) and increases the likelihood that later product recommendations align with actual needs.
+This branching structure is particularly useful for scalable website systems because the same pattern can be reused across hundreds of product categories. The question page acts as a classification layer that improves offer matching and increases the likelihood that later product recommendations align with actual needs.
 
 ## Why broad informational questions often monetise poorly
 
@@ -491,7 +481,6 @@ A useful internal rule is:
 
 If every reader receives essentially the same answer and no meaningful purchasing variables emerge, monetisation opportunities tend to be weaker.
 
-
 <img src="{{ "/assets/images/making_money_from_cr_f649af_informational_suppor_3ecae4_question_pages_buyin_ed3044-Illustration-3-dark.svg" | relative_url }}" alt="Question Pages illustration 3" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_informational_suppor_3ecae4_question_pages_buyin_ed3044-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_informational_suppor_3ecae4_question_pages_buyin_ed3044-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Signals that a question is too broad to monetise
 
@@ -520,7 +509,6 @@ Questions with a single generic answer often create fewer segmentation opportuni
 Historical, cultural and curiosity-driven searches can produce traffic without creating commercial movement.
 
 This does not mean such pages should never exist. They simply belong lower in a monetisation priority system than pages that reveal purchasing variables.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/AnAlZedD3CM" title="How to Find BUYER Intent Keywords (5 Advanced Tactics)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=AnAlZedD3CM" target="_blank" rel="noopener noreferrer">How to Find BUYER Intent Keywords (5 Advanced Tactics)</a></p><p class="youtube-embed-meta">Channel: Robbie Richards &middot; Views: 7.8K &middot; Uploaded: October 2020 &middot; Length: 19 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=AnAlZedD3CM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=AnAlZedD3CM">Open on YouTube</a></p></div></div></div>
 
@@ -554,7 +542,7 @@ They do not persuade readers to buy. They help readers understand what they need
 
 This distinction matters because qualification often increases the value of later commercial pages. A visitor who understands the relevant criteria is more likely to engage with [comparisons]({{ 'comparisons/' | relative_url }}), trust recommendations and click through to products that genuinely fit their situation.
 
-From a website monetisation perspective, the best question pages are therefore not broad educational resources or disguised sales pages. They are pages that convert uncertainty into criteria. Once the criteria become visible, the next commercial step becomes obvious, and the buying path feels useful rather than forced. The strongest affiliate content systems repeatedly build around this mechanism because it scales across categories, improves [internal linking]({{ 'user-journeys/' | relative_url }}) logic and creates clearer paths from informational traffic to revenue-generating decisions.
+From a website monetisation perspective, the best question pages are therefore not broad educational resources or disguised sales pages. They are pages that convert uncertainty into criteria. Once the criteria become visible, the next commercial step becomes obvious, and the buying path feels useful rather than forced. The strongest affiliate content systems repeatedly build around this mechanism because it scales across categories, improves internal linking logic and creates clearer paths from informational traffic to revenue-generating decisions.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -945,111 +933,111 @@ From a website monetisation perspective, the best question pages are therefore n
 
 1. <a id="endnote-1"></a>
    Source: business.google.com  
-   Link: [https://business.google.com/uk/think/consumer-insights/navigating-purchase-behavior-and-decision-making/](https://business.google.com/uk/think/consumer-insights/navigating-purchase-behavior-and-decision-making/)  
+   Link: <a href="https://business.google.com/uk/think/consumer-insights/navigating-purchase-behavior-and-decision-making/" target="_blank" rel="noopener noreferrer nofollow">https://business.google.com/uk/think/consumer-insights/navigating-purchase-behavior-and-decision-making/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>As people explore and evaluate in the messy middle, cognitive biases shape their shopping behavior and...Read more...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: involve.me  
    Title: 5 stages of the consumer decision making process  
-   Link: [https://www.involve.me/blog/5-stages-of-the-consumer-decision-making-process](https://www.involve.me/blog/5-stages-of-the-consumer-decision-making-process)  
+   Link: <a href="https://www.involve.me/blog/5-stages-of-the-consumer-decision-making-process" target="_blank" rel="noopener noreferrer nofollow">https://www.involve.me/blog/5-stages-of-the-consumer-decision-making-process</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stages of the Consumer Decision-Making Process.5 Jun 2025 — 1. Problem or Need Recognition · 2. Information Search · 3. Evaluation of Alt...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: blog.hubspot.com  
    Title: 16 ways to simplify your prospects decision making process.aspx  
-   Link: [https://blog.hubspot.com/blog/tabid/6307/bid/33375/16-ways-to-simplify-your-prospects-decision-making-process.aspx](https://blog.hubspot.com/blog/tabid/6307/bid/33375/16-ways-to-simplify-your-prospects-decision-making-process.aspx)  
+   Link: <a href="https://blog.hubspot.com/blog/tabid/6307/bid/33375/16-ways-to-simplify-your-prospects-decision-making-process.aspx" target="_blank" rel="noopener noreferrer nofollow">https://blog.hubspot.com/blog/tabid/6307/bid/33375/16-ways-to-simplify-your-prospects-decision-making-process.aspx</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>HubSpot BlogThe five stages of the consumer decision-making process...25 Feb 2026 — Discover the five stages of the consumer decision-ma...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: business.google.com  
    Title: messy middle 2023  
-   Link: [https://business.google.com/en-all/think/consumer-insights/messy-middle-2023/](https://business.google.com/en-all/think/consumer-insights/messy-middle-2023/)  
+   Link: <a href="https://business.google.com/en-all/think/consumer-insights/messy-middle-2023/" target="_blank" rel="noopener noreferrer nofollow">https://business.google.com/en-all/think/consumer-insights/messy-middle-2023/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Behaviour in the Messy MiddleUnderstand the buying behaviour of omnichannel shoppers and navigate the Messy Middle of e-commerce customer...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: thinkwithgoogle.com  
-   Link: [https://www.thinkwithgoogle.com/_qs/documents/18366/Decoding_Decisions_Marketing_in_the_Messy_Middle.pdf](https://www.thinkwithgoogle.com/_qs/documents/18366/Decoding_Decisions_Marketing_in_the_Messy_Middle.pdf)  
+   Link: <a href="https://www.thinkwithgoogle.com/_qs/documents/18366/Decoding_Decisions_Marketing_in_the_Messy_Middle.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.thinkwithgoogle.com/_qs/documents/18366/Decoding_Decisions_Marketing_in_the_Messy_Middle.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Marketing in the messy middleWe also upgraded the buying guide to provide shoppers with even more accessible information to aid their dec...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: shopify.com  
    Title: purchase decision  
-   Link: [https://www.shopify.com/uk/blog/purchase-decision](https://www.shopify.com/uk/blog/purchase-decision)  
+   Link: <a href="https://www.shopify.com/uk/blog/purchase-decision" target="_blank" rel="noopener noreferrer nofollow">https://www.shopify.com/uk/blog/purchase-decision</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>5 Stages of the Consumer Purchase-Decision Process12 Nov 2025 — Customer-need recognition. The first step of the consumer decision-making...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: nngroup.com  
    Title: information scent  
-   Link: [https://www.nngroup.com/articles/information-scent/](https://www.nngroup.com/articles/information-scent/)  
+   Link: <a href="https://www.nngroup.com/articles/information-scent/" target="_blank" rel="noopener noreferrer nofollow">https://www.nngroup.com/articles/information-scent/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nielsen Norman GroupInformation Scent: How Users Decide Where to Go Next2 Feb 2020 — When deciding which links to click on the web, users...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: nngroup.com  
    Title: information foraging  
-   Link: [https://www.nngroup.com/articles/information-foraging/](https://www.nngroup.com/articles/information-foraging/)  
+   Link: <a href="https://www.nngroup.com/articles/information-foraging/" target="_blank" rel="noopener noreferrer nofollow">https://www.nngroup.com/articles/information-foraging/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nielsen Norman GroupInformation Foraging: A Theory of How People Navigate on...10 Nov 2019 — The estimate is based the on cues that they...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: nngroup.com  
    Title: wrong information scent costs sales  
-   Link: [https://www.nngroup.com/articles/wrong-information-scent-costs-sales/](https://www.nngroup.com/articles/wrong-information-scent-costs-sales/)  
+   Link: <a href="https://www.nngroup.com/articles/wrong-information-scent-costs-sales/" target="_blank" rel="noopener noreferrer nofollow">https://www.nngroup.com/articles/wrong-information-scent-costs-sales/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nielsen Norman GroupDeceivingly Strong Information Scent Costs Sales1 Aug 2004 — Information scent refers to the extent to which users ca...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: uxtigers.com  
    Title: information scent  
-   Link: [https://www.uxtigers.com/post/information-scent](https://www.uxtigers.com/post/information-scent)  
+   Link: <a href="https://www.uxtigers.com/post/information-scent" target="_blank" rel="noopener noreferrer nofollow">https://www.uxtigers.com/post/information-scent</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How Users Decide Where to Click26 Jul 2024 — Good information scent happens when link labels and other navigational cues accurately repre...</p></details>
 
 ### Additional References
 
 11. <a id="endnote-11"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/376046363_Consumer_Decision-Making_in_E-Commerce_A_Literature_Review_of_Factors_Influencing_Online_Purchases-0008-3924-202X](https://www.researchgate.net/publication/376046363_Consumer_Decision-Making_in_E-Commerce_A_Literature_Review_of_Factors_Influencing_Online_Purchases-0008-3924-202X)  
+   Link: <a href="https://www.researchgate.net/publication/376046363_Consumer_Decision-Making_in_E-Commerce_A_Literature_Review_of_Factors_Influencing_Online_Purchases-0008-3924-202X" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/376046363_Consumer_Decision-Making_in_E-Commerce_A_Literature_Review_of_Factors_Influencing_Online_Purchases-0008-3924-202X</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Consumer Decision-Making in E-Commerce: A Literature...30 Nov 2023 — The purpose of this research paper is to conduct a comprehensive li...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: steptwo.com.au  
-   Link: [https://www.steptwo.com.au/papers/kmc_informationscent/](https://www.steptwo.com.au/papers/kmc_informationscent/)  
+   Link: <a href="https://www.steptwo.com.au/papers/kmc_informationscent/" target="_blank" rel="noopener noreferrer nofollow">https://www.steptwo.com.au/papers/kmc_informationscent/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Information scent: helping people find the content they wantThis article introduces the concept of information scent and explains how cre...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UXDesign/comments/th1uo7/notes_on_information_foraging/](https://www.reddit.com/r/UXDesign/comments/th1uo7/notes_on_information_foraging/)  
+   Link: <a href="https://www.reddit.com/r/UXDesign/comments/th1uo7/notes_on_information_foraging/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UXDesign/comments/th1uo7/notes_on_information_foraging/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Notes on Information Foraging: r/UXDesignHow do users decide which link to click, and which ones to ignore? This happens through informa...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: nngroup.com  
-   Link: [https://www.nngroup.com/topic/psychology-and-ux/?page=4](https://www.nngroup.com/topic/psychology-and-ux/?page=4)  
+   Link: <a href="https://www.nngroup.com/topic/psychology-and-ux/?page=4" target="_blank" rel="noopener noreferrer nofollow">https://www.nngroup.com/topic/psychology-and-ux/?page=4</a>  
 
 15. <a id="endnote-15"></a>
    Source: medium.com  
-   Link: [https://medium.com/astrolabs/understanding-information-scent-95a6554007d4](https://medium.com/astrolabs/understanding-information-scent-95a6554007d4)  
+   Link: <a href="https://medium.com/astrolabs/understanding-information-scent-95a6554007d4" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/astrolabs/understanding-information-scent-95a6554007d4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding Information ScentInformation scent is basically the strength and correlation of the information provided on a site in compa...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: iabeurope.eu  
-   Link: [https://iabeurope.eu/knowledge_hub/insights-from-think-with-google-how-people-decide-what-to-buy-lies-in-the-messy-middle-of-the-purchase-journey/](https://iabeurope.eu/knowledge_hub/insights-from-think-with-google-how-people-decide-what-to-buy-lies-in-the-messy-middle-of-the-purchase-journey/)  
+   Link: <a href="https://iabeurope.eu/knowledge_hub/insights-from-think-with-google-how-people-decide-what-to-buy-lies-in-the-messy-middle-of-the-purchase-journey/" target="_blank" rel="noopener noreferrer nofollow">https://iabeurope.eu/knowledge_hub/insights-from-think-with-google-how-people-decide-what-to-buy-lies-in-the-messy-middle-of-the-purchase-journey/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How people decide what to buy lies in the “messy middle”...3 Aug 2020 — Google&#x27;s Alistair Rennie and Jonny Protheroe share their latest...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: thebearchitects.com  
-   Link: [https://thebearchitects.com/behavioural-science/our-articles/decoding-decisions-why-marketers-need-to-master-the-messy-middle](https://thebearchitects.com/behavioural-science/our-articles/decoding-decisions-why-marketers-need-to-master-the-messy-middle)  
+   Link: <a href="https://thebearchitects.com/behavioural-science/our-articles/decoding-decisions-why-marketers-need-to-master-the-messy-middle" target="_blank" rel="noopener noreferrer nofollow">https://thebearchitects.com/behavioural-science/our-articles/decoding-decisions-why-marketers-need-to-master-the-messy-middle</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>It illustrates how people can loop back and forth and can repeat the cycle many times before making a...Read more...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=-c9AUhXAFD8](https://www.youtube.com/watch?v=-c9AUhXAFD8)  
+   Link: <a href="https://www.youtube.com/watch?v=-c9AUhXAFD8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-c9AUhXAFD8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Information ScentInformation foraging explains how users behave on the web and why they click certain links and not others. Information s...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: directiveconsulting.com  
    Title: 5 stages of the consumer decision making process and how its different  
-   Link: [https://directiveconsulting.com/blog/5-stages-of-the-consumer-decision-making-process-and-how-its-different/](https://directiveconsulting.com/blog/5-stages-of-the-consumer-decision-making-process-and-how-its-different/)  
+   Link: <a href="https://directiveconsulting.com/blog/5-stages-of-the-consumer-decision-making-process-and-how-its-different/" target="_blank" rel="noopener noreferrer nofollow">https://directiveconsulting.com/blog/5-stages-of-the-consumer-decision-making-process-and-how-its-different/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>early. At this stage, the core questions for marketers are: “What problem does our product or service solve?” and “Is our brand discoverable...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: junction.cj.com  
    Title: making the most of affiliate in googles messy middle  
-   Link: [https://junction.cj.com/article/making-the-most-of-affiliate-in-googles-messy-middle](https://junction.cj.com/article/making-the-most-of-affiliate-in-googles-messy-middle)  
+   Link: <a href="https://junction.cj.com/article/making-the-most-of-affiliate-in-googles-messy-middle" target="_blank" rel="noopener noreferrer nofollow">https://junction.cj.com/article/making-the-most-of-affiliate-in-googles-messy-middle</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>the Most of Affiliate in Google&#x27;s Messy Middle10 Sept 2020 — As shoppers explore and evaluate, Google noted six cognitive biases that inf...</p></details>
