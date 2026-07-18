@@ -260,9 +260,9 @@ For a scalable website system, the practical question is not “Can affiliate li
 <img src="{{ "/assets/images/making_money_from_cr_f649af-overview.webp" | relative_url }}" alt="Overview image for Making Money From Creating Websites Containing Aff" loading="eager" decoding="sync" fetchpriority="high">
 ## How affiliate websites actually earn
 
-Affiliate revenue usually follows a simple chain: a visitor lands on a page, reads or compares information, clicks an affiliate link, and the merchant’s tracking system [attributes]({{ 'attributes/' | relative_url }}) a later sale or action to that click. Impact describes affiliate tracking as the capture of page views, clicks and conversion data that affiliates provide to a brand, which then supports reporting and commission attribution. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://impact.com/affiliate/what-is-affiliate-tracking-the-basics-for-publishers/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: impact.com">[impact.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">impact.com</span><span class="citation-popover-title">What is affiliate tracking? The basics for publishers</span><span class="citation-popover-snippet">August 5, 2024 — Affiliate tracking captures the customer page views, clicks, and conversion data that affiliates provide to a brand.Read...</span><span class="citation-popover-meta">Published: August 5, 2024</span></span></span>
+Affiliate revenue usually follows a simple chain: a visitor lands on a page, reads or compares information, clicks an affiliate link, and the merchant’s tracking system [attributes]({{ 'attributes/' | relative_url }}) a later sale or action to that click. Impact describes affiliate tracking as the capture of page views, clicks and conversion data that affiliates provide to a brand, which then supports reporting and commission attribution.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://impact.com/affiliate/what-is-affiliate-tracking-the-basics-for-publishers/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: impact.com">[impact.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">impact.com</span><span class="citation-popover-title">What is affiliate tracking? The basics for publishers</span><span class="citation-popover-snippet">August 5, 2024 — Affiliate tracking captures the customer page views, clicks, and conversion data that affiliates provide to a brand.Read...</span><span class="citation-popover-meta">Published: August 5, 2024</span></span></span>
 
-That chain matters because each step can break. A page can rank for a keyword but attract people who are not ready to buy. A review can attract buyers but link to a weak offer. A comparison can get clicks but send visitors to a merchant with poor stock, high prices, or low commission. A site can even generate sales but lose commission because of refund rules, cookie windows, attribution rules, or programme restrictions. Amazon Associates, for example, requires affiliates to disclose their relationship and identify themselves as Associates, while programme terms govern how links and earnings work. <span class="citation-chip-wrap"><a class="citation-chip" href="https://affiliate-program.amazon.co.uk/help/node/topic/GHQNZAU6669EZS98" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: affiliate-program.amazon.co.uk">[Amazon Associates]</a><span class="citation-popover" role="note"><span class="citation-popover-source">affiliate-program.amazon.co.uk</span><span class="citation-popover-title">Amazon Associates Amazon.co.uk Associates Central</span><span class="citation-popover-snippet">Amazon AssociatesAmazon.co.uk Associates Central - HelpTo meet the Associate Program&#x27;s requirements, you must (1) include a legally compl...</span></span></span>
+That chain matters because each step can break. A page can rank for a keyword but attract people who are not ready to buy. A review can attract buyers but link to a weak offer. A comparison can get clicks but send visitors to a merchant with poor stock, high prices, or low commission. A site can even generate sales but lose commission because of refund rules, cookie windows, attribution rules, or programme restrictions. Amazon Associates, for example, requires affiliates to disclose their relationship and identify themselves as Associates, while programme terms govern how links and earnings work.<span class="citation-chip-wrap"><a class="citation-chip" href="https://affiliate-program.amazon.co.uk/help/node/topic/GHQNZAU6669EZS98" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: affiliate-program.amazon.co.uk">[Amazon Associates]</a><span class="citation-popover" role="note"><span class="citation-popover-source">affiliate-program.amazon.co.uk</span><span class="citation-popover-title">Amazon Associates Amazon.co.uk Associates Central</span><span class="citation-popover-snippet">Amazon AssociatesAmazon.co.uk Associates Central - HelpTo meet the Associate Program&#x27;s requirements, you must (1) include a legally compl...</span></span></span>
 
 The useful working model is:
 
@@ -299,7 +299,7 @@ Different page types support different stages of the buying journey. Treating ev
 
 A “best” page works when readers want a shortlist rather than an exhaustive catalogue. The page should explain selection criteria, segment recommendations by use case, and make the next action obvious. For example, “best website builders for photographers” should not simply rank general website builders; it should compare portfolio templates, image storage, booking tools, ecommerce options, pricing, and ease of use.
 
-For a scalable system, the template should force a reason for each recommendation. “Best overall”, “best budget option”, “best for beginners”, and “best for advanced users” are useful only when the category supports those distinctions. Thin lists that repeat merchant descriptions add little value, and Google has long warned that affiliate sites using content available across many other sites without substantial added value can be considered low quality. <span class="citation-chip-wrap"><a class="citation-chip" href="https://developers.google.com/search/blog/2014/01/affiliate-programs-and-added-value" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-title">affiliate programs and added value</span><span class="citation-popover-snippet">affiliate programs and added value</span></span></span>
+For a scalable system, the template should force a reason for each recommendation. “Best overall”, “best budget option”, “best for beginners”, and “best for advanced users” are useful only when the category supports those distinctions. Thin lists that repeat merchant descriptions add little value, and Google has long warned that affiliate sites using content available across many other sites without substantial added value can be considered low quality.<span class="citation-chip-wrap"><a class="citation-chip" href="https://developers.google.com/search/blog/2014/01/affiliate-programs-and-added-value" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-title">affiliate programs and added value</span><span class="citation-popover-snippet">affiliate programs and added value</span></span></span>
 
 <img src="{{ "/assets/images/making_money_from_cr_f649af-Illustration-1-dark.svg" | relative_url }}" alt="Making Money From Creating Websites Containing Aff illustration 1" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Comparison pages
@@ -310,7 +310,7 @@ The best comparison pages do not try to make every option look equally good. The
 
 ### Review pages
 
-A review page works when the reader wants reassurance about one product, service, or platform. The strongest reviews are specific: they describe real features, [limitations]({{ 'limitations/' | relative_url }}), pricing issues, alternatives, and fit. For physical products, Google’s product structured data guidance shows how search can display product information such as price, availability, ratings, and shipping details when pages use eligible structured data correctly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://developers.google.com/search/blog/2014/01/affiliate-programs-and-added-value" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-title">affiliate programs and added value</span><span class="citation-popover-snippet">affiliate programs and added value</span></span></span>
+A review page works when the reader wants reassurance about one product, service, or platform. The strongest reviews are specific: they describe real features, [limitations]({{ 'limitations/' | relative_url }}), pricing issues, alternatives, and fit. For physical products, Google’s product structured data guidance shows how search can display product information such as price, availability, ratings, and shipping details when pages use eligible structured data correctly.<span class="citation-chip-wrap"><a class="citation-chip" href="https://developers.google.com/search/blog/2014/01/affiliate-programs-and-added-value" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-title">affiliate programs and added value</span><span class="citation-popover-snippet">affiliate programs and added value</span></span></span>
 
 For affiliate sites, the commercial danger is copying merchant claims. A review that only says a product is “great value” and “easy to use” gives the reader little reason to trust the recommendation. A better page explains what type of buyer should choose it, what the competing options do better, and what the reader should check before buying.
 
@@ -341,7 +341,7 @@ A useful offer-matching framework is:
 
 A page about “best accounting software for sole traders” should prioritise software with pricing, features, and compliance fit for that audience. A page about “best enterprise accounting software” needs a different offer set, often with lead-generation or demo-booking goals rather than instant purchase. The same topic cluster may therefore need different conversion paths depending on business size, budget, and urgency.
 
-Affiliate networks and platforms increasingly emphasise measurement, attribution, and partner reporting because brands want to understand which partners drive valuable outcomes, not just clicks. Awin says its platform gives publishers access to real-time reporting across metrics, while Impact’s affiliate material frames tracking as the basis for understanding programme effectiveness. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.awin.com/gb/pricing/affiliate-partners" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: awin.com">[Awin]</a><span class="citation-popover" role="note"><span class="citation-popover-source">awin.com</span><span class="citation-popover-snippet">Publisher partners start affiliate marketing for freeBecome an affiliate marketing publisher partner with Awin at no cost and start e...</span></span></span>
+Affiliate networks and platforms increasingly emphasise measurement, attribution, and partner reporting because brands want to understand which partners drive valuable outcomes, not just clicks. Awin says its platform gives publishers access to real-time reporting across metrics, while Impact’s affiliate material frames tracking as the basis for understanding programme effectiveness.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.awin.com/gb/pricing/affiliate-partners" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: awin.com">[Awin]</a><span class="citation-popover" role="note"><span class="citation-popover-source">awin.com</span><span class="citation-popover-snippet">Publisher partners start affiliate marketing for freeBecome an affiliate marketing publisher partner with Awin at no cost and start e...</span></span></span>
 
 ## Designing pages for clicks without losing trust
 
@@ -361,7 +361,7 @@ Good conversion design usually includes:
 
 </div>
 
-Disclosures are not optional window dressing. The UK Advertising Standards Authority’s guidance says affiliate marketing content can fall within the CAP Code and that, depending on the arrangement, either the whole content or particular affiliate-linked parts may need to be identified as advertising. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.asa.org.uk/advice-online/affiliate-marketing.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asa.org.uk">[asa.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asa.org.uk</span><span class="citation-popover-title">affiliate marketing</span><span class="citation-popover-snippet">affiliate marketing</span></span></span> The US Federal Trade Commission similarly says material connections between advertisers and endorsers should be disclosed clearly; its endorsement guidance is often relevant where sites serve US audiences or work with US programmes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ftc.gov/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Disclosures are not optional window dressing. The UK Advertising Standards Authority’s guidance says affiliate marketing content can fall within the CAP Code and that, depending on the arrangement, either the whole content or particular affiliate-linked parts may need to be identified as advertising.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.asa.org.uk/advice-online/affiliate-marketing.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asa.org.uk">[asa.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asa.org.uk</span><span class="citation-popover-title">affiliate marketing</span><span class="citation-popover-snippet">affiliate marketing</span></span></span> The US Federal Trade Commission similarly says material connections between advertisers and endorsers should be disclosed clearly; its endorsement guidance is often relevant where sites serve US audiences or work with US programmes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ftc.gov/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 For a website system, this means disclosure should be part of the template, not an afterthought. It should appear where readers will see it before acting on affiliate links, written in plain language rather than legal fog. A simple statement such as “We may earn a commission if you buy through links on this page, at no extra cost to you” is clearer than burying disclosure in a footer.
 
@@ -395,7 +395,7 @@ Key metrics include:
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-* **Clicks to merchant:** How many visitors leave through affiliate links? <span class="citation-chip-wrap"><a class="citation-chip" href="https://keyword.com/blog/affiliate-links-seo-rankings/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: keyword.com">[keyword.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">keyword.com</span><span class="citation-popover-title">affiliate links seo rankings</span><span class="citation-popover-snippet">affiliate links seo rankings</span></span></span>
+* **Clicks to merchant:** How many visitors leave through affiliate links?<span class="citation-chip-wrap"><a class="citation-chip" href="https://keyword.com/blog/affiliate-links-seo-rankings/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: keyword.com">[keyword.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">keyword.com</span><span class="citation-popover-title">affiliate links seo rankings</span><span class="citation-popover-snippet">affiliate links seo rankings</span></span></span>
 * **Click-through rate:** What share of page visitors click an affiliate link?
 * **Conversion rate:** What share of affiliate clicks become sales or leads?
 * **Earnings per click:** How much revenue each affiliate click earns on average?
@@ -405,17 +405,17 @@ Key metrics include:
 
 </div>
 
-Earnings per click, often shortened to EPC, is widely used in affiliate marketing because it converts commission performance into a comparable click-level metric. It is useful for comparing offers, but it can be misleading if coupon sites, cashback partners, review sites, and editorial publishers are all mixed together because their traffic and conversion behaviour differ. - Affiverse <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.affiversemedia.com/what-is-epc-in-affiliate-marketing-the-ultimate-performance-metric-that-drives-success/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: affiversemedia.com">[affiversemedia.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">affiversemedia.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Earnings per click, often shortened to EPC, is widely used in affiliate marketing because it converts commission performance into a comparable click-level metric. It is useful for comparing offers, but it can be misleading if coupon sites, cashback partners, review sites, and editorial publishers are all mixed together because their traffic and conversion behaviour differ. - Affiverse<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.affiversemedia.com/what-is-epc-in-affiliate-marketing-the-ultimate-performance-metric-that-drives-success/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: affiversemedia.com">[affiversemedia.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">affiversemedia.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 A practical site system should therefore measure at several levels: page, template, offer, cluster, and traffic source. If “best budget X” pages consistently produce lower commission but higher click-through, they may still be valuable. If “premium X review” pages produce fewer clicks but much higher revenue per visitor, they may deserve more internal links and expansion into adjacent products.
 
-Recent benchmark commentary from Impact suggests that shoppers have been clicking more while converting less in some affiliate programmes, with 2025 data showing clicks up but conversions down year on year. That reinforces the need to measure the full path, not just clicks. More clicks are not automatically better if the traffic is less ready, the offer is weaker, or the merchant page fails to convert. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://impact.com/affiliate/affiliate-marketing-benchmark/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: impact.com">[impact.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">impact.com</span><span class="citation-popover-title">affiliate marketing benchmark</span><span class="citation-popover-snippet">affiliate marketing benchmark</span></span></span>
+Recent benchmark commentary from Impact suggests that shoppers have been clicking more while converting less in some affiliate programmes, with 2025 data showing clicks up but conversions down year on year. That reinforces the need to measure the full path, not just clicks. More clicks are not automatically better if the traffic is less ready, the offer is weaker, or the merchant page fails to convert.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://impact.com/affiliate/affiliate-marketing-benchmark/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: impact.com">[impact.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">impact.com</span><span class="citation-popover-title">affiliate marketing benchmark</span><span class="citation-popover-snippet">affiliate marketing benchmark</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cX395xZqjxc" title="I Designed the PERFECT Affiliate Website. Here&#x27;s what Happened..." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cX395xZqjxc" target="_blank" rel="noopener noreferrer">I Designed the PERFECT Affiliate Website. Here&#x27;s what Happened...</a></p><p class="youtube-embed-meta">Channel: Matt Diggity &middot; Views: 34.7K &middot; Uploaded: November 2022 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cX395xZqjxc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cX395xZqjxc">Open on YouTube</a></p></div></div></div>
 
 ## Avoiding thin affiliate content
 
-Thin affiliate content is one of the main risks in high-volume website production. Google’s spam policies describe scaled content abuse as generating many pages primarily to manipulate rankings rather than help users, especially where content is unoriginal and provides little or no value. <span class="citation-chip-wrap"><a class="citation-chip" href="https://developers.google.com/search/blog/2014/01/affiliate-programs-and-added-value" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-title">affiliate programs and added value</span><span class="citation-popover-snippet">affiliate programs and added value</span></span></span> Google has also warned specifically about affiliate programme content that appears across many sites without substantial added value. <span class="citation-chip-wrap"><a class="citation-chip" href="https://developers.google.com/search/blog/2014/01/affiliate-programs-and-added-value" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-title">affiliate programs and added value</span><span class="citation-popover-snippet">affiliate programs and added value</span></span></span>
+Thin affiliate content is one of the main risks in high-volume website production. Google’s spam policies describe scaled content abuse as generating many pages primarily to manipulate rankings rather than help users, especially where content is unoriginal and provides little or no value.<span class="citation-chip-wrap"><a class="citation-chip" href="https://developers.google.com/search/blog/2014/01/affiliate-programs-and-added-value" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-title">affiliate programs and added value</span><span class="citation-popover-snippet">affiliate programs and added value</span></span></span> Google has also warned specifically about affiliate programme content that appears across many sites without substantial added value.<span class="citation-chip-wrap"><a class="citation-chip" href="https://developers.google.com/search/blog/2014/01/affiliate-programs-and-added-value" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-title">affiliate programs and added value</span><span class="citation-popover-snippet">affiliate programs and added value</span></span></span>
 
 This does not mean affiliate sites are automatically low quality. It means the page must do something useful beyond sending the visitor elsewhere. Useful added value can include:
 
@@ -435,13 +435,13 @@ For a scaled website system, the anti-thin-content rule is simple: do not genera
 
 Affiliate sites need a small set of technical and compliance rules baked into every template.
 
-First, affiliate links should be qualified properly. Google’s guidance on outbound links says site owners can use `rel="sponsored"` for links created as part of advertisements, sponsorships, or other compensation agreements; `nofollow` is also used where a site does not want to imply endorsement or pass ranking credit. <span class="citation-chip-wrap"><a class="citation-chip" href="https://developers.google.com/search/blog/2014/01/affiliate-programs-and-added-value" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-title">affiliate programs and added value</span><span class="citation-popover-snippet">affiliate programs and added value</span></span></span>
+First, affiliate links should be qualified properly. Google’s guidance on outbound links says site owners can use `rel="sponsored"` for links created as part of advertisements, sponsorships, or other compensation agreements; `nofollow` is also used where a site does not want to imply endorsement or pass ranking credit.<span class="citation-chip-wrap"><a class="citation-chip" href="https://developers.google.com/search/blog/2014/01/affiliate-programs-and-added-value" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-title">affiliate programs and added value</span><span class="citation-popover-snippet">affiliate programs and added value</span></span></span>
 
-Second, commercial content should be labelled clearly. In the UK, the ASA and CAP guidance is especially important for public-facing affiliate pages. The ASA explains that affiliate marketing involves promoting another business and earning commission when visitors click through and buy; the content must be obviously identifiable as advertising where the rules apply. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.asa.org.uk/news/get-yourself-affiliated-with-the-rules-on-affiliate-marketing.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asa.org.uk">[asa.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asa.org.uk</span><span class="citation-popover-title">get yourself affiliated with the rules on affiliate marketing</span><span class="citation-popover-snippet">get yourself affiliated with the rules on affiliate marketing</span></span></span>
+Second, commercial content should be labelled clearly. In the UK, the ASA and CAP guidance is especially important for public-facing affiliate pages. The ASA explains that affiliate marketing involves promoting another business and earning commission when visitors click through and buy; the content must be obviously identifiable as advertising where the rules apply.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.asa.org.uk/news/get-yourself-affiliated-with-the-rules-on-affiliate-marketing.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asa.org.uk">[asa.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asa.org.uk</span><span class="citation-popover-title">get yourself affiliated with the rules on affiliate marketing</span><span class="citation-popover-snippet">get yourself affiliated with the rules on affiliate marketing</span></span></span>
 
-Third, product or review structured data should be used only where it matches the page and Google’s eligibility rules. Google’s product snippet guidance says pros and cons structured data is for editorial product review pages, not merchant product pages or customer reviews. <span class="citation-chip-wrap"><a class="citation-chip" href="https://developers.google.com/search/blog/2014/01/affiliate-programs-and-added-value" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-title">affiliate programs and added value</span><span class="citation-popover-snippet">affiliate programs and added value</span></span></span> That distinction matters for affiliate sites because many are editorial publishers rather than merchants.
+Third, product or review structured data should be used only where it matches the page and Google’s eligibility rules. Google’s product snippet guidance says pros and cons structured data is for editorial product review pages, not merchant product pages or customer reviews.<span class="citation-chip-wrap"><a class="citation-chip" href="https://developers.google.com/search/blog/2014/01/affiliate-programs-and-added-value" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-title">affiliate programs and added value</span><span class="citation-popover-snippet">affiliate programs and added value</span></span></span> That distinction matters for affiliate sites because many are editorial publishers rather than merchants.
 
-Fourth, programme-specific rules must be followed. Amazon Associates, for example, has required disclosure language and site identification requirements, while other networks and merchants may restrict email promotion, paid search bidding, coupon wording, trademark use, or price display. <span class="citation-chip-wrap"><a class="citation-chip" href="https://affiliate-program.amazon.co.uk/help/node/topic/GHQNZAU6669EZS98" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: affiliate-program.amazon.co.uk">[Amazon Associates]</a><span class="citation-popover" role="note"><span class="citation-popover-source">affiliate-program.amazon.co.uk</span><span class="citation-popover-title">Amazon Associates Amazon.co.uk Associates Central</span><span class="citation-popover-snippet">Amazon AssociatesAmazon.co.uk Associates Central - HelpTo meet the Associate Program&#x27;s requirements, you must (1) include a legally compl...</span></span></span>
+Fourth, programme-specific rules must be followed. Amazon Associates, for example, has required disclosure language and site identification requirements, while other networks and merchants may restrict email promotion, paid search bidding, coupon wording, trademark use, or price display.<span class="citation-chip-wrap"><a class="citation-chip" href="https://affiliate-program.amazon.co.uk/help/node/topic/GHQNZAU6669EZS98" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: affiliate-program.amazon.co.uk">[Amazon Associates]</a><span class="citation-popover" role="note"><span class="citation-popover-source">affiliate-program.amazon.co.uk</span><span class="citation-popover-title">Amazon Associates Amazon.co.uk Associates Central</span><span class="citation-popover-snippet">Amazon AssociatesAmazon.co.uk Associates Central - HelpTo meet the Associate Program&#x27;s requirements, you must (1) include a legally compl...</span></span></span>
 
 ## What a scalable affiliate site system should repeat
 
@@ -479,7 +479,7 @@ The most common failure modes are:
 * **Commission without durability:** The page earns briefly but depends on outdated prices, thin content, or unstable rankings.
 * **Scale without quality control:** Many similar pages are produced without enough distinction or added value.
 
-The last failure mode is especially important for software-driven site generation. Automation can help standardise structure, internal linking, offer matching, and update cycles, but it can also multiply weak pages quickly. Google’s current spam policies focus on whether scaled content helps users, not simply on whether it was generated by humans or automation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://developers.google.com/search/blog/2014/01/affiliate-programs-and-added-value" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-title">affiliate programs and added value</span><span class="citation-popover-snippet">affiliate programs and added value</span></span></span>
+The last failure mode is especially important for software-driven site generation. Automation can help standardise structure, internal linking, offer matching, and update cycles, but it can also multiply weak pages quickly. Google’s current spam policies focus on whether scaled content helps users, not simply on whether it was generated by humans or automation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://developers.google.com/search/blog/2014/01/affiliate-programs-and-added-value" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-title">affiliate programs and added value</span><span class="citation-popover-snippet">affiliate programs and added value</span></span></span>
 
 ## A practical model for revenue-focused page planning
 
@@ -508,178 +508,178 @@ Making money from websites containing affiliate links is a conversion system, no
 For a website-generation and monetisation system, the central lesson is to treat each page as part of a revenue path. Commercial topic selection decides whether the reader is close enough to action. Page type decides how the decision is framed. Offer selection decides whether the click has value. Internal linking decides how readers move through the cluster. Measurement decides which patterns deserve expansion. When those parts work together, affiliate links become more than decorations on content; they become the final step in a structured buying journey.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Affiliate Websites Actually Make Money. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Affiliate Websites Actually Make Money. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Nudge+by+Richard+H.+Thaler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Nudge on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dSJQn8egXvUC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Nudge" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Nudge+by+Richard+H.+Thaler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Nudge">Nudge</a>
-        </h4>
-        <p class="fr-book-author">By Richard H. Thaler, Cass R. Sunstein</p>
-        <p class="fr-book-popularity">Rating: 3.5/5 from 29 Google Books ratings</p>
-        <p class="fr-book-desc">Best-for labels are a form of choice architecture that guides readers without overwhelming them.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Nudge+by+Richard+H.+Thaler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Nudge+by+Richard+H.+Thaler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Nudge on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dSJQn8egXvUC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Nudge" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Nudge+by+Richard+H.+Thaler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Nudge">Nudge</a>
+</h4>
+<p class="fr-book-author">By Richard H. Thaler, Cass R. Sunstein</p>
+<p class="fr-book-popularity">Rating: 3.5/5 from 29 Google Books ratings</p>
+<p class="fr-book-desc">Best-for labels are a form of choice architecture that guides readers without overwhelming them.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Nudge+by+Richard+H.+Thaler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Affiliate+Program+Management+by+Evgenii+Prussakov&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Affiliate Program Management on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wnCYUHB8ss0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Affiliate Program Management" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Affiliate+Program+Management+by+Evgenii+Prussakov&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Affiliate Program Management">Affiliate Program Management</a>
-        </h4>
-        <p class="fr-book-author">By Evgenii Prussakov</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Affiliate+Program+Management+by+Evgenii+Prussakov&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Affiliate Program Management on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wnCYUHB8ss0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Affiliate Program Management" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Affiliate+Program+Management+by+Evgenii+Prussakov&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Affiliate Program Management">Affiliate Program Management</a>
+</h4>
+<p class="fr-book-author">By Evgenii Prussakov</p>
         
-        <p class="fr-book-desc">Teaches both creating and optimizing affiliate sites and programs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Affiliate+Program+Management+by+Evgenii+Prussakov&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Teaches both creating and optimizing affiliate sites and programs.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Affiliate+Program+Management+by+Evgenii+Prussakov&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Super+Affiliate+Handbook+by+Rosalind+Gardner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Super Affiliate Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=80dwAAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Super Affiliate Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Super+Affiliate+Handbook+by+Rosalind+Gardner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Super Affiliate Handbook">The Super Affiliate Handbook</a>
-        </h4>
-        <p class="fr-book-author">By Rosalind Gardner</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Super+Affiliate+Handbook+by+Rosalind+Gardner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Super Affiliate Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=80dwAAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Super Affiliate Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Super+Affiliate+Handbook+by+Rosalind+Gardner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Super Affiliate Handbook">The Super Affiliate Handbook</a>
+</h4>
+<p class="fr-book-author">By Rosalind Gardner</p>
         
-        <p class="fr-book-desc">Focuses on how affiliate websites generate consistent revenue.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Super+Affiliate+Handbook+by+Rosalind+Gardner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on how affiliate websites generate consistent revenue.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Super+Affiliate+Handbook+by+Rosalind+Gardner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Make+Money+Online+by+John+Chow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Make Money Online on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aP0eNgdDlhgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Make Money Online" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Make+Money+Online+by+John+Chow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make Money Online">Make Money Online</a>
-        </h4>
-        <p class="fr-book-author">By John Chow, Michael Kwan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Make+Money+Online+by+John+Chow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Make Money Online on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aP0eNgdDlhgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Make Money Online" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Make+Money+Online+by+John+Chow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make Money Online">Make Money Online</a>
+</h4>
+<p class="fr-book-author">By John Chow, Michael Kwan</p>
         
-        <p class="fr-book-desc">Shares real-world strategies for monetizing websites including affiliate links.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Make+Money+Online+by+John+Chow&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shares real-world strategies for monetizing websites including affiliate links.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Make+Money+Online+by+John+Chow&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Nudge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Nudge</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Affiliate+Program+Management&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Affiliate Program Management</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Super+Affiliate+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Super Affiliate books</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Nudge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Nudge</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Affiliate+Program+Management&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Affiliate Program Management</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Super+Affiliate+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Super Affiliate books</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-    </div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=tech+review+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-how-affiliate-websites-actually-make-money-making-money-from-tech-review-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ASK ME ANYTHING ABOUT TECH REVIEWS T-SHIRT gadgets technology electronics mobile"><img src="{{ '/assets/images/marketplace-covers/077da6ad44de6210b1b8.jpg' | relative_url }}" alt="Listing image for ASK ME ANYTHING ABOUT TECH REVIEWS T-SHIRT gadgets technology electronics mobile" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=tech+review+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-how-affiliate-websites-actually-make-money-making-money-from-tech-review-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">ASK ME ANYTHING ABOUT TECH REVIEWS T-SHIRT gadgets technology electronics mobile</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=tech+review+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-how-affiliate-websites-actually-make-money-making-money-from-tech-review-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for tech review t shirt">Search <span data-ebay-domain-label>eBay.com</span>: tech review t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=tech+review+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-how-affiliate-websites-actually-make-money-making-money-from-tech-review-t-shirt&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=tech+review+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-how-affiliate-websites-actually-make-money-making-money-from-tech-review-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ASK ME ANYTHING ABOUT TECH REVIEWS T-SHIRT gadgets technology electronics mobile"><img src="{{ '/assets/images/marketplace-covers/077da6ad44de6210b1b8.jpg' | relative_url }}" alt="Listing image for ASK ME ANYTHING ABOUT TECH REVIEWS T-SHIRT gadgets technology electronics mobile" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=tech+review+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-how-affiliate-websites-actually-make-money-making-money-from-tech-review-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">ASK ME ANYTHING ABOUT TECH REVIEWS T-SHIRT gadgets technology electronics mobile</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=tech+review+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-how-affiliate-websites-actually-make-money-making-money-from-tech-review-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for tech review t shirt">Search<span data-ebay-domain-label>eBay.com</span>: tech review t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=tech+review+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-how-affiliate-websites-actually-make-money-making-money-from-tech-review-t-shirt&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=tech+review+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-how-affiliate-websites-actually-make-money-making-money-from-tech-review-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ASK ME ANYTHING ABOUT GADGET REVIEWS T-SHIRT tech electronics gadgets products"><img src="{{ '/assets/images/marketplace-covers/2ccabb93be8d15bcf277.jpg' | relative_url }}" alt="Listing image for ASK ME ANYTHING ABOUT GADGET REVIEWS T-SHIRT tech electronics gadgets products" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=tech+review+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-how-affiliate-websites-actually-make-money-making-money-from-tech-review-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">ASK ME ANYTHING ABOUT GADGET REVIEWS T-SHIRT tech electronics gadgets products</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=tech+review+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-how-affiliate-websites-actually-make-money-making-money-from-tech-review-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for tech review t shirt">Search <span data-ebay-domain-label>eBay.com</span>: tech review t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=tech+review+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-how-affiliate-websites-actually-make-money-making-money-from-tech-review-t-shirt&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=tech+review+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-how-affiliate-websites-actually-make-money-making-money-from-tech-review-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ASK ME ANYTHING ABOUT GADGET REVIEWS T-SHIRT tech electronics gadgets products"><img src="{{ '/assets/images/marketplace-covers/2ccabb93be8d15bcf277.jpg' | relative_url }}" alt="Listing image for ASK ME ANYTHING ABOUT GADGET REVIEWS T-SHIRT tech electronics gadgets products" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=tech+review+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-how-affiliate-websites-actually-make-money-making-money-from-tech-review-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">ASK ME ANYTHING ABOUT GADGET REVIEWS T-SHIRT tech electronics gadgets products</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=tech+review+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-how-affiliate-websites-actually-make-money-making-money-from-tech-review-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for tech review t shirt">Search<span data-ebay-domain-label>eBay.com</span>: tech review t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=tech+review+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-how-affiliate-websites-actually-make-money-making-money-from-tech-review-t-shirt&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=tech+review+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-how-affiliate-websites-actually-make-money-making-money-from-tech-review-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Home Theartre Widescreen Review T-Shirt Mens XL Technology"><img src="{{ '/assets/images/marketplace-covers/4c6e8f4a833194f4a185.jpg' | relative_url }}" alt="Listing image for Vintage Home Theartre Widescreen Review T-Shirt Mens XL Technology" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=tech+review+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-how-affiliate-websites-actually-make-money-making-money-from-tech-review-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage Home Theartre Widescreen Review T-Shirt Mens XL Technology</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=tech+review+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-how-affiliate-websites-actually-make-money-making-money-from-tech-review-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for tech review t shirt">Search <span data-ebay-domain-label>eBay.com</span>: tech review t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=tech+review+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-how-affiliate-websites-actually-make-money-making-money-from-tech-review-t-shirt&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=tech+review+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-how-affiliate-websites-actually-make-money-making-money-from-tech-review-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Home Theartre Widescreen Review T-Shirt Mens XL Technology"><img src="{{ '/assets/images/marketplace-covers/4c6e8f4a833194f4a185.jpg' | relative_url }}" alt="Listing image for Vintage Home Theartre Widescreen Review T-Shirt Mens XL Technology" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=tech+review+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-how-affiliate-websites-actually-make-money-making-money-from-tech-review-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage Home Theartre Widescreen Review T-Shirt Mens XL Technology</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=tech+review+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-how-affiliate-websites-actually-make-money-making-money-from-tech-review-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for tech review t shirt">Search<span data-ebay-domain-label>eBay.com</span>: tech review t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=tech+review+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-how-affiliate-websites-actually-make-money-making-money-from-tech-review-t-shirt&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=tech+review+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-how-affiliate-websites-actually-make-money-making-money-from-tech-review-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I LOVE GADGET REVIEWS T-SHIRT heart tech electronics gadgets products innovation"><img src="{{ '/assets/images/marketplace-covers/d564a245399ba7c9ec02.jpg' | relative_url }}" alt="Listing image for I LOVE GADGET REVIEWS T-SHIRT heart tech electronics gadgets products innovation" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=tech+review+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-how-affiliate-websites-actually-make-money-making-money-from-tech-review-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I LOVE GADGET REVIEWS T-SHIRT heart tech electronics gadgets products innovation</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=tech+review+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-how-affiliate-websites-actually-make-money-making-money-from-tech-review-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for tech review t shirt">Search <span data-ebay-domain-label>eBay.com</span>: tech review t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=tech+review+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-how-affiliate-websites-actually-make-money-making-money-from-tech-review-t-shirt&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=tech+review+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-how-affiliate-websites-actually-make-money-making-money-from-tech-review-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=tech+review+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-how-affiliate-websites-actually-make-money-making-money-from-tech-review-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I LOVE GADGET REVIEWS T-SHIRT heart tech electronics gadgets products innovation"><img src="{{ '/assets/images/marketplace-covers/d564a245399ba7c9ec02.jpg' | relative_url }}" alt="Listing image for I LOVE GADGET REVIEWS T-SHIRT heart tech electronics gadgets products innovation" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=tech+review+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-how-affiliate-websites-actually-make-money-making-money-from-tech-review-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I LOVE GADGET REVIEWS T-SHIRT heart tech electronics gadgets products innovation</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=tech+review+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-how-affiliate-websites-actually-make-money-making-money-from-tech-review-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for tech review t shirt">Search<span data-ebay-domain-label>eBay.com</span>: tech review t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=tech+review+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-how-affiliate-websites-actually-make-money-making-money-from-tech-review-t-shirt&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=tech+review+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-how-affiliate-websites-actually-make-money-making-money-from-tech-review-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -695,7 +695,7 @@ For a website-generation and monetisation system, the central lesson is to treat
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -715,7 +715,7 @@ For a website-generation and monetisation system, the central lesson is to treat
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -747,7 +747,7 @@ For a website-generation and monetisation system, the central lesson is to treat
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -777,7 +777,7 @@ For a website-generation and monetisation system, the central lesson is to treat
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -835,260 +835,260 @@ For a website-generation and monetisation system, the central lesson is to treat
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: impact.com  
    Title: What is affiliate tracking? The basics for publishers  
-   Link: <a href="https://impact.com/affiliate/what-is-affiliate-tracking-the-basics-for-publishers/" target="_blank" rel="noopener noreferrer nofollow">https://impact.com/affiliate/what-is-affiliate-tracking-the-basics-for-publishers/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>August 5, 2024 — Affiliate tracking captures the customer page views, clicks, and conversion data that affiliates provide to a brand.Read...</p></details>
+   Link:<a href="https://impact.com/affiliate/what-is-affiliate-tracking-the-basics-for-publishers/" target="_blank" rel="noopener noreferrer nofollow">https://impact.com/affiliate/what-is-affiliate-tracking-the-basics-for-publishers/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>August 5, 2024 — Affiliate tracking captures the customer page views, clicks, and conversion data that affiliates provide to a brand.Read...</p></details>
    Published: August 5, 2024  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: awin.com  
-   Link: <a href="https://www.awin.com/gb/pricing/affiliate-partners" target="_blank" rel="noopener noreferrer nofollow">https://www.awin.com/gb/pricing/affiliate-partners</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Publisher partners start affiliate marketing for freeBecome an affiliate marketing publisher partner with Awin at no cost and start e...</p></details>
+   Link:<a href="https://www.awin.com/gb/pricing/affiliate-partners" target="_blank" rel="noopener noreferrer nofollow">https://www.awin.com/gb/pricing/affiliate-partners</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Publisher partners start affiliate marketing for freeBecome an affiliate marketing publisher partner with Awin at no cost and start e...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: developers.google.com  
    Title: affiliate programs and added value  
-   Link: <a href="https://developers.google.com/search/blog/2014/01/affiliate-programs-and-added-value" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/blog/2014/01/affiliate-programs-and-added-value</a>  
+   Link:<a href="https://developers.google.com/search/blog/2014/01/affiliate-programs-and-added-value" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/blog/2014/01/affiliate-programs-and-added-value</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: developers.google.com  
-   Link: <a href="https://developers.google.com/search/docs/appearance/structured-data/product" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/docs/appearance/structured-data/product</a>  
+   Link:<a href="https://developers.google.com/search/docs/appearance/structured-data/product" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/docs/appearance/structured-data/product</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: asa.org.uk  
    Title: affiliate marketing  
-   Link: <a href="https://www.asa.org.uk/advice-online/affiliate-marketing.html" target="_blank" rel="noopener noreferrer nofollow">https://www.asa.org.uk/advice-online/affiliate-marketing.html</a>  
+   Link:<a href="https://www.asa.org.uk/advice-online/affiliate-marketing.html" target="_blank" rel="noopener noreferrer nofollow">https://www.asa.org.uk/advice-online/affiliate-marketing.html</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: asa.org.uk  
    Title: get yourself affiliated with the rules on affiliate marketing  
-   Link: <a href="https://www.asa.org.uk/news/get-yourself-affiliated-with-the-rules-on-affiliate-marketing.html" target="_blank" rel="noopener noreferrer nofollow">https://www.asa.org.uk/news/get-yourself-affiliated-with-the-rules-on-affiliate-marketing.html</a>  
+   Link:<a href="https://www.asa.org.uk/news/get-yourself-affiliated-with-the-rules-on-affiliate-marketing.html" target="_blank" rel="noopener noreferrer nofollow">https://www.asa.org.uk/news/get-yourself-affiliated-with-the-rules-on-affiliate-marketing.html</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: impact.com  
    Title: affiliate marketing benchmark  
-   Link: <a href="https://impact.com/affiliate/affiliate-marketing-benchmark/" target="_blank" rel="noopener noreferrer nofollow">https://impact.com/affiliate/affiliate-marketing-benchmark/</a>  
+   Link:<a href="https://impact.com/affiliate/affiliate-marketing-benchmark/" target="_blank" rel="noopener noreferrer nofollow">https://impact.com/affiliate/affiliate-marketing-benchmark/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: developers.google.com  
-   Link: <a href="https://developers.google.com/search/docs/essentials/spam-policies" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/docs/essentials/spam-policies</a>  
+   Link:<a href="https://developers.google.com/search/docs/essentials/spam-policies" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/docs/essentials/spam-policies</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: developers.google.com  
-   Link: <a href="https://developers.google.com/search/docs/crawling-indexing/qualify-outbound-links" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/docs/crawling-indexing/qualify-outbound-links</a>  
+   Link:<a href="https://developers.google.com/search/docs/crawling-indexing/qualify-outbound-links" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/docs/crawling-indexing/qualify-outbound-links</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: developers.google.com  
-   Link: <a href="https://developers.google.com/search/docs/appearance/structured-data/product-snippet" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/docs/appearance/structured-data/product-snippet</a>  
+   Link:<a href="https://developers.google.com/search/docs/appearance/structured-data/product-snippet" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/docs/appearance/structured-data/product-snippet</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: awin.com  
    Title: what the cap code means for affiliates  
-   Link: <a href="https://www.awin.com/gb/compliance-and-regulations/what-the-cap-code-means-for-affiliates" target="_blank" rel="noopener noreferrer nofollow">https://www.awin.com/gb/compliance-and-regulations/what-the-cap-code-means-for-affiliates</a>  
+   Link:<a href="https://www.awin.com/gb/compliance-and-regulations/what-the-cap-code-means-for-affiliates" target="_blank" rel="noopener noreferrer nofollow">https://www.awin.com/gb/compliance-and-regulations/what-the-cap-code-means-for-affiliates</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: awin.com  
    Title: affiliate trends 2025  
-   Link: <a href="https://www.awin.com/gb/sector-insights/affiliate-trends-2025" target="_blank" rel="noopener noreferrer nofollow">https://www.awin.com/gb/sector-insights/affiliate-trends-2025</a>  
+   Link:<a href="https://www.awin.com/gb/sector-insights/affiliate-trends-2025" target="_blank" rel="noopener noreferrer nofollow">https://www.awin.com/gb/sector-insights/affiliate-trends-2025</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: awin.com  
    Title: new influencer marketing  
-   Link: <a href="https://www.awin.com/gb/sector-insights/new-influencer-marketing" target="_blank" rel="noopener noreferrer nofollow">https://www.awin.com/gb/sector-insights/new-influencer-marketing</a>  
+   Link:<a href="https://www.awin.com/gb/sector-insights/new-influencer-marketing" target="_blank" rel="noopener noreferrer nofollow">https://www.awin.com/gb/sector-insights/new-influencer-marketing</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: awin.com  
    Title: forrester affiliate survey  
-   Link: <a href="https://www.awin.com/gb/sector-insights/awin-forrester-affiliate-survey" target="_blank" rel="noopener noreferrer nofollow">https://www.awin.com/gb/sector-insights/awin-forrester-affiliate-survey</a>  
+   Link:<a href="https://www.awin.com/gb/sector-insights/awin-forrester-affiliate-survey" target="_blank" rel="noopener noreferrer nofollow">https://www.awin.com/gb/sector-insights/awin-forrester-affiliate-survey</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: awin.com  
-   Link: <a href="https://www.awin.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.awin.com/</a>  
+   Link:<a href="https://www.awin.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.awin.com/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: awin.com  
-   Link: <a href="https://www.awin.com/gb/market-insights" target="_blank" rel="noopener noreferrer nofollow">https://www.awin.com/gb/market-insights</a>  
+   Link:<a href="https://www.awin.com/gb/market-insights" target="_blank" rel="noopener noreferrer nofollow">https://www.awin.com/gb/market-insights</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: help.awin.com  
    Title: partner types overview  
-   Link: <a href="https://help.awin.com/docs/partner-types-overview" target="_blank" rel="noopener noreferrer nofollow">https://help.awin.com/docs/partner-types-overview</a>  
+   Link:<a href="https://help.awin.com/docs/partner-types-overview" target="_blank" rel="noopener noreferrer nofollow">https://help.awin.com/docs/partner-types-overview</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: awin.com  
-   Link: <a href="https://www.awin.com/gb/case-studies" target="_blank" rel="noopener noreferrer nofollow">https://www.awin.com/gb/case-studies</a>  
+   Link:<a href="https://www.awin.com/gb/case-studies" target="_blank" rel="noopener noreferrer nofollow">https://www.awin.com/gb/case-studies</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: support.google.com  
    Title: manual action for thin content  
-   Link: <a href="https://support.google.com/webmasters/thread/71950043/manual-action-for-thin-content?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/webmasters/thread/71950043/manual-action-for-thin-content?hl=en</a>  
+   Link:<a href="https://support.google.com/webmasters/thread/71950043/manual-action-for-thin-content?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/webmasters/thread/71950043/manual-action-for-thin-content?hl=en</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: google.com  
-   Link: <a href="https://www.google.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.google.com/</a>  
+   Link:<a href="https://www.google.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.google.com/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: support.google.com  
    Title: is affiliate marketing dead  
-   Link: <a href="https://support.google.com/webmasters/thread/257058271/is-affiliate-marketing-dead?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/webmasters/thread/257058271/is-affiliate-marketing-dead?hl=en</a>  
+   Link:<a href="https://support.google.com/webmasters/thread/257058271/is-affiliate-marketing-dead?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/webmasters/thread/257058271/is-affiliate-marketing-dead?hl=en</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: support.google.com  
-   Link: <a href="https://support.google.com/webmasters/thread/302446608/provide-details-about-the-affiliate-products-review-guidelines-and-can-we-used-more-than-ads-network?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/webmasters/thread/302446608/provide-details-about-the-affiliate-products-review-guidelines-and-can-we-used-more-than-ads-network?hl=en</a>  
+   Link:<a href="https://support.google.com/webmasters/thread/302446608/provide-details-about-the-affiliate-products-review-guidelines-and-can-we-used-more-than-ads-network?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/webmasters/thread/302446608/provide-details-about-the-affiliate-products-review-guidelines-and-can-we-used-more-than-ads-network?hl=en</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: support.google.com  
    Title: merchant listings structured data for affiliate sites  
-   Link: <a href="https://support.google.com/webmasters/thread/233393083/merchant-listings-structured-data-for-affiliate-sites?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/webmasters/thread/233393083/merchant-listings-structured-data-for-affiliate-sites?hl=en</a>  
+   Link:<a href="https://support.google.com/webmasters/thread/233393083/merchant-listings-structured-data-for-affiliate-sites?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/webmasters/thread/233393083/merchant-listings-structured-data-for-affiliate-sites?hl=en</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: support.google.com  
    Title: sponsored links rel attribute  
-   Link: <a href="https://support.google.com/webmasters/thread/118842020/sponsored-links-rel-attribute?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/webmasters/thread/118842020/sponsored-links-rel-attribute?hl=en</a>  
+   Link:<a href="https://support.google.com/webmasters/thread/118842020/sponsored-links-rel-attribute?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/webmasters/thread/118842020/sponsored-links-rel-attribute?hl=en</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: developers.google.com  
    Title: intro structured data  
-   Link: <a href="https://developers.google.com/search/docs/appearance/structured-data/intro-structured-data" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/docs/appearance/structured-data/intro-structured-data</a>  
+   Link:<a href="https://developers.google.com/search/docs/appearance/structured-data/intro-structured-data" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/docs/appearance/structured-data/intro-structured-data</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: developers.google.com  
    Title: merchant listings  
-   Link: <a href="https://developers.google.com/search/blog/2022/09/merchant-listings" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/blog/2022/09/merchant-listings</a>  
+   Link:<a href="https://developers.google.com/search/blog/2022/09/merchant-listings" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/blog/2022/09/merchant-listings</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: impact.com  
    Title: creator attribution marketing models  
-   Link: <a href="https://impact.com/affiliate/creator-attribution-marketing-models/" target="_blank" rel="noopener noreferrer nofollow">https://impact.com/affiliate/creator-attribution-marketing-models/</a>  
+   Link:<a href="https://impact.com/affiliate/creator-attribution-marketing-models/" target="_blank" rel="noopener noreferrer nofollow">https://impact.com/affiliate/creator-attribution-marketing-models/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: impact.com  
-   Link: <a href="https://impact.com/affiliate/5-effective-affiliate-commission-structures/" target="_blank" rel="noopener noreferrer nofollow">https://impact.com/affiliate/5-effective-affiliate-commission-structures/</a>  
+   Link:<a href="https://impact.com/affiliate/5-effective-affiliate-commission-structures/" target="_blank" rel="noopener noreferrer nofollow">https://impact.com/affiliate/5-effective-affiliate-commission-structures/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: asa.org.uk  
-   Link: <a href="https://www.asa.org.uk/static/uploaded/3af39c72-76e1-4a59-b2b47e81a034cd1d.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.asa.org.uk/static/uploaded/3af39c72-76e1-4a59-b2b47e81a034cd1d.pdf</a>  
+   Link:<a href="https://www.asa.org.uk/static/uploaded/3af39c72-76e1-4a59-b2b47e81a034cd1d.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.asa.org.uk/static/uploaded/3af39c72-76e1-4a59-b2b47e81a034cd1d.pdf</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: keyword.com  
    Title: affiliate links seo rankings  
-   Link: <a href="https://keyword.com/blog/affiliate-links-seo-rankings/" target="_blank" rel="noopener noreferrer nofollow">https://keyword.com/blog/affiliate-links-seo-rankings/</a>  
+   Link:<a href="https://keyword.com/blog/affiliate-links-seo-rankings/" target="_blank" rel="noopener noreferrer nofollow">https://keyword.com/blog/affiliate-links-seo-rankings/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: affiliate-program.amazon.com  
-   Link: <a href="https://affiliate-program.amazon.com/help/node/topic/GHQNZAU6669EZS98" target="_blank" rel="noopener noreferrer nofollow">https://affiliate-program.amazon.com/help/node/topic/GHQNZAU6669EZS98</a>  
+   Link:<a href="https://affiliate-program.amazon.com/help/node/topic/GHQNZAU6669EZS98" target="_blank" rel="noopener noreferrer nofollow">https://affiliate-program.amazon.com/help/node/topic/GHQNZAU6669EZS98</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: affiliate-program.amazon.com  
-   Link: <a href="https://affiliate-program.amazon.com/help/operating/policies" target="_blank" rel="noopener noreferrer nofollow">https://affiliate-program.amazon.com/help/operating/policies</a>  
+   Link:<a href="https://affiliate-program.amazon.com/help/operating/policies" target="_blank" rel="noopener noreferrer nofollow">https://affiliate-program.amazon.com/help/operating/policies</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: affiliate-program.amazon.co.uk  
    Title: Amazon Associates Amazon.co.uk Associates Central  
-   Link: <a href="https://affiliate-program.amazon.co.uk/help/node/topic/GHQNZAU6669EZS98" target="_blank" rel="noopener noreferrer nofollow">https://affiliate-program.amazon.co.uk/help/node/topic/GHQNZAU6669EZS98</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Amazon AssociatesAmazon.co.uk Associates Central - HelpTo meet the Associate Program&#x27;s requirements, you must (1) include a legally compl...</p></details>
+   Link:<a href="https://affiliate-program.amazon.co.uk/help/node/topic/GHQNZAU6669EZS98" target="_blank" rel="noopener noreferrer nofollow">https://affiliate-program.amazon.co.uk/help/node/topic/GHQNZAU6669EZS98</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Amazon AssociatesAmazon.co.uk Associates Central - HelpTo meet the Associate Program&#x27;s requirements, you must (1) include a legally compl...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: affiliate-program.amazon.co.uk  
-   Link: <a href="https://affiliate-program.amazon.co.uk/help/operating/agreement" target="_blank" rel="noopener noreferrer nofollow">https://affiliate-program.amazon.co.uk/help/operating/agreement</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Amazon AssociatesAssociates Program Operating Agreement15 Oct 2025 — You will not disclose Confidential Information to any third party (o...</p></details>
+   Link:<a href="https://affiliate-program.amazon.co.uk/help/operating/agreement" target="_blank" rel="noopener noreferrer nofollow">https://affiliate-program.amazon.co.uk/help/operating/agreement</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Amazon AssociatesAssociates Program Operating Agreement15 Oct 2025 — You will not disclose Confidential Information to any third party (o...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: ftc.gov  
-   Link: <a href="https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews</a>  
+   Link:<a href="https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: ftc.gov  
    Title: s endorsement guides what people are asking  
-   Link: <a href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking</a>  
+   Link:<a href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: affiversemedia.com  
-   Link: <a href="https://www.affiversemedia.com/what-is-epc-in-affiliate-marketing-the-ultimate-performance-metric-that-drives-success/" target="_blank" rel="noopener noreferrer nofollow">https://www.affiversemedia.com/what-is-epc-in-affiliate-marketing-the-ultimate-performance-metric-that-drives-success/</a>  
+   Link:<a href="https://www.affiversemedia.com/what-is-epc-in-affiliate-marketing-the-ultimate-performance-metric-that-drives-success/" target="_blank" rel="noopener noreferrer nofollow">https://www.affiversemedia.com/what-is-epc-in-affiliate-marketing-the-ultimate-performance-metric-that-drives-success/</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: ftc.gov  
-   Link: <a href="https://www.ftc.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/</a>  
+   Link:<a href="https://www.ftc.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: geniuslink.com  
    Title: amazon associates requirements  
-   Link: <a href="https://geniuslink.com/blog/amazon-associates-requirements/" target="_blank" rel="noopener noreferrer nofollow">https://geniuslink.com/blog/amazon-associates-requirements/</a>  
+   Link:<a href="https://geniuslink.com/blog/amazon-associates-requirements/" target="_blank" rel="noopener noreferrer nofollow">https://geniuslink.com/blog/amazon-associates-requirements/</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: kirkland.com  
-   Link: <a href="https://www.kirkland.com/publications/kirkland-alert/2023/07/federal-trade-commission-releases-first-updates-to-endorsement-guides-in-14-years" target="_blank" rel="noopener noreferrer nofollow">https://www.kirkland.com/publications/kirkland-alert/2023/07/federal-trade-commission-releases-first-updates-to-endorsement-guides-in-14-years</a>  
+   Link:<a href="https://www.kirkland.com/publications/kirkland-alert/2023/07/federal-trade-commission-releases-first-updates-to-endorsement-guides-in-14-years" target="_blank" rel="noopener noreferrer nofollow">https://www.kirkland.com/publications/kirkland-alert/2023/07/federal-trade-commission-releases-first-updates-to-endorsement-guides-in-14-years</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: affiversemedia.com  
    Title: google ai search guidelines affiliates  
-   Link: <a href="https://www.affiversemedia.com/google-ai-search-guidelines-affiliates/" target="_blank" rel="noopener noreferrer nofollow">https://www.affiversemedia.com/google-ai-search-guidelines-affiliates/</a>  
+   Link:<a href="https://www.affiversemedia.com/google-ai-search-guidelines-affiliates/" target="_blank" rel="noopener noreferrer nofollow">https://www.affiversemedia.com/google-ai-search-guidelines-affiliates/</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: richads.com  
-   Link: <a href="https://richads.com/blog/what-is/epc/" target="_blank" rel="noopener noreferrer nofollow">https://richads.com/blog/what-is/epc/</a>  
+   Link:<a href="https://richads.com/blog/what-is/epc/" target="_blank" rel="noopener noreferrer nofollow">https://richads.com/blog/what-is/epc/</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: dustinhowes.com  
    Title: impact com  
-   Link: <a href="https://dustinhowes.com/impact-com/" target="_blank" rel="noopener noreferrer nofollow">https://dustinhowes.com/impact-com/</a>  
+   Link:<a href="https://dustinhowes.com/impact-com/" target="_blank" rel="noopener noreferrer nofollow">https://dustinhowes.com/impact-com/</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: wix.com  
    Title: thin content  
-   Link: <a href="https://www.wix.com/seo/learn/resource/thin-content" target="_blank" rel="noopener noreferrer nofollow">https://www.wix.com/seo/learn/resource/thin-content</a>  
+   Link:<a href="https://www.wix.com/seo/learn/resource/thin-content" target="_blank" rel="noopener noreferrer nofollow">https://www.wix.com/seo/learn/resource/thin-content</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: en.ryte.com  
    Title: Thin Content  
-   Link: <a href="https://en.ryte.com/wiki/Thin_Content" target="_blank" rel="noopener noreferrer nofollow">https://en.ryte.com/wiki/Thin_Content</a>  
+   Link:<a href="https://en.ryte.com/wiki/Thin_Content" target="_blank" rel="noopener noreferrer nofollow">https://en.ryte.com/wiki/Thin_Content</a>  
 
 ### Additional References
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=JAlP8uOisO0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=JAlP8uOisO0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>I Designed the PERFECT Affiliate Website. Here&#x27;s what Happened...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=JAlP8uOisO0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=JAlP8uOisO0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>I Designed the PERFECT Affiliate Website. Here&#x27;s what Happened...</p></details>
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=e2EImNQLsao" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=e2EImNQLsao</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Find the Best Niche for Affiliate Marketing (5 Simple Steps)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=e2EImNQLsao" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=e2EImNQLsao</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to Find the Best Niche for Affiliate Marketing (5 Simple Steps)...</p></details>
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: youtube.com  
    Title: I Designed the PERFECT Affiliate Website. Here's what Happened  
-   Link: <a href="https://www.youtube.com/watch?v=cX395xZqjxc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cX395xZqjxc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How To Make Money With Amazon Affiliate: Step by Step Guide...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=cX395xZqjxc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cX395xZqjxc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How To Make Money With Amazon Affiliate: Step by Step Guide...</p></details>
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: youtube.com  
    Title: How To Make Money With Amazon Affiliate: Step by Step Guide  
-   Link: <a href="https://www.youtube.com/watch?v=TdO7nPxhx5U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TdO7nPxhx5U</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How To Build An Affiliate Marketing Website 2026 (COMPLETE GUIDE)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=TdO7nPxhx5U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TdO7nPxhx5U</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How To Build An Affiliate Marketing Website 2026 (COMPLETE GUIDE)...</p></details>
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: trackier.com  
-   Link: <a href="https://trackier.com/affiliate-attribution-modelstypes-and-how-it-works/" target="_blank" rel="noopener noreferrer nofollow">https://trackier.com/affiliate-attribution-modelstypes-and-how-it-works/</a>  
+   Link:<a href="https://trackier.com/affiliate-attribution-modelstypes-and-how-it-works/" target="_blank" rel="noopener noreferrer nofollow">https://trackier.com/affiliate-attribution-modelstypes-and-how-it-works/</a>  
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/pulse/affiliate-marketing-kpis-program-manager-metrics-2024-victor-giurgiu-ybraf" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/affiliate-marketing-kpis-program-manager-metrics-2024-victor-giurgiu-ybraf</a>  
+   Link:<a href="https://www.linkedin.com/pulse/affiliate-marketing-kpis-program-manager-metrics-2024-victor-giurgiu-ybraf" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/affiliate-marketing-kpis-program-manager-metrics-2024-victor-giurgiu-ybraf</a>  
 
-52. <a id="endnote-52"></a>
+52.<a id="endnote-52"></a>
    Source: wecantrack.com  
-   Link: <a href="https://wecantrack.com/insights/affiliate-program-performance-statistics/" target="_blank" rel="noopener noreferrer nofollow">https://wecantrack.com/insights/affiliate-program-performance-statistics/</a>  
+   Link:<a href="https://wecantrack.com/insights/affiliate-program-performance-statistics/" target="_blank" rel="noopener noreferrer nofollow">https://wecantrack.com/insights/affiliate-program-performance-statistics/</a>  
 
-53. <a id="endnote-53"></a>
+53.<a id="endnote-53"></a>
    Source: geniuslink.com  
-   Link: <a href="https://geniuslink.com/blog/amazon-affiliate-disclosure-guide/" target="_blank" rel="noopener noreferrer nofollow">https://geniuslink.com/blog/amazon-affiliate-disclosure-guide/</a>  
+   Link:<a href="https://geniuslink.com/blog/amazon-affiliate-disclosure-guide/" target="_blank" rel="noopener noreferrer nofollow">https://geniuslink.com/blog/amazon-affiliate-disclosure-guide/</a>  
 
-54. <a id="endnote-54"></a>
+54.<a id="endnote-54"></a>
    Source: termly.io  
-   Link: <a href="https://termly.io/resources/articles/amazon-affiliate-disclosure/" target="_blank" rel="noopener noreferrer nofollow">https://termly.io/resources/articles/amazon-affiliate-disclosure/</a>  
+   Link:<a href="https://termly.io/resources/articles/amazon-affiliate-disclosure/" target="_blank" rel="noopener noreferrer nofollow">https://termly.io/resources/articles/amazon-affiliate-disclosure/</a>  
 
-55. <a id="endnote-55"></a>
+55.<a id="endnote-55"></a>
    Source: iubenda.com  
-   Link: <a href="https://www.iubenda.com/en/blog/amazon-affiliate-disclosure-example/" target="_blank" rel="noopener noreferrer nofollow">https://www.iubenda.com/en/blog/amazon-affiliate-disclosure-example/</a>
+   Link:<a href="https://www.iubenda.com/en/blog/amazon-affiliate-disclosure-example/" target="_blank" rel="noopener noreferrer nofollow">https://www.iubenda.com/en/blog/amazon-affiliate-disclosure-example/</a>

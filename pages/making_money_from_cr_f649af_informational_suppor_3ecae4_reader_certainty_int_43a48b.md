@@ -277,7 +277,7 @@ image: /assets/images/making_money_from_cr_f649af_informational_suppor_3ecae4_re
 An informational page only feeds affiliate revenue when its internal links match what the reader is ready to do next. A visitor who is still learning basic concepts rarely wants the same destination as someone comparing two products. If every article pushes the same “best products” page regardless of context, many readers will ignore the link because it feels premature, irrelevant, or obviously commercial.
 
 <img src="{{ "/assets/images/making_money_from_cr_f649af_informational_suppor_3ecae4_reader_certainty_int_43a48b-Illustration-1-dark.svg" | relative_url }}" alt="Link Fit illustration 1" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_informational_suppor_3ecae4_reader_certainty_int_43a48b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_informational_suppor_3ecae4_reader_certainty_int_43a48b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The strongest internal links work because they match reader certainty. They recognise whether the visitor is still defining the problem, narrowing options, checking trade-offs, or preparing to buy. In usability research, people follow links when the surrounding cues suggest the destination will help them progress towards their goal, a principle often described as information scent. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nngroup.com/articles/information-scent/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nngroup.com">[Nielsen Norman Group]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nngroup.com</span><span class="citation-popover-title">information scent</span><span class="citation-popover-snippet">Nielsen Norman GroupInformation Scent: How Users Decide Where to Go Next2 Feb 2020 — When deciding which links to click on the web, users...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nngroup.com/articles/information-scent/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nngroup.com">[Nielsen Norman Group]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nngroup.com</span><span class="citation-popover-title">information scent</span><span class="citation-popover-snippet">Nielsen Norman GroupInformation Scent: How Users Decide Where to Go Next2 Feb 2020 — When deciding which links to click on the web, users...</span></span></span> In buying journeys, Google’s research suggests people move repeatedly between exploration and evaluation before making decisions rather than following a simple linear funnel. <span class="citation-chip-wrap"><a class="citation-chip" href="https://business.google.com/uk/think/consumer-insights/navigating-purchase-behavior-and-decision-making/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: business.google.com">[Google Business]</a><span class="citation-popover" role="note"><span class="citation-popover-source">business.google.com</span><span class="citation-popover-snippet">Google BusinessHow people decide what to buy lies in the &#x27;messy middle&#x27; of...People loop through these twin modes of exploration and eva...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://business.google.com/uk/think/consumer-insights/navigating-purchase-behavior-and-decision-making/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: business.google.com">[Google Business]</a><span class="citation-popover" role="note"><span class="citation-popover-source">business.google.com</span><span class="citation-popover-snippet">Google BusinessHow people decide what to buy lies in the &#x27;messy middle&#x27; of...People loop through these twin modes of exploration and eva...</span></span></span>
+The strongest internal links work because they match reader certainty. They recognise whether the visitor is still defining the problem, narrowing options, checking trade-offs, or preparing to buy. In usability research, people follow links when the surrounding cues suggest the destination will help them progress towards their goal, a principle often described as information scent.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nngroup.com/articles/information-scent/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nngroup.com">[Nielsen Norman Group]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nngroup.com</span><span class="citation-popover-title">information scent</span><span class="citation-popover-snippet">Nielsen Norman GroupInformation Scent: How Users Decide Where to Go Next2 Feb 2020 — When deciding which links to click on the web, users...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nngroup.com/articles/information-scent/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nngroup.com">[Nielsen Norman Group]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nngroup.com</span><span class="citation-popover-title">information scent</span><span class="citation-popover-snippet">Nielsen Norman GroupInformation Scent: How Users Decide Where to Go Next2 Feb 2020 — When deciding which links to click on the web, users...</span></span></span> In buying journeys, Google’s research suggests people move repeatedly between exploration and evaluation before making decisions rather than following a simple linear funnel.<span class="citation-chip-wrap"><a class="citation-chip" href="https://business.google.com/uk/think/consumer-insights/navigating-purchase-behavior-and-decision-making/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: business.google.com">[Google Business]</a><span class="citation-popover" role="note"><span class="citation-popover-source">business.google.com</span><span class="citation-popover-snippet">Google BusinessHow people decide what to buy lies in the &#x27;messy middle&#x27; of...People loop through these twin modes of exploration and eva...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://business.google.com/uk/think/consumer-insights/navigating-purchase-behavior-and-decision-making/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: business.google.com">[Google Business]</a><span class="citation-popover" role="note"><span class="citation-popover-source">business.google.com</span><span class="citation-popover-snippet">Google BusinessHow people decide what to buy lies in the &#x27;messy middle&#x27; of...People loop through these twin modes of exploration and eva...</span></span></span>
 
 For affiliate websites, this means internal links are not just navigation. They are decision-stage routing. The link that earns the click is usually the one that feels like the natural next question.
 
@@ -297,7 +297,7 @@ Reader stateTypical questionBetter internal linkLow certaintyWhat does this term
 
 Many affiliate sites lose potential conversions by linking too far ahead. They assume every visitor is ready for product recommendations when many are still gathering information. The result is lower click-through rates and weaker engagement because the proposed next step does not match the visitor's current decision state.
 
-This aligns with the broader idea of the “messy middle”, where buyers repeatedly switch between researching and evaluating before settling on a choice. <span class="citation-chip-wrap"><a class="citation-chip" href="https://business.google.com/uk/think/consumer-insights/navigating-purchase-behavior-and-decision-making/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: business.google.com">[Google Business]</a><span class="citation-popover" role="note"><span class="citation-popover-source">business.google.com</span><span class="citation-popover-snippet">Google BusinessHow people decide what to buy lies in the &#x27;messy middle&#x27; of...People loop through these twin modes of exploration and eva...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://business.google.com/uk/think/consumer-insights/navigating-purchase-behavior-and-decision-making/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: business.google.com">[Google Business]</a><span class="citation-popover" role="note"><span class="citation-popover-source">business.google.com</span><span class="citation-popover-snippet">Google BusinessHow people decide what to buy lies in the &#x27;messy middle&#x27; of...People loop through these twin modes of exploration and eva...</span></span></span> Internal links work best when they support that movement instead of trying to force a shortcut to a money page.
+This aligns with the broader idea of the “messy middle”, where buyers repeatedly switch between researching and evaluating before settling on a choice.<span class="citation-chip-wrap"><a class="citation-chip" href="https://business.google.com/uk/think/consumer-insights/navigating-purchase-behavior-and-decision-making/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: business.google.com">[Google Business]</a><span class="citation-popover" role="note"><span class="citation-popover-source">business.google.com</span><span class="citation-popover-snippet">Google BusinessHow people decide what to buy lies in the &#x27;messy middle&#x27; of...People loop through these twin modes of exploration and eva...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://business.google.com/uk/think/consumer-insights/navigating-purchase-behavior-and-decision-making/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: business.google.com">[Google Business]</a><span class="citation-popover" role="note"><span class="citation-popover-source">business.google.com</span><span class="citation-popover-snippet">Google BusinessHow people decide what to buy lies in the &#x27;messy middle&#x27; of...People loop through these twin modes of exploration and eva...</span></span></span> Internal links work best when they support that movement instead of trying to force a shortcut to a money page.
 
 ## When does the next link feel earned?
 
@@ -361,7 +361,7 @@ Each label explains what the reader gains by clicking.
 <img src="{{ "/assets/images/making_money_from_cr_f649af_informational_suppor_3ecae4_reader_certainty_int_43a48b-Illustration-2-dark.svg" | relative_url }}" alt="Link Fit illustration 2" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_informational_suppor_3ecae4_reader_certainty_int_43a48b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_informational_suppor_3ecae4_reader_certainty_int_43a48b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Weak labels
 
-These links provide little information scent: <span class="citation-chip-wrap"><a class="citation-chip" href="https://digitalcommunications.wp.st-andrews.ac.uk/2021/03/09/the-information-scent-of-links/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcommunications.wp.st-andrews.ac.uk">[digitalcommunications.wp.st-andrews.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcommunications.wp.st-andrews.ac.uk</span><span class="citation-popover-title">the information scent of links</span><span class="citation-popover-snippet">9 Mar 2021 — You&#x27;ll choose the one with the highest information scent – the link with relevant terms and context that you think will help...</span></span></span>
+These links provide little information scent:<span class="citation-chip-wrap"><a class="citation-chip" href="https://digitalcommunications.wp.st-andrews.ac.uk/2021/03/09/the-information-scent-of-links/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcommunications.wp.st-andrews.ac.uk">[digitalcommunications.wp.st-andrews.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcommunications.wp.st-andrews.ac.uk</span><span class="citation-popover-title">the information scent of links</span><span class="citation-popover-snippet">9 Mar 2021 — You&#x27;ll choose the one with the highest information scent – the link with relevant terms and context that you think will help...</span></span></span>
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -373,7 +373,7 @@ These links provide little information scent: <span class="citation-chip-wrap"><
 
 </div>
 
-Research on information scent suggests users judge links partly by the clues they provide about what comes next. Ambiguous wording reduces confidence because the destination becomes harder to predict. Nielsen Norman Group <span class="citation-chip-wrap"><a class="citation-chip" href="https://digitalcommunications.wp.st-andrews.ac.uk/2021/03/09/the-information-scent-of-links/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcommunications.wp.st-andrews.ac.uk">[2digitalcommunications.wp.st-andrews.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcommunications.wp.st-andrews.ac.uk</span><span class="citation-popover-title">the information scent of links</span><span class="citation-popover-snippet">9 Mar 2021 — You&#x27;ll choose the one with the highest information scent – the link with relevant terms and context that you think will help...</span></span></span>
+Research on information scent suggests users judge links partly by the clues they provide about what comes next. Ambiguous wording reduces confidence because the destination becomes harder to predict. Nielsen Norman Group<span class="citation-chip-wrap"><a class="citation-chip" href="https://digitalcommunications.wp.st-andrews.ac.uk/2021/03/09/the-information-scent-of-links/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcommunications.wp.st-andrews.ac.uk">[2digitalcommunications.wp.st-andrews.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcommunications.wp.st-andrews.ac.uk</span><span class="citation-popover-title">the information scent of links</span><span class="citation-popover-snippet">9 Mar 2021 — You&#x27;ll choose the one with the highest information scent – the link with relevant terms and context that you think will help...</span></span></span>
 
 For affiliate websites, descriptive labels often outperform generic commercial language because they connect to the reader's active question.
 
@@ -442,7 +442,7 @@ Many affiliate sites still organise internal linking as a simple funnel:
 
 Informational article → Best products page → Affiliate link
 
-Real behaviour is usually less direct. Buyers often need several confidence-building steps before they feel comfortable evaluating products. <span class="citation-chip-wrap"><a class="citation-chip" href="https://business.google.com/uk/think/consumer-insights/navigating-purchase-behavior-and-decision-making/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: business.google.com">[Google Business]</a><span class="citation-popover" role="note"><span class="citation-popover-source">business.google.com</span><span class="citation-popover-snippet">Google BusinessHow people decide what to buy lies in the &#x27;messy middle&#x27; of...People loop through these twin modes of exploration and eva...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://business.google.com/uk/think/consumer-insights/navigating-purchase-behavior-and-decision-making/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: business.google.com">[Google Business]</a><span class="citation-popover" role="note"><span class="citation-popover-source">business.google.com</span><span class="citation-popover-snippet">Google BusinessHow people decide what to buy lies in the &#x27;messy middle&#x27; of...People loop through these twin modes of exploration and eva...</span></span></span>
+Real behaviour is usually less direct. Buyers often need several confidence-building steps before they feel comfortable evaluating products.<span class="citation-chip-wrap"><a class="citation-chip" href="https://business.google.com/uk/think/consumer-insights/navigating-purchase-behavior-and-decision-making/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: business.google.com">[Google Business]</a><span class="citation-popover" role="note"><span class="citation-popover-source">business.google.com</span><span class="citation-popover-snippet">Google BusinessHow people decide what to buy lies in the &#x27;messy middle&#x27; of...People loop through these twin modes of exploration and eva...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://business.google.com/uk/think/consumer-insights/navigating-purchase-behavior-and-decision-making/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: business.google.com">[Google Business]</a><span class="citation-popover" role="note"><span class="citation-popover-source">business.google.com</span><span class="citation-popover-snippet">Google BusinessHow people decide what to buy lies in the &#x27;messy middle&#x27; of...People loop through these twin modes of exploration and eva...</span></span></span>
 
 A more useful model is a certainty ladder.
 
@@ -467,269 +467,269 @@ For affiliate publishers, that often produces a stronger long-term outcome than 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/tlUvrZMl9yk" title="This Claude SEO Skill Does My SEO For Me" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=tlUvrZMl9yk" target="_blank" rel="noopener noreferrer">This Claude SEO Skill Does My SEO For Me</a></p><p class="youtube-embed-meta">Channel: Kasra Dash &middot; Views: 347 &middot; Uploaded: March 2026 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=tlUvrZMl9yk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=tlUvrZMl9yk">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When does the next link feel earned?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When does the next link feel earned?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Don%27t+Make+Me+Think%2C+Revisited+by+Steve+Krug&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Don&#x27;t Make Me Think, Revisited on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=qahpAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Don&#x27;t Make Me Think, Revisited" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Don%27t+Make+Me+Think%2C+Revisited+by+Steve+Krug&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Don&#x27;t Make Me Think, Revisited">Don&#x27;t Make Me Think, Revisited</a>
-        </h4>
-        <p class="fr-book-author">By Steve Krug</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Don%27t+Make+Me+Think%2C+Revisited+by+Steve+Krug&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Don&#x27;t Make Me Think, Revisited on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=qahpAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Don&#x27;t Make Me Think, Revisited" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Don%27t+Make+Me+Think%2C+Revisited+by+Steve+Krug&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Don&#x27;t Make Me Think, Revisited">Don&#x27;t Make Me Think, Revisited</a>
+</h4>
+<p class="fr-book-author">By Steve Krug</p>
         
-        <p class="fr-book-desc">Guides on matching page links to reader certainty and intuitive navigation</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Don%27t+Make+Me+Think%2C+Revisited+by+Steve+Krug&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Guides on matching page links to reader certainty and intuitive navigation</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Don%27t+Make+Me+Think%2C+Revisited+by+Steve+Krug&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Design+of+Everyday+Things+by+Don+Norman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Design of Everyday Things on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=qBfRDQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Design of Everyday Things" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Design+of+Everyday+Things+by+Don+Norman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Design of Everyday Things">The Design of Everyday Things</a>
-        </h4>
-        <p class="fr-book-author">By Don Norman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Design+of+Everyday+Things+by+Don+Norman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Design of Everyday Things on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=qBfRDQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Design of Everyday Things" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Design+of+Everyday+Things+by+Don+Norman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Design of Everyday Things">The Design of Everyday Things</a>
+</h4>
+<p class="fr-book-author">By Don Norman</p>
         
-        <p class="fr-book-desc">Explains how users perceive and interact with interfaces, supporting certainty-based linking decisions</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Design+of+Everyday+Things+by+Don+Norman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how users perceive and interact with interfaces, supporting certainty-based linking decisions</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Design+of+Everyday+Things+by+Don+Norman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Information+Dashboard+Design+by+Stephen+Few&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Information Dashboard Design on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=7-FrPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Information Dashboard Design" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Information+Dashboard+Design+by+Stephen+Few&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Information Dashboard Design">Information Dashboard Design</a>
-        </h4>
-        <p class="fr-book-author">By Stephen Few</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Information+Dashboard+Design+by+Stephen+Few&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Information Dashboard Design on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=7-FrPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Information Dashboard Design" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Information+Dashboard+Design+by+Stephen+Few&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Information Dashboard Design">Information Dashboard Design</a>
+</h4>
+<p class="fr-book-author">By Stephen Few</p>
         
-        <p class="fr-book-desc">Helps structure links and content to match reader comprehension and intent</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Information+Dashboard+Design+by+Stephen+Few&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps structure links and content to match reader comprehension and intent</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Information+Dashboard+Design+by+Stephen+Few&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Seductive+Interaction+Design+by+Stephen+P.+Anderson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Seductive Interaction Design on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KNpeewAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Seductive Interaction Design" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Seductive+Interaction+Design+by+Stephen+P.+Anderson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Seductive Interaction Design">Seductive Interaction Design</a>
-        </h4>
-        <p class="fr-book-author">By Stephen P. Anderson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Seductive+Interaction+Design+by+Stephen+P.+Anderson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Seductive Interaction Design on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KNpeewAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Seductive Interaction Design" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Seductive+Interaction+Design+by+Stephen+P.+Anderson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Seductive Interaction Design">Seductive Interaction Design</a>
+</h4>
+<p class="fr-book-author">By Stephen P. Anderson</p>
         
-        <p class="fr-book-desc">Focuses on guiding users through interaction flows aligned with their certainty level</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Seductive+Interaction+Design+by+Stephen+P.+Anderson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on guiding users through interaction flows aligned with their certainty level</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Seductive+Interaction+Design+by+Stephen+P.+Anderson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Don%27t+Make+Me+Think%2C+Revisited&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make Me Think, Revisited</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Design+of+Everyday+Things&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Design of Everyday Things</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Information+Dashboard+Design&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Information Dashboard Design</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Don%27t+Make+Me+Think%2C+Revisited&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make Me Think, Revisited</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Design+of+Everyday+Things&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Design of Everyday Things</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Information+Dashboard+Design&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Information Dashboard Design</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=seo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=link-fit-when-does-the-next-link-feel-earned-making-money-from-creating-websites-containing-aff-seo-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Seo In Guk Special Issue 2021 K-POP Magazine Poster Postcard"><img src="{{ '/assets/images/marketplace-covers/30d7f7378c210937ebcb.jpg' | relative_url }}" alt="Listing image for Seo In Guk Special Issue 2021 K-POP Magazine Poster Postcard" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=seo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=link-fit-when-does-the-next-link-feel-earned-making-money-from-creating-websites-containing-aff-seo-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Seo In Guk Special Issue 2021 K-POP Magazine Poster Postcard</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=seo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=link-fit-when-does-the-next-link-feel-earned-making-money-from-creating-websites-containing-aff-seo-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for seo poster">Search <span data-ebay-domain-label>eBay.com</span>: seo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=seo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=link-fit-when-does-the-next-link-feel-earned-making-money-from-creating-websites-containing-aff-seo-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=seo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=link-fit-when-does-the-next-link-feel-earned-making-money-from-creating-websites-containing-aff-seo-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Seo In Guk Special Issue 2021 K-POP Magazine Poster Postcard"><img src="{{ '/assets/images/marketplace-covers/30d7f7378c210937ebcb.jpg' | relative_url }}" alt="Listing image for Seo In Guk Special Issue 2021 K-POP Magazine Poster Postcard" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=seo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=link-fit-when-does-the-next-link-feel-earned-making-money-from-creating-websites-containing-aff-seo-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Seo In Guk Special Issue 2021 K-POP Magazine Poster Postcard</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=seo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=link-fit-when-does-the-next-link-feel-earned-making-money-from-creating-websites-containing-aff-seo-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for seo poster">Search<span data-ebay-domain-label>eBay.com</span>: seo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=seo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=link-fit-when-does-the-next-link-feel-earned-making-money-from-creating-websites-containing-aff-seo-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=seo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=link-fit-when-does-the-next-link-feel-earned-making-money-from-creating-websites-containing-aff-seo-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Itaewon Class Park Seo Jun Revenge Korean Movie Wall Art Home - POSTER 20x30"><img src="{{ '/assets/images/marketplace-covers/6361bbc9d4c1b3198677.jpg' | relative_url }}" alt="Listing image for Itaewon Class Park Seo Jun Revenge Korean Movie Wall Art Home - POSTER 20x30" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=seo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=link-fit-when-does-the-next-link-feel-earned-making-money-from-creating-websites-containing-aff-seo-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Itaewon Class Park Seo Jun Revenge Korean Movie Wall Art Home - POSTER 20x30</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=seo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=link-fit-when-does-the-next-link-feel-earned-making-money-from-creating-websites-containing-aff-seo-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for seo poster">Search <span data-ebay-domain-label>eBay.com</span>: seo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=seo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=link-fit-when-does-the-next-link-feel-earned-making-money-from-creating-websites-containing-aff-seo-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=seo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=link-fit-when-does-the-next-link-feel-earned-making-money-from-creating-websites-containing-aff-seo-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Itaewon Class Park Seo Jun Revenge Korean Movie Wall Art Home - POSTER 20x30"><img src="{{ '/assets/images/marketplace-covers/6361bbc9d4c1b3198677.jpg' | relative_url }}" alt="Listing image for Itaewon Class Park Seo Jun Revenge Korean Movie Wall Art Home - POSTER 20x30" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=seo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=link-fit-when-does-the-next-link-feel-earned-making-money-from-creating-websites-containing-aff-seo-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Itaewon Class Park Seo Jun Revenge Korean Movie Wall Art Home - POSTER 20x30</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=seo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=link-fit-when-does-the-next-link-feel-earned-making-money-from-creating-websites-containing-aff-seo-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for seo poster">Search<span data-ebay-domain-label>eBay.com</span>: seo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=seo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=link-fit-when-does-the-next-link-feel-earned-making-money-from-creating-websites-containing-aff-seo-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=seo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=link-fit-when-does-the-next-link-feel-earned-making-money-from-creating-websites-containing-aff-seo-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Seo In Guk 10P Poster Pack (A4 Size) K-Actors 02"><img src="{{ '/assets/images/marketplace-covers/fd08c0f5ff94b24013fa.jpg' | relative_url }}" alt="Listing image for Seo In Guk 10P Poster Pack (A4 Size) K-Actors 02" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=seo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=link-fit-when-does-the-next-link-feel-earned-making-money-from-creating-websites-containing-aff-seo-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Seo In Guk 10P Poster Pack (A4 Size) K-Actors 02</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=seo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=link-fit-when-does-the-next-link-feel-earned-making-money-from-creating-websites-containing-aff-seo-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for seo poster">Search <span data-ebay-domain-label>eBay.com</span>: seo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=seo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=link-fit-when-does-the-next-link-feel-earned-making-money-from-creating-websites-containing-aff-seo-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=seo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=link-fit-when-does-the-next-link-feel-earned-making-money-from-creating-websites-containing-aff-seo-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Seo In Guk 10P Poster Pack (A4 Size) K-Actors 02"><img src="{{ '/assets/images/marketplace-covers/fd08c0f5ff94b24013fa.jpg' | relative_url }}" alt="Listing image for Seo In Guk 10P Poster Pack (A4 Size) K-Actors 02" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=seo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=link-fit-when-does-the-next-link-feel-earned-making-money-from-creating-websites-containing-aff-seo-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Seo In Guk 10P Poster Pack (A4 Size) K-Actors 02</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=seo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=link-fit-when-does-the-next-link-feel-earned-making-money-from-creating-websites-containing-aff-seo-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for seo poster">Search<span data-ebay-domain-label>eBay.com</span>: seo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=seo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=link-fit-when-does-the-next-link-feel-earned-making-money-from-creating-websites-containing-aff-seo-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=seo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=link-fit-when-does-the-next-link-feel-earned-making-money-from-creating-websites-containing-aff-seo-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SEO Eat Sleep Repeat Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/91fcd062b89a0daa23ef.jpg' | relative_url }}" alt="Listing image for SEO Eat Sleep Repeat Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=seo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=link-fit-when-does-the-next-link-feel-earned-making-money-from-creating-websites-containing-aff-seo-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">SEO Eat Sleep Repeat Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=seo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=link-fit-when-does-the-next-link-feel-earned-making-money-from-creating-websites-containing-aff-seo-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for seo poster">Search <span data-ebay-domain-label>eBay.com</span>: seo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=seo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=link-fit-when-does-the-next-link-feel-earned-making-money-from-creating-websites-containing-aff-seo-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=seo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=link-fit-when-does-the-next-link-feel-earned-making-money-from-creating-websites-containing-aff-seo-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=seo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=link-fit-when-does-the-next-link-feel-earned-making-money-from-creating-websites-containing-aff-seo-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SEO Eat Sleep Repeat Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/91fcd062b89a0daa23ef.jpg' | relative_url }}" alt="Listing image for SEO Eat Sleep Repeat Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=seo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=link-fit-when-does-the-next-link-feel-earned-making-money-from-creating-websites-containing-aff-seo-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">SEO Eat Sleep Repeat Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=seo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=link-fit-when-does-the-next-link-feel-earned-making-money-from-creating-websites-containing-aff-seo-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for seo poster">Search<span data-ebay-domain-label>eBay.com</span>: seo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=seo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=link-fit-when-does-the-next-link-feel-earned-making-money-from-creating-websites-containing-aff-seo-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=seo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=link-fit-when-does-the-next-link-feel-earned-making-money-from-creating-websites-containing-aff-seo-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=seo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=link-fit-when-does-the-next-link-feel-earned-making-money-from-creating-websites-containing-aff-seo-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Seo Kang Joon and Park Min Young fr Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/9d1d64a35f738af565e1.jpg' | relative_url }}" alt="Listing image for Seo Kang Joon and Park Min Young fr Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=seo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=link-fit-when-does-the-next-link-feel-earned-making-money-from-creating-websites-containing-aff-seo-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Seo Kang Joon and Park Min Young fr Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=seo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=link-fit-when-does-the-next-link-feel-earned-making-money-from-creating-websites-containing-aff-seo-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for seo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: seo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=seo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=link-fit-when-does-the-next-link-feel-earned-making-money-from-creating-websites-containing-aff-seo-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=seo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=link-fit-when-does-the-next-link-feel-earned-making-money-from-creating-websites-containing-aff-seo-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Seo Kang Joon and Park Min Young fr Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/9d1d64a35f738af565e1.jpg' | relative_url }}" alt="Listing image for Seo Kang Joon and Park Min Young fr Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=seo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=link-fit-when-does-the-next-link-feel-earned-making-money-from-creating-websites-containing-aff-seo-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Seo Kang Joon and Park Min Young fr Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=seo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=link-fit-when-does-the-next-link-feel-earned-making-money-from-creating-websites-containing-aff-seo-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for seo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: seo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=seo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=link-fit-when-does-the-next-link-feel-earned-making-money-from-creating-websites-containing-aff-seo-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=seo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=link-fit-when-does-the-next-link-feel-earned-making-money-from-creating-websites-containing-aff-seo-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Kim Seo-hyung (???) Korean actress Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/34a046ae7cbe47738f18.jpg' | relative_url }}" alt="Listing image for Kim Seo-hyung (???) Korean actress Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=seo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=link-fit-when-does-the-next-link-feel-earned-making-money-from-creating-websites-containing-aff-seo-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Kim Seo-hyung (???) Korean actress Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=seo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=link-fit-when-does-the-next-link-feel-earned-making-money-from-creating-websites-containing-aff-seo-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for seo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: seo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=seo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=link-fit-when-does-the-next-link-feel-earned-making-money-from-creating-websites-containing-aff-seo-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=seo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=link-fit-when-does-the-next-link-feel-earned-making-money-from-creating-websites-containing-aff-seo-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Kim Seo-hyung (???) Korean actress Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/34a046ae7cbe47738f18.jpg' | relative_url }}" alt="Listing image for Kim Seo-hyung (???) Korean actress Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=seo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=link-fit-when-does-the-next-link-feel-earned-making-money-from-creating-websites-containing-aff-seo-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Kim Seo-hyung (???) Korean actress Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=seo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=link-fit-when-does-the-next-link-feel-earned-making-money-from-creating-websites-containing-aff-seo-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for seo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: seo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=seo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=link-fit-when-does-the-next-link-feel-earned-making-money-from-creating-websites-containing-aff-seo-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=seo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=link-fit-when-does-the-next-link-feel-earned-making-money-from-creating-websites-containing-aff-seo-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Seo In Guk 10P Poster Pack (A4 Size) K-Actor 20220300"><img src="{{ '/assets/images/marketplace-covers/80e8ecb599f9c2d51b02.jpg' | relative_url }}" alt="Listing image for Seo In Guk 10P Poster Pack (A4 Size) K-Actor 20220300" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=seo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=link-fit-when-does-the-next-link-feel-earned-making-money-from-creating-websites-containing-aff-seo-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Seo In Guk 10P Poster Pack (A4 Size) K-Actor 20220300</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=seo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=link-fit-when-does-the-next-link-feel-earned-making-money-from-creating-websites-containing-aff-seo-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for seo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: seo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=seo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=link-fit-when-does-the-next-link-feel-earned-making-money-from-creating-websites-containing-aff-seo-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=seo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=link-fit-when-does-the-next-link-feel-earned-making-money-from-creating-websites-containing-aff-seo-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Seo In Guk 10P Poster Pack (A4 Size) K-Actor 20220300"><img src="{{ '/assets/images/marketplace-covers/80e8ecb599f9c2d51b02.jpg' | relative_url }}" alt="Listing image for Seo In Guk 10P Poster Pack (A4 Size) K-Actor 20220300" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=seo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=link-fit-when-does-the-next-link-feel-earned-making-money-from-creating-websites-containing-aff-seo-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Seo In Guk 10P Poster Pack (A4 Size) K-Actor 20220300</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=seo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=link-fit-when-does-the-next-link-feel-earned-making-money-from-creating-websites-containing-aff-seo-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for seo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: seo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=seo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=link-fit-when-does-the-next-link-feel-earned-making-money-from-creating-websites-containing-aff-seo-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=seo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=link-fit-when-does-the-next-link-feel-earned-making-money-from-creating-websites-containing-aff-seo-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Came I Saw I Optimized SEO Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/f64fc1c1bf9e5ce9eebf.jpg' | relative_url }}" alt="Listing image for I Came I Saw I Optimized SEO Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=seo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=link-fit-when-does-the-next-link-feel-earned-making-money-from-creating-websites-containing-aff-seo-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Came I Saw I Optimized SEO Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=seo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=link-fit-when-does-the-next-link-feel-earned-making-money-from-creating-websites-containing-aff-seo-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for seo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: seo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=seo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=link-fit-when-does-the-next-link-feel-earned-making-money-from-creating-websites-containing-aff-seo-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=seo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=link-fit-when-does-the-next-link-feel-earned-making-money-from-creating-websites-containing-aff-seo-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=seo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=link-fit-when-does-the-next-link-feel-earned-making-money-from-creating-websites-containing-aff-seo-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Came I Saw I Optimized SEO Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/f64fc1c1bf9e5ce9eebf.jpg' | relative_url }}" alt="Listing image for I Came I Saw I Optimized SEO Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=seo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=link-fit-when-does-the-next-link-feel-earned-making-money-from-creating-websites-containing-aff-seo-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Came I Saw I Optimized SEO Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=seo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=link-fit-when-does-the-next-link-feel-earned-making-money-from-creating-websites-containing-aff-seo-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for seo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: seo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=seo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=link-fit-when-does-the-next-link-feel-earned-making-money-from-creating-websites-containing-aff-seo-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=seo+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=link-fit-when-does-the-next-link-feel-earned-making-money-from-creating-websites-containing-aff-seo-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -745,7 +745,7 @@ For affiliate publishers, that often produces a stronger long-term outcome than 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -765,7 +765,7 @@ For affiliate publishers, that often produces a stronger long-term outcome than 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -797,7 +797,7 @@ For affiliate publishers, that often produces a stronger long-term outcome than 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -827,7 +827,7 @@ For affiliate publishers, that often produces a stronger long-term outcome than 
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -885,108 +885,108 @@ For affiliate publishers, that often produces a stronger long-term outcome than 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: digitalcommunications.wp.st-andrews.ac.uk  
    Title: the information scent of links  
-   Link: <a href="https://digitalcommunications.wp.st-andrews.ac.uk/2021/03/09/the-information-scent-of-links/" target="_blank" rel="noopener noreferrer nofollow">https://digitalcommunications.wp.st-andrews.ac.uk/2021/03/09/the-information-scent-of-links/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>9 Mar 2021 — You&#x27;ll choose the one with the highest information scent – the link with relevant terms and context that you think will help...</p></details>
+   Link:<a href="https://digitalcommunications.wp.st-andrews.ac.uk/2021/03/09/the-information-scent-of-links/" target="_blank" rel="noopener noreferrer nofollow">https://digitalcommunications.wp.st-andrews.ac.uk/2021/03/09/the-information-scent-of-links/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>9 Mar 2021 — You&#x27;ll choose the one with the highest information scent – the link with relevant terms and context that you think will help...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: business.google.com  
-   Link: <a href="https://business.google.com/uk/think/consumer-insights/navigating-purchase-behavior-and-decision-making/" target="_blank" rel="noopener noreferrer nofollow">https://business.google.com/uk/think/consumer-insights/navigating-purchase-behavior-and-decision-making/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Google BusinessHow people decide what to buy lies in the &#x27;messy middle&#x27; of...People loop through these twin modes of exploration and eva...</p></details>
+   Link:<a href="https://business.google.com/uk/think/consumer-insights/navigating-purchase-behavior-and-decision-making/" target="_blank" rel="noopener noreferrer nofollow">https://business.google.com/uk/think/consumer-insights/navigating-purchase-behavior-and-decision-making/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Google BusinessHow people decide what to buy lies in the &#x27;messy middle&#x27; of...People loop through these twin modes of exploration and eva...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: google.com  
-   Link: <a href="https://www.google.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.google.com/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Search the world&#x27;s information, including webpages, images, videos and more. Google has many special features to help you find exac...</p></details>
+   Link:<a href="https://www.google.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.google.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Search the world&#x27;s information, including webpages, images, videos and more. Google has many special features to help you find exac...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: business.google.com  
    Title: messy middle 2023  
-   Link: <a href="https://business.google.com/aunz/think/consumer-insights/messy-middle-2023/" target="_blank" rel="noopener noreferrer nofollow">https://business.google.com/aunz/think/consumer-insights/messy-middle-2023/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Behaviour in the Messy MiddleUnderstand the buying behaviour of omnichannel shoppers and navigate the Messy Middle of e-commerce customer...</p></details>
+   Link:<a href="https://business.google.com/aunz/think/consumer-insights/messy-middle-2023/" target="_blank" rel="noopener noreferrer nofollow">https://business.google.com/aunz/think/consumer-insights/messy-middle-2023/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Behaviour in the Messy MiddleUnderstand the buying behaviour of omnichannel shoppers and navigate the Messy Middle of e-commerce customer...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: nngroup.com  
    Title: information scent  
-   Link: <a href="https://www.nngroup.com/articles/information-scent/" target="_blank" rel="noopener noreferrer nofollow">https://www.nngroup.com/articles/information-scent/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Nielsen Norman GroupInformation Scent: How Users Decide Where to Go Next2 Feb 2020 — When deciding which links to click on the web, users...</p></details>
+   Link:<a href="https://www.nngroup.com/articles/information-scent/" target="_blank" rel="noopener noreferrer nofollow">https://www.nngroup.com/articles/information-scent/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nielsen Norman GroupInformation Scent: How Users Decide Where to Go Next2 Feb 2020 — When deciding which links to click on the web, users...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: nngroup.com  
    Title: information foraging  
-   Link: <a href="https://www.nngroup.com/articles/information-foraging/" target="_blank" rel="noopener noreferrer nofollow">https://www.nngroup.com/articles/information-foraging/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Nielsen Norman GroupInformation Foraging: A Theory of How People Navigate on...10 Nov 2019 — The estimate is based the on cues that they...</p></details>
+   Link:<a href="https://www.nngroup.com/articles/information-foraging/" target="_blank" rel="noopener noreferrer nofollow">https://www.nngroup.com/articles/information-foraging/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nielsen Norman GroupInformation Foraging: A Theory of How People Navigate on...10 Nov 2019 — The estimate is based the on cues that they...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: thinkwithgoogle.com  
-   Link: <a href="https://www.thinkwithgoogle.com/_qs/documents/9998/Decoding_Decisions_The_Messy_Middle_of_Purchase_Behavior.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.thinkwithgoogle.com/_qs/documents/9998/Decoding_Decisions_The_Messy_Middle_of_Purchase_Behavior.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Google BusinessDecoding DecisionsIn our model, between the twin poles of trigger and purchase, sits the messy middle, in which consumers...</p></details>
+   Link:<a href="https://www.thinkwithgoogle.com/_qs/documents/9998/Decoding_Decisions_The_Messy_Middle_of_Purchase_Behavior.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.thinkwithgoogle.com/_qs/documents/9998/Decoding_Decisions_The_Messy_Middle_of_Purchase_Behavior.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Google BusinessDecoding DecisionsIn our model, between the twin poles of trigger and purchase, sits the messy middle, in which consumers...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: thinkwithgoogle.com  
-   Link: <a href="https://www.thinkwithgoogle.com/_qs/documents/18366/Decoding_Decisions_Marketing_in_the_Messy_Middle.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.thinkwithgoogle.com/_qs/documents/18366/Decoding_Decisions_Marketing_in_the_Messy_Middle.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Marketing in the messy middlemessy middle. The exploration and evaluation loops of the messy middle are fundamentally about how people di...</p></details>
+   Link:<a href="https://www.thinkwithgoogle.com/_qs/documents/18366/Decoding_Decisions_Marketing_in_the_Messy_Middle.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.thinkwithgoogle.com/_qs/documents/18366/Decoding_Decisions_Marketing_in_the_Messy_Middle.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Marketing in the messy middlemessy middle. The exploration and evaluation loops of the messy middle are fundamentally about how people di...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: uxtigers.com  
    Title: information scent  
-   Link: <a href="https://www.uxtigers.com/post/information-scent" target="_blank" rel="noopener noreferrer nofollow">https://www.uxtigers.com/post/information-scent</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How Users Decide Where to Click26 Jul 2024 — Good information scent happens when link labels and other navigational cues accurately repre...</p></details>
+   Link:<a href="https://www.uxtigers.com/post/information-scent" target="_blank" rel="noopener noreferrer nofollow">https://www.uxtigers.com/post/information-scent</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How Users Decide Where to Click26 Jul 2024 — Good information scent happens when link labels and other navigational cues accurately repre...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: neveralwaysbook.com  
    Title: messy middle  
-   Link: <a href="https://neveralwaysbook.com/learn/messy-middle" target="_blank" rel="noopener noreferrer nofollow">https://neveralwaysbook.com/learn/messy-middle</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Marketing: Google&#x27;s Consumer Journey Model1 May 2026 — Unlike traditional linear funnels, consumers loop repeatedly between exploration (...</p></details>
+   Link:<a href="https://neveralwaysbook.com/learn/messy-middle" target="_blank" rel="noopener noreferrer nofollow">https://neveralwaysbook.com/learn/messy-middle</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Marketing: Google&#x27;s Consumer Journey Model1 May 2026 — Unlike traditional linear funnels, consumers loop repeatedly between exploration (...</p></details>
    Published: May 2026  
 
 ### Additional References
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UXDesign/comments/th1uo7/notes_on_information_foraging/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UXDesign/comments/th1uo7/notes_on_information_foraging/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Notes on Information Foraging: r/UXDesignHow do users decide which link to click, and which ones to ignore? This happens through informa...</p></details>
+   Link:<a href="https://www.reddit.com/r/UXDesign/comments/th1uo7/notes_on_information_foraging/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UXDesign/comments/th1uo7/notes_on_information_foraging/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Notes on Information Foraging: r/UXDesignHow do users decide which link to click, and which ones to ignore? This happens through informa...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: nngroup.com  
-   Link: <a href="https://www.nngroup.com/topic/psychology-and-ux/?page=4" target="_blank" rel="noopener noreferrer nofollow">https://www.nngroup.com/topic/psychology-and-ux/?page=4</a>  
+   Link:<a href="https://www.nngroup.com/topic/psychology-and-ux/?page=4" target="_blank" rel="noopener noreferrer nofollow">https://www.nngroup.com/topic/psychology-and-ux/?page=4</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: steptwo.com.au  
-   Link: <a href="https://www.steptwo.com.au/papers/kmc_informationscent/" target="_blank" rel="noopener noreferrer nofollow">https://www.steptwo.com.au/papers/kmc_informationscent/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Information scent: helping people find the content they wantThis article introduces the concept of information scent and explains how cre...</p></details>
+   Link:<a href="https://www.steptwo.com.au/papers/kmc_informationscent/" target="_blank" rel="noopener noreferrer nofollow">https://www.steptwo.com.au/papers/kmc_informationscent/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Information scent: helping people find the content they wantThis article introduces the concept of information scent and explains how cre...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/astrolabs/understanding-information-scent-95a6554007d4" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/astrolabs/understanding-information-scent-95a6554007d4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding Information ScentInformation scent is basically the strength and correlation of the information provided on a site in compa...</p></details>
+   Link:<a href="https://medium.com/astrolabs/understanding-information-scent-95a6554007d4" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/astrolabs/understanding-information-scent-95a6554007d4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding Information ScentInformation scent is basically the strength and correlation of the information provided on a site in compa...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/pulse/google-decodes-messy-middle-buying-process-g-david-dodd" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/google-decodes-messy-middle-buying-process-g-david-dodd</a>  
+   Link:<a href="https://www.linkedin.com/pulse/google-decodes-messy-middle-buying-process-g-david-dodd" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/google-decodes-messy-middle-buying-process-g-david-dodd</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/710142097/Decoding-Decisions-Marketing-in-the-Messy-Middle-DclfruV" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/710142097/Decoding-Decisions-Marketing-in-the-Messy-Middle-DclfruV</a>  
+   Link:<a href="https://www.scribd.com/document/710142097/Decoding-Decisions-Marketing-in-the-Messy-Middle-DclfruV" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/710142097/Decoding-Decisions-Marketing-in-the-Messy-Middle-DclfruV</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/danielpriestley_nobody-pulls-out-their-wallet-for-someone-activity-7445397074776469504-H0Ib" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/danielpriestley_nobody-pulls-out-their-wallet-for-someone-activity-7445397074776469504-H0Ib</a>  
+   Link:<a href="https://www.linkedin.com/posts/danielpriestley_nobody-pulls-out-their-wallet-for-someone-activity-7445397074776469504-H0Ib" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/danielpriestley_nobody-pulls-out-their-wallet-for-someone-activity-7445397074776469504-H0Ib</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=-c9AUhXAFD8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-c9AUhXAFD8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Information ScentInformation foraging explains how users behave on the web and why they click certain links and not others. Information s...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=-c9AUhXAFD8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-c9AUhXAFD8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Information ScentInformation foraging explains how users behave on the web and why they click certain links and not others. Information s...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: seozoom.com  
    Title: understanding the messy middle in the consumer funnel  
-   Link: <a href="https://www.seozoom.com/understanding-the-messy-middle-in-the-consumer-funnel/" target="_blank" rel="noopener noreferrer nofollow">https://www.seozoom.com/understanding-the-messy-middle-in-the-consumer-funnel/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Oct 12, 2023 — Messy Middle is the crucial decision space between stimulus and purchase: here&#x27;s how brands can guide consumers on the pat...</p></details>
+   Link:<a href="https://www.seozoom.com/understanding-the-messy-middle-in-the-consumer-funnel/" target="_blank" rel="noopener noreferrer nofollow">https://www.seozoom.com/understanding-the-messy-middle-in-the-consumer-funnel/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Oct 12, 2023 — Messy Middle is the crucial decision space between stimulus and purchase: here&#x27;s how brands can guide consumers on the pat...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/pulse/following-scent-how-information-foraging-shapes-better-john-brown-rmaje" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/following-scent-how-information-foraging-shapes-better-john-brown-rmaje</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>t they might find if they follow a link, click a button, or explore a section...</p></details>
+   Link:<a href="https://www.linkedin.com/pulse/following-scent-how-information-foraging-shapes-better-john-brown-rmaje" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/following-scent-how-information-foraging-shapes-better-john-brown-rmaje</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>t they might find if they follow a link, click a button, or explore a section...</p></details>

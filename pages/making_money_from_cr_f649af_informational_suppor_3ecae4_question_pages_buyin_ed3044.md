@@ -279,7 +279,7 @@ The most valuable informational affiliate pages often answer questions that appe
 <img src="{{ "/assets/images/making_money_from_cr_f649af_informational_suppor_3ecae4_question_pages_buyin_ed3044-Illustration-1-dark.svg" | relative_url }}" alt="Question Pages illustration 1" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_informational_suppor_3ecae4_question_pages_buyin_ed3044-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_informational_suppor_3ecae4_question_pages_buyin_ed3044-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 A question such as “What size dehumidifier do I need?” does more than attract traffic. It reveals buying [criteria]({{ 'criteria/' | relative_url }}): room size, extraction rate, noise level, drainage options and running costs. Once those criteria become clear, the reader is much more likely to engage with a comparison page, buying guide or review because they now understand what they are evaluating.
 
-This is where many affiliate sites either create buying momentum or lose it. Pages that expose decision criteria help readers move from vague uncertainty to structured evaluation. Pages that merely answer broad curiosity questions often generate pageviews without creating a meaningful route towards commercial intent. Google's research on the “messy middle” of purchasing describes how buyers repeatedly move between exploration and evaluation before choosing a product. Question pages are most valuable when they help readers exit exploration with clearer evaluation criteria. <span class="citation-chip-wrap"><a class="citation-chip" href="https://business.google.com/uk/think/consumer-insights/navigating-purchase-behavior-and-decision-making/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: business.google.com">[Google Business]</a><span class="citation-popover" role="note"><span class="citation-popover-source">business.google.com</span><span class="citation-popover-snippet">As people explore and evaluate in the messy middle, cognitive biases shape their shopping behavior and...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://business.google.com/uk/think/consumer-insights/navigating-purchase-behavior-and-decision-making/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: business.google.com">[Google Business]</a><span class="citation-popover" role="note"><span class="citation-popover-source">business.google.com</span><span class="citation-popover-snippet">As people explore and evaluate in the messy middle, cognitive biases shape their shopping behavior and...Read more...</span></span></span>
+This is where many affiliate sites either create buying momentum or lose it. Pages that expose decision criteria help readers move from vague uncertainty to structured evaluation. Pages that merely answer broad curiosity questions often generate pageviews without creating a meaningful route towards commercial intent. Google's research on the “messy middle” of purchasing describes how buyers repeatedly move between exploration and evaluation before choosing a product. Question pages are most valuable when they help readers exit exploration with clearer evaluation criteria.<span class="citation-chip-wrap"><a class="citation-chip" href="https://business.google.com/uk/think/consumer-insights/navigating-purchase-behavior-and-decision-making/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: business.google.com">[Google Business]</a><span class="citation-popover" role="note"><span class="citation-popover-source">business.google.com</span><span class="citation-popover-snippet">As people explore and evaluate in the messy middle, cognitive biases shape their shopping behavior and...Read more...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://business.google.com/uk/think/consumer-insights/navigating-purchase-behavior-and-decision-making/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: business.google.com">[Google Business]</a><span class="citation-popover" role="note"><span class="citation-popover-source">business.google.com</span><span class="citation-popover-snippet">As people explore and evaluate in the messy middle, cognitive biases shape their shopping behavior and...Read more...</span></span></span>
 
 ## How early-stage questions expose commercial criteria
 
@@ -370,7 +370,7 @@ Examples:
 
 These pages reveal prioritisation criteria and naturally lead into filtered buying guides.
 
-Research into consumer decision-making consistently shows that buyers move from problem recognition into information gathering before evaluating alternatives. Questions that clarify evaluation criteria sit directly between those stages. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.involve.me/blog/5-stages-of-the-consumer-decision-making-process" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: involve.me">[Involve.me]</a><span class="citation-popover" role="note"><span class="citation-popover-source">involve.me</span><span class="citation-popover-title">5 stages of the consumer decision making process</span><span class="citation-popover-snippet">Stages of the Consumer Decision-Making Process.5 Jun 2025 — 1. Problem or Need Recognition · 2. Information Search · 3. Evaluation of Alt...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://blog.hubspot.com/blog/tabid/6307/bid/33375/16-ways-to-simplify-your-prospects-decision-making-process.aspx" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.hubspot.com">[HubSpot]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.hubspot.com</span><span class="citation-popover-title">16 ways to simplify your prospects decision making process.aspx</span><span class="citation-popover-snippet">HubSpot BlogThe five stages of the consumer decision-making process...25 Feb 2026 — Discover the five stages of the consumer decision-ma...</span></span></span>
+Research into consumer decision-making consistently shows that buyers move from problem recognition into information gathering before evaluating alternatives. Questions that clarify evaluation criteria sit directly between those stages.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.involve.me/blog/5-stages-of-the-consumer-decision-making-process" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: involve.me">[Involve.me]</a><span class="citation-popover" role="note"><span class="citation-popover-source">involve.me</span><span class="citation-popover-title">5 stages of the consumer decision making process</span><span class="citation-popover-snippet">Stages of the Consumer Decision-Making Process.5 Jun 2025 — 1. Problem or Need Recognition · 2. Information Search · 3. Evaluation of Alt...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://blog.hubspot.com/blog/tabid/6307/bid/33375/16-ways-to-simplify-your-prospects-decision-making-process.aspx" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.hubspot.com">[HubSpot]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.hubspot.com</span><span class="citation-popover-title">16 ways to simplify your prospects decision making process.aspx</span><span class="citation-popover-snippet">HubSpot BlogThe five stages of the consumer decision-making process...25 Feb 2026 — Discover the five stages of the consumer decision-ma...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/-c9AUhXAFD8" title="Information Scent" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=-c9AUhXAFD8" target="_blank" rel="noopener noreferrer">Information Scent</a></p><p class="youtube-embed-meta">Channel: NNgroup &middot; Views: 13.0K &middot; Uploaded: November 2020 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=-c9AUhXAFD8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=-c9AUhXAFD8">Open on YouTube</a></p></div></div></div>
 
@@ -516,7 +516,7 @@ This does not mean such pages should never exist. They simply belong lower in a 
 
 A question page only creates revenue potential if readers can see why the next page matters.
 
-Nielsen Norman Group's work on information scent shows that users follow links when the surrounding cues suggest that the destination contains the information they need. Poorly matched links weaken progression and increase abandonment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nngroup.com/articles/information-scent/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nngroup.com">[Nielsen Norman Group]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nngroup.com</span><span class="citation-popover-title">information scent</span><span class="citation-popover-snippet">Nielsen Norman GroupInformation Scent: How Users Decide Where to Go Next2 Feb 2020 — When deciding which links to click on the web, users...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nngroup.com/articles/information-scent/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nngroup.com">[Nielsen Norman Group]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nngroup.com</span><span class="citation-popover-title">information scent</span><span class="citation-popover-snippet">Nielsen Norman GroupInformation Scent: How Users Decide Where to Go Next2 Feb 2020 — When deciding which links to click on the web, users...</span></span></span>
+Nielsen Norman Group's work on information scent shows that users follow links when the surrounding cues suggest that the destination contains the information they need. Poorly matched links weaken progression and increase abandonment.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nngroup.com/articles/information-scent/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nngroup.com">[Nielsen Norman Group]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nngroup.com</span><span class="citation-popover-title">information scent</span><span class="citation-popover-snippet">Nielsen Norman GroupInformation Scent: How Users Decide Where to Go Next2 Feb 2020 — When deciding which links to click on the web, users...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nngroup.com/articles/information-scent/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nngroup.com">[Nielsen Norman Group]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nngroup.com</span><span class="citation-popover-title">information scent</span><span class="citation-popover-snippet">Nielsen Norman GroupInformation Scent: How Users Decide Where to Go Next2 Feb 2020 — When deciding which links to click on the web, users...</span></span></span>
 
 For affiliate sites, this means the transition should reflect the criteria the reader just discovered.
 
@@ -545,237 +545,237 @@ This distinction matters because qualification often increases the value of late
 From a website monetisation perspective, the best question pages are therefore not broad educational resources or disguised sales pages. They are pages that convert uncertainty into criteria. Once the criteria become visible, the next commercial step becomes obvious, and the buying path feels useful rather than forced. The strongest affiliate content systems repeatedly build around this mechanism because it scales across categories, improves internal linking logic and creates clearer paths from informational traffic to revenue-generating decisions.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Which questions create buying momentum?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Which questions create buying momentum?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Contagious+by+Jonah+Berger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Contagious on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=J2l7pgwTiW4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Contagious" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Contagious+by+Jonah+Berger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Contagious">Contagious</a>
-        </h4>
-        <p class="fr-book-author">By Jonah Berger</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Contagious+by+Jonah+Berger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Contagious on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=J2l7pgwTiW4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Contagious" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Contagious+by+Jonah+Berger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Contagious">Contagious</a>
+</h4>
+<p class="fr-book-author">By Jonah Berger</p>
         
-        <p class="fr-book-desc">Explains how information prompts consumer interest and encourages next-step actions, aligning with question-driven momentum</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Contagious+by+Jonah+Berger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how information prompts consumer interest and encourages next-step actions, aligning with question-driven momentum</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Contagious+by+Jonah+Berger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Hooked+by+Nir+Eyal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Hooked on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KLJPEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Hooked" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Hooked+by+Nir+Eyal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hooked">Hooked</a>
-        </h4>
-        <p class="fr-book-author">By Nir Eyal</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Hooked+by+Nir+Eyal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Hooked on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KLJPEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Hooked" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Hooked+by+Nir+Eyal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hooked">Hooked</a>
+</h4>
+<p class="fr-book-author">By Nir Eyal</p>
         
-        <p class="fr-book-desc">Teaches how user questions can lead to structured engagement and buying behavior</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Hooked+by+Nir+Eyal&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Teaches how user questions can lead to structured engagement and buying behavior</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Hooked+by+Nir+Eyal&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Made+to+Stick+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Made to Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=7XGPEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Made to Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Made+to+Stick+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Made to Stick">Made to Stick</a>
-        </h4>
-        <p class="fr-book-author">By Chip Heath, Dan Heath</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Made+to+Stick+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Made to Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=7XGPEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Made to Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Made+to+Stick+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Made to Stick">Made to Stick</a>
+</h4>
+<p class="fr-book-author">By Chip Heath, Dan Heath</p>
         
-        <p class="fr-book-desc">Principles of sticky messaging help questions create buying momentum</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Made+to+Stick+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Principles of sticky messaging help questions create buying momentum</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Made+to+Stick+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Start+with+Why+by+Simon+Sinek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Start with Why on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fkOKDQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Start with Why" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Start+with+Why+by+Simon+Sinek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Start with Why">Start with Why</a>
-        </h4>
-        <p class="fr-book-author">By Simon Sinek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Start+with+Why+by+Simon+Sinek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Start with Why on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fkOKDQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Start with Why" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Start+with+Why+by+Simon+Sinek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Start with Why">Start with Why</a>
+</h4>
+<p class="fr-book-author">By Simon Sinek</p>
         
-        <p class="fr-book-desc">Clarifies how framing early questions can guide audience decisions</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Start+with+Why+by+Simon+Sinek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Clarifies how framing early questions can guide audience decisions</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Start+with+Why+by+Simon+Sinek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Contagious&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Contagious</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Hooked&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Hooked</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Made+to+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Made to Stick</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Contagious&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Contagious</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Hooked&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Hooked</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Made+to+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Made to Stick</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=marketing+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=question-pages-which-questions-create-buying-momentum-making-money-from-creating-websites-contai-marketing-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Office Power Coffee Mug VTG Drink CCI Marketing Training Computer UK Made Cup"><img src="{{ '/assets/images/marketplace-covers/43a1440c8eb3c21695b2.jpg' | relative_url }}" alt="Listing image for Office Power Coffee Mug VTG Drink CCI Marketing Training Computer UK Made Cup" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=marketing+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=question-pages-which-questions-create-buying-momentum-making-money-from-creating-websites-contai-marketing-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Office Power Coffee Mug VTG Drink CCI Marketing Training Computer UK Made Cup</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=marketing+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=question-pages-which-questions-create-buying-momentum-making-money-from-creating-websites-contai-marketing-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for marketing mug">Search <span data-ebay-domain-label>eBay.com</span>: marketing mug</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=marketing+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=question-pages-which-questions-create-buying-momentum-making-money-from-creating-websites-contai-marketing-mug&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=marketing+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=question-pages-which-questions-create-buying-momentum-making-money-from-creating-websites-contai-marketing-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Office Power Coffee Mug VTG Drink CCI Marketing Training Computer UK Made Cup"><img src="{{ '/assets/images/marketplace-covers/43a1440c8eb3c21695b2.jpg' | relative_url }}" alt="Listing image for Office Power Coffee Mug VTG Drink CCI Marketing Training Computer UK Made Cup" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=marketing+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=question-pages-which-questions-create-buying-momentum-making-money-from-creating-websites-contai-marketing-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Office Power Coffee Mug VTG Drink CCI Marketing Training Computer UK Made Cup</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=marketing+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=question-pages-which-questions-create-buying-momentum-making-money-from-creating-websites-contai-marketing-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for marketing mug">Search<span data-ebay-domain-label>eBay.com</span>: marketing mug</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=marketing+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=question-pages-which-questions-create-buying-momentum-making-money-from-creating-websites-contai-marketing-mug&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=marketing+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=question-pages-which-questions-create-buying-momentum-making-money-from-creating-websites-contai-marketing-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Pfizer Feldene Marketing Promo Pharmaceutical Mug Coffee Cup"><img src="{{ '/assets/images/marketplace-covers/01adb261447ddbfe6c90.jpg' | relative_url }}" alt="Listing image for Pfizer Feldene Marketing Promo Pharmaceutical Mug Coffee Cup" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=marketing+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=question-pages-which-questions-create-buying-momentum-making-money-from-creating-websites-contai-marketing-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Pfizer Feldene Marketing Promo Pharmaceutical Mug Coffee Cup</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=marketing+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=question-pages-which-questions-create-buying-momentum-making-money-from-creating-websites-contai-marketing-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for marketing mug">Search <span data-ebay-domain-label>eBay.com</span>: marketing mug</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=marketing+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=question-pages-which-questions-create-buying-momentum-making-money-from-creating-websites-contai-marketing-mug&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=marketing+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=question-pages-which-questions-create-buying-momentum-making-money-from-creating-websites-contai-marketing-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=marketing+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=question-pages-which-questions-create-buying-momentum-making-money-from-creating-websites-contai-marketing-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Pfizer Feldene Marketing Promo Pharmaceutical Mug Coffee Cup"><img src="{{ '/assets/images/marketplace-covers/01adb261447ddbfe6c90.jpg' | relative_url }}" alt="Listing image for Pfizer Feldene Marketing Promo Pharmaceutical Mug Coffee Cup" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=marketing+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=question-pages-which-questions-create-buying-momentum-making-money-from-creating-websites-contai-marketing-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Pfizer Feldene Marketing Promo Pharmaceutical Mug Coffee Cup</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=marketing+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=question-pages-which-questions-create-buying-momentum-making-money-from-creating-websites-contai-marketing-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for marketing mug">Search<span data-ebay-domain-label>eBay.com</span>: marketing mug</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=marketing+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=question-pages-which-questions-create-buying-momentum-making-money-from-creating-websites-contai-marketing-mug&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=marketing+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=question-pages-which-questions-create-buying-momentum-making-money-from-creating-websites-contai-marketing-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=question-pages-which-questions-create-buying-momentum-making-money-from-creating-websites-contai-marketing-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Marketing Manager Mug Social Media Office Worker Appreciation Gift Mug"><img src="{{ '/assets/images/marketplace-covers/bdbc20d45f93cd2e26fb.jpg' | relative_url }}" alt="Listing image for Marketing Manager Mug Social Media Office Worker Appreciation Gift Mug" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=question-pages-which-questions-create-buying-momentum-making-money-from-creating-websites-contai-marketing-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Marketing Manager Mug Social Media Office Worker Appreciation Gift Mug</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=question-pages-which-questions-create-buying-momentum-making-money-from-creating-websites-contai-marketing-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for marketing mug">Search <span data-ebay-domain-label>eBay.co.uk</span>: marketing mug</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=question-pages-which-questions-create-buying-momentum-making-money-from-creating-websites-contai-marketing-mug&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=question-pages-which-questions-create-buying-momentum-making-money-from-creating-websites-contai-marketing-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Marketing Manager Mug Social Media Office Worker Appreciation Gift Mug"><img src="{{ '/assets/images/marketplace-covers/bdbc20d45f93cd2e26fb.jpg' | relative_url }}" alt="Listing image for Marketing Manager Mug Social Media Office Worker Appreciation Gift Mug" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=question-pages-which-questions-create-buying-momentum-making-money-from-creating-websites-contai-marketing-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Marketing Manager Mug Social Media Office Worker Appreciation Gift Mug</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=question-pages-which-questions-create-buying-momentum-making-money-from-creating-websites-contai-marketing-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for marketing mug">Search<span data-ebay-domain-label>eBay.co.uk</span>: marketing mug</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=question-pages-which-questions-create-buying-momentum-making-money-from-creating-websites-contai-marketing-mug&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=question-pages-which-questions-create-buying-momentum-making-money-from-creating-websites-contai-marketing-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Funny Gift Mug for Work Office - Presents for Marketing, Social Media Manager"><img src="{{ '/assets/images/marketplace-covers/f4fbaaca2b31d5c36539.jpg' | relative_url }}" alt="Listing image for Funny Gift Mug for Work Office - Presents for Marketing, Social Media Manager" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=question-pages-which-questions-create-buying-momentum-making-money-from-creating-websites-contai-marketing-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Funny Gift Mug for Work Office - Presents for Marketing, Social Media Manager</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=question-pages-which-questions-create-buying-momentum-making-money-from-creating-websites-contai-marketing-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for marketing mug">Search <span data-ebay-domain-label>eBay.co.uk</span>: marketing mug</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=question-pages-which-questions-create-buying-momentum-making-money-from-creating-websites-contai-marketing-mug&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=question-pages-which-questions-create-buying-momentum-making-money-from-creating-websites-contai-marketing-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Funny Gift Mug for Work Office - Presents for Marketing, Social Media Manager"><img src="{{ '/assets/images/marketplace-covers/f4fbaaca2b31d5c36539.jpg' | relative_url }}" alt="Listing image for Funny Gift Mug for Work Office - Presents for Marketing, Social Media Manager" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=question-pages-which-questions-create-buying-momentum-making-money-from-creating-websites-contai-marketing-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Funny Gift Mug for Work Office - Presents for Marketing, Social Media Manager</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=question-pages-which-questions-create-buying-momentum-making-money-from-creating-websites-contai-marketing-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for marketing mug">Search<span data-ebay-domain-label>eBay.co.uk</span>: marketing mug</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=question-pages-which-questions-create-buying-momentum-making-money-from-creating-websites-contai-marketing-mug&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=question-pages-which-questions-create-buying-momentum-making-money-from-creating-websites-contai-marketing-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Personalised Mug &amp; Coaster - Promote your Business - Advertising Mug / Marketing"><img src="{{ '/assets/images/marketplace-covers/9266e238dae4efd1b913.jpg' | relative_url }}" alt="Listing image for Personalised Mug &amp; Coaster - Promote your Business - Advertising Mug / Marketing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=question-pages-which-questions-create-buying-momentum-making-money-from-creating-websites-contai-marketing-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Personalised Mug &amp; Coaster - Promote your Business - Advertising Mug / Marketing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=question-pages-which-questions-create-buying-momentum-making-money-from-creating-websites-contai-marketing-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for marketing mug">Search <span data-ebay-domain-label>eBay.co.uk</span>: marketing mug</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=question-pages-which-questions-create-buying-momentum-making-money-from-creating-websites-contai-marketing-mug&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=question-pages-which-questions-create-buying-momentum-making-money-from-creating-websites-contai-marketing-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Personalised Mug &amp; Coaster - Promote your Business - Advertising Mug / Marketing"><img src="{{ '/assets/images/marketplace-covers/9266e238dae4efd1b913.jpg' | relative_url }}" alt="Listing image for Personalised Mug &amp; Coaster - Promote your Business - Advertising Mug / Marketing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=question-pages-which-questions-create-buying-momentum-making-money-from-creating-websites-contai-marketing-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Personalised Mug &amp; Coaster - Promote your Business - Advertising Mug / Marketing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=question-pages-which-questions-create-buying-momentum-making-money-from-creating-websites-contai-marketing-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for marketing mug">Search<span data-ebay-domain-label>eBay.co.uk</span>: marketing mug</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=question-pages-which-questions-create-buying-momentum-making-money-from-creating-websites-contai-marketing-mug&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=question-pages-which-questions-create-buying-momentum-making-money-from-creating-websites-contai-marketing-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Marketing Manager Assume Im Always Right Funny Coffee Tea Mug Office Gift 11oz"><img src="{{ '/assets/images/marketplace-covers/ce6fc3583f7cc4fbed47.jpg' | relative_url }}" alt="Listing image for Marketing Manager Assume Im Always Right Funny Coffee Tea Mug Office Gift 11oz" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=question-pages-which-questions-create-buying-momentum-making-money-from-creating-websites-contai-marketing-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Marketing Manager Assume Im Always Right Funny Coffee Tea Mug Office Gift 11oz</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=question-pages-which-questions-create-buying-momentum-making-money-from-creating-websites-contai-marketing-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for marketing mug">Search <span data-ebay-domain-label>eBay.co.uk</span>: marketing mug</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=question-pages-which-questions-create-buying-momentum-making-money-from-creating-websites-contai-marketing-mug&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=question-pages-which-questions-create-buying-momentum-making-money-from-creating-websites-contai-marketing-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=question-pages-which-questions-create-buying-momentum-making-money-from-creating-websites-contai-marketing-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Marketing Manager Assume Im Always Right Funny Coffee Tea Mug Office Gift 11oz"><img src="{{ '/assets/images/marketplace-covers/ce6fc3583f7cc4fbed47.jpg' | relative_url }}" alt="Listing image for Marketing Manager Assume Im Always Right Funny Coffee Tea Mug Office Gift 11oz" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=question-pages-which-questions-create-buying-momentum-making-money-from-creating-websites-contai-marketing-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Marketing Manager Assume Im Always Right Funny Coffee Tea Mug Office Gift 11oz</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=question-pages-which-questions-create-buying-momentum-making-money-from-creating-websites-contai-marketing-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for marketing mug">Search<span data-ebay-domain-label>eBay.co.uk</span>: marketing mug</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=question-pages-which-questions-create-buying-momentum-making-money-from-creating-websites-contai-marketing-mug&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=question-pages-which-questions-create-buying-momentum-making-money-from-creating-websites-contai-marketing-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -791,7 +791,7 @@ From a website monetisation perspective, the best question pages are therefore n
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -811,7 +811,7 @@ From a website monetisation perspective, the best question pages are therefore n
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -843,7 +843,7 @@ From a website monetisation perspective, the best question pages are therefore n
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -873,7 +873,7 @@ From a website monetisation perspective, the best question pages are therefore n
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -931,113 +931,113 @@ From a website monetisation perspective, the best question pages are therefore n
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: business.google.com  
-   Link: <a href="https://business.google.com/uk/think/consumer-insights/navigating-purchase-behavior-and-decision-making/" target="_blank" rel="noopener noreferrer nofollow">https://business.google.com/uk/think/consumer-insights/navigating-purchase-behavior-and-decision-making/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>As people explore and evaluate in the messy middle, cognitive biases shape their shopping behavior and...Read more...</p></details>
+   Link:<a href="https://business.google.com/uk/think/consumer-insights/navigating-purchase-behavior-and-decision-making/" target="_blank" rel="noopener noreferrer nofollow">https://business.google.com/uk/think/consumer-insights/navigating-purchase-behavior-and-decision-making/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>As people explore and evaluate in the messy middle, cognitive biases shape their shopping behavior and...Read more...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: involve.me  
    Title: 5 stages of the consumer decision making process  
-   Link: <a href="https://www.involve.me/blog/5-stages-of-the-consumer-decision-making-process" target="_blank" rel="noopener noreferrer nofollow">https://www.involve.me/blog/5-stages-of-the-consumer-decision-making-process</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Stages of the Consumer Decision-Making Process.5 Jun 2025 — 1. Problem or Need Recognition · 2. Information Search · 3. Evaluation of Alt...</p></details>
+   Link:<a href="https://www.involve.me/blog/5-stages-of-the-consumer-decision-making-process" target="_blank" rel="noopener noreferrer nofollow">https://www.involve.me/blog/5-stages-of-the-consumer-decision-making-process</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stages of the Consumer Decision-Making Process.5 Jun 2025 — 1. Problem or Need Recognition · 2. Information Search · 3. Evaluation of Alt...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: blog.hubspot.com  
    Title: 16 ways to simplify your prospects decision making process.aspx  
-   Link: <a href="https://blog.hubspot.com/blog/tabid/6307/bid/33375/16-ways-to-simplify-your-prospects-decision-making-process.aspx" target="_blank" rel="noopener noreferrer nofollow">https://blog.hubspot.com/blog/tabid/6307/bid/33375/16-ways-to-simplify-your-prospects-decision-making-process.aspx</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>HubSpot BlogThe five stages of the consumer decision-making process...25 Feb 2026 — Discover the five stages of the consumer decision-ma...</p></details>
+   Link:<a href="https://blog.hubspot.com/blog/tabid/6307/bid/33375/16-ways-to-simplify-your-prospects-decision-making-process.aspx" target="_blank" rel="noopener noreferrer nofollow">https://blog.hubspot.com/blog/tabid/6307/bid/33375/16-ways-to-simplify-your-prospects-decision-making-process.aspx</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>HubSpot BlogThe five stages of the consumer decision-making process...25 Feb 2026 — Discover the five stages of the consumer decision-ma...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: business.google.com  
    Title: messy middle 2023  
-   Link: <a href="https://business.google.com/en-all/think/consumer-insights/messy-middle-2023/" target="_blank" rel="noopener noreferrer nofollow">https://business.google.com/en-all/think/consumer-insights/messy-middle-2023/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Behaviour in the Messy MiddleUnderstand the buying behaviour of omnichannel shoppers and navigate the Messy Middle of e-commerce customer...</p></details>
+   Link:<a href="https://business.google.com/en-all/think/consumer-insights/messy-middle-2023/" target="_blank" rel="noopener noreferrer nofollow">https://business.google.com/en-all/think/consumer-insights/messy-middle-2023/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Behaviour in the Messy MiddleUnderstand the buying behaviour of omnichannel shoppers and navigate the Messy Middle of e-commerce customer...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: thinkwithgoogle.com  
-   Link: <a href="https://www.thinkwithgoogle.com/_qs/documents/18366/Decoding_Decisions_Marketing_in_the_Messy_Middle.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.thinkwithgoogle.com/_qs/documents/18366/Decoding_Decisions_Marketing_in_the_Messy_Middle.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Marketing in the messy middleWe also upgraded the buying guide to provide shoppers with even more accessible information to aid their dec...</p></details>
+   Link:<a href="https://www.thinkwithgoogle.com/_qs/documents/18366/Decoding_Decisions_Marketing_in_the_Messy_Middle.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.thinkwithgoogle.com/_qs/documents/18366/Decoding_Decisions_Marketing_in_the_Messy_Middle.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Marketing in the messy middleWe also upgraded the buying guide to provide shoppers with even more accessible information to aid their dec...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: shopify.com  
    Title: purchase decision  
-   Link: <a href="https://www.shopify.com/uk/blog/purchase-decision" target="_blank" rel="noopener noreferrer nofollow">https://www.shopify.com/uk/blog/purchase-decision</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>5 Stages of the Consumer Purchase-Decision Process12 Nov 2025 — Customer-need recognition. The first step of the consumer decision-making...</p></details>
+   Link:<a href="https://www.shopify.com/uk/blog/purchase-decision" target="_blank" rel="noopener noreferrer nofollow">https://www.shopify.com/uk/blog/purchase-decision</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>5 Stages of the Consumer Purchase-Decision Process12 Nov 2025 — Customer-need recognition. The first step of the consumer decision-making...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: nngroup.com  
    Title: information scent  
-   Link: <a href="https://www.nngroup.com/articles/information-scent/" target="_blank" rel="noopener noreferrer nofollow">https://www.nngroup.com/articles/information-scent/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Nielsen Norman GroupInformation Scent: How Users Decide Where to Go Next2 Feb 2020 — When deciding which links to click on the web, users...</p></details>
+   Link:<a href="https://www.nngroup.com/articles/information-scent/" target="_blank" rel="noopener noreferrer nofollow">https://www.nngroup.com/articles/information-scent/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nielsen Norman GroupInformation Scent: How Users Decide Where to Go Next2 Feb 2020 — When deciding which links to click on the web, users...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: nngroup.com  
    Title: information foraging  
-   Link: <a href="https://www.nngroup.com/articles/information-foraging/" target="_blank" rel="noopener noreferrer nofollow">https://www.nngroup.com/articles/information-foraging/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Nielsen Norman GroupInformation Foraging: A Theory of How People Navigate on...10 Nov 2019 — The estimate is based the on cues that they...</p></details>
+   Link:<a href="https://www.nngroup.com/articles/information-foraging/" target="_blank" rel="noopener noreferrer nofollow">https://www.nngroup.com/articles/information-foraging/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nielsen Norman GroupInformation Foraging: A Theory of How People Navigate on...10 Nov 2019 — The estimate is based the on cues that they...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: nngroup.com  
    Title: wrong information scent costs sales  
-   Link: <a href="https://www.nngroup.com/articles/wrong-information-scent-costs-sales/" target="_blank" rel="noopener noreferrer nofollow">https://www.nngroup.com/articles/wrong-information-scent-costs-sales/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Nielsen Norman GroupDeceivingly Strong Information Scent Costs Sales1 Aug 2004 — Information scent refers to the extent to which users ca...</p></details>
+   Link:<a href="https://www.nngroup.com/articles/wrong-information-scent-costs-sales/" target="_blank" rel="noopener noreferrer nofollow">https://www.nngroup.com/articles/wrong-information-scent-costs-sales/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nielsen Norman GroupDeceivingly Strong Information Scent Costs Sales1 Aug 2004 — Information scent refers to the extent to which users ca...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: uxtigers.com  
    Title: information scent  
-   Link: <a href="https://www.uxtigers.com/post/information-scent" target="_blank" rel="noopener noreferrer nofollow">https://www.uxtigers.com/post/information-scent</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How Users Decide Where to Click26 Jul 2024 — Good information scent happens when link labels and other navigational cues accurately repre...</p></details>
+   Link:<a href="https://www.uxtigers.com/post/information-scent" target="_blank" rel="noopener noreferrer nofollow">https://www.uxtigers.com/post/information-scent</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How Users Decide Where to Click26 Jul 2024 — Good information scent happens when link labels and other navigational cues accurately repre...</p></details>
 
 ### Additional References
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/376046363_Consumer_Decision-Making_in_E-Commerce_A_Literature_Review_of_Factors_Influencing_Online_Purchases-0008-3924-202X" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/376046363_Consumer_Decision-Making_in_E-Commerce_A_Literature_Review_of_Factors_Influencing_Online_Purchases-0008-3924-202X</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Consumer Decision-Making in E-Commerce: A Literature...30 Nov 2023 — The purpose of this research paper is to conduct a comprehensive li...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/376046363_Consumer_Decision-Making_in_E-Commerce_A_Literature_Review_of_Factors_Influencing_Online_Purchases-0008-3924-202X" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/376046363_Consumer_Decision-Making_in_E-Commerce_A_Literature_Review_of_Factors_Influencing_Online_Purchases-0008-3924-202X</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Consumer Decision-Making in E-Commerce: A Literature...30 Nov 2023 — The purpose of this research paper is to conduct a comprehensive li...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: steptwo.com.au  
-   Link: <a href="https://www.steptwo.com.au/papers/kmc_informationscent/" target="_blank" rel="noopener noreferrer nofollow">https://www.steptwo.com.au/papers/kmc_informationscent/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Information scent: helping people find the content they wantThis article introduces the concept of information scent and explains how cre...</p></details>
+   Link:<a href="https://www.steptwo.com.au/papers/kmc_informationscent/" target="_blank" rel="noopener noreferrer nofollow">https://www.steptwo.com.au/papers/kmc_informationscent/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Information scent: helping people find the content they wantThis article introduces the concept of information scent and explains how cre...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UXDesign/comments/th1uo7/notes_on_information_foraging/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UXDesign/comments/th1uo7/notes_on_information_foraging/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Notes on Information Foraging: r/UXDesignHow do users decide which link to click, and which ones to ignore? This happens through informa...</p></details>
+   Link:<a href="https://www.reddit.com/r/UXDesign/comments/th1uo7/notes_on_information_foraging/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UXDesign/comments/th1uo7/notes_on_information_foraging/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Notes on Information Foraging: r/UXDesignHow do users decide which link to click, and which ones to ignore? This happens through informa...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: nngroup.com  
-   Link: <a href="https://www.nngroup.com/topic/psychology-and-ux/?page=4" target="_blank" rel="noopener noreferrer nofollow">https://www.nngroup.com/topic/psychology-and-ux/?page=4</a>  
+   Link:<a href="https://www.nngroup.com/topic/psychology-and-ux/?page=4" target="_blank" rel="noopener noreferrer nofollow">https://www.nngroup.com/topic/psychology-and-ux/?page=4</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/astrolabs/understanding-information-scent-95a6554007d4" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/astrolabs/understanding-information-scent-95a6554007d4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding Information ScentInformation scent is basically the strength and correlation of the information provided on a site in compa...</p></details>
+   Link:<a href="https://medium.com/astrolabs/understanding-information-scent-95a6554007d4" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/astrolabs/understanding-information-scent-95a6554007d4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding Information ScentInformation scent is basically the strength and correlation of the information provided on a site in compa...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: iabeurope.eu  
-   Link: <a href="https://iabeurope.eu/knowledge_hub/insights-from-think-with-google-how-people-decide-what-to-buy-lies-in-the-messy-middle-of-the-purchase-journey/" target="_blank" rel="noopener noreferrer nofollow">https://iabeurope.eu/knowledge_hub/insights-from-think-with-google-how-people-decide-what-to-buy-lies-in-the-messy-middle-of-the-purchase-journey/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How people decide what to buy lies in the “messy middle”...3 Aug 2020 — Google&#x27;s Alistair Rennie and Jonny Protheroe share their latest...</p></details>
+   Link:<a href="https://iabeurope.eu/knowledge_hub/insights-from-think-with-google-how-people-decide-what-to-buy-lies-in-the-messy-middle-of-the-purchase-journey/" target="_blank" rel="noopener noreferrer nofollow">https://iabeurope.eu/knowledge_hub/insights-from-think-with-google-how-people-decide-what-to-buy-lies-in-the-messy-middle-of-the-purchase-journey/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How people decide what to buy lies in the “messy middle”...3 Aug 2020 — Google&#x27;s Alistair Rennie and Jonny Protheroe share their latest...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: thebearchitects.com  
-   Link: <a href="https://thebearchitects.com/behavioural-science/our-articles/decoding-decisions-why-marketers-need-to-master-the-messy-middle" target="_blank" rel="noopener noreferrer nofollow">https://thebearchitects.com/behavioural-science/our-articles/decoding-decisions-why-marketers-need-to-master-the-messy-middle</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>It illustrates how people can loop back and forth and can repeat the cycle many times before making a...Read more...</p></details>
+   Link:<a href="https://thebearchitects.com/behavioural-science/our-articles/decoding-decisions-why-marketers-need-to-master-the-messy-middle" target="_blank" rel="noopener noreferrer nofollow">https://thebearchitects.com/behavioural-science/our-articles/decoding-decisions-why-marketers-need-to-master-the-messy-middle</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It illustrates how people can loop back and forth and can repeat the cycle many times before making a...Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=-c9AUhXAFD8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-c9AUhXAFD8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Information ScentInformation foraging explains how users behave on the web and why they click certain links and not others. Information s...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=-c9AUhXAFD8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-c9AUhXAFD8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Information ScentInformation foraging explains how users behave on the web and why they click certain links and not others. Information s...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: directiveconsulting.com  
    Title: 5 stages of the consumer decision making process and how its different  
-   Link: <a href="https://directiveconsulting.com/blog/5-stages-of-the-consumer-decision-making-process-and-how-its-different/" target="_blank" rel="noopener noreferrer nofollow">https://directiveconsulting.com/blog/5-stages-of-the-consumer-decision-making-process-and-how-its-different/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>early. At this stage, the core questions for marketers are: “What problem does our product or service solve?” and “Is our brand discoverable...</p></details>
+   Link:<a href="https://directiveconsulting.com/blog/5-stages-of-the-consumer-decision-making-process-and-how-its-different/" target="_blank" rel="noopener noreferrer nofollow">https://directiveconsulting.com/blog/5-stages-of-the-consumer-decision-making-process-and-how-its-different/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>early. At this stage, the core questions for marketers are: “What problem does our product or service solve?” and “Is our brand discoverable...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: junction.cj.com  
    Title: making the most of affiliate in googles messy middle  
-   Link: <a href="https://junction.cj.com/article/making-the-most-of-affiliate-in-googles-messy-middle" target="_blank" rel="noopener noreferrer nofollow">https://junction.cj.com/article/making-the-most-of-affiliate-in-googles-messy-middle</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the Most of Affiliate in Google&#x27;s Messy Middle10 Sept 2020 — As shoppers explore and evaluate, Google noted six cognitive biases that inf...</p></details>
+   Link:<a href="https://junction.cj.com/article/making-the-most-of-affiliate-in-googles-messy-middle" target="_blank" rel="noopener noreferrer nofollow">https://junction.cj.com/article/making-the-most-of-affiliate-in-googles-messy-middle</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the Most of Affiliate in Google&#x27;s Messy Middle10 Sept 2020 — As shoppers explore and evaluate, Google noted six cognitive biases that inf...</p></details>

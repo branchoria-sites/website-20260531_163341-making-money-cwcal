@@ -277,7 +277,7 @@ For affiliate websites, disclosure placement affects more than compliance. It af
 
 Affiliate review pages contain an obvious conflict of interest: the publisher may earn money if the reader buys through the recommended link. Most readers already understand that many review sites use affiliate programmes, but they still want transparency about how recommendations are monetised.
 
-The trust problem is rarely the existence of affiliate links. It is the feeling that a recommendation has been disguised as independent advice. Both UK and US guidance focus on making commercial relationships clear to ordinary readers rather than relying on assumptions that users already know how affiliate marketing works. The US Federal Trade Commission (FTC) repeatedly states that material connections between endorsers and sellers should be disclosed clearly and conspicuously. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Federal_Trade_Commission" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Federal Trade CommissionThe Federal Trade Commission (FTC) is an independent agency of the United States government whose principal mi...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Federal_Trade_Commission" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Federal Trade CommissionThe Federal Trade Commission (FTC) is an independent agency of the United States government whose principal mi...</span></span></span>
+The trust problem is rarely the existence of affiliate links. It is the feeling that a recommendation has been disguised as independent advice. Both UK and US guidance focus on making commercial relationships clear to ordinary readers rather than relying on assumptions that users already know how affiliate marketing works. The US Federal Trade Commission (FTC) repeatedly states that material connections between endorsers and sellers should be disclosed clearly and conspicuously.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Federal_Trade_Commission" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Federal Trade CommissionThe Federal Trade Commission (FTC) is an independent agency of the United States government whose principal mi...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Federal_Trade_Commission" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Federal Trade CommissionThe Federal Trade Commission (FTC) is an independent agency of the United States government whose principal mi...</span></span></span>
 
 For review-focused affiliate sites, disclosure can improve credibility when it is framed honestly. A short explanation such as:
 
@@ -297,9 +297,9 @@ From a website monetisation perspective, this distinction matters because long-t
 
 Although affiliate review sites often serve international audiences, both UK and US guidance push publishers toward similar disclosure behaviour.
 
-In the United States, the FTC's Endorsement Guides require disclosure of material connections that consumers would not otherwise expect. The FTC's guidance emphasises that [disclosures]({{ 'disclosures/' | relative_url }}) should be difficult to miss, easy to understand, and presented where consumers are likely to notice them before making decisions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Federal_Trade_Commission" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Federal Trade CommissionThe Federal Trade Commission (FTC) is an independent agency of the United States government whose principal mi...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.manatt.com/insights/newsletters/advertising-law/an-in-depth-look-at-the-ftcs-updates-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: manatt.com">[2manatt.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">manatt.com</span><span class="citation-popover-title">an in depth look at the ftcs updates 2</span><span class="citation-popover-snippet">An In-Depth Look at the FTC&#x27;s Updates to the Endorsement...30 Jul 2023 — The phrase “clear and conspicuous” is generally used in the End...</span></span></span>
+In the United States, the FTC's Endorsement Guides require disclosure of material connections that consumers would not otherwise expect. The FTC's guidance emphasises that [disclosures]({{ 'disclosures/' | relative_url }}) should be difficult to miss, easy to understand, and presented where consumers are likely to notice them before making decisions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Federal_Trade_Commission" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Federal Trade CommissionThe Federal Trade Commission (FTC) is an independent agency of the United States government whose principal mi...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.manatt.com/insights/newsletters/advertising-law/an-in-depth-look-at-the-ftcs-updates-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: manatt.com">[2manatt.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">manatt.com</span><span class="citation-popover-title">an in depth look at the ftcs updates 2</span><span class="citation-popover-snippet">An In-Depth Look at the FTC&#x27;s Updates to the Endorsement...30 Jul 2023 — The phrase “clear and conspicuous” is generally used in the End...</span></span></span>
 
-In the United Kingdom, the Advertising Standards Authority (ASA) and the Committee of Advertising Practice (CAP) treat affiliate marketing content as advertising when a commercial relationship exists. Guidance repeatedly stresses that marketing communications must be obviously identifiable and that affiliate relationships should not be hidden from users. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.asa.org.uk/advice-online/affiliate-marketing.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asa.org.uk">[ASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asa.org.uk</span><span class="citation-popover-title">affiliate marketing</span><span class="citation-popover-snippet">Online Affiliate Marketing22 Mar 2023 — Remember that the CAP Code applies to affiliate marketing. When an individual or a company sig...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.asa.org.uk/news/get-yourself-affiliated-with-the-rules-on-affiliate-marketing.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asa.org.uk">[ASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asa.org.uk</span><span class="citation-popover-title">get yourself affiliated with the rules on affiliate marketing</span><span class="citation-popover-snippet">10 Oct 2024 — This CAP Advice explains the circumstances under which different aspects of content which includes affiliate links will nee...</span></span></span>
+In the United Kingdom, the Advertising Standards Authority (ASA) and the Committee of Advertising Practice (CAP) treat affiliate marketing content as advertising when a commercial relationship exists. Guidance repeatedly stresses that marketing communications must be obviously identifiable and that affiliate relationships should not be hidden from users.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.asa.org.uk/advice-online/affiliate-marketing.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asa.org.uk">[ASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asa.org.uk</span><span class="citation-popover-title">affiliate marketing</span><span class="citation-popover-snippet">Online Affiliate Marketing22 Mar 2023 — Remember that the CAP Code applies to affiliate marketing. When an individual or a company sig...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.asa.org.uk/news/get-yourself-affiliated-with-the-rules-on-affiliate-marketing.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asa.org.uk">[ASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asa.org.uk</span><span class="citation-popover-title">get yourself affiliated with the rules on affiliate marketing</span><span class="citation-popover-snippet">10 Oct 2024 — This CAP Advice explains the circumstances under which different aspects of content which includes affiliate links will nee...</span></span></span>
 
 The practical consequence for affiliate review pages is that disclosure placement becomes part of page architecture rather than a standalone legal page.
 
@@ -307,7 +307,7 @@ A website generation system should therefore assume:
 
 * Disclosure cannot rely solely on a site-wide footer.
 * Disclosure should appear close to review content.
-* Disclosure should appear before major affiliate calls to action. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.privacypolicies.com/blog/ftc-affiliate-disclosure/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: privacypolicies.com">[privacypolicies.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">privacypolicies.com</span><span class="citation-popover-title">ftc affiliate disclosure</span><span class="citation-popover-snippet">Privacy PoliciesFTC Disclosure for Affiliates: The Definitive Guide31 Aug 2022 — Ultimately, clear and conspicuous affiliate disclosures...</span></span></span>
+* Disclosure should appear before major affiliate calls to action.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.privacypolicies.com/blog/ftc-affiliate-disclosure/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: privacypolicies.com">[privacypolicies.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">privacypolicies.com</span><span class="citation-popover-title">ftc affiliate disclosure</span><span class="citation-popover-snippet">Privacy PoliciesFTC Disclosure for Affiliates: The Definitive Guide31 Aug 2022 — Ultimately, clear and conspicuous affiliate disclosures...</span></span></span>
 * Readers should not need to hunt through terms and conditions to understand the commercial relationship.
 * The [wording]({{ 'wording/' | relative_url }}) should be understandable to non-specialists.
 
@@ -327,13 +327,13 @@ A disclosure immediately below the headline, author information, or introduction
 
 This placement works because the reader encounters it before reaching the verdict, ratings, comparison [tables]({{ 'tables/' | relative_url }}), or purchase links. It also avoids the impression that disclosure has been deliberately hidden.
 
-A typical structure looks like: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.affiversemedia.com/the-ftc-is-watching-ai-generated-endorsements-affiliate-links-and-what-compliance-looks-like-in-2026/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: affiversemedia.com">[affiversemedia.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">affiversemedia.com</span><span class="citation-popover-snippet">The FTC Is Watching — AI-Generated Endorsements...16 Mar 2026 — The guidance now makes explicit that brands are accountable when they di...</span></span></span>
+A typical structure looks like:<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.affiversemedia.com/the-ftc-is-watching-ai-generated-endorsements-affiliate-links-and-what-compliance-looks-like-in-2026/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: affiversemedia.com">[affiversemedia.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">affiversemedia.com</span><span class="citation-popover-snippet">The FTC Is Watching — AI-Generated Endorsements...16 Mar 2026 — The guidance now makes explicit that brands are accountable when they di...</span></span></span>
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
 1. Headline
 2. Introduction
-3. Affiliate disclosure <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.iubenda.com/en/blog/affiliate-disclosure/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iubenda.com">[iubenda.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iubenda.com</span><span class="citation-popover-title">affiliate disclosure</span><span class="citation-popover-snippet">How to Write an Effective Affiliate Disclosure8 May 2026 — According to the FTC, endorsements must reflect the honest opinions and experi...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
+3. Affiliate disclosure<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.iubenda.com/en/blog/affiliate-disclosure/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iubenda.com">[iubenda.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iubenda.com</span><span class="citation-popover-title">affiliate disclosure</span><span class="citation-popover-snippet">How to Write an Effective Affiliate Disclosure8 May 2026 — According to the FTC, endorsements must reflect the honest opinions and experi...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
 4. Review content
 5. Product verdict
 
@@ -366,7 +366,7 @@ This is particularly useful on software-generated affiliate sites where many use
 
 A separate disclosure policy page remains useful, but it should support visible disclosures rather than replace them.
 
-Many affiliate programmes and compliance specialists recommend linking to a full disclosure policy for readers who want more detail. However, relying solely on a policy page can leave the commercial relationship insufficiently visible to casual readers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.privacypolicies.com/blog/ftc-affiliate-disclosure/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: privacypolicies.com">[Privacy Policies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">privacypolicies.com</span><span class="citation-popover-title">ftc affiliate disclosure</span><span class="citation-popover-snippet">Privacy PoliciesFTC Disclosure for Affiliates: The Definitive Guide31 Aug 2022 — Ultimately, clear and conspicuous affiliate disclosures...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://partnercentric.com/blog/how-to-properly-disclose-ftc-endorsements/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: partnercentric.com">[PartnerCentric]</a><span class="citation-popover" role="note"><span class="citation-popover-source">partnercentric.com</span><span class="citation-popover-title">how to properly disclose ftc endorsements</span><span class="citation-popover-snippet">17 Jun 2024 — The FTC requires that any material connection between an endorser and the marketer of a product must be disclosed clearly a...</span></span></span>
+Many affiliate programmes and compliance specialists recommend linking to a full disclosure policy for readers who want. However, relying solely on a policy page can leave the commercial relationship insufficiently visible to casual readers.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.privacypolicies.com/blog/ftc-affiliate-disclosure/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: privacypolicies.com">[Privacy Policies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">privacypolicies.com</span><span class="citation-popover-title">ftc affiliate disclosure</span><span class="citation-popover-snippet">Privacy PoliciesFTC Disclosure for Affiliates: The Definitive Guide31 Aug 2022 — Ultimately, clear and conspicuous affiliate disclosures...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://partnercentric.com/blog/how-to-properly-disclose-ftc-endorsements/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: partnercentric.com">[PartnerCentric]</a><span class="citation-popover" role="note"><span class="citation-popover-source">partnercentric.com</span><span class="citation-popover-title">how to properly disclose ftc endorsements</span><span class="citation-popover-snippet">17 Jun 2024 — The FTC requires that any material connection between an endorser and the marketer of a product must be disclosed clearly a...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/FnQymLaL7yo" title="&quot;Advertising Standards Authority (ASA)&quot; - Legal Definition" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=FnQymLaL7yo" target="_blank" rel="noopener noreferrer">&quot;Advertising Standards Authority (ASA)&quot; - Legal Definition</a></p><p class="youtube-embed-meta">Channel: LexisNexis UK &middot; Views: 301 &middot; Uploaded: January 2025 &middot; Length: 42 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=FnQymLaL7yo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=FnQymLaL7yo">Open on YouTube</a></p></div></div></div>
 
@@ -384,7 +384,7 @@ The weakest implementations include:
 * Legal jargon that ordinary readers may not understand.
 * Disclosures hidden behind expandable menus.
 
-Regulatory guidance repeatedly focuses on whether consumers are likely to notice and understand the disclosure. Small print and buried notices create risk because readers can easily overlook them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://craftindustryalliance.org/five-common-mistakes-involving-ftc-disclosures-for-affiliates-and-how-to-avoid-them/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: craftindustryalliance.org">[Craft Industry Alliance]</a><span class="citation-popover" role="note"><span class="citation-popover-source">craftindustryalliance.org</span><span class="citation-popover-snippet">Craft Industry Alliance5 Common Mistakes Involving FTC Disclosures for...24 Jun 2024 — The FTC requires that affiliate disclosures be cl...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.manatt.com/insights/newsletters/advertising-law/an-in-depth-look-at-the-ftcs-updates-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: manatt.com">[2manatt.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">manatt.com</span><span class="citation-popover-title">an in depth look at the ftcs updates 2</span><span class="citation-popover-snippet">An In-Depth Look at the FTC&#x27;s Updates to the Endorsement...30 Jul 2023 — The phrase “clear and conspicuous” is generally used in the End...</span></span></span>
+Regulatory guidance repeatedly focuses on whether consumers are likely to notice and understand the disclosure. Small print and buried notices create risk because readers can easily overlook them.<span class="citation-chip-wrap"><a class="citation-chip" href="https://craftindustryalliance.org/five-common-mistakes-involving-ftc-disclosures-for-affiliates-and-how-to-avoid-them/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: craftindustryalliance.org">[Craft Industry Alliance]</a><span class="citation-popover" role="note"><span class="citation-popover-source">craftindustryalliance.org</span><span class="citation-popover-snippet">Craft Industry Alliance5 Common Mistakes Involving FTC Disclosures for...24 Jun 2024 — The FTC requires that affiliate disclosures be cl...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.manatt.com/insights/newsletters/advertising-law/an-in-depth-look-at-the-ftcs-updates-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: manatt.com">[2manatt.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">manatt.com</span><span class="citation-popover-title">an in depth look at the ftcs updates 2</span><span class="citation-popover-snippet">An In-Depth Look at the FTC&#x27;s Updates to the Endorsement...30 Jul 2023 — The phrase “clear and conspicuous” is generally used in the End...</span></span></span>
 
 The better approach is visibility without disruption.
 
@@ -407,7 +407,7 @@ For website-generation systems, this creates a useful template rule: disclosures
 <img src="{{ "/assets/images/making_money_from_cr_f649af_review_pages_0fc8c2_affiliate_disclosure_cef0d8-Illustration-3-dark.svg" | relative_url }}" alt="Disclosure illustration 3" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_review_pages_0fc8c2_affiliate_disclosure_cef0d8-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_review_pages_0fc8c2_affiliate_disclosure_cef0d8-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Disclosure placement changes with page intent
 
-Not every affiliate page requires the same disclosure position. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.privacypolicies.com/blog/ftc-affiliate-disclosure/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: privacypolicies.com">[privacypolicies.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">privacypolicies.com</span><span class="citation-popover-title">ftc affiliate disclosure</span><span class="citation-popover-snippet">Privacy PoliciesFTC Disclosure for Affiliates: The Definitive Guide31 Aug 2022 — Ultimately, clear and conspicuous affiliate disclosures...</span></span></span>
+Not every affiliate page requires the same disclosure position.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.privacypolicies.com/blog/ftc-affiliate-disclosure/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: privacypolicies.com">[privacypolicies.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">privacypolicies.com</span><span class="citation-popover-title">ftc affiliate disclosure</span><span class="citation-popover-snippet">Privacy PoliciesFTC Disclosure for Affiliates: The Definitive Guide31 Aug 2022 — Ultimately, clear and conspicuous affiliate disclosures...</span></span></span>
 
 Review pages generally need the most visible disclosure because the commercial recommendation sits at the centre of the content.
 
@@ -447,269 +447,269 @@ This turns disclosure into a repeatable publishing component rather than an afte
 For affiliate businesses built around large content libraries, disclosure should be viewed as a trust mechanism that supports conversions rather than a conversion obstacle. The reader already expects the site to make money. What they want is confidence that the recommendation remains useful despite the commercial relationship. Clear placement helps provide that confidence before the buying decision is made.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Where Should Affiliate Disclosure Appear?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Where Should Affiliate Disclosure Appear?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Everybody+Writes+by+Ann+Handley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Everybody Writes on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=vLPtAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Everybody Writes" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Everybody+Writes+by+Ann+Handley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Everybody Writes">Everybody Writes</a>
-        </h4>
-        <p class="fr-book-author">By Ann Handley</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Everybody+Writes+by+Ann+Handley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Everybody Writes on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=vLPtAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Everybody Writes" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Everybody+Writes+by+Ann+Handley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Everybody Writes">Everybody Writes</a>
+</h4>
+<p class="fr-book-author">By Ann Handley</p>
         
-        <p class="fr-book-desc">Relevant to communicating disclosures clearly and effectively.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Everybody+Writes+by+Ann+Handley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Relevant to communicating disclosures clearly and effectively.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Everybody+Writes+by+Ann+Handley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Trust+Me%2C+I%27m+Lying+by+Ryan+Holiday&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Trust Me, I&#x27;m Lying on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=MiX6nQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Trust Me, I&#x27;m Lying" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Trust+Me%2C+I%27m+Lying+by+Ryan+Holiday&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Trust Me, I&#x27;m Lying">Trust Me, I&#x27;m Lying</a>
-        </h4>
-        <p class="fr-book-author">By Ryan Holiday</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Trust+Me%2C+I%27m+Lying+by+Ryan+Holiday&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Trust Me, I&#x27;m Lying on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=MiX6nQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Trust Me, I&#x27;m Lying" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Trust+Me%2C+I%27m+Lying+by+Ryan+Holiday&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Trust Me, I&#x27;m Lying">Trust Me, I&#x27;m Lying</a>
+</h4>
+<p class="fr-book-author">By Ryan Holiday</p>
         
-        <p class="fr-book-desc">Explores credibility, transparency and trust in online publishing.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Trust+Me%2C+I%27m+Lying+by+Ryan+Holiday&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores credibility, transparency and trust in online publishing.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Trust+Me%2C+I%27m+Lying+by+Ryan+Holiday&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Building+a+StoryBrand+2.0+by+Donald+Miller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Building a StoryBrand 2.0 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Y-r8EAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Building a StoryBrand 2.0" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Building+a+StoryBrand+2.0+by+Donald+Miller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Building a StoryBrand 2.0">Building a StoryBrand 2.0</a>
-        </h4>
-        <p class="fr-book-author">By Donald Miller</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Building+a+StoryBrand+2.0+by+Donald+Miller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Building a StoryBrand 2.0 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Y-r8EAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Building a StoryBrand 2.0" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Building+a+StoryBrand+2.0+by+Donald+Miller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Building a StoryBrand 2.0">Building a StoryBrand 2.0</a>
+</h4>
+<p class="fr-book-author">By Donald Miller</p>
         
-        <p class="fr-book-desc">Supports trust-building through clear communication.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Building+a+StoryBrand+2.0+by+Donald+Miller&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports trust-building through clear communication.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Building+a+StoryBrand+2.0+by+Donald+Miller&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Content+Code+by+Mark+W.+Schaefer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Content Code on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=IWtNrgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Content Code" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Content+Code+by+Mark+W.+Schaefer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Content Code">The Content Code</a>
-        </h4>
-        <p class="fr-book-author">By Mark W. Schaefer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Content+Code+by+Mark+W.+Schaefer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Content Code on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=IWtNrgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Content Code" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Content+Code+by+Mark+W.+Schaefer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Content Code">The Content Code</a>
+</h4>
+<p class="fr-book-author">By Mark W. Schaefer</p>
         
-        <p class="fr-book-desc">Discusses audience trust and sustainable content growth.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Content+Code+by+Mark+W.+Schaefer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses audience trust and sustainable content growth.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Content+Code+by+Mark+W.+Schaefer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Everybody+Writes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Everybody Writes</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Trust+Me%2C+I%27m+Lying&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Trust Me, I&#x27;m Lying</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Building+a+StoryBrand+2.0&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Building a StoryBrand 2.0</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Everybody+Writes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Everybody Writes</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Trust+Me%2C+I%27m+Lying&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Trust Me, I&#x27;m Lying</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Building+a+StoryBrand+2.0&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Building a StoryBrand 2.0</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=marketing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosure-where-should-affiliate-disclosure-appear-making-money-from-creating-websites-containi-marketing-poster-book-b&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for STOP WAR VINTAGE 1971 ANTIWAR POSTER By SUNSET MARKETING -NICE!"><img src="{{ '/assets/images/marketplace-covers/7c77b9fc58341d6c4ef2.jpg' | relative_url }}" alt="Listing image for STOP WAR VINTAGE 1971 ANTIWAR POSTER By SUNSET MARKETING -NICE!" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=marketing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosure-where-should-affiliate-disclosure-appear-making-money-from-creating-websites-containi-marketing-poster-book-b&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">STOP WAR VINTAGE 1971 ANTIWAR POSTER By SUNSET MARKETING -NICE!</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=marketing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosure-where-should-affiliate-disclosure-appear-making-money-from-creating-websites-containi-marketing-poster-book-b&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for marketing poster">Search <span data-ebay-domain-label>eBay.com</span>: marketing poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=marketing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosure-where-should-affiliate-disclosure-appear-making-money-from-creating-websites-containi-marketing-poster-book-b&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=marketing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosure-where-should-affiliate-disclosure-appear-making-money-from-creating-websites-containi-marketing-poster-book-b&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for STOP WAR VINTAGE 1971 ANTIWAR POSTER By SUNSET MARKETING -NICE!"><img src="{{ '/assets/images/marketplace-covers/7c77b9fc58341d6c4ef2.jpg' | relative_url }}" alt="Listing image for STOP WAR VINTAGE 1971 ANTIWAR POSTER By SUNSET MARKETING -NICE!" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=marketing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosure-where-should-affiliate-disclosure-appear-making-money-from-creating-websites-containi-marketing-poster-book-b&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">STOP WAR VINTAGE 1971 ANTIWAR POSTER By SUNSET MARKETING -NICE!</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=marketing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosure-where-should-affiliate-disclosure-appear-making-money-from-creating-websites-containi-marketing-poster-book-b&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for marketing poster">Search<span data-ebay-domain-label>eBay.com</span>: marketing poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=marketing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosure-where-should-affiliate-disclosure-appear-making-money-from-creating-websites-containi-marketing-poster-book-b&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=marketing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosure-where-should-affiliate-disclosure-appear-making-money-from-creating-websites-containi-marketing-poster-book-b&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Abercrombie &amp; Fitch Store Marketing Poster 17x30 Bruce Webber Photography RARE"><img src="{{ '/assets/images/marketplace-covers/1bcec8c3af61456815ce.jpg' | relative_url }}" alt="Listing image for Abercrombie &amp; Fitch Store Marketing Poster 17x30 Bruce Webber Photography RARE" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=marketing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosure-where-should-affiliate-disclosure-appear-making-money-from-creating-websites-containi-marketing-poster-book-b&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Abercrombie &amp; Fitch Store Marketing Poster 17x30 Bruce Webber Photography RARE</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=marketing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosure-where-should-affiliate-disclosure-appear-making-money-from-creating-websites-containi-marketing-poster-book-b&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for marketing poster">Search <span data-ebay-domain-label>eBay.com</span>: marketing poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=marketing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosure-where-should-affiliate-disclosure-appear-making-money-from-creating-websites-containi-marketing-poster-book-b&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=marketing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosure-where-should-affiliate-disclosure-appear-making-money-from-creating-websites-containi-marketing-poster-book-b&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Abercrombie &amp; Fitch Store Marketing Poster 17x30 Bruce Webber Photography RARE"><img src="{{ '/assets/images/marketplace-covers/1bcec8c3af61456815ce.jpg' | relative_url }}" alt="Listing image for Abercrombie &amp; Fitch Store Marketing Poster 17x30 Bruce Webber Photography RARE" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=marketing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosure-where-should-affiliate-disclosure-appear-making-money-from-creating-websites-containi-marketing-poster-book-b&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Abercrombie &amp; Fitch Store Marketing Poster 17x30 Bruce Webber Photography RARE</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=marketing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosure-where-should-affiliate-disclosure-appear-making-money-from-creating-websites-containi-marketing-poster-book-b&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for marketing poster">Search<span data-ebay-domain-label>eBay.com</span>: marketing poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=marketing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosure-where-should-affiliate-disclosure-appear-making-money-from-creating-websites-containi-marketing-poster-book-b&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=marketing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosure-where-should-affiliate-disclosure-appear-making-money-from-creating-websites-containi-marketing-poster-book-b&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Outdoor Wind Resistant Poster Sign Menu Board Sidewalk Marketing SnapFrame"><img src="{{ '/assets/images/marketplace-covers/8df98ec165a252f61244.jpg' | relative_url }}" alt="Listing image for Outdoor Wind Resistant Poster Sign Menu Board Sidewalk Marketing SnapFrame" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=marketing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosure-where-should-affiliate-disclosure-appear-making-money-from-creating-websites-containi-marketing-poster-book-b&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Outdoor Wind Resistant Poster Sign Menu Board Sidewalk Marketing SnapFrame</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=marketing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosure-where-should-affiliate-disclosure-appear-making-money-from-creating-websites-containi-marketing-poster-book-b&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for marketing poster">Search <span data-ebay-domain-label>eBay.com</span>: marketing poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=marketing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosure-where-should-affiliate-disclosure-appear-making-money-from-creating-websites-containi-marketing-poster-book-b&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=marketing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosure-where-should-affiliate-disclosure-appear-making-money-from-creating-websites-containi-marketing-poster-book-b&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Outdoor Wind Resistant Poster Sign Menu Board Sidewalk Marketing SnapFrame"><img src="{{ '/assets/images/marketplace-covers/8df98ec165a252f61244.jpg' | relative_url }}" alt="Listing image for Outdoor Wind Resistant Poster Sign Menu Board Sidewalk Marketing SnapFrame" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=marketing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosure-where-should-affiliate-disclosure-appear-making-money-from-creating-websites-containi-marketing-poster-book-b&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Outdoor Wind Resistant Poster Sign Menu Board Sidewalk Marketing SnapFrame</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=marketing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosure-where-should-affiliate-disclosure-appear-making-money-from-creating-websites-containi-marketing-poster-book-b&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for marketing poster">Search<span data-ebay-domain-label>eBay.com</span>: marketing poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=marketing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosure-where-should-affiliate-disclosure-appear-making-money-from-creating-websites-containi-marketing-poster-book-b&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=marketing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosure-where-should-affiliate-disclosure-appear-making-money-from-creating-websites-containi-marketing-poster-book-b&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1970 Poster &quot;Ecstasy&quot; - Blacklight - Sunset Marketing - 21x29&quot;"><img src="{{ '/assets/images/marketplace-covers/f8794a18f8a8f504119b.jpg' | relative_url }}" alt="Listing image for Vintage 1970 Poster &quot;Ecstasy&quot; - Blacklight - Sunset Marketing - 21x29&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=marketing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosure-where-should-affiliate-disclosure-appear-making-money-from-creating-websites-containi-marketing-poster-book-b&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage 1970 Poster &quot;Ecstasy&quot; - Blacklight - Sunset Marketing - 21x29&quot;</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=marketing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosure-where-should-affiliate-disclosure-appear-making-money-from-creating-websites-containi-marketing-poster-book-b&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for marketing poster">Search <span data-ebay-domain-label>eBay.com</span>: marketing poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=marketing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosure-where-should-affiliate-disclosure-appear-making-money-from-creating-websites-containi-marketing-poster-book-b&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=marketing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosure-where-should-affiliate-disclosure-appear-making-money-from-creating-websites-containi-marketing-poster-book-b&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=marketing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosure-where-should-affiliate-disclosure-appear-making-money-from-creating-websites-containi-marketing-poster-book-b&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1970 Poster &quot;Ecstasy&quot; - Blacklight - Sunset Marketing - 21x29&quot;"><img src="{{ '/assets/images/marketplace-covers/f8794a18f8a8f504119b.jpg' | relative_url }}" alt="Listing image for Vintage 1970 Poster &quot;Ecstasy&quot; - Blacklight - Sunset Marketing - 21x29&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=marketing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosure-where-should-affiliate-disclosure-appear-making-money-from-creating-websites-containi-marketing-poster-book-b&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage 1970 Poster &quot;Ecstasy&quot; - Blacklight - Sunset Marketing - 21x29&quot;</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=marketing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosure-where-should-affiliate-disclosure-appear-making-money-from-creating-websites-containi-marketing-poster-book-b&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for marketing poster">Search<span data-ebay-domain-label>eBay.com</span>: marketing poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=marketing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosure-where-should-affiliate-disclosure-appear-making-money-from-creating-websites-containi-marketing-poster-book-b&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=marketing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosure-where-should-affiliate-disclosure-appear-making-money-from-creating-websites-containi-marketing-poster-book-b&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosure-where-should-affiliate-disclosure-appear-making-money-from-creating-websites-containi-marketing-poster-book-b&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Marketing Manager Awesome Looks Fun Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/5fef2d3b11d4ce3704b7.jpg' | relative_url }}" alt="Listing image for Marketing Manager Awesome Looks Fun Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosure-where-should-affiliate-disclosure-appear-making-money-from-creating-websites-containi-marketing-poster-book-b&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Marketing Manager Awesome Looks Fun Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosure-where-should-affiliate-disclosure-appear-making-money-from-creating-websites-containi-marketing-poster-book-b&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for marketing poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: marketing poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosure-where-should-affiliate-disclosure-appear-making-money-from-creating-websites-containi-marketing-poster-book-b&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosure-where-should-affiliate-disclosure-appear-making-money-from-creating-websites-containi-marketing-poster-book-b&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Marketing Manager Awesome Looks Fun Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/5fef2d3b11d4ce3704b7.jpg' | relative_url }}" alt="Listing image for Marketing Manager Awesome Looks Fun Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosure-where-should-affiliate-disclosure-appear-making-money-from-creating-websites-containi-marketing-poster-book-b&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Marketing Manager Awesome Looks Fun Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosure-where-should-affiliate-disclosure-appear-making-money-from-creating-websites-containi-marketing-poster-book-b&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for marketing poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: marketing poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosure-where-should-affiliate-disclosure-appear-making-money-from-creating-websites-containi-marketing-poster-book-b&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosure-where-should-affiliate-disclosure-appear-making-money-from-creating-websites-containi-marketing-poster-book-b&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Director Of Sales And Marketing Fra Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/9d0039eca81764205d48.jpg' | relative_url }}" alt="Listing image for Director Of Sales And Marketing Fra Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosure-where-should-affiliate-disclosure-appear-making-money-from-creating-websites-containi-marketing-poster-book-b&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Director Of Sales And Marketing Fra Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosure-where-should-affiliate-disclosure-appear-making-money-from-creating-websites-containi-marketing-poster-book-b&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for marketing poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: marketing poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosure-where-should-affiliate-disclosure-appear-making-money-from-creating-websites-containi-marketing-poster-book-b&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosure-where-should-affiliate-disclosure-appear-making-money-from-creating-websites-containi-marketing-poster-book-b&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Director Of Sales And Marketing Fra Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/9d0039eca81764205d48.jpg' | relative_url }}" alt="Listing image for Director Of Sales And Marketing Fra Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosure-where-should-affiliate-disclosure-appear-making-money-from-creating-websites-containi-marketing-poster-book-b&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Director Of Sales And Marketing Fra Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosure-where-should-affiliate-disclosure-appear-making-money-from-creating-websites-containi-marketing-poster-book-b&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for marketing poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: marketing poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosure-where-should-affiliate-disclosure-appear-making-money-from-creating-websites-containi-marketing-poster-book-b&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosure-where-should-affiliate-disclosure-appear-making-money-from-creating-websites-containi-marketing-poster-book-b&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Sales And Marketing Manager T Shirt Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/4b708e0bf6c16b05ed08.jpg' | relative_url }}" alt="Listing image for Sales And Marketing Manager T Shirt Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosure-where-should-affiliate-disclosure-appear-making-money-from-creating-websites-containi-marketing-poster-book-b&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Sales And Marketing Manager T Shirt Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosure-where-should-affiliate-disclosure-appear-making-money-from-creating-websites-containi-marketing-poster-book-b&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for marketing poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: marketing poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosure-where-should-affiliate-disclosure-appear-making-money-from-creating-websites-containi-marketing-poster-book-b&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosure-where-should-affiliate-disclosure-appear-making-money-from-creating-websites-containi-marketing-poster-book-b&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Sales And Marketing Manager T Shirt Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/4b708e0bf6c16b05ed08.jpg' | relative_url }}" alt="Listing image for Sales And Marketing Manager T Shirt Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosure-where-should-affiliate-disclosure-appear-making-money-from-creating-websites-containi-marketing-poster-book-b&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Sales And Marketing Manager T Shirt Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosure-where-should-affiliate-disclosure-appear-making-money-from-creating-websites-containi-marketing-poster-book-b&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for marketing poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: marketing poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosure-where-should-affiliate-disclosure-appear-making-money-from-creating-websites-containi-marketing-poster-book-b&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosure-where-should-affiliate-disclosure-appear-making-money-from-creating-websites-containi-marketing-poster-book-b&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Empire Marketing Board Poster Print. Salmon. Charles Paine. 1930s VGC."><img src="{{ '/assets/images/marketplace-covers/3d50a54cef901310b1d6.jpg' | relative_url }}" alt="Listing image for Vintage Empire Marketing Board Poster Print. Salmon. Charles Paine. 1930s VGC." loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosure-where-should-affiliate-disclosure-appear-making-money-from-creating-websites-containi-marketing-poster-book-b&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage Empire Marketing Board Poster Print. Salmon. Charles Paine. 1930s VGC.</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosure-where-should-affiliate-disclosure-appear-making-money-from-creating-websites-containi-marketing-poster-book-b&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for marketing poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: marketing poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosure-where-should-affiliate-disclosure-appear-making-money-from-creating-websites-containi-marketing-poster-book-b&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosure-where-should-affiliate-disclosure-appear-making-money-from-creating-websites-containi-marketing-poster-book-b&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosure-where-should-affiliate-disclosure-appear-making-money-from-creating-websites-containi-marketing-poster-book-b&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Empire Marketing Board Poster Print. Salmon. Charles Paine. 1930s VGC."><img src="{{ '/assets/images/marketplace-covers/3d50a54cef901310b1d6.jpg' | relative_url }}" alt="Listing image for Vintage Empire Marketing Board Poster Print. Salmon. Charles Paine. 1930s VGC." loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosure-where-should-affiliate-disclosure-appear-making-money-from-creating-websites-containi-marketing-poster-book-b&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage Empire Marketing Board Poster Print. Salmon. Charles Paine. 1930s VGC.</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosure-where-should-affiliate-disclosure-appear-making-money-from-creating-websites-containi-marketing-poster-book-b&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for marketing poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: marketing poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosure-where-should-affiliate-disclosure-appear-making-money-from-creating-websites-containi-marketing-poster-book-b&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=marketing+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosure-where-should-affiliate-disclosure-appear-making-money-from-creating-websites-containi-marketing-poster-book-b&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -725,7 +725,7 @@ For affiliate businesses built around large content libraries, disclosure should
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -745,7 +745,7 @@ For affiliate businesses built around large content libraries, disclosure should
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -777,7 +777,7 @@ For affiliate businesses built around large content libraries, disclosure should
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -807,7 +807,7 @@ For affiliate businesses built around large content libraries, disclosure should
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -865,151 +865,151 @@ For affiliate businesses built around large content libraries, disclosure should
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: ftc.gov  
-   Link: <a href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade CommissionFTC&#x27;s Endorsement Guides: What People Are Asking29 Jun 2023 — The Guides, at their core, reflect the basic truth...</p></details>
+   Link:<a href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade CommissionFTC&#x27;s Endorsement Guides: What People Are Asking29 Jun 2023 — The Guides, at their core, reflect the basic truth...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: ftc.gov  
-   Link: <a href="https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews</a>  
+   Link:<a href="https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: manatt.com  
    Title: an in depth look at the ftcs updates 2  
-   Link: <a href="https://www.manatt.com/insights/newsletters/advertising-law/an-in-depth-look-at-the-ftcs-updates-2" target="_blank" rel="noopener noreferrer nofollow">https://www.manatt.com/insights/newsletters/advertising-law/an-in-depth-look-at-the-ftcs-updates-2</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>An In-Depth Look at the FTC&#x27;s Updates to the Endorsement...30 Jul 2023 — The phrase “clear and conspicuous” is generally used in the End...</p></details>
+   Link:<a href="https://www.manatt.com/insights/newsletters/advertising-law/an-in-depth-look-at-the-ftcs-updates-2" target="_blank" rel="noopener noreferrer nofollow">https://www.manatt.com/insights/newsletters/advertising-law/an-in-depth-look-at-the-ftcs-updates-2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>An In-Depth Look at the FTC&#x27;s Updates to the Endorsement...30 Jul 2023 — The phrase “clear and conspicuous” is generally used in the End...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: asa.org.uk  
    Title: affiliate marketing  
-   Link: <a href="https://www.asa.org.uk/advice-online/affiliate-marketing.html" target="_blank" rel="noopener noreferrer nofollow">https://www.asa.org.uk/advice-online/affiliate-marketing.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Online Affiliate Marketing22 Mar 2023 — Remember that the CAP Code applies to affiliate marketing. When an individual or a company sig...</p></details>
+   Link:<a href="https://www.asa.org.uk/advice-online/affiliate-marketing.html" target="_blank" rel="noopener noreferrer nofollow">https://www.asa.org.uk/advice-online/affiliate-marketing.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Online Affiliate Marketing22 Mar 2023 — Remember that the CAP Code applies to affiliate marketing. When an individual or a company sig...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: asa.org.uk  
    Title: get yourself affiliated with the rules on affiliate marketing  
-   Link: <a href="https://www.asa.org.uk/news/get-yourself-affiliated-with-the-rules-on-affiliate-marketing.html" target="_blank" rel="noopener noreferrer nofollow">https://www.asa.org.uk/news/get-yourself-affiliated-with-the-rules-on-affiliate-marketing.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>10 Oct 2024 — This CAP Advice explains the circumstances under which different aspects of content which includes affiliate links will nee...</p></details>
+   Link:<a href="https://www.asa.org.uk/news/get-yourself-affiliated-with-the-rules-on-affiliate-marketing.html" target="_blank" rel="noopener noreferrer nofollow">https://www.asa.org.uk/news/get-yourself-affiliated-with-the-rules-on-affiliate-marketing.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>10 Oct 2024 — This CAP Advice explains the circumstances under which different aspects of content which includes affiliate links will nee...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: partnercentric.com  
    Title: how to properly disclose ftc endorsements  
-   Link: <a href="https://partnercentric.com/blog/how-to-properly-disclose-ftc-endorsements/" target="_blank" rel="noopener noreferrer nofollow">https://partnercentric.com/blog/how-to-properly-disclose-ftc-endorsements/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>17 Jun 2024 — The FTC requires that any material connection between an endorser and the marketer of a product must be disclosed clearly a...</p></details>
+   Link:<a href="https://partnercentric.com/blog/how-to-properly-disclose-ftc-endorsements/" target="_blank" rel="noopener noreferrer nofollow">https://partnercentric.com/blog/how-to-properly-disclose-ftc-endorsements/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>17 Jun 2024 — The FTC requires that any material connection between an endorser and the marketer of a product must be disclosed clearly a...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: ftc.gov  
-   Link: <a href="https://www.ftc.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade Commission | Protecting America&#x27;s ConsumersThe official website of the Federal Trade Commission, protecting America&#x27;s consu...</p></details>
+   Link:<a href="https://www.ftc.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade Commission | Protecting America&#x27;s ConsumersThe official website of the Federal Trade Commission, protecting America&#x27;s consu...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: ftc.gov  
-   Link: <a href="https://www.ftc.gov/legal-library/browse/rules/fair-credit-reporting-act-affiliate-marketing" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/legal-library/browse/rules/fair-credit-reporting-act-affiliate-marketing</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Fair Credit Reporting Act: Affiliate MarketingThe FTC&#x27;s mission is to vigorously enforce the law to protect Americans from anticompet...</p></details>
+   Link:<a href="https://www.ftc.gov/legal-library/browse/rules/fair-credit-reporting-act-affiliate-marketing" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/legal-library/browse/rules/fair-credit-reporting-act-affiliate-marketing</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Fair Credit Reporting Act: Affiliate MarketingThe FTC&#x27;s mission is to vigorously enforce the law to protect Americans from anticompet...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
    Title: FTC Disclosures 101 for Social Media Influencers & Creators  
-   Link: <a href="http://www.youtube.com/watch?v=oQhn2MkCyK4" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=oQhn2MkCyK4</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Affiliate disclosure placement website guidelines ftc compliance Where Do Affiliate Disclosures Go On A Blog?...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=oQhn2MkCyK4" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=oQhn2MkCyK4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Affiliate disclosure placement website guidelines ftc compliance Where Do Affiliate Disclosures Go On A Blog?...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: privacypolicies.com  
    Title: ftc affiliate disclosure  
-   Link: <a href="https://www.privacypolicies.com/blog/ftc-affiliate-disclosure/" target="_blank" rel="noopener noreferrer nofollow">https://www.privacypolicies.com/blog/ftc-affiliate-disclosure/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Privacy PoliciesFTC Disclosure for Affiliates: The Definitive Guide31 Aug 2022 — Ultimately, clear and conspicuous affiliate disclosures...</p></details>
+   Link:<a href="https://www.privacypolicies.com/blog/ftc-affiliate-disclosure/" target="_blank" rel="noopener noreferrer nofollow">https://www.privacypolicies.com/blog/ftc-affiliate-disclosure/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Privacy PoliciesFTC Disclosure for Affiliates: The Definitive Guide31 Aug 2022 — Ultimately, clear and conspicuous affiliate disclosures...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: craftindustryalliance.org  
-   Link: <a href="https://craftindustryalliance.org/five-common-mistakes-involving-ftc-disclosures-for-affiliates-and-how-to-avoid-them/" target="_blank" rel="noopener noreferrer nofollow">https://craftindustryalliance.org/five-common-mistakes-involving-ftc-disclosures-for-affiliates-and-how-to-avoid-them/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Craft Industry Alliance5 Common Mistakes Involving FTC Disclosures for...24 Jun 2024 — The FTC requires that affiliate disclosures be cl...</p></details>
+   Link:<a href="https://craftindustryalliance.org/five-common-mistakes-involving-ftc-disclosures-for-affiliates-and-how-to-avoid-them/" target="_blank" rel="noopener noreferrer nofollow">https://craftindustryalliance.org/five-common-mistakes-involving-ftc-disclosures-for-affiliates-and-how-to-avoid-them/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Craft Industry Alliance5 Common Mistakes Involving FTC Disclosures for...24 Jun 2024 — The FTC requires that affiliate disclosures be cl...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: asa.org.uk  
-   Link: <a href="https://www.asa.org.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.asa.org.uk/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CAPThe Advertising Standards Authority (ASA) is the UK&#x27;s independent regulator of advertising across all media...</p></details>
+   Link:<a href="https://www.asa.org.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.asa.org.uk/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CAPThe Advertising Standards Authority (ASA) is the UK&#x27;s independent regulator of advertising across all media...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: Wikipedia  
    Title: Federal Trade Commission  
-   Link: <a href="https://en.wikipedia.org/wiki/Federal_Trade_Commission" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Federal_Trade_Commission</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade CommissionThe Federal Trade Commission (FTC) is an independent agency of the United States government whose principal mi...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Federal_Trade_Commission" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Federal_Trade_Commission</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade CommissionThe Federal Trade Commission (FTC) is an independent agency of the United States government whose principal mi...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: uk.practicallaw.thomsonreuters.com  
-   Link: <a href="https://uk.practicallaw.thomsonreuters.com/3-546-6365?contextData=%28sc.Default%29&amp;transitionType=Default" target="_blank" rel="noopener noreferrer nofollow">https://uk.practicallaw.thomsonreuters.com/3-546-6365?contextData=%28sc.Default%29&amp;transitionType=Default</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Standards Authority (ASA) - Practical LawThe Advertising Standards Authority (ASA) is the independent body that investigates complaints t...</p></details>
+   Link:<a href="https://uk.practicallaw.thomsonreuters.com/3-546-6365?contextData=%28sc.Default%29&amp;transitionType=Default" target="_blank" rel="noopener noreferrer nofollow">https://uk.practicallaw.thomsonreuters.com/3-546-6365?contextData=%28sc.Default%29&amp;transitionType=Default</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Standards Authority (ASA) - Practical LawThe Advertising Standards Authority (ASA) is the independent body that investigates complaints t...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: iubenda.com  
    Title: affiliate disclosure  
-   Link: <a href="https://www.iubenda.com/en/blog/affiliate-disclosure/" target="_blank" rel="noopener noreferrer nofollow">https://www.iubenda.com/en/blog/affiliate-disclosure/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Write an Effective Affiliate Disclosure8 May 2026 — According to the FTC, endorsements must reflect the honest opinions and experi...</p></details>
+   Link:<a href="https://www.iubenda.com/en/blog/affiliate-disclosure/" target="_blank" rel="noopener noreferrer nofollow">https://www.iubenda.com/en/blog/affiliate-disclosure/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to Write an Effective Affiliate Disclosure8 May 2026 — According to the FTC, endorsements must reflect the honest opinions and experi...</p></details>
    Published: May 2026  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
    Title: "Advertising Standards Authority (ASA)"  
-   Link: <a href="https://www.youtube.com/watch?v=FnQymLaL7yo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=FnQymLaL7yo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Legal DefinitionASA is an independent non-government body that regulates UK advertisements to ensure they are truthful and socially respo...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=FnQymLaL7yo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=FnQymLaL7yo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Legal DefinitionASA is an independent non-government body that regulates UK advertisements to ensure they are truthful and socially respo...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: usa.gov  
-   Link: <a href="https://www.usa.gov/agencies/federal-trade-commission" target="_blank" rel="noopener noreferrer nofollow">https://www.usa.gov/agencies/federal-trade-commission</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>hey also provide information to help consumers.Read more...</p></details>
+   Link:<a href="https://www.usa.gov/agencies/federal-trade-commission" target="_blank" rel="noopener noreferrer nofollow">https://www.usa.gov/agencies/federal-trade-commission</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>hey also provide information to help consumers.Read more...</p></details>
 
 ### Additional References
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: ecfr.gov  
-   Link: <a href="https://www.ecfr.gov/current/title-16/chapter-I/subchapter-B/part-255" target="_blank" rel="noopener noreferrer nofollow">https://www.ecfr.gov/current/title-16/chapter-I/subchapter-B/part-255</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>16 CFR Part 255 -- Guides Concerning Use of...The influencer and the advertiser may also be liable if the influencer fails to disclose c...</p></details>
+   Link:<a href="https://www.ecfr.gov/current/title-16/chapter-I/subchapter-B/part-255" target="_blank" rel="noopener noreferrer nofollow">https://www.ecfr.gov/current/title-16/chapter-I/subchapter-B/part-255</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>16 CFR Part 255 -- Guides Concerning Use of...The influencer and the advertiser may also be liable if the influencer fails to disclose c...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: federalregister.gov  
    Title: guides concerning the use of endorsements and testimonials in advertising  
-   Link: <a href="https://www.federalregister.gov/documents/2023/07/26/2023-14795/guides-concerning-the-use-of-endorsements-and-testimonials-in-advertising" target="_blank" rel="noopener noreferrer nofollow">https://www.federalregister.gov/documents/2023/07/26/2023-14795/guides-concerning-the-use-of-endorsements-and-testimonials-in-advertising</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Guides Concerning the Use of Endorsements and...26 Jul 2023 — To illustrate disclosures that are not clear and conspicuous, the Commissi...</p></details>
+   Link:<a href="https://www.federalregister.gov/documents/2023/07/26/2023-14795/guides-concerning-the-use-of-endorsements-and-testimonials-in-advertising" target="_blank" rel="noopener noreferrer nofollow">https://www.federalregister.gov/documents/2023/07/26/2023-14795/guides-concerning-the-use-of-endorsements-and-testimonials-in-advertising</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Guides Concerning the Use of Endorsements and...26 Jul 2023 — To illustrate disclosures that are not clear and conspicuous, the Commissi...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: jmw.co.uk  
-   Link: <a href="https://www.jmw.co.uk/services-for-you/business-crime/advertising-standards-authority" target="_blank" rel="noopener noreferrer nofollow">https://www.jmw.co.uk/services-for-you/business-crime/advertising-standards-authority</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Advertising Standards Authority (ASA) SolicitorsThe ASA regulates both the content and placement of ads. As such, it may respond to conce...</p></details>
+   Link:<a href="https://www.jmw.co.uk/services-for-you/business-crime/advertising-standards-authority" target="_blank" rel="noopener noreferrer nofollow">https://www.jmw.co.uk/services-for-you/business-crime/advertising-standards-authority</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Advertising Standards Authority (ASA) SolicitorsThe ASA regulates both the content and placement of ads. As such, it may respond to conce...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/media/asa" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/media/asa</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Advertising Standards AuthorityASA rules ads on Instagram and Daily Mail website broke ban on promoting items high in fat, salt and sugar...</p></details>
+   Link:<a href="https://www.theguardian.com/media/asa" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/media/asa</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Advertising Standards AuthorityASA rules ads on Instagram and Daily Mail website broke ban on promoting items high in fat, salt and sugar...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/asaofficial/?locale=en_GB" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/asaofficial/?locale=en_GB</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Asa OfficialAsa live in Toronto artist presale starts October 9th at 10am ET, signup link below to get presale invitation ❤️ [https://coko...&quot;](https://coko...&quot;)...</p></details>
+   Link:<a href="https://www.facebook.com/asaofficial/?locale=en_GB" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/asaofficial/?locale=en_GB</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Asa OfficialAsa live in Toronto artist presale starts October 9th at 10am ET, signup link below to get presale invitation ❤️ [https://coko...&quot;](https://coko...&quot;)...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: rpclegal.com  
-   Link: <a href="https://www.rpclegal.com/snapshots/advertising-and-marketing/spring-2023/the-asas-strict-approach-to-affiliate-marketing-links-and-the-need-for-advertising-disclosures/" target="_blank" rel="noopener noreferrer nofollow">https://www.rpclegal.com/snapshots/advertising-and-marketing/spring-2023/the-asas-strict-approach-to-affiliate-marketing-links-and-the-need-for-advertising-disclosures/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The ASA&#x27;s strict approach to affiliate marketing links and...31 Mar 2023 — Both affiliate marketers and the brands they promote hold joi...</p></details>
+   Link:<a href="https://www.rpclegal.com/snapshots/advertising-and-marketing/spring-2023/the-asas-strict-approach-to-affiliate-marketing-links-and-the-need-for-advertising-disclosures/" target="_blank" rel="noopener noreferrer nofollow">https://www.rpclegal.com/snapshots/advertising-and-marketing/spring-2023/the-asas-strict-approach-to-affiliate-marketing-links-and-the-need-for-advertising-disclosures/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The ASA&#x27;s strict approach to affiliate marketing links and...31 Mar 2023 — Both affiliate marketers and the brands they promote hold joi...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: affiversemedia.com  
-   Link: <a href="https://www.affiversemedia.com/the-ftc-is-watching-ai-generated-endorsements-affiliate-links-and-what-compliance-looks-like-in-2026/" target="_blank" rel="noopener noreferrer nofollow">https://www.affiversemedia.com/the-ftc-is-watching-ai-generated-endorsements-affiliate-links-and-what-compliance-looks-like-in-2026/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The FTC Is Watching — AI-Generated Endorsements...16 Mar 2026 — The guidance now makes explicit that brands are accountable when they di...</p></details>
+   Link:<a href="https://www.affiversemedia.com/the-ftc-is-watching-ai-generated-endorsements-affiliate-links-and-what-compliance-looks-like-in-2026/" target="_blank" rel="noopener noreferrer nofollow">https://www.affiversemedia.com/the-ftc-is-watching-ai-generated-endorsements-affiliate-links-and-what-compliance-looks-like-in-2026/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The FTC Is Watching — AI-Generated Endorsements...16 Mar 2026 — The guidance now makes explicit that brands are accountable when they di...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: adamigo.ai  
-   Link: <a href="https://www.adamigo.ai/blog/ultimate-guide-to-ftc-ad-disclosures" target="_blank" rel="noopener noreferrer nofollow">https://www.adamigo.ai/blog/ultimate-guide-to-ftc-ad-disclosures</a>  
+   Link:<a href="https://www.adamigo.ai/blog/ultimate-guide-to-ftc-ad-disclosures" target="_blank" rel="noopener noreferrer nofollow">https://www.adamigo.ai/blog/ultimate-guide-to-ftc-ad-disclosures</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: rpclegal.com  
    Title: influencers and affiliate links the whole marketing chain must know the rules  
-   Link: <a href="https://www.rpclegal.com/snapshots/advertising-and-marketing/winter-2024/influencers-and-affiliate-links-the-whole-marketing-chain-must-know-the-rules/" target="_blank" rel="noopener noreferrer nofollow">https://www.rpclegal.com/snapshots/advertising-and-marketing/winter-2024/influencers-and-affiliate-links-the-whole-marketing-chain-must-know-the-rules/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Influencer posts and affiliate links: the whole marketing...10 Dec 2024 — On the first issue, the ASA ruled that including an affiliate...</p></details>
+   Link:<a href="https://www.rpclegal.com/snapshots/advertising-and-marketing/winter-2024/influencers-and-affiliate-links-the-whole-marketing-chain-must-know-the-rules/" target="_blank" rel="noopener noreferrer nofollow">https://www.rpclegal.com/snapshots/advertising-and-marketing/winter-2024/influencers-and-affiliate-links-the-whole-marketing-chain-must-know-the-rules/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Influencer posts and affiliate links: the whole marketing...10 Dec 2024 — On the first issue, the ASA ruled that including an affiliate...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: blakemorgan.co.uk  
    Title: increased scrutiny of influencer and affiliate marketing communications  
-   Link: <a href="https://www.blakemorgan.co.uk/increased-scrutiny-of-influencer-and-affiliate-marketing-communications/" target="_blank" rel="noopener noreferrer nofollow">https://www.blakemorgan.co.uk/increased-scrutiny-of-influencer-and-affiliate-marketing-communications/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Increased scrutiny of influencer and affiliate marketing...1 May 2025 — Influencers are increasingly under scrutiny for breaches of the...</p></details>
+   Link:<a href="https://www.blakemorgan.co.uk/increased-scrutiny-of-influencer-and-affiliate-marketing-communications/" target="_blank" rel="noopener noreferrer nofollow">https://www.blakemorgan.co.uk/increased-scrutiny-of-influencer-and-affiliate-marketing-communications/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Increased scrutiny of influencer and affiliate marketing...1 May 2025 — Influencers are increasingly under scrutiny for breaches of the...</p></details>
    Published: May 2025

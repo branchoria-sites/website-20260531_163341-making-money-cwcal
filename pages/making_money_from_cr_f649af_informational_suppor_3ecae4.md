@@ -319,13 +319,13 @@ image: /assets/images/making_money_from_cr_f649af_informational_suppor_3ecae4-ov
 Yes, informational pages can still earn revenue, but usually not by behaving like product roundups in disguise. Their job is to answer earlier-stage questions, build trust, and move readers towards a buying page only when the next decision is genuinely clearer. In an affiliate website system, these support pages are not “filler” around the money pages. They are the pages that catch people before they know what to buy, explain the problem in terms they can use, and create a sensible route into [comparisons]({{ 'comparisons/' | relative_url }}), [reviews]({{ 'reviews/' | relative_url }}), calculators, checklists, or buying guides.
 
 <img src="{{ "/assets/images/making_money_from_cr_f649af_informational_suppor_3ecae4-overview.webp" | relative_url }}" alt="Overview image for Support Pages" loading="eager" decoding="sync" fetchpriority="high">
-That matters because affiliate marketing is paid on performance, not on attention alone: a publisher earns when referred visitors generate sales, leads, clicks, or other tracked actions under the programme’s rules. UK advertising guidance describes affiliate marketing as a performance-based arrangement where the affiliate is rewarded for customers attracted through their marketing, usually measured through clicks or sales. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.asa.org.uk/advice-online/affiliate-marketing.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asa.org.uk">[ASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asa.org.uk</span><span class="citation-popover-title">affiliate marketing</span><span class="citation-popover-snippet">Online Affiliate Marketing22 Mar 2023 — Affiliate marketing is a type of performance-based marketing where an affiliate is rewarded by...</span></span></span> The practical challenge is therefore not just producing traffic, but designing pages that help the right readers take the next useful step.
+That matters because affiliate marketing is paid on performance, not on attention alone: a publisher earns when referred visitors generate sales, leads, clicks, or other tracked actions under the programme’s rules. UK advertising guidance describes affiliate marketing as a performance-based arrangement where the affiliate is rewarded for customers attracted through their marketing, usually measured through clicks or sales.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.asa.org.uk/advice-online/affiliate-marketing.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asa.org.uk">[ASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asa.org.uk</span><span class="citation-popover-title">affiliate marketing</span><span class="citation-popover-snippet">Online Affiliate Marketing22 Mar 2023 — Affiliate marketing is a type of performance-based marketing where an affiliate is rewarded by...</span></span></span> The practical challenge is therefore not just producing traffic, but designing pages that help the right readers take the next useful step.
 
 ## Earlier-stage questions with later-stage value
 
 An informational page is valuable when it answers a question that often appears before a commercial decision. A visitor searching “what size dehumidifier do I need?” may not yet be ready for a “best dehumidifiers” page. But the answer can reveal the buying [criteria]({{ 'criteria/' | relative_url }}): room size, moisture level, running cost, noise, tank capacity, drainage options and budget. Once the reader understands those factors, a link to “best dehumidifiers for a damp bedroom” becomes helpful rather than forced.
 
-This fits how people actually make buying decisions online. Google’s “messy middle” research describes the space between a purchase trigger and a final decision as a loop between exploration and evaluation, where shoppers gather information, compare options, narrow choices, and sometimes loop back again before buying. <span class="citation-chip-wrap"><a class="citation-chip" href="https://business.google.com/uk/think/consumer-insights/navigating-purchase-behavior-and-decision-making/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: business.google.com">[Google Business]</a><span class="citation-popover" role="note"><span class="citation-popover-source">business.google.com</span><span class="citation-popover-snippet">As people explore and evaluate in the messy middle, cognitive biases shape their shopping behavior and...Read more...</span></span></span> Informational pages work best inside that loop. They help with exploration, then hand the reader to an evaluation page when the question naturally changes from “what does this mean?” to “which option should I choose?”
+This fits how people actually make buying decisions online. Google’s “messy middle” research describes the space between a purchase trigger and a final decision as a loop between exploration and evaluation, where shoppers gather information, compare options, narrow choices, and sometimes loop back again before buying.<span class="citation-chip-wrap"><a class="citation-chip" href="https://business.google.com/uk/think/consumer-insights/navigating-purchase-behavior-and-decision-making/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: business.google.com">[Google Business]</a><span class="citation-popover" role="note"><span class="citation-popover-source">business.google.com</span><span class="citation-popover-snippet">As people explore and evaluate in the messy middle, cognitive biases shape their shopping behavior and...Read more...</span></span></span> Informational pages work best inside that loop. They help with exploration, then hand the reader to an evaluation page when the question naturally changes from “what does this mean?” to “which option should I choose?”
 
 For affiliate sites, the strongest support pages are usually not broad encyclopaedia entries. They are pages that expose a choice. Useful patterns include:
 
@@ -346,7 +346,7 @@ The common feature is that the informational answer changes the reader’s next 
 
 A support page fails when it asks for an affiliate click before it has earned the reader’s trust. This is especially common on pages that answer a simple question and then immediately push a product table. If the reader came for a definition, a troubleshooting step, or a decision framework, a premature product block can feel like a detour.
 
-The better mechanism is to match the link to the reader’s current level of certainty. Nielsen Norman Group’s work on information scent explains that users choose links based on cues that suggest what they will find next; vague or mismatched links make people less likely to continue. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nngroup.com/articles/information-scent/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nngroup.com">[Nielsen Norman Group]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nngroup.com</span><span class="citation-popover-title">information scent</span><span class="citation-popover-snippet">information scent</span></span></span> For affiliate pages, that means the internal link should name the next decision clearly. “See our full guide to the best quiet dehumidifiers for bedrooms” has stronger scent than “recommended products” because it tells the reader exactly why the next page is relevant.
+The better mechanism is to match the link to the reader’s current level of certainty. Nielsen Norman Group’s work on information scent explains that users choose links based on cues that suggest what they will find next; vague or mismatched links make people less likely to continue.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nngroup.com/articles/information-scent/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nngroup.com">[Nielsen Norman Group]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nngroup.com</span><span class="citation-popover-title">information scent</span><span class="citation-popover-snippet">information scent</span></span></span> For affiliate pages, that means the internal link should name the next decision clearly. “See our full guide to the best quiet dehumidifiers for bedrooms” has stronger scent than “recommended products” because it tells the reader exactly why the next page is relevant.
 
 A good informational page therefore works like a bridge:
 
@@ -363,7 +363,7 @@ For example, a page on “what is a HEPA filter?” should not simply list air p
 <img src="{{ "/assets/images/making_money_from_cr_f649af_informational_suppor_3ecae4-Illustration-1-dark.svg" | relative_url }}" alt="Support Pages illustration 1" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_informational_suppor_3ecae4-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_informational_suppor_3ecae4-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Internal links from guides to buying pages
 
-Internal linking is where informational pages become part of a revenue system rather than a loose collection of articles. Search tools and SEO platforms often describe internal links as a way to help users and search engines understand site structure, find related pages and move through a site. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ahrefs.com/blog/internal-links-for-seo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ahrefs.com">[Ahrefs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ahrefs.com</span><span class="citation-popover-title">Internal Links for SEO: An Actionable Guide</span><span class="citation-popover-snippet">Internal Links for SEO: An Actionable Guide</span></span></span> For affiliate websites, their commercial role is more specific: they move readers from question-answering pages into pages where affiliate offers are more appropriate.
+Internal linking is where informational pages become part of a revenue system rather than a loose collection of articles. Search tools and SEO platforms often describe internal links as a way to help users and search engines understand site structure, find related pages and move through a site.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ahrefs.com/blog/internal-links-for-seo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ahrefs.com">[Ahrefs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ahrefs.com</span><span class="citation-popover-title">Internal Links for SEO: An Actionable Guide</span><span class="citation-popover-snippet">Internal Links for SEO: An Actionable Guide</span></span></span> For affiliate websites, their commercial role is more specific: they move readers from question-answering pages into pages where affiliate offers are more appropriate.
 
 The important design choice is not simply “add more links”. It is deciding which buying page each informational page should feed. A scalable system can classify support pages by the decision they unlock:
 
@@ -391,7 +391,7 @@ This structure also avoids overloading every support page with the same generic 
 
 Informational pages can contain affiliate links, but the best revenue path is often indirect. A reader who asks “can I use an electric blanket with a memory foam mattress?” may need safety guidance and product [limitations]({{ 'limitations/' | relative_url }}) before any recommendation is appropriate. A direct affiliate link to a blanket may be less useful than a link to a carefully structured buying guide about safe electric blankets, mattress compatibility, and automatic shut-off features.
 
-This is where page type matters. Google’s guidance for high-quality reviews says review content should provide useful evidence, comparisons and information that helps readers make decisions, and it notes that reviews often use affiliate links. <span class="citation-chip-wrap"><a class="citation-chip" href="https://developers.google.com/search/docs/specialty/ecommerce/write-high-quality-reviews" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> But an informational page is not always a review page. If the page has not assessed products, compared alternatives, or explained why one option fits better than another, it should not pretend to be making a recommendation.
+This is where page type matters. Google’s guidance for high-quality reviews says review content should provide useful evidence, comparisons and information that helps readers make decisions, and it notes that reviews often use affiliate links.<span class="citation-chip-wrap"><a class="citation-chip" href="https://developers.google.com/search/docs/specialty/ecommerce/write-high-quality-reviews" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> But an informational page is not always a review page. If the page has not assessed products, compared alternatives, or explained why one option fits better than another, it should not pretend to be making a recommendation.
 
 A support page can still create revenue opportunities through:
 
@@ -409,7 +409,7 @@ The key is to treat monetisation as a sequence. First, answer the question. Then
 
 ## When not to force affiliate links
 
-Some informational pages should not contain prominent affiliate links at all. This is not a missed opportunity; it is often the difference between a trustworthy support page and a thin affiliate page. Google has long warned that affiliate sites need to provide significant added value rather than simply syndicating or repackaging content available elsewhere. <span class="citation-chip-wrap"><a class="citation-chip" href="https://developers.google.com/search/docs/specialty/ecommerce/write-high-quality-reviews" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> If a page is only loosely related to a product, adding affiliate links can weaken the page’s purpose and make the site look less useful.
+Some informational pages should not contain prominent affiliate links at all. This is not a missed opportunity; it is often the difference between a trustworthy support page and a thin affiliate page. Google has long warned that affiliate sites need to provide significant added value rather than simply syndicating or repackaging content available elsewhere.<span class="citation-chip-wrap"><a class="citation-chip" href="https://developers.google.com/search/docs/specialty/ecommerce/write-high-quality-reviews" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> If a page is only loosely related to a product, adding affiliate links can weaken the page’s purpose and make the site look less useful.
 
 There are several cases where forcing links is usually a mistake.
 
@@ -433,7 +433,7 @@ If there is no reputable merchant, poor stock, low-quality products, low commiss
 
 Some pages need a complete explanation before the buying path appears. Interrupting a troubleshooting process with product buttons can make the article feel less helpful, especially if the reader has not yet confirmed that buying something is the right solution.
 
-This restraint is also a compliance issue. UK advertising guidance says affiliate marketing content must be obviously identifiable as advertising where required, and that the nature of the content and the affiliate arrangement affect whether all or part of the content needs to be labelled. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.asa.org.uk/news/get-yourself-affiliated-with-the-rules-on-affiliate-marketing.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asa.org.uk">[ASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asa.org.uk</span><span class="citation-popover-title">get yourself affiliated with the rules on affiliate marketing</span><span class="citation-popover-snippet">get yourself affiliated with the rules on affiliate marketing</span></span></span> Amazon UK’s Associates guidance also says affiliates must include a legally compliant [disclosure]({{ 'disclosure/' | relative_url }}) with affiliate links and identify themselves as Associates. <span class="citation-chip-wrap"><a class="citation-chip" href="https://affiliate-program.amazon.co.uk/help/node/topic/GPXFHVYZMTGPUMPE" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: affiliate-program.amazon.co.uk">[Amazon Associates]</a><span class="citation-popover" role="note"><span class="citation-popover-source">affiliate-program.amazon.co.uk</span><span class="citation-popover-title">Amazon Associates Amazon.co.uk Associates Central</span><span class="citation-popover-snippet">Amazon Associates Amazon.co.uk Associates Central</span></span></span> A support page that hides commercial intent inside neutral-looking advice risks both user distrust and regulatory problems.
+This restraint is also a compliance issue. UK advertising guidance says affiliate marketing content must be obviously identifiable as advertising where required, and that the nature of the content and the affiliate arrangement affect whether all or part of the content needs to be labelled.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.asa.org.uk/news/get-yourself-affiliated-with-the-rules-on-affiliate-marketing.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asa.org.uk">[ASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asa.org.uk</span><span class="citation-popover-title">get yourself affiliated with the rules on affiliate marketing</span><span class="citation-popover-snippet">get yourself affiliated with the rules on affiliate marketing</span></span></span> Amazon UK’s Associates guidance also says affiliates must include a legally compliant [disclosure]({{ 'disclosure/' | relative_url }}) with affiliate links and identify themselves as Associates.<span class="citation-chip-wrap"><a class="citation-chip" href="https://affiliate-program.amazon.co.uk/help/node/topic/GPXFHVYZMTGPUMPE" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: affiliate-program.amazon.co.uk">[Amazon Associates]</a><span class="citation-popover" role="note"><span class="citation-popover-source">affiliate-program.amazon.co.uk</span><span class="citation-popover-title">Amazon Associates Amazon.co.uk Associates Central</span><span class="citation-popover-snippet">Amazon Associates Amazon.co.uk Associates Central</span></span></span> A support page that hides commercial intent inside neutral-looking advice risks both user distrust and regulatory problems.
 
 <img src="{{ "/assets/images/making_money_from_cr_f649af_informational_suppor_3ecae4-Illustration-2-dark.svg" | relative_url }}" alt="Support Pages illustration 2" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_informational_suppor_3ecae4-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_informational_suppor_3ecae4-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How to decide which support pages are worth creating
@@ -480,7 +480,7 @@ Best for repair-versus-replace decisions. A page on “washing machine smells mu
 
 Best for confusing alternatives such as “ceramic vs tourmaline hair straighteners”, “mesh Wi-Fi vs extender”, or “cordless vs corded vacuum”. The page should avoid declaring a universal winner and instead map each option to use cases.
 
-Baymard’s ecommerce UX research repeatedly highlights that product finding depends on users being able to navigate, search, filter and evaluate products effectively; its benchmarks show many ecommerce sites still perform poorly on product list and search UX. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.linkedin.com/posts/baymard-institute_ux-ecommerce-uxr-activity-7382369333504659457-SKP-" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: linkedin.com">[Baymard Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">linkedin.com</span><span class="citation-popover-snippet">Baymard Institute</span></span></span> Affiliate support pages can reduce that burden before the reader reaches the merchant by clarifying the category, narrowing the choice set, and explaining the filters that matter.
+Baymard’s ecommerce UX research repeatedly highlights that product finding depends on users being able to navigate, search, filter and evaluate products effectively; its benchmarks show many ecommerce sites still perform poorly on product list and search UX.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.linkedin.com/posts/baymard-institute_ux-ecommerce-uxr-activity-7382369333504659457-SKP-" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: linkedin.com">[Baymard Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">linkedin.com</span><span class="citation-popover-snippet">Baymard Institute</span></span></span> Affiliate support pages can reduce that burden before the reader reaches the merchant by clarifying the category, narrowing the choice set, and explaining the filters that matter.
 
 <img src="{{ "/assets/images/making_money_from_cr_f649af_informational_suppor_3ecae4-Illustration-3-dark.svg" | relative_url }}" alt="Support Pages illustration 3" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_informational_suppor_3ecae4-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_informational_suppor_3ecae4-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What to measure on support pages
@@ -506,7 +506,7 @@ This is where informational pages become useful to a website generation system. 
 
 Informational affiliate pages have a built-in tension: readers arrive for help, while the publisher may earn from recommendations. That tension is manageable when the page is transparent, useful and properly linked. It becomes a problem when neutral-sounding advice is shaped mainly around commission.
 
-Disclosure matters because affiliate content can otherwise look like ordinary editorial content. The US Federal Trade Commission’s endorsement guidance answers common questions for bloggers, advertisers and creators, while UK ASA guidance requires affiliate marketing to be identifiable where the commercial relationship affects the content. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-title">s endorsement guides what people are asking</span><span class="citation-popover-snippet">s endorsement guides what people are asking</span></span></span> Research on affiliate disclosures on YouTube and Pinterest found low disclosure rates and found that users often failed to understand short, non-explanatory disclosures, showing why clear wording is more useful than vague labels. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1809.00620" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Disclosure matters because affiliate content can otherwise look like ordinary editorial content. The US Federal Trade Commission’s endorsement guidance answers common questions for bloggers, advertisers and creators, while UK ASA guidance requires affiliate marketing to be identifiable where the commercial relationship affects the content.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-title">s endorsement guides what people are asking</span><span class="citation-popover-snippet">s endorsement guides what people are asking</span></span></span> Research on affiliate disclosures on YouTube and Pinterest found low disclosure rates and found that users often failed to understand short, non-explanatory disclosures, showing why clear wording is more useful than vague labels.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1809.00620" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 For public-facing affiliate websites, this creates a simple rule: disclosure should not be treated as a footer technicality. If a support page includes affiliate links, the reader should understand that the site may earn a commission and still be able to see why the recommendation or internal link is relevant. Clear disclosure and useful page design support each other. A page that explains its commercial relationship plainly and then gives careful, specific guidance is more credible than one that hides affiliate intent behind vague “recommended” buttons.
 
@@ -549,253 +549,253 @@ The pattern is especially valuable in complex categories where readers do not kn
 The central rule is simple: an informational page earns revenue by making the next commercial decision easier. It should not force affiliate links into every answer. It should create a clear, useful path from “I need to understand this” to “I now know what kind of product, comparison, or guide I should look at next.”
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Can Informational Pages Still Earn Revenue?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Can Informational Pages Still Earn Revenue?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=They+Ask%2C+You+Answer+by+Marcus+Sheridan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open They Ask, You Answer on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=0t-dDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for They Ask, You Answer" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=They+Ask%2C+You+Answer+by+Marcus+Sheridan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="They Ask, You Answer">They Ask, You Answer</a>
-        </h4>
-        <p class="fr-book-author">By Marcus Sheridan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=They+Ask%2C+You+Answer+by+Marcus+Sheridan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open They Ask, You Answer on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=0t-dDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for They Ask, You Answer" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=They+Ask%2C+You+Answer+by+Marcus+Sheridan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="They Ask, You Answer">They Ask, You Answer</a>
+</h4>
+<p class="fr-book-author">By Marcus Sheridan</p>
         
-        <p class="fr-book-desc">Directly supports creating informational pages that answer buyer questions and lead naturally to revenue pages.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=They+Ask%2C+You+Answer+by+Marcus+Sheridan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly supports creating informational pages that answer buyer questions and lead naturally to revenue pages.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=They+Ask%2C+You+Answer+by+Marcus+Sheridan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Everybody+Writes+by+Ann+Handley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Everybody Writes on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=vLPtAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Everybody Writes" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Everybody+Writes+by+Ann+Handley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Everybody Writes">Everybody Writes</a>
-        </h4>
-        <p class="fr-book-author">By Ann Handley</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Everybody+Writes+by+Ann+Handley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Everybody Writes on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=vLPtAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Everybody Writes" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Everybody+Writes+by+Ann+Handley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Everybody Writes">Everybody Writes</a>
+</h4>
+<p class="fr-book-author">By Ann Handley</p>
         
-        <p class="fr-book-desc">Helps turn support pages into genuinely useful content rather than disguised product pitches.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Everybody+Writes+by+Ann+Handley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps turn support pages into genuinely useful content rather than disguised product pitches.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Everybody+Writes+by+Ann+Handley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Building+a+StoryBrand+2.0+by+Donald+Miller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Building a StoryBrand 2.0 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Y-r8EAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Building a StoryBrand 2.0" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Building+a+StoryBrand+2.0+by+Donald+Miller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Building a StoryBrand 2.0">Building a StoryBrand 2.0</a>
-        </h4>
-        <p class="fr-book-author">By Donald Miller</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Building+a+StoryBrand+2.0+by+Donald+Miller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Building a StoryBrand 2.0 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Y-r8EAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Building a StoryBrand 2.0" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Building+a+StoryBrand+2.0+by+Donald+Miller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Building a StoryBrand 2.0">Building a StoryBrand 2.0</a>
+</h4>
+<p class="fr-book-author">By Donald Miller</p>
         
-        <p class="fr-book-desc">Informational pages need to connect reader problems to the next useful commercial step.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Building+a+StoryBrand+2.0+by+Donald+Miller&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Informational pages need to connect reader problems to the next useful commercial step.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Building+a+StoryBrand+2.0+by+Donald+Miller&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Content+Inc.%3A+How+Entrepreneurs+Use+Content+to+Build+Massive+Audiences+and+Create+Radically+Successful+Businesses+by+Joe+Pulizzi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Content Inc.: How Entrepreneurs Use Content to Build Massive Audiences and Create Radically Successful Businesses on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=mj6GrgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Content Inc.: How Entrepreneurs Use Content to Build Massive Audiences and Create Radically Successful Businesses" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Content+Inc.%3A+How+Entrepreneurs+Use+Content+to+Build+Massive+Audiences+and+Create+Radically+Successful+Businesses+by+Joe+Pulizzi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Content Inc.: How Entrepreneurs Use Content to Build Massive Audiences and Create Radically Successful Businesses">Content Inc.: How Entrepreneurs Use Content to Build Massive...</a>
-        </h4>
-        <p class="fr-book-author">By Joe Pulizzi</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Content+Inc.%3A+How+Entrepreneurs+Use+Content+to+Build+Massive+Audiences+and+Create+Radically+Successful+Businesses+by+Joe+Pulizzi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Content Inc.: How Entrepreneurs Use Content to Build Massive Audiences and Create Radically Successful Businesses on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=mj6GrgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Content Inc.: How Entrepreneurs Use Content to Build Massive Audiences and Create Radically Successful Businesses" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Content+Inc.%3A+How+Entrepreneurs+Use+Content+to+Build+Massive+Audiences+and+Create+Radically+Successful+Businesses+by+Joe+Pulizzi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Content Inc.: How Entrepreneurs Use Content to Build Massive Audiences and Create Radically Successful Businesses">Content Inc.: How Entrepreneurs Use Content to Build Massive...</a>
+</h4>
+<p class="fr-book-author">By Joe Pulizzi</p>
         
-        <p class="fr-book-desc">Explains how useful content can build an audience before monetisation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Content+Inc.%3A+How+Entrepreneurs+Use+Content+to+Build+Massive+Audiences+and+Create+Radically+Successful+Businesses+by+Joe+Pulizzi&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how useful content can build an audience before monetisation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Content+Inc.%3A+How+Entrepreneurs+Use+Content+to+Build+Massive+Audiences+and+Create+Radically+Successful+Businesses+by+Joe+Pulizzi&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=They+Ask%2C+You+Answer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">They Ask, You Answer</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Everybody+Writes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Everybody Writes</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Building+a+StoryBrand+2.0&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Building a StoryBrand 2.0</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=They+Ask%2C+You+Answer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">They Ask, You Answer</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Everybody+Writes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Everybody Writes</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Building+a+StoryBrand+2.0&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Building a StoryBrand 2.0</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=can+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=support-pages-can-informational-pages-still-earn-revenue-making-money-from-creating-websites-con-can-poster-book-books-d&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Poster Can-Can Dancer Set of 2 Sizes (T11) - Used"><img src="{{ '/assets/images/marketplace-covers/23861d94d474f7a1ff22.jpg' | relative_url }}" alt="Listing image for Poster Can-Can Dancer Set of 2 Sizes (T11) - Used" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=can+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=support-pages-can-informational-pages-still-earn-revenue-making-money-from-creating-websites-con-can-poster-book-books-d&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Poster Can-Can Dancer Set of 2 Sizes (T11) - Used</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=can+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=support-pages-can-informational-pages-still-earn-revenue-making-money-from-creating-websites-con-can-poster-book-books-d&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for can poster">Search <span data-ebay-domain-label>eBay.com</span>: can poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=can+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=support-pages-can-informational-pages-still-earn-revenue-making-money-from-creating-websites-con-can-poster-book-books-d&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=can+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=support-pages-can-informational-pages-still-earn-revenue-making-money-from-creating-websites-con-can-poster-book-books-d&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Poster Can-Can Dancer Set of 2 Sizes (T11) - Used"><img src="{{ '/assets/images/marketplace-covers/23861d94d474f7a1ff22.jpg' | relative_url }}" alt="Listing image for Poster Can-Can Dancer Set of 2 Sizes (T11) - Used" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=can+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=support-pages-can-informational-pages-still-earn-revenue-making-money-from-creating-websites-con-can-poster-book-books-d&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Poster Can-Can Dancer Set of 2 Sizes (T11) - Used</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=can+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=support-pages-can-informational-pages-still-earn-revenue-making-money-from-creating-websites-con-can-poster-book-books-d&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for can poster">Search<span data-ebay-domain-label>eBay.com</span>: can poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=can+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=support-pages-can-informational-pages-still-earn-revenue-making-money-from-creating-websites-con-can-poster-book-books-d&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=can+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=support-pages-can-informational-pages-still-earn-revenue-making-money-from-creating-websites-con-can-poster-book-books-d&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Can Future Days Poster - Retro 70s Krautrock Psychedelic Rock Music Print"><img src="{{ '/assets/images/marketplace-covers/80dddf7401b7bcd25237.jpg' | relative_url }}" alt="Listing image for Can Future Days Poster - Retro 70s Krautrock Psychedelic Rock Music Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=can+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=support-pages-can-informational-pages-still-earn-revenue-making-money-from-creating-websites-con-can-poster-book-books-d&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Can Future Days Poster - Retro 70s Krautrock Psychedelic Rock Music Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=can+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=support-pages-can-informational-pages-still-earn-revenue-making-money-from-creating-websites-con-can-poster-book-books-d&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for can poster">Search <span data-ebay-domain-label>eBay.com</span>: can poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=can+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=support-pages-can-informational-pages-still-earn-revenue-making-money-from-creating-websites-con-can-poster-book-books-d&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=can+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=support-pages-can-informational-pages-still-earn-revenue-making-money-from-creating-websites-con-can-poster-book-books-d&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Can Future Days Poster - Retro 70s Krautrock Psychedelic Rock Music Print"><img src="{{ '/assets/images/marketplace-covers/80dddf7401b7bcd25237.jpg' | relative_url }}" alt="Listing image for Can Future Days Poster - Retro 70s Krautrock Psychedelic Rock Music Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=can+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=support-pages-can-informational-pages-still-earn-revenue-making-money-from-creating-websites-con-can-poster-book-books-d&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Can Future Days Poster - Retro 70s Krautrock Psychedelic Rock Music Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=can+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=support-pages-can-informational-pages-still-earn-revenue-making-money-from-creating-websites-con-can-poster-book-books-d&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for can poster">Search<span data-ebay-domain-label>eBay.com</span>: can poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=can+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=support-pages-can-informational-pages-still-earn-revenue-making-money-from-creating-websites-con-can-poster-book-books-d&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=can+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=support-pages-can-informational-pages-still-earn-revenue-making-money-from-creating-websites-con-can-poster-book-books-d&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 36&quot;x48&quot; - “You Can’t Afford To Miss Either!” 1944 Vintage Style WW2 War Poster"><img src="{{ '/assets/images/marketplace-covers/75724f1fad29c8415108.jpg' | relative_url }}" alt="Listing image for 36&quot;x48&quot; - “You Can’t Afford To Miss Either!” 1944 Vintage Style WW2 War Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=can+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=support-pages-can-informational-pages-still-earn-revenue-making-money-from-creating-websites-con-can-poster-book-books-d&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">36&quot;x48&quot; - “You Can’t Afford To Miss Either!” 1944 Vintage Style WW2 War Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=can+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=support-pages-can-informational-pages-still-earn-revenue-making-money-from-creating-websites-con-can-poster-book-books-d&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for can poster">Search <span data-ebay-domain-label>eBay.com</span>: can poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=can+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=support-pages-can-informational-pages-still-earn-revenue-making-money-from-creating-websites-con-can-poster-book-books-d&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=can+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=support-pages-can-informational-pages-still-earn-revenue-making-money-from-creating-websites-con-can-poster-book-books-d&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 36&quot;x48&quot; - “You Can’t Afford To Miss Either!” 1944 Vintage Style WW2 War Poster"><img src="{{ '/assets/images/marketplace-covers/75724f1fad29c8415108.jpg' | relative_url }}" alt="Listing image for 36&quot;x48&quot; - “You Can’t Afford To Miss Either!” 1944 Vintage Style WW2 War Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=can+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=support-pages-can-informational-pages-still-earn-revenue-making-money-from-creating-websites-con-can-poster-book-books-d&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">36&quot;x48&quot; - “You Can’t Afford To Miss Either!” 1944 Vintage Style WW2 War Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=can+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=support-pages-can-informational-pages-still-earn-revenue-making-money-from-creating-websites-con-can-poster-book-books-d&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for can poster">Search<span data-ebay-domain-label>eBay.com</span>: can poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=can+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=support-pages-can-informational-pages-still-earn-revenue-making-money-from-creating-websites-con-can-poster-book-books-d&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=can+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=support-pages-can-informational-pages-still-earn-revenue-making-money-from-creating-websites-con-can-poster-book-books-d&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1980 Budweiser Can Am Car racing promo poster 27X 20” Valvoline #5 Keke"><img src="{{ '/assets/images/marketplace-covers/9558f9cb60ad43af3076.jpg' | relative_url }}" alt="Listing image for Vintage 1980 Budweiser Can Am Car racing promo poster 27X 20” Valvoline #5 Keke" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=can+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=support-pages-can-informational-pages-still-earn-revenue-making-money-from-creating-websites-con-can-poster-book-books-d&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage 1980 Budweiser Can Am Car racing promo poster 27X 20” Valvoline #5 Keke</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=can+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=support-pages-can-informational-pages-still-earn-revenue-making-money-from-creating-websites-con-can-poster-book-books-d&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for can poster">Search <span data-ebay-domain-label>eBay.com</span>: can poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=can+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=support-pages-can-informational-pages-still-earn-revenue-making-money-from-creating-websites-con-can-poster-book-books-d&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=can+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=support-pages-can-informational-pages-still-earn-revenue-making-money-from-creating-websites-con-can-poster-book-books-d&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=can+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=support-pages-can-informational-pages-still-earn-revenue-making-money-from-creating-websites-con-can-poster-book-books-d&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1980 Budweiser Can Am Car racing promo poster 27X 20” Valvoline #5 Keke"><img src="{{ '/assets/images/marketplace-covers/9558f9cb60ad43af3076.jpg' | relative_url }}" alt="Listing image for Vintage 1980 Budweiser Can Am Car racing promo poster 27X 20” Valvoline #5 Keke" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=can+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=support-pages-can-informational-pages-still-earn-revenue-making-money-from-creating-websites-con-can-poster-book-books-d&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage 1980 Budweiser Can Am Car racing promo poster 27X 20” Valvoline #5 Keke</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=can+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=support-pages-can-informational-pages-still-earn-revenue-making-money-from-creating-websites-con-can-poster-book-books-d&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for can poster">Search<span data-ebay-domain-label>eBay.com</span>: can poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=can+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=support-pages-can-informational-pages-still-earn-revenue-making-money-from-creating-websites-con-can-poster-book-books-d&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=can+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=support-pages-can-informational-pages-still-earn-revenue-making-money-from-creating-websites-con-can-poster-book-books-d&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=still+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=support-pages-can-informational-pages-still-earn-revenue-making-money-from-creating-websites-con-still-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for &quot;you&#x27;re still up?&quot; Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/f6c660ab307cb8f18229.jpg' | relative_url }}" alt="Listing image for &quot;you&#x27;re still up?&quot; Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=still+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=support-pages-can-informational-pages-still-earn-revenue-making-money-from-creating-websites-con-still-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">&quot;you&#x27;re still up?&quot; Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=still+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=support-pages-can-informational-pages-still-earn-revenue-making-money-from-creating-websites-con-still-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for still poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: still poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=still+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=support-pages-can-informational-pages-still-earn-revenue-making-money-from-creating-websites-con-still-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=still+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=support-pages-can-informational-pages-still-earn-revenue-making-money-from-creating-websites-con-still-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for &quot;you&#x27;re still up?&quot; Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/f6c660ab307cb8f18229.jpg' | relative_url }}" alt="Listing image for &quot;you&#x27;re still up?&quot; Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=still+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=support-pages-can-informational-pages-still-earn-revenue-making-money-from-creating-websites-con-still-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">&quot;you&#x27;re still up?&quot; Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=still+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=support-pages-can-informational-pages-still-earn-revenue-making-money-from-creating-websites-con-still-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for still poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: still poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=still+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=support-pages-can-informational-pages-still-earn-revenue-making-money-from-creating-websites-con-still-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=still+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=support-pages-can-informational-pages-still-earn-revenue-making-money-from-creating-websites-con-still-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Collier Vanitas Still Life Crown Gold Painting Canvas Wall Art Print Poster"><img src="{{ '/assets/images/marketplace-covers/c07dbf83974de0846a41.jpg' | relative_url }}" alt="Listing image for Collier Vanitas Still Life Crown Gold Painting Canvas Wall Art Print Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=still+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=support-pages-can-informational-pages-still-earn-revenue-making-money-from-creating-websites-con-still-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Collier Vanitas Still Life Crown Gold Painting Canvas Wall Art Print Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=still+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=support-pages-can-informational-pages-still-earn-revenue-making-money-from-creating-websites-con-still-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for still poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: still poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=still+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=support-pages-can-informational-pages-still-earn-revenue-making-money-from-creating-websites-con-still-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=still+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=support-pages-can-informational-pages-still-earn-revenue-making-money-from-creating-websites-con-still-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Collier Vanitas Still Life Crown Gold Painting Canvas Wall Art Print Poster"><img src="{{ '/assets/images/marketplace-covers/c07dbf83974de0846a41.jpg' | relative_url }}" alt="Listing image for Collier Vanitas Still Life Crown Gold Painting Canvas Wall Art Print Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=still+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=support-pages-can-informational-pages-still-earn-revenue-making-money-from-creating-websites-con-still-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Collier Vanitas Still Life Crown Gold Painting Canvas Wall Art Print Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=still+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=support-pages-can-informational-pages-still-earn-revenue-making-money-from-creating-websites-con-still-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for still poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: still poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=still+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=support-pages-can-informational-pages-still-earn-revenue-making-money-from-creating-websites-con-still-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=still+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=support-pages-can-informational-pages-still-earn-revenue-making-money-from-creating-websites-con-still-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Henri Matisse - Still life 5 A1-A4 Poster Art Painting Master Fine Classic Wall"><img src="{{ '/assets/images/marketplace-covers/be72d40df3e7c0aabb7c.jpg' | relative_url }}" alt="Listing image for Henri Matisse - Still life 5 A1-A4 Poster Art Painting Master Fine Classic Wall" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=still+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=support-pages-can-informational-pages-still-earn-revenue-making-money-from-creating-websites-con-still-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Henri Matisse - Still life 5 A1-A4 Poster Art Painting Master Fine Classic Wall</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=still+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=support-pages-can-informational-pages-still-earn-revenue-making-money-from-creating-websites-con-still-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for still poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: still poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=still+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=support-pages-can-informational-pages-still-earn-revenue-making-money-from-creating-websites-con-still-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=still+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=support-pages-can-informational-pages-still-earn-revenue-making-money-from-creating-websites-con-still-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=still+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=support-pages-can-informational-pages-still-earn-revenue-making-money-from-creating-websites-con-still-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Henri Matisse - Still life 5 A1-A4 Poster Art Painting Master Fine Classic Wall"><img src="{{ '/assets/images/marketplace-covers/be72d40df3e7c0aabb7c.jpg' | relative_url }}" alt="Listing image for Henri Matisse - Still life 5 A1-A4 Poster Art Painting Master Fine Classic Wall" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=still+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=support-pages-can-informational-pages-still-earn-revenue-making-money-from-creating-websites-con-still-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Henri Matisse - Still life 5 A1-A4 Poster Art Painting Master Fine Classic Wall</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=still+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=support-pages-can-informational-pages-still-earn-revenue-making-money-from-creating-websites-con-still-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for still poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: still poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=still+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=support-pages-can-informational-pages-still-earn-revenue-making-money-from-creating-websites-con-still-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=still+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=support-pages-can-informational-pages-still-earn-revenue-making-money-from-creating-websites-con-still-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -811,7 +811,7 @@ The central rule is simple: an informational page earns revenue by making the ne
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -831,7 +831,7 @@ The central rule is simple: an informational page earns revenue by making the ne
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -863,7 +863,7 @@ The central rule is simple: an informational page earns revenue by making the ne
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -893,7 +893,7 @@ The central rule is simple: an informational page earns revenue by making the ne
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -951,338 +951,338 @@ The central rule is simple: an informational page earns revenue by making the ne
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: asa.org.uk  
    Title: affiliate marketing  
-   Link: <a href="https://www.asa.org.uk/advice-online/affiliate-marketing.html" target="_blank" rel="noopener noreferrer nofollow">https://www.asa.org.uk/advice-online/affiliate-marketing.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Online Affiliate Marketing22 Mar 2023 — Affiliate marketing is a type of performance-based marketing where an affiliate is rewarded by...</p></details>
+   Link:<a href="https://www.asa.org.uk/advice-online/affiliate-marketing.html" target="_blank" rel="noopener noreferrer nofollow">https://www.asa.org.uk/advice-online/affiliate-marketing.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Online Affiliate Marketing22 Mar 2023 — Affiliate marketing is a type of performance-based marketing where an affiliate is rewarded by...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: business.google.com  
-   Link: <a href="https://business.google.com/uk/think/consumer-insights/navigating-purchase-behavior-and-decision-making/" target="_blank" rel="noopener noreferrer nofollow">https://business.google.com/uk/think/consumer-insights/navigating-purchase-behavior-and-decision-making/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>As people explore and evaluate in the messy middle, cognitive biases shape their shopping behavior and...Read more...</p></details>
+   Link:<a href="https://business.google.com/uk/think/consumer-insights/navigating-purchase-behavior-and-decision-making/" target="_blank" rel="noopener noreferrer nofollow">https://business.google.com/uk/think/consumer-insights/navigating-purchase-behavior-and-decision-making/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>As people explore and evaluate in the messy middle, cognitive biases shape their shopping behavior and...Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: ahrefs.com  
    Title: Internal Links for SEO: An Actionable Guide  
-   Link: <a href="https://ahrefs.com/blog/internal-links-for-seo/" target="_blank" rel="noopener noreferrer nofollow">https://ahrefs.com/blog/internal-links-for-seo/</a>  
+   Link:<a href="https://ahrefs.com/blog/internal-links-for-seo/" target="_blank" rel="noopener noreferrer nofollow">https://ahrefs.com/blog/internal-links-for-seo/</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: developers.google.com  
-   Link: <a href="https://developers.google.com/search/docs/specialty/ecommerce/write-high-quality-reviews" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/docs/specialty/ecommerce/write-high-quality-reviews</a>  
+   Link:<a href="https://developers.google.com/search/docs/specialty/ecommerce/write-high-quality-reviews" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/docs/specialty/ecommerce/write-high-quality-reviews</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: developers.google.com  
    Title: affiliate programs and added value  
-   Link: <a href="https://developers.google.com/search/blog/2014/01/affiliate-programs-and-added-value" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/blog/2014/01/affiliate-programs-and-added-value</a>  
+   Link:<a href="https://developers.google.com/search/blog/2014/01/affiliate-programs-and-added-value" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/blog/2014/01/affiliate-programs-and-added-value</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: asa.org.uk  
    Title: get yourself affiliated with the rules on affiliate marketing  
-   Link: <a href="https://www.asa.org.uk/news/get-yourself-affiliated-with-the-rules-on-affiliate-marketing.html" target="_blank" rel="noopener noreferrer nofollow">https://www.asa.org.uk/news/get-yourself-affiliated-with-the-rules-on-affiliate-marketing.html</a>  
+   Link:<a href="https://www.asa.org.uk/news/get-yourself-affiliated-with-the-rules-on-affiliate-marketing.html" target="_blank" rel="noopener noreferrer nofollow">https://www.asa.org.uk/news/get-yourself-affiliated-with-the-rules-on-affiliate-marketing.html</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: baymard.com  
    Title: current state product list and filtering  
-   Link: <a href="https://baymard.com/blog/current-state-product-list-and-filtering" target="_blank" rel="noopener noreferrer nofollow">https://baymard.com/blog/current-state-product-list-and-filtering</a>  
+   Link:<a href="https://baymard.com/blog/current-state-product-list-and-filtering" target="_blank" rel="noopener noreferrer nofollow">https://baymard.com/blog/current-state-product-list-and-filtering</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: baymard.com  
    Title: ecommerce search query types  
-   Link: <a href="https://baymard.com/blog/ecommerce-search-query-types" target="_blank" rel="noopener noreferrer nofollow">https://baymard.com/blog/ecommerce-search-query-types</a>  
+   Link:<a href="https://baymard.com/blog/ecommerce-search-query-types" target="_blank" rel="noopener noreferrer nofollow">https://baymard.com/blog/ecommerce-search-query-types</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/1809.00620" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1809.00620</a>  
+   Link:<a href="https://arxiv.org/abs/1809.00620" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1809.00620</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: baymard.com  
-   Link: <a href="https://baymard.com/" target="_blank" rel="noopener noreferrer nofollow">https://baymard.com/</a>  
+   Link:<a href="https://baymard.com/" target="_blank" rel="noopener noreferrer nofollow">https://baymard.com/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: baymard.com  
-   Link: <a href="https://baymard.com/research/ecommerce-product-lists" target="_blank" rel="noopener noreferrer nofollow">https://baymard.com/research/ecommerce-product-lists</a>  
+   Link:<a href="https://baymard.com/research/ecommerce-product-lists" target="_blank" rel="noopener noreferrer nofollow">https://baymard.com/research/ecommerce-product-lists</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: baymard.com  
-   Link: <a href="https://baymard.com/research/ecommerce-search" target="_blank" rel="noopener noreferrer nofollow">https://baymard.com/research/ecommerce-search</a>  
+   Link:<a href="https://baymard.com/research/ecommerce-search" target="_blank" rel="noopener noreferrer nofollow">https://baymard.com/research/ecommerce-search</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: baymard.com  
-   Link: <a href="https://baymard.com/research/homepage-and-category-usability" target="_blank" rel="noopener noreferrer nofollow">https://baymard.com/research/homepage-and-category-usability</a>  
+   Link:<a href="https://baymard.com/research/homepage-and-category-usability" target="_blank" rel="noopener noreferrer nofollow">https://baymard.com/research/homepage-and-category-usability</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: baymard.com  
    Title: current state ecommerce product page ux  
-   Link: <a href="https://baymard.com/blog/current-state-ecommerce-product-page-ux" target="_blank" rel="noopener noreferrer nofollow">https://baymard.com/blog/current-state-ecommerce-product-page-ux</a>  
+   Link:<a href="https://baymard.com/blog/current-state-ecommerce-product-page-ux" target="_blank" rel="noopener noreferrer nofollow">https://baymard.com/blog/current-state-ecommerce-product-page-ux</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: baymard.com  
    Title: desktop ux ecommerce  
-   Link: <a href="https://baymard.com/blog/desktop-ux-ecommerce" target="_blank" rel="noopener noreferrer nofollow">https://baymard.com/blog/desktop-ux-ecommerce</a>  
+   Link:<a href="https://baymard.com/blog/desktop-ux-ecommerce" target="_blank" rel="noopener noreferrer nofollow">https://baymard.com/blog/desktop-ux-ecommerce</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: baymard.com  
-   Link: <a href="https://baymard.com/blog" target="_blank" rel="noopener noreferrer nofollow">https://baymard.com/blog</a>  
+   Link:<a href="https://baymard.com/blog" target="_blank" rel="noopener noreferrer nofollow">https://baymard.com/blog</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: baymard.com  
    Title: have filters for list item info  
-   Link: <a href="https://baymard.com/blog/have-filters-for-list-item-info" target="_blank" rel="noopener noreferrer nofollow">https://baymard.com/blog/have-filters-for-list-item-info</a>  
+   Link:<a href="https://baymard.com/blog/have-filters-for-list-item-info" target="_blank" rel="noopener noreferrer nofollow">https://baymard.com/blog/have-filters-for-list-item-info</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: baymard.com  
    Title: apparel search  
-   Link: <a href="https://baymard.com/blog/apparel-search" target="_blank" rel="noopener noreferrer nofollow">https://baymard.com/blog/apparel-search</a>  
+   Link:<a href="https://baymard.com/blog/apparel-search" target="_blank" rel="noopener noreferrer nofollow">https://baymard.com/blog/apparel-search</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: developers.google.com  
    Title: creating helpful content  
-   Link: <a href="https://developers.google.com/search/docs/fundamentals/creating-helpful-content" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/docs/fundamentals/creating-helpful-content</a>  
+   Link:<a href="https://developers.google.com/search/docs/fundamentals/creating-helpful-content" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/docs/fundamentals/creating-helpful-content</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: support.google.com  
-   Link: <a href="https://support.google.com/webmasters/thread/302446608/provide-details-about-the-affiliate-products-review-guidelines-and-can-we-used-more-than-ads-network?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/webmasters/thread/302446608/provide-details-about-the-affiliate-products-review-guidelines-and-can-we-used-more-than-ads-network?hl=en</a>  
+   Link:<a href="https://support.google.com/webmasters/thread/302446608/provide-details-about-the-affiliate-products-review-guidelines-and-can-we-used-more-than-ads-network?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/webmasters/thread/302446608/provide-details-about-the-affiliate-products-review-guidelines-and-can-we-used-more-than-ads-network?hl=en</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: support.google.com  
    Title: low traffic affiliate site what can i do better  
-   Link: <a href="https://support.google.com/webmasters/thread/112211009/low-traffic-affiliate-site-what-can-i-do-better?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/webmasters/thread/112211009/low-traffic-affiliate-site-what-can-i-do-better?hl=en</a>  
+   Link:<a href="https://support.google.com/webmasters/thread/112211009/low-traffic-affiliate-site-what-can-i-do-better?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/webmasters/thread/112211009/low-traffic-affiliate-site-what-can-i-do-better?hl=en</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: developers.google.com  
    Title: qualify outbound links  
-   Link: <a href="https://developers.google.com/search/docs/crawling-indexing/qualify-outbound-links" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/docs/crawling-indexing/qualify-outbound-links</a>  
+   Link:<a href="https://developers.google.com/search/docs/crawling-indexing/qualify-outbound-links" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/docs/crawling-indexing/qualify-outbound-links</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: support.google.com  
    Title: sponsored links rel attribute  
-   Link: <a href="https://support.google.com/webmasters/thread/118842020/sponsored-links-rel-attribute?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/webmasters/thread/118842020/sponsored-links-rel-attribute?hl=en</a>  
+   Link:<a href="https://support.google.com/webmasters/thread/118842020/sponsored-links-rel-attribute?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/webmasters/thread/118842020/sponsored-links-rel-attribute?hl=en</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: developers.google.com  
    Title: helpful content update  
-   Link: <a href="https://developers.google.com/search/blog/2022/08/helpful-content-update" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/blog/2022/08/helpful-content-update</a>  
+   Link:<a href="https://developers.google.com/search/blog/2022/08/helpful-content-update" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/blog/2022/08/helpful-content-update</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: developers.google.com  
    Title: search and ai content  
-   Link: <a href="https://developers.google.com/search/blog/2023/02/google-search-and-ai-content" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/blog/2023/02/google-search-and-ai-content</a>  
+   Link:<a href="https://developers.google.com/search/blog/2023/02/google-search-and-ai-content" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/blog/2023/02/google-search-and-ai-content</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: support.google.com  
    Title: thin or pure affiliate blog  
-   Link: <a href="https://support.google.com/webmasters/thread/20577817/thin-or-pure-affiliate-blog?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/webmasters/thread/20577817/thin-or-pure-affiliate-blog?hl=en</a>  
+   Link:<a href="https://support.google.com/webmasters/thread/20577817/thin-or-pure-affiliate-blog?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/webmasters/thread/20577817/thin-or-pure-affiliate-blog?hl=en</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: workspace.google.com  
    Title: affiliate program  
-   Link: <a href="https://workspace.google.com/intl/en_uk/affiliate-program/" target="_blank" rel="noopener noreferrer nofollow">https://workspace.google.com/intl/en_uk/affiliate-program/</a>  
+   Link:<a href="https://workspace.google.com/intl/en_uk/affiliate-program/" target="_blank" rel="noopener noreferrer nofollow">https://workspace.google.com/intl/en_uk/affiliate-program/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: business.google.com  
    Title: messy middle 2023  
-   Link: <a href="https://business.google.com/en-all/think/consumer-insights/messy-middle-2023/" target="_blank" rel="noopener noreferrer nofollow">https://business.google.com/en-all/think/consumer-insights/messy-middle-2023/</a>  
+   Link:<a href="https://business.google.com/en-all/think/consumer-insights/messy-middle-2023/" target="_blank" rel="noopener noreferrer nofollow">https://business.google.com/en-all/think/consumer-insights/messy-middle-2023/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: affiliate-program.amazon.com  
-   Link: <a href="https://affiliate-program.amazon.com/help/operating/agreement" target="_blank" rel="noopener noreferrer nofollow">https://affiliate-program.amazon.com/help/operating/agreement</a>  
+   Link:<a href="https://affiliate-program.amazon.com/help/operating/agreement" target="_blank" rel="noopener noreferrer nofollow">https://affiliate-program.amazon.com/help/operating/agreement</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: ahrefs.com  
-   Link: <a href="https://ahrefs.com/academy/affiliate-marketing-course/lesson-4-1" target="_blank" rel="noopener noreferrer nofollow">https://ahrefs.com/academy/affiliate-marketing-course/lesson-4-1</a>  
+   Link:<a href="https://ahrefs.com/academy/affiliate-marketing-course/lesson" target="_blank" rel="noopener noreferrer nofollow">https://ahrefs.com/academy/affiliate-marketing-course/lesson</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: ahrefs.com  
-   Link: <a href="https://ahrefs.com/seo/link-building" target="_blank" rel="noopener noreferrer nofollow">https://ahrefs.com/seo/link-building</a>  
+   Link:<a href="https://ahrefs.com/seo/link-building" target="_blank" rel="noopener noreferrer nofollow">https://ahrefs.com/seo/link-building</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: ahrefs.com  
    Title: prioritize internal linking  
-   Link: <a href="https://ahrefs.com/blog/prioritize-internal-linking/" target="_blank" rel="noopener noreferrer nofollow">https://ahrefs.com/blog/prioritize-internal-linking/</a>  
+   Link:<a href="https://ahrefs.com/blog/prioritize-internal-linking/" target="_blank" rel="noopener noreferrer nofollow">https://ahrefs.com/blog/prioritize-internal-linking/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: ahrefs.com  
    Title: affiliate marketing tools  
-   Link: <a href="https://ahrefs.com/blog/affiliate-marketing-tools/" target="_blank" rel="noopener noreferrer nofollow">https://ahrefs.com/blog/affiliate-marketing-tools/</a>  
+   Link:<a href="https://ahrefs.com/blog/affiliate-marketing-tools/" target="_blank" rel="noopener noreferrer nofollow">https://ahrefs.com/blog/affiliate-marketing-tools/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: ahrefs.com  
    Title: create affiliate marketing website  
-   Link: <a href="https://ahrefs.com/blog/create-affiliate-marketing-website/" target="_blank" rel="noopener noreferrer nofollow">https://ahrefs.com/blog/create-affiliate-marketing-website/</a>  
+   Link:<a href="https://ahrefs.com/blog/create-affiliate-marketing-website/" target="_blank" rel="noopener noreferrer nofollow">https://ahrefs.com/blog/create-affiliate-marketing-website/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=-c9AUhXAFD8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-c9AUhXAFD8</a>  
+   Link:<a href="https://www.youtube.com/watch?v=-c9AUhXAFD8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-c9AUhXAFD8</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=khLXlseXffs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=khLXlseXffs</a>  
+   Link:<a href="https://www.youtube.com/watch?v=khLXlseXffs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=khLXlseXffs</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=Z0RkLSgwQS4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Z0RkLSgwQS4</a>  
+   Link:<a href="https://www.youtube.com/watch?v=Z0RkLSgwQS4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Z0RkLSgwQS4</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=5tmRy4G7HfA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5tmRy4G7HfA</a>  
+   Link:<a href="https://www.youtube.com/watch?v=5tmRy4G7HfA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5tmRy4G7HfA</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=_xGmA7SeoqA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_xGmA7SeoqA</a>  
+   Link:<a href="https://www.youtube.com/watch?v=_xGmA7SeoqA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_xGmA7SeoqA</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=G9UqlJ9LFKs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=G9UqlJ9LFKs</a>  
+   Link:<a href="https://www.youtube.com/watch?v=G9UqlJ9LFKs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=G9UqlJ9LFKs</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=DSOfPEyeMNg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DSOfPEyeMNg</a>  
+   Link:<a href="https://www.youtube.com/watch?v=DSOfPEyeMNg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DSOfPEyeMNg</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: keyword.com  
    Title: affiliate links seo rankings  
-   Link: <a href="https://keyword.com/blog/affiliate-links-seo-rankings/" target="_blank" rel="noopener noreferrer nofollow">https://keyword.com/blog/affiliate-links-seo-rankings/</a>  
+   Link:<a href="https://keyword.com/blog/affiliate-links-seo-rankings/" target="_blank" rel="noopener noreferrer nofollow">https://keyword.com/blog/affiliate-links-seo-rankings/</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/nature-index/topics/l4/consumer-information-search-behavior-and-decision-making" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/nature-index/topics/l4/consumer-information-search-behavior-and-decision-making</a>  
+   Link:<a href="https://www.nature.com/nature-index/topics/l4/consumer-information-search-behavior-and-decision-making" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/nature-index/topics/l4/consumer-information-search-behavior-and-decision-making</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: youtube.com  
    Title: How to Build a Marketing Funnel that Actually Works for your Business  
-   Link: <a href="http://www.youtube.com/watch?v=_2H7OlHkv1w" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=_2H7OlHkv1w</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Marketing Funnel Explained: What Is It &amp; How To Write One...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=_2H7OlHkv1w" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=_2H7OlHkv1w</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Marketing Funnel Explained: What Is It &amp; How To Write One...</p></details>
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: youtube.com  
    Title: The Marketing Funnel Explained: What Is It & How To Write One  
-   Link: <a href="http://www.youtube.com/watch?v=Xx75loJvFhg" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=Xx75loJvFhg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Topical Authority Map Tutorial (Step‑by‑Step) for 2025...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=Xx75loJvFhg" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=Xx75loJvFhg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Topical Authority Map Tutorial (Step‑by‑Step) for 2025...</p></details>
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=JA4KnGvfXAo" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=JA4KnGvfXAo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Aligning Your Content Marketing Strategy With the Customer Journey...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=JA4KnGvfXAo" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=JA4KnGvfXAo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Aligning Your Content Marketing Strategy With the Customer Journey...</p></details>
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: youtube.com  
    Title: Aligning Your Content Marketing Strategy With the Customer Journey  
-   Link: <a href="http://www.youtube.com/watch?v=8todAcg84Nw" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=8todAcg84Nw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to do SEO when your website is new...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=8todAcg84Nw" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=8todAcg84Nw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to do SEO when your website is new...</p></details>
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: youtube.com  
    Title: How to do SEO when your website is new  
-   Link: <a href="http://www.youtube.com/watch?v=XKWYFN6DbdY" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=XKWYFN6DbdY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Affiliate marketing informational content funnel buying journey website strategy How to Build a Marketing Funnel that Actually Works for...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=XKWYFN6DbdY" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=XKWYFN6DbdY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Affiliate marketing informational content funnel buying journey website strategy How to Build a Marketing Funnel that Actually Works for...</p></details>
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: thinkwithgoogle.com  
-   Link: <a href="https://www.thinkwithgoogle.com/_qs/documents/9998/Decoding_Decisions_The_Messy_Middle_of_Purchase_Behavior.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.thinkwithgoogle.com/_qs/documents/9998/Decoding_Decisions_The_Messy_Middle_of_Purchase_Behavior.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Google BusinessDecoding DecisionsIn our model, between the twin poles of trigger and purchase, sits the messy middle, in which consumers...</p></details>
+   Link:<a href="https://www.thinkwithgoogle.com/_qs/documents/9998/Decoding_Decisions_The_Messy_Middle_of_Purchase_Behavior.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.thinkwithgoogle.com/_qs/documents/9998/Decoding_Decisions_The_Messy_Middle_of_Purchase_Behavior.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Google BusinessDecoding DecisionsIn our model, between the twin poles of trigger and purchase, sits the messy middle, in which consumers...</p></details>
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: nngroup.com  
    Title: information scent  
-   Link: <a href="https://www.nngroup.com/articles/information-scent/" target="_blank" rel="noopener noreferrer nofollow">https://www.nngroup.com/articles/information-scent/</a>  
+   Link:<a href="https://www.nngroup.com/articles/information-scent/" target="_blank" rel="noopener noreferrer nofollow">https://www.nngroup.com/articles/information-scent/</a>  
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: nngroup.com  
    Title: information foraging  
-   Link: <a href="https://www.nngroup.com/articles/information-foraging/" target="_blank" rel="noopener noreferrer nofollow">https://www.nngroup.com/articles/information-foraging/</a>  
+   Link:<a href="https://www.nngroup.com/articles/information-foraging/" target="_blank" rel="noopener noreferrer nofollow">https://www.nngroup.com/articles/information-foraging/</a>  
 
-52. <a id="endnote-52"></a>
+52.<a id="endnote-52"></a>
    Source: databox.com  
    Title: Ahrefs Internal Links  
-   Link: <a href="https://databox.com/metric-library/metrics/ahrefs/internal-links" target="_blank" rel="noopener noreferrer nofollow">https://databox.com/metric-library/metrics/ahrefs/internal-links</a>  
+   Link:<a href="https://databox.com/metric-library/metrics/ahrefs/internal-links" target="_blank" rel="noopener noreferrer nofollow">https://databox.com/metric-library/metrics/ahrefs/internal-links</a>  
 
-53. <a id="endnote-53"></a>
+53.<a id="endnote-53"></a>
    Source: affiliate-program.amazon.co.uk  
    Title: Amazon Associates Amazon.co.uk Associates Central  
-   Link: <a href="https://affiliate-program.amazon.co.uk/help/node/topic/GPXFHVYZMTGPUMPE" target="_blank" rel="noopener noreferrer nofollow">https://affiliate-program.amazon.co.uk/help/node/topic/GPXFHVYZMTGPUMPE</a>  
+   Link:<a href="https://affiliate-program.amazon.co.uk/help/node/topic/GPXFHVYZMTGPUMPE" target="_blank" rel="noopener noreferrer nofollow">https://affiliate-program.amazon.co.uk/help/node/topic/GPXFHVYZMTGPUMPE</a>  
 
-54. <a id="endnote-54"></a>
+54.<a id="endnote-54"></a>
    Source: ftc.gov  
    Title: s endorsement guides what people are asking  
-   Link: <a href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking</a>  
+   Link:<a href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking</a>  
 
-55. <a id="endnote-55"></a>
+55.<a id="endnote-55"></a>
    Source: linkedin.com  
    Title: Baymard Institute  
-   Link: <a href="https://www.linkedin.com/posts/baymard-institute_ux-ecommerce-uxr-activity-7382369333504659457-SKP-" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/baymard-institute_ux-ecommerce-uxr-activity-7382369333504659457-SKP-</a>  
+   Link:<a href="https://www.linkedin.com/posts/baymard-institute_ux-ecommerce-uxr-activity-7382369333504659457-SKP-" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/baymard-institute_ux-ecommerce-uxr-activity-7382369333504659457-SKP-</a>  
 
-56. <a id="endnote-56"></a>
+56.<a id="endnote-56"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/baymard-institute_product-list-ux-best-practices-2025-baymard-activity-7371921940611231744-8YD1" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/baymard-institute_product-list-ux-best-practices-2025-baymard-activity-7371921940611231744-8YD1</a>  
+   Link:<a href="https://www.linkedin.com/posts/baymard-institute_product-list-ux-best-practices-2025-baymard-activity-7371921940611231744-8YD1" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/baymard-institute_product-list-ux-best-practices-2025-baymard-activity-7371921940611231744-8YD1</a>  
 
-57. <a id="endnote-57"></a>
+57.<a id="endnote-57"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/baymard-institute_the-4-sorting-options-every-e-commerce-site-activity-7318304746816036866-OKxi" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/baymard-institute_the-4-sorting-options-every-e-commerce-site-activity-7318304746816036866-OKxi</a>  
+   Link:<a href="https://www.linkedin.com/posts/baymard-institute_the-4-sorting-options-every-e-commerce-site-activity-7318304746816036866-OKxi" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/baymard-institute_the-4-sorting-options-every-e-commerce-site-activity-7318304746816036866-OKxi</a>  
 
-58. <a id="endnote-58"></a>
+58.<a id="endnote-58"></a>
    Source: neveralwaysbook.com  
    Title: messy middle  
-   Link: <a href="https://neveralwaysbook.com/learn/messy-middle" target="_blank" rel="noopener noreferrer nofollow">https://neveralwaysbook.com/learn/messy-middle</a>  
+   Link:<a href="https://neveralwaysbook.com/learn/messy-middle" target="_blank" rel="noopener noreferrer nofollow">https://neveralwaysbook.com/learn/messy-middle</a>  
 
-59. <a id="endnote-59"></a>
+59.<a id="endnote-59"></a>
    Source: geniuslink.com  
    Title: amazon associates requirements  
-   Link: <a href="https://geniuslink.com/blog/amazon-associates-requirements/" target="_blank" rel="noopener noreferrer nofollow">https://geniuslink.com/blog/amazon-associates-requirements/</a>  
+   Link:<a href="https://geniuslink.com/blog/amazon-associates-requirements/" target="_blank" rel="noopener noreferrer nofollow">https://geniuslink.com/blog/amazon-associates-requirements/</a>  
 
-60. <a id="endnote-60"></a>
+60.<a id="endnote-60"></a>
    Source: digitallytop.com  
    Title: ahrefs internal links opportunities a complete beginners guide  
-   Link: <a href="https://digitallytop.com/digital-marketing/ahrefs-internal-links-opportunities-a-complete-beginners-guide/" target="_blank" rel="noopener noreferrer nofollow">https://digitallytop.com/digital-marketing/ahrefs-internal-links-opportunities-a-complete-beginners-guide/</a>  
+   Link:<a href="https://digitallytop.com/digital-marketing/ahrefs-internal-links-opportunities-a-complete-beginners-guide/" target="_blank" rel="noopener noreferrer nofollow">https://digitallytop.com/digital-marketing/ahrefs-internal-links-opportunities-a-complete-beginners-guide/</a>  
 
-61. <a id="endnote-61"></a>
+61.<a id="endnote-61"></a>
    Source: uxtigers.com  
    Title: information scent  
-   Link: <a href="https://www.uxtigers.com/post/information-scent" target="_blank" rel="noopener noreferrer nofollow">https://www.uxtigers.com/post/information-scent</a>  
+   Link:<a href="https://www.uxtigers.com/post/information-scent" target="_blank" rel="noopener noreferrer nofollow">https://www.uxtigers.com/post/information-scent</a>  
 
-62. <a id="endnote-62"></a>
+62.<a id="endnote-62"></a>
    Source: Wikipedia  
    Title: Affiliate marketing  
-   Link: <a href="https://en.wikipedia.org/wiki/Affiliate_marketing" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Affiliate_marketing</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Affiliate_marketing" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Affiliate_marketing</a>  
 
 ### Additional References
 
-63. <a id="endnote-63"></a>
+63.<a id="endnote-63"></a>
    Source: ftc.gov  
-   Link: <a href="https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews</a>  
+   Link:<a href="https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews</a>  
 
-64. <a id="endnote-64"></a>
+64.<a id="endnote-64"></a>
    Source: iab.com  
-   Link: <a href="https://www.iab.com/wp-content/uploads/2016/11/IAB-Affiliate-Marketing-Handbook_2016.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.iab.com/wp-content/uploads/2016/11/IAB-Affiliate-Marketing-Handbook_2016.pdf</a>  
+   Link:<a href="https://www.iab.com/wp-content/uploads/2016/11/IAB-Affiliate-Marketing-Handbook_2016.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.iab.com/wp-content/uploads/2016/11/IAB-Affiliate-Marketing-Handbook_2016.pdf</a>  
 
-65. <a id="endnote-65"></a>
+65.<a id="endnote-65"></a>
    Source: britexotics.co.uk  
-   Link: <a href="https://britexotics.co.uk/affiliate-disclosure" target="_blank" rel="noopener noreferrer nofollow">https://britexotics.co.uk/affiliate-disclosure</a>  
+   Link:<a href="https://britexotics.co.uk/affiliate-disclosure" target="_blank" rel="noopener noreferrer nofollow">https://britexotics.co.uk/affiliate-disclosure</a>  
 
-66. <a id="endnote-66"></a>
+66.<a id="endnote-66"></a>
    Source: bigcommerce.co.uk  
-   Link: <a href="https://www.bigcommerce.co.uk/articles/ecommerce/affiliate-marketing/" target="_blank" rel="noopener noreferrer nofollow">https://www.bigcommerce.co.uk/articles/ecommerce/affiliate-marketing/</a>  
+   Link:<a href="https://www.bigcommerce.co.uk/articles/ecommerce/affiliate-marketing/" target="_blank" rel="noopener noreferrer nofollow">https://www.bigcommerce.co.uk/articles/ecommerce/affiliate-marketing/</a>  
 
-67. <a id="endnote-67"></a>
+67.<a id="endnote-67"></a>
    Source: innovationvisual.com  
-   Link: <a href="https://www.innovationvisual.com/knowledge-hub/knowledge/mapping-content-for-different-stages-of-buyer-journey" target="_blank" rel="noopener noreferrer nofollow">https://www.innovationvisual.com/knowledge-hub/knowledge/mapping-content-for-different-stages-of-buyer-journey</a>  
+   Link:<a href="https://www.innovationvisual.com/knowledge-hub/knowledge/mapping-content-for-different-stages-of-buyer-journey" target="_blank" rel="noopener noreferrer nofollow">https://www.innovationvisual.com/knowledge-hub/knowledge/mapping-content-for-different-stages-of-buyer-journey</a>  
 
-68. <a id="endnote-68"></a>
+68.<a id="endnote-68"></a>
    Source: geniuslink.com  
-   Link: <a href="https://geniuslink.com/blog/amazon-affiliate-disclosure-guide/" target="_blank" rel="noopener noreferrer nofollow">https://geniuslink.com/blog/amazon-affiliate-disclosure-guide/</a>  
+   Link:<a href="https://geniuslink.com/blog/amazon-affiliate-disclosure-guide/" target="_blank" rel="noopener noreferrer nofollow">https://geniuslink.com/blog/amazon-affiliate-disclosure-guide/</a>  
 
-69. <a id="endnote-69"></a>
+69.<a id="endnote-69"></a>
    Source: iubenda.com  
-   Link: <a href="https://www.iubenda.com/en/blog/amazon-affiliate-disclosure-example/" target="_blank" rel="noopener noreferrer nofollow">https://www.iubenda.com/en/blog/amazon-affiliate-disclosure-example/</a>  
+   Link:<a href="https://www.iubenda.com/en/blog/amazon-affiliate-disclosure-example/" target="_blank" rel="noopener noreferrer nofollow">https://www.iubenda.com/en/blog/amazon-affiliate-disclosure-example/</a>  
 
-70. <a id="endnote-70"></a>
+70.<a id="endnote-70"></a>
    Source: wpvip.com  
-   Link: <a href="https://wpvip.com/resource/content-marketing-funnel-guide/" target="_blank" rel="noopener noreferrer nofollow">https://wpvip.com/resource/content-marketing-funnel-guide/</a>  
+   Link:<a href="https://wpvip.com/resource/content-marketing-funnel-guide/" target="_blank" rel="noopener noreferrer nofollow">https://wpvip.com/resource/content-marketing-funnel-guide/</a>  
 
-71. <a id="endnote-71"></a>
+71.<a id="endnote-71"></a>
    Source: nngroup.com  
-   Link: <a href="https://www.nngroup.com/videos/better-link-labels/" target="_blank" rel="noopener noreferrer nofollow">https://www.nngroup.com/videos/better-link-labels/</a>  
+   Link:<a href="https://www.nngroup.com/videos/better-link-labels/" target="_blank" rel="noopener noreferrer nofollow">https://www.nngroup.com/videos/better-link-labels/</a>  
 
-72. <a id="endnote-72"></a>
+72.<a id="endnote-72"></a>
    Source: taylorfrancis.com  
-   Link: <a href="https://www.taylorfrancis.com/chapters/edit/10.4324/9780203047613-14/consumer-decision-making-prepurchase-information-search" target="_blank" rel="noopener noreferrer nofollow">https://www.taylorfrancis.com/chapters/edit/10.4324/9780203047613-14/consumer-decision-making-prepurchase-information-search</a>
+   Link:<a href="https://www.taylorfrancis.com/chapters/edit/10.4324/9780203047613-14/consumer-decision-making-prepurchase-information-search" target="_blank" rel="noopener noreferrer nofollow">https://www.taylorfrancis.com/chapters/edit/10.4324/9780203047613-14/consumer-decision-making-prepurchase-information-search</a>

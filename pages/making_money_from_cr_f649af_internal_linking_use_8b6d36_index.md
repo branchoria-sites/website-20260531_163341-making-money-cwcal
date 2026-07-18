@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /making-money-from-cr-f649af-internal/
 description: Focused pages that expand on User Journeys.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: making_money_from_cr_f649af_internal_linking_use_8b6d36
 parent_title: User Journeys
@@ -16,7 +16,7 @@ parent_permalink: /user-journeys/
 
 # Explore Topics in User Journeys
 
-The following pages expand on the main **[User Journeys]({{ '/user-journeys/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[User Journeys]({{ '/user-journeys/' | relative_url }})** page and cover its key branches in.
 
 - [Page Mapping]({{ '/page-mapping/' | relative_url }})
 - [Intent Links]({{ '/intent-links/' | relative_url }})

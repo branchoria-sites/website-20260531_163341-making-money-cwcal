@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /making-money-from-cr-f649af-revenue/
 description: Focused pages that expand on Revenue Model.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: making_money_from_cr_f649af_revenue_per_visitor_c37335
 parent_title: Revenue Model
@@ -16,7 +16,7 @@ parent_permalink: /revenue-model/
 
 # Explore Topics in Revenue Model
 
-The following pages expand on the main **[Revenue Model]({{ '/revenue-model/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Revenue Model]({{ '/revenue-model/' | relative_url }})** page and cover its key branches in.
 
 - [Click Rate]({{ '/click-rate/' | relative_url }})
 - [Merchant Risk]({{ '/merchant-risk/' | relative_url }})

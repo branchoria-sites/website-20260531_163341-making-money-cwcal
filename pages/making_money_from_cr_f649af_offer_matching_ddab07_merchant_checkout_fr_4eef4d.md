@@ -283,7 +283,7 @@ For affiliate publishers, this creates a hidden revenue problem. The content gen
 
 Many affiliate publishers focus heavily on click-through rate because it is visible and easy to measure. The harder problem is what happens after the visitor leaves the affiliate site.
 
-Research from Baymard Institute consistently finds that around 70% of online shopping carts are abandoned before purchase completion. While not every abandoned cart represents a lost affiliate commission, the scale of checkout leakage is large enough that merchant-side friction becomes a major revenue variable. <span class="citation-chip-wrap"><a class="citation-chip" href="https://baymard.com/lists/cart-abandonment-rate" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: baymard.com">[Baymard Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">baymard.com</span><span class="citation-popover-title">cart abandonment rate</span><span class="citation-popover-snippet">Baymard Institute50 Cart Abandonment Rate Statistics 2026 – Cart &amp; Checkout22 Sept 2025 — Reasons for Abandoning Online Purchases at Chec...</span></span></span>
+Research from Baymard Institute consistently finds that around 70% of online shopping carts are abandoned before purchase completion. While not every abandoned cart represents a lost affiliate commission, the scale of checkout leakage is large enough that merchant-side friction becomes a major revenue variable.<span class="citation-chip-wrap"><a class="citation-chip" href="https://baymard.com/lists/cart-abandonment-rate" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: baymard.com">[Baymard Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">baymard.com</span><span class="citation-popover-title">cart abandonment rate</span><span class="citation-popover-snippet">Baymard Institute50 Cart Abandonment Rate Statistics 2026 – Cart &amp; Checkout22 Sept 2025 — Reasons for Abandoning Online Purchases at Chec...</span></span></span>
 
 This creates an important distinction:
 
@@ -297,7 +297,7 @@ This creates an important distinction:
 
 An affiliate site comparing laptop deals, coffee machines, web-hosting packages, or fitness equipment may send highly qualified buyers to a merchant. If the merchant then creates uncertainty or inconvenience, the conversion loss belongs to the affiliate even though the affiliate cannot directly control the checkout.
 
-This is why experienced affiliates often track earnings per click rather than commission percentages alone. A merchant converting twice as many visitors can outperform a higher-paying programme with a weaker checkout experience. <span class="citation-chip-wrap"><a class="citation-chip" href="https://wecantrack.com/insights/affiliate-conversion-statistics/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wecantrack.com">[wecantrack]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wecantrack.com</span><span class="citation-popover-title">Finance affiliates often see 2-5%, while general retail sees 1-3%.Read more</span><span class="citation-popover-snippet">70+ Affiliate Conversion Rate StatisticsMarch 23, 2026 — Average affiliate conversion rates range from 1-5% depending on niche...</span><span class="citation-popover-meta">Published: March 23, 2026</span></span></span>
+This is why experienced affiliates often track earnings per click rather than commission percentages alone. A merchant converting twice as many visitors can outperform a higher-paying programme with a weaker checkout experience.<span class="citation-chip-wrap"><a class="citation-chip" href="https://wecantrack.com/insights/affiliate-conversion-statistics/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wecantrack.com">[wecantrack]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wecantrack.com</span><span class="citation-popover-title">Finance affiliates often see 2-5%, while general retail sees 1-3%.Read more</span><span class="citation-popover-snippet">70+ Affiliate Conversion Rate StatisticsMarch 23, 2026 — Average affiliate conversion rates range from 1-5% depending on niche...</span><span class="citation-popover-meta">Published: March 23, 2026</span></span></span>
 
 ## Post-Click Problems Affiliates Cannot Ignore
 
@@ -305,7 +305,7 @@ This is why experienced affiliates often track earnings per click rather than co
 
 One of the most common checkout failures occurs when the final price is significantly higher than the visitor expected.
 
-Extra shipping fees, taxes, service charges, handling fees, insurance add-ons, and other late-stage costs create a feeling that the buyer has been misled. Baymard's abandonment research repeatedly identifies unexpected costs as the leading reason shoppers leave during checkout. <span class="citation-chip-wrap"><a class="citation-chip" href="https://baymard.com/lists/cart-abandonment-rate" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: baymard.com">[Baymard Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">baymard.com</span><span class="citation-popover-title">cart abandonment rate</span><span class="citation-popover-snippet">Baymard Institute50 Cart Abandonment Rate Statistics 2026 – Cart &amp; Checkout22 Sept 2025 — Reasons for Abandoning Online Purchases at Chec...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://baymard.com/lists/cart-abandonment-rate" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: baymard.com">[Baymard Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">baymard.com</span><span class="citation-popover-title">cart abandonment rate</span><span class="citation-popover-snippet">Baymard Institute50 Cart Abandonment Rate Statistics 2026 – Cart &amp; Checkout22 Sept 2025 — Reasons for Abandoning Online Purchases at Chec...</span></span></span>
+Extra shipping fees, taxes, service charges, handling fees, insurance add-ons, and other late-stage costs create a feeling that the buyer has been misled. Baymard's abandonment research repeatedly identifies unexpected costs as the leading reason shoppers leave during checkout.<span class="citation-chip-wrap"><a class="citation-chip" href="https://baymard.com/lists/cart-abandonment-rate" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: baymard.com">[Baymard Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">baymard.com</span><span class="citation-popover-title">cart abandonment rate</span><span class="citation-popover-snippet">Baymard Institute50 Cart Abandonment Rate Statistics 2026 – Cart &amp; Checkout22 Sept 2025 — Reasons for Abandoning Online Purchases at Chec...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://baymard.com/lists/cart-abandonment-rate" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: baymard.com">[Baymard Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">baymard.com</span><span class="citation-popover-title">cart abandonment rate</span><span class="citation-popover-snippet">Baymard Institute50 Cart Abandonment Rate Statistics 2026 – Cart &amp; Checkout22 Sept 2025 — Reasons for Abandoning Online Purchases at Chec...</span></span></span>
 
 For affiliate publishers, this matters because the visitor often associates the disappointment with the recommendation itself.
 
@@ -329,7 +329,7 @@ A website generation system should therefore evaluate total purchase cost, not j
 
 Many merchants still interrupt checkout with mandatory registration requirements.
 
-Baymard's research identifies required account creation as a significant abandonment trigger. Users who intended to make a quick purchase are suddenly asked to create passwords, verify emails, and complete additional steps before payment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://baymard.com/lists/cart-abandonment-rate" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: baymard.com">[Baymard Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">baymard.com</span><span class="citation-popover-title">cart abandonment rate</span><span class="citation-popover-snippet">Baymard Institute50 Cart Abandonment Rate Statistics 2026 – Cart &amp; Checkout22 Sept 2025 — Reasons for Abandoning Online Purchases at Chec...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://makecommerce.net/how-to-reduce-cart-abandonment-in-ecommerce-5-easy-steps/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: makecommerce.net">[MakeCommerce From an affiliate perspective]</a><span class="citation-popover" role="note"><span class="citation-popover-source">makecommerce.net</span><span class="citation-popover-title">how to reduce cart abandonment in ecommerce 5 easy steps</span><span class="citation-popover-snippet">How to Reduce Cart Abandonment in Ecommerce: 5 Easy...10 Feb 2026 — Complex checkout processes remain a leading cause of abandonment, wi...</span></span></span>, this is particularly dangerous because:
+Baymard's research identifies required account creation as a significant abandonment trigger. Users who intended to make a quick purchase are suddenly asked to create passwords, verify emails, and complete additional steps before payment.<span class="citation-chip-wrap"><a class="citation-chip" href="https://baymard.com/lists/cart-abandonment-rate" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: baymard.com">[Baymard Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">baymard.com</span><span class="citation-popover-title">cart abandonment rate</span><span class="citation-popover-snippet">Baymard Institute50 Cart Abandonment Rate Statistics 2026 – Cart &amp; Checkout22 Sept 2025 — Reasons for Abandoning Online Purchases at Chec...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://makecommerce.net/how-to-reduce-cart-abandonment-in-ecommerce-5-easy-steps/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: makecommerce.net">[MakeCommerce From an affiliate perspective]</a><span class="citation-popover" role="note"><span class="citation-popover-source">makecommerce.net</span><span class="citation-popover-title">how to reduce cart abandonment in ecommerce 5 easy steps</span><span class="citation-popover-snippet">How to Reduce Cart Abandonment in Ecommerce: 5 Easy...10 Feb 2026 — Complex checkout processes remain a leading cause of abandonment, wi...</span></span></span>, this is particularly dangerous because:
 
 <div class="content-enhancement content-enhancement--decision" markdown="1">
 
@@ -358,7 +358,7 @@ Mobile users are more vulnerable to checkout friction because:
 
 </div>
 
-Affiliate conversion benchmarks consistently show lower mobile conversion rates despite large volumes of mobile traffic. Checkout usability is one of the major reasons. <span class="citation-chip-wrap"><a class="citation-chip" href="https://floatingcta.com/insights/affiliate-marketing-conversion-rate/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: floatingcta.com">[floatingcta.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">floatingcta.com</span><span class="citation-popover-snippet">Affiliate Marketing Conversion Rates: 2026 Benchmarks by...May 1, 2026 — Awin reports over 50% of affiliate-driven visits come from mobi...</span><span class="citation-popover-meta">Published: May 1, 2026</span></span></span>
+Affiliate conversion benchmarks consistently show lower mobile conversion rates despite large volumes of mobile traffic. Checkout usability is one of the major reasons.<span class="citation-chip-wrap"><a class="citation-chip" href="https://floatingcta.com/insights/affiliate-marketing-conversion-rate/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: floatingcta.com">[floatingcta.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">floatingcta.com</span><span class="citation-popover-snippet">Affiliate Marketing Conversion Rates: 2026 Benchmarks by...May 1, 2026 — Awin reports over 50% of affiliate-driven visits come from mobi...</span><span class="citation-popover-meta">Published: May 1, 2026</span></span></span>
 
 A merchant with an excellent desktop checkout but a frustrating mobile experience can significantly reduce the value of affiliate traffic.
 
@@ -423,7 +423,7 @@ A scalable affiliate system should monitor merchant reliability, not simply prod
 
 Modern shoppers compare delivery experiences against large retailers.
 
-Baymard's abandonment data identifies slow delivery as a significant reason users abandon purchases. <span class="citation-chip-wrap"><a class="citation-chip" href="https://baymard.com/lists/cart-abandonment-rate" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: baymard.com">[Baymard Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">baymard.com</span><span class="citation-popover-title">cart abandonment rate</span><span class="citation-popover-snippet">Baymard Institute50 Cart Abandonment Rate Statistics 2026 – Cart &amp; Checkout22 Sept 2025 — Reasons for Abandoning Online Purchases at Chec...</span></span></span>
+Baymard's abandonment data identifies slow delivery as a significant reason users abandon purchases.<span class="citation-chip-wrap"><a class="citation-chip" href="https://baymard.com/lists/cart-abandonment-rate" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: baymard.com">[Baymard Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">baymard.com</span><span class="citation-popover-title">cart abandonment rate</span><span class="citation-popover-snippet">Baymard Institute50 Cart Abandonment Rate Statistics 2026 – Cart &amp; Checkout22 Sept 2025 — Reasons for Abandoning Online Purchases at Chec...</span></span></span>
 
 This affects merchant selection decisions.
 
@@ -449,7 +449,7 @@ Visitors evaluating unfamiliar brands often check:
 * Exchange procedures
 * Refund timing
 
-Baymard's research shows unsatisfactory return policies contribute to abandonment behaviour. <span class="citation-chip-wrap"><a class="citation-chip" href="https://baymard.com/lists/cart-abandonment-rate" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: baymard.com">[Baymard Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">baymard.com</span><span class="citation-popover-title">cart abandonment rate</span><span class="citation-popover-snippet">Baymard Institute50 Cart Abandonment Rate Statistics 2026 – Cart &amp; Checkout22 Sept 2025 — Reasons for Abandoning Online Purchases at Chec...</span></span></span>
+Baymard's research shows unsatisfactory return policies contribute to abandonment behaviour.<span class="citation-chip-wrap"><a class="citation-chip" href="https://baymard.com/lists/cart-abandonment-rate" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: baymard.com">[Baymard Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">baymard.com</span><span class="citation-popover-title">cart abandonment rate</span><span class="citation-popover-snippet">Baymard Institute50 Cart Abandonment Rate Statistics 2026 – Cart &amp; Checkout22 Sept 2025 — Reasons for Abandoning Online Purchases at Chec...</span></span></span>
 
 This is especially important in categories with higher purchase anxiety:
 
@@ -465,7 +465,7 @@ An affiliate recommendation becomes easier to trust when the merchant reduces pe
 
 Many affiliate publishers underestimate how much trust influences checkout completion.
 
-Research repeatedly identifies payment security concerns as a significant abandonment driver. Shoppers leave when they do not trust the merchant with payment information or when the checkout feels unprofessional. <span class="citation-chip-wrap"><a class="citation-chip" href="https://baymard.com/lists/cart-abandonment-rate" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: baymard.com">[Baymard Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">baymard.com</span><span class="citation-popover-title">cart abandonment rate</span><span class="citation-popover-snippet">Baymard Institute50 Cart Abandonment Rate Statistics 2026 – Cart &amp; Checkout22 Sept 2025 — Reasons for Abandoning Online Purchases at Chec...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://growth-engines.com/insights/ecommerce/ecommerce-checkout-optimization" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: growth-engines.com">[Growth Engines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">growth-engines.com</span><span class="citation-popover-title">ecommerce checkout optimization</span><span class="citation-popover-snippet">Baymard&#x27;s checkout usability study found that 19% of users abandoned a checkout in the...Read more...</span></span></span>
+Research repeatedly identifies payment security concerns as a significant abandonment driver. Shoppers leave when they do not trust the merchant with payment information or when the checkout feels unprofessional.<span class="citation-chip-wrap"><a class="citation-chip" href="https://baymard.com/lists/cart-abandonment-rate" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: baymard.com">[Baymard Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">baymard.com</span><span class="citation-popover-title">cart abandonment rate</span><span class="citation-popover-snippet">Baymard Institute50 Cart Abandonment Rate Statistics 2026 – Cart &amp; Checkout22 Sept 2025 — Reasons for Abandoning Online Purchases at Chec...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://growth-engines.com/insights/ecommerce/ecommerce-checkout-optimization" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: growth-engines.com">[Growth Engines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">growth-engines.com</span><span class="citation-popover-title">ecommerce checkout optimization</span><span class="citation-popover-snippet">Baymard&#x27;s checkout usability study found that 19% of users abandoned a checkout in the...Read more...</span></span></span>
 
 Common warning signs include:
 
@@ -492,7 +492,7 @@ Before giving a merchant prominent placement:
 1. Visit the landing page.
 2. Add products to the basket.
 3. Progress through checkout.
-4. Review shipping costs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://baymard.com/lists/cart-abandonment-rate" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: baymard.com">[baymard.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">baymard.com</span><span class="citation-popover-title">cart abandonment rate</span><span class="citation-popover-snippet">Baymard Institute50 Cart Abandonment Rate Statistics 2026 – Cart &amp; Checkout22 Sept 2025 — Reasons for Abandoning Online Purchases at Chec...</span></span></span>
+4. Review shipping costs.<span class="citation-chip-wrap"><a class="citation-chip" href="https://baymard.com/lists/cart-abandonment-rate" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: baymard.com">[baymard.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">baymard.com</span><span class="citation-popover-title">cart abandonment rate</span><span class="citation-popover-snippet">Baymard Institute50 Cart Abandonment Rate Statistics 2026 – Cart &amp; Checkout22 Sept 2025 — Reasons for Abandoning Online Purchases at Chec...</span></span></span>
 5. Examine delivery estimates.
 6. Check payment methods.
 7. Read returns information.
@@ -534,7 +534,7 @@ Certain warning signs tend to predict poor affiliate performance:
 
 Individually, each issue may seem minor. Combined, they can reduce conversion rates dramatically.
 
-Baymard's checkout research repeatedly shows that abandonment is often driven by accumulated friction rather than a single catastrophic problem. <span class="citation-chip-wrap"><a class="citation-chip" href="https://baymard.com/lists/cart-abandonment-rate" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: baymard.com">[Baymard Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">baymard.com</span><span class="citation-popover-title">cart abandonment rate</span><span class="citation-popover-snippet">Baymard Institute50 Cart Abandonment Rate Statistics 2026 – Cart &amp; Checkout22 Sept 2025 — Reasons for Abandoning Online Purchases at Chec...</span></span></span>
+Baymard's checkout research repeatedly shows that abandonment is often driven by accumulated friction rather than a single catastrophic problem.<span class="citation-chip-wrap"><a class="citation-chip" href="https://baymard.com/lists/cart-abandonment-rate" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: baymard.com">[Baymard Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">baymard.com</span><span class="citation-popover-title">cart abandonment rate</span><span class="citation-popover-snippet">Baymard Institute50 Cart Abandonment Rate Statistics 2026 – Cart &amp; Checkout22 Sept 2025 — Reasons for Abandoning Online Purchases at Chec...</span></span></span>
 
 ## Why Merchant Quality Belongs in Offer Matching
 
@@ -555,253 +555,253 @@ This is why mature affiliate operations frequently favour merchants that convert
 For large-scale website monetisation systems, merchant screening should therefore be treated as part of content monetisation logic rather than an afterthought. The recommendation is only as valuable as the checkout that follows it.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to The Sale Can Still Fail After the Click. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to The Sale Can Still Fail After the Click. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Don%27t+Make+Me+Think%2C+Revisited+by+Steve+Krug&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Don&#x27;t Make Me Think, Revisited on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=qahpAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Don&#x27;t Make Me Think, Revisited" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Don%27t+Make+Me+Think%2C+Revisited+by+Steve+Krug&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Don&#x27;t Make Me Think, Revisited">Don&#x27;t Make Me Think, Revisited</a>
-        </h4>
-        <p class="fr-book-author">By Steve Krug</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Don%27t+Make+Me+Think%2C+Revisited+by+Steve+Krug&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Don&#x27;t Make Me Think, Revisited on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=qahpAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Don&#x27;t Make Me Think, Revisited" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Don%27t+Make+Me+Think%2C+Revisited+by+Steve+Krug&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Don&#x27;t Make Me Think, Revisited">Don&#x27;t Make Me Think, Revisited</a>
+</h4>
+<p class="fr-book-author">By Steve Krug</p>
         
-        <p class="fr-book-desc">Directly addresses friction that harms checkout completion.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Don%27t+Make+Me+Think%2C+Revisited+by+Steve+Krug&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses friction that harms checkout completion.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Don%27t+Make+Me+Think%2C+Revisited+by+Steve+Krug&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Making+Websites+Win+by+Karl+Blanks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Making Websites Win on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aqXctAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Making Websites Win" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Making+Websites+Win+by+Karl+Blanks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Making Websites Win">Making Websites Win</a>
-        </h4>
-        <p class="fr-book-author">By Karl Blanks, Ben Jesson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Making+Websites+Win+by+Karl+Blanks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Making Websites Win on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aqXctAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Making Websites Win" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Making+Websites+Win+by+Karl+Blanks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Making Websites Win">Making Websites Win</a>
+</h4>
+<p class="fr-book-author">By Karl Blanks, Ben Jesson</p>
         
-        <p class="fr-book-desc">Focuses on improving conversion performance across user journeys.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Making+Websites+Win+by+Karl+Blanks&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on improving conversion performance across user journeys.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Making+Websites+Win+by+Karl+Blanks&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Hooked+by+Nir+Eyal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Hooked on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KLJPEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Hooked" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Hooked+by+Nir+Eyal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hooked">Hooked</a>
-        </h4>
-        <p class="fr-book-author">By Nir Eyal</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Hooked+by+Nir+Eyal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Hooked on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KLJPEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Hooked" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Hooked+by+Nir+Eyal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hooked">Hooked</a>
+</h4>
+<p class="fr-book-author">By Nir Eyal</p>
         
-        <p class="fr-book-desc">Explains behavioural factors affecting user completion and engagement.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Hooked+by+Nir+Eyal&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains behavioural factors affecting user completion and engagement.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Hooked+by+Nir+Eyal&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Design+of+Everyday+Things+by+Don+Norman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Design of Everyday Things on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=qBfRDQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Design of Everyday Things" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Design+of+Everyday+Things+by+Don+Norman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Design of Everyday Things">The Design of Everyday Things</a>
-        </h4>
-        <p class="fr-book-author">By Don Norman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Design+of+Everyday+Things+by+Don+Norman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Design of Everyday Things on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=qBfRDQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Design of Everyday Things" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Design+of+Everyday+Things+by+Don+Norman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Design of Everyday Things">The Design of Everyday Things</a>
+</h4>
+<p class="fr-book-author">By Don Norman</p>
         
-        <p class="fr-book-desc">Provides principles behind reducing friction and user confusion.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Design+of+Everyday+Things+by+Don+Norman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides principles behind reducing friction and user confusion.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Design+of+Everyday+Things+by+Don+Norman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Don%27t+Make+Me+Think%2C+Revisited&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make Me Think, Revisited</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Making+Websites+Win&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Making Websites Win</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Hooked&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Hooked</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Don%27t+Make+Me+Think%2C+Revisited&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make Me Think, Revisited</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Making+Websites+Win&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Making Websites Win</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Hooked&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Hooked</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=retail+display+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checkout-friction-the-sale-can-still-fail-after-the-click-making-money-from-creating-websites-co-retail-display-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Greeting Card Rack Spins 20Pocket White Retail Display 8&quot;x6&#x27;&#x27; Cards Sign Holder"><img src="{{ '/assets/images/marketplace-covers/f8ba8c2c381ce0efffe9.jpg' | relative_url }}" alt="Listing image for Greeting Card Rack Spins 20Pocket White Retail Display 8&quot;x6&#x27;&#x27; Cards Sign Holder" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=retail+display+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checkout-friction-the-sale-can-still-fail-after-the-click-making-money-from-creating-websites-co-retail-display-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Greeting Card Rack Spins 20Pocket White Retail Display 8&quot;x6&#x27;&#x27; Cards Sign Holder</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=retail+display+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checkout-friction-the-sale-can-still-fail-after-the-click-making-money-from-creating-websites-co-retail-display-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for retail display sign">Search <span data-ebay-domain-label>eBay.com</span>: retail display sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=retail+display+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checkout-friction-the-sale-can-still-fail-after-the-click-making-money-from-creating-websites-co-retail-display-sign&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=retail+display+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checkout-friction-the-sale-can-still-fail-after-the-click-making-money-from-creating-websites-co-retail-display-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Greeting Card Rack Spins 20Pocket White Retail Display 8&quot;x6&#x27;&#x27; Cards Sign Holder"><img src="{{ '/assets/images/marketplace-covers/f8ba8c2c381ce0efffe9.jpg' | relative_url }}" alt="Listing image for Greeting Card Rack Spins 20Pocket White Retail Display 8&quot;x6&#x27;&#x27; Cards Sign Holder" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=retail+display+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checkout-friction-the-sale-can-still-fail-after-the-click-making-money-from-creating-websites-co-retail-display-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Greeting Card Rack Spins 20Pocket White Retail Display 8&quot;x6&#x27;&#x27; Cards Sign Holder</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=retail+display+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checkout-friction-the-sale-can-still-fail-after-the-click-making-money-from-creating-websites-co-retail-display-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for retail display sign">Search<span data-ebay-domain-label>eBay.com</span>: retail display sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=retail+display+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checkout-friction-the-sale-can-still-fail-after-the-click-making-money-from-creating-websites-co-retail-display-sign&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=retail+display+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checkout-friction-the-sale-can-still-fail-after-the-click-making-money-from-creating-websites-co-retail-display-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vtg 90s LEVI&#x27;S Red Tab Logo Hanging Advertising Retail Store Display Sign 15.75&quot;"><img src="{{ '/assets/images/marketplace-covers/39143f2e245a89361b39.jpg' | relative_url }}" alt="Listing image for Vtg 90s LEVI&#x27;S Red Tab Logo Hanging Advertising Retail Store Display Sign 15.75&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=retail+display+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checkout-friction-the-sale-can-still-fail-after-the-click-making-money-from-creating-websites-co-retail-display-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vtg 90s LEVI&#x27;S Red Tab Logo Hanging Advertising Retail Store Display Sign 15.75&quot;</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=retail+display+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checkout-friction-the-sale-can-still-fail-after-the-click-making-money-from-creating-websites-co-retail-display-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for retail display sign">Search <span data-ebay-domain-label>eBay.com</span>: retail display sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=retail+display+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checkout-friction-the-sale-can-still-fail-after-the-click-making-money-from-creating-websites-co-retail-display-sign&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=retail+display+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checkout-friction-the-sale-can-still-fail-after-the-click-making-money-from-creating-websites-co-retail-display-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vtg 90s LEVI&#x27;S Red Tab Logo Hanging Advertising Retail Store Display Sign 15.75&quot;"><img src="{{ '/assets/images/marketplace-covers/39143f2e245a89361b39.jpg' | relative_url }}" alt="Listing image for Vtg 90s LEVI&#x27;S Red Tab Logo Hanging Advertising Retail Store Display Sign 15.75&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=retail+display+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checkout-friction-the-sale-can-still-fail-after-the-click-making-money-from-creating-websites-co-retail-display-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vtg 90s LEVI&#x27;S Red Tab Logo Hanging Advertising Retail Store Display Sign 15.75&quot;</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=retail+display+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checkout-friction-the-sale-can-still-fail-after-the-click-making-money-from-creating-websites-co-retail-display-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for retail display sign">Search<span data-ebay-domain-label>eBay.com</span>: retail display sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=retail+display+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checkout-friction-the-sale-can-still-fail-after-the-click-making-money-from-creating-websites-co-retail-display-sign&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=retail+display+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checkout-friction-the-sale-can-still-fail-after-the-click-making-money-from-creating-websites-co-retail-display-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Adjustable Sign Holder Heavy Duty Floor Standing Poster Stand for Retail Display"><img src="{{ '/assets/images/marketplace-covers/8538f82ff657c3c49462.jpg' | relative_url }}" alt="Listing image for Adjustable Sign Holder Heavy Duty Floor Standing Poster Stand for Retail Display" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=retail+display+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checkout-friction-the-sale-can-still-fail-after-the-click-making-money-from-creating-websites-co-retail-display-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Adjustable Sign Holder Heavy Duty Floor Standing Poster Stand for Retail Display</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=retail+display+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checkout-friction-the-sale-can-still-fail-after-the-click-making-money-from-creating-websites-co-retail-display-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for retail display sign">Search <span data-ebay-domain-label>eBay.com</span>: retail display sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=retail+display+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checkout-friction-the-sale-can-still-fail-after-the-click-making-money-from-creating-websites-co-retail-display-sign&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=retail+display+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checkout-friction-the-sale-can-still-fail-after-the-click-making-money-from-creating-websites-co-retail-display-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Adjustable Sign Holder Heavy Duty Floor Standing Poster Stand for Retail Display"><img src="{{ '/assets/images/marketplace-covers/8538f82ff657c3c49462.jpg' | relative_url }}" alt="Listing image for Adjustable Sign Holder Heavy Duty Floor Standing Poster Stand for Retail Display" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=retail+display+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checkout-friction-the-sale-can-still-fail-after-the-click-making-money-from-creating-websites-co-retail-display-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Adjustable Sign Holder Heavy Duty Floor Standing Poster Stand for Retail Display</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=retail+display+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checkout-friction-the-sale-can-still-fail-after-the-click-making-money-from-creating-websites-co-retail-display-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for retail display sign">Search<span data-ebay-domain-label>eBay.com</span>: retail display sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=retail+display+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checkout-friction-the-sale-can-still-fail-after-the-click-making-money-from-creating-websites-co-retail-display-sign&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=retail+display+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checkout-friction-the-sale-can-still-fail-after-the-click-making-money-from-creating-websites-co-retail-display-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rotating Countertop Display with Peg Hooks Included, 14&quot;x14&quot;x20&quot; Retail Display"><img src="{{ '/assets/images/marketplace-covers/8e929341fb6115787934.jpg' | relative_url }}" alt="Listing image for Rotating Countertop Display with Peg Hooks Included, 14&quot;x14&quot;x20&quot; Retail Display" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=retail+display+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checkout-friction-the-sale-can-still-fail-after-the-click-making-money-from-creating-websites-co-retail-display-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Rotating Countertop Display with Peg Hooks Included, 14&quot;x14&quot;x20&quot; Retail Display</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=retail+display+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checkout-friction-the-sale-can-still-fail-after-the-click-making-money-from-creating-websites-co-retail-display-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for retail display sign">Search <span data-ebay-domain-label>eBay.com</span>: retail display sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=retail+display+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checkout-friction-the-sale-can-still-fail-after-the-click-making-money-from-creating-websites-co-retail-display-sign&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=retail+display+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checkout-friction-the-sale-can-still-fail-after-the-click-making-money-from-creating-websites-co-retail-display-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=retail+display+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checkout-friction-the-sale-can-still-fail-after-the-click-making-money-from-creating-websites-co-retail-display-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rotating Countertop Display with Peg Hooks Included, 14&quot;x14&quot;x20&quot; Retail Display"><img src="{{ '/assets/images/marketplace-covers/8e929341fb6115787934.jpg' | relative_url }}" alt="Listing image for Rotating Countertop Display with Peg Hooks Included, 14&quot;x14&quot;x20&quot; Retail Display" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=retail+display+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checkout-friction-the-sale-can-still-fail-after-the-click-making-money-from-creating-websites-co-retail-display-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Rotating Countertop Display with Peg Hooks Included, 14&quot;x14&quot;x20&quot; Retail Display</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=retail+display+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checkout-friction-the-sale-can-still-fail-after-the-click-making-money-from-creating-websites-co-retail-display-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for retail display sign">Search<span data-ebay-domain-label>eBay.com</span>: retail display sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=retail+display+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checkout-friction-the-sale-can-still-fail-after-the-click-making-money-from-creating-websites-co-retail-display-sign&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=retail+display+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checkout-friction-the-sale-can-still-fail-after-the-click-making-money-from-creating-websites-co-retail-display-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=retail+display+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checkout-friction-the-sale-can-still-fail-after-the-click-making-money-from-creating-websites-co-retail-display-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retail Sale Red Poster 75 x 30cm – High Impact Promotional Display Sign"><img src="{{ '/assets/images/marketplace-covers/be2d5a1966f3acfb96b0.jpg' | relative_url }}" alt="Listing image for Retail Sale Red Poster 75 x 30cm – High Impact Promotional Display Sign" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=retail+display+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checkout-friction-the-sale-can-still-fail-after-the-click-making-money-from-creating-websites-co-retail-display-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Retail Sale Red Poster 75 x 30cm – High Impact Promotional Display Sign</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=retail+display+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checkout-friction-the-sale-can-still-fail-after-the-click-making-money-from-creating-websites-co-retail-display-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for retail display sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: retail display sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=retail+display+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checkout-friction-the-sale-can-still-fail-after-the-click-making-money-from-creating-websites-co-retail-display-sign&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=retail+display+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checkout-friction-the-sale-can-still-fail-after-the-click-making-money-from-creating-websites-co-retail-display-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retail Sale Red Poster 75 x 30cm – High Impact Promotional Display Sign"><img src="{{ '/assets/images/marketplace-covers/be2d5a1966f3acfb96b0.jpg' | relative_url }}" alt="Listing image for Retail Sale Red Poster 75 x 30cm – High Impact Promotional Display Sign" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=retail+display+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checkout-friction-the-sale-can-still-fail-after-the-click-making-money-from-creating-websites-co-retail-display-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Retail Sale Red Poster 75 x 30cm – High Impact Promotional Display Sign</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=retail+display+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checkout-friction-the-sale-can-still-fail-after-the-click-making-money-from-creating-websites-co-retail-display-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for retail display sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: retail display sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=retail+display+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checkout-friction-the-sale-can-still-fail-after-the-click-making-money-from-creating-websites-co-retail-display-sign&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=retail+display+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checkout-friction-the-sale-can-still-fail-after-the-click-making-money-from-creating-websites-co-retail-display-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A3 A4 Floor Standing Sign Holder Poster Menu Frame Adjustable Retail Display UK"><img src="{{ '/assets/images/marketplace-covers/31ec2237a62be79eac87.jpg' | relative_url }}" alt="Listing image for A3 A4 Floor Standing Sign Holder Poster Menu Frame Adjustable Retail Display UK" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=retail+display+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checkout-friction-the-sale-can-still-fail-after-the-click-making-money-from-creating-websites-co-retail-display-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">A3 A4 Floor Standing Sign Holder Poster Menu Frame Adjustable Retail Display UK</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=retail+display+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checkout-friction-the-sale-can-still-fail-after-the-click-making-money-from-creating-websites-co-retail-display-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for retail display sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: retail display sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=retail+display+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checkout-friction-the-sale-can-still-fail-after-the-click-making-money-from-creating-websites-co-retail-display-sign&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=retail+display+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checkout-friction-the-sale-can-still-fail-after-the-click-making-money-from-creating-websites-co-retail-display-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A3 A4 Floor Standing Sign Holder Poster Menu Frame Adjustable Retail Display UK"><img src="{{ '/assets/images/marketplace-covers/31ec2237a62be79eac87.jpg' | relative_url }}" alt="Listing image for A3 A4 Floor Standing Sign Holder Poster Menu Frame Adjustable Retail Display UK" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=retail+display+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checkout-friction-the-sale-can-still-fail-after-the-click-making-money-from-creating-websites-co-retail-display-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">A3 A4 Floor Standing Sign Holder Poster Menu Frame Adjustable Retail Display UK</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=retail+display+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checkout-friction-the-sale-can-still-fail-after-the-click-making-money-from-creating-websites-co-retail-display-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for retail display sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: retail display sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=retail+display+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checkout-friction-the-sale-can-still-fail-after-the-click-making-money-from-creating-websites-co-retail-display-sign&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=retail+display+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checkout-friction-the-sale-can-still-fail-after-the-click-making-money-from-creating-websites-co-retail-display-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SnapFrame Outdoor A4 A3 A2 A1 lockable retail sign holder clip display 4 sizes"><img src="{{ '/assets/images/marketplace-covers/913a4ff805385ce7a8cd.jpg' | relative_url }}" alt="Listing image for SnapFrame Outdoor A4 A3 A2 A1 lockable retail sign holder clip display 4 sizes" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=retail+display+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checkout-friction-the-sale-can-still-fail-after-the-click-making-money-from-creating-websites-co-retail-display-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">SnapFrame Outdoor A4 A3 A2 A1 lockable retail sign holder clip display 4 sizes</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=retail+display+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checkout-friction-the-sale-can-still-fail-after-the-click-making-money-from-creating-websites-co-retail-display-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for retail display sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: retail display sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=retail+display+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checkout-friction-the-sale-can-still-fail-after-the-click-making-money-from-creating-websites-co-retail-display-sign&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=retail+display+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checkout-friction-the-sale-can-still-fail-after-the-click-making-money-from-creating-websites-co-retail-display-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=retail+display+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checkout-friction-the-sale-can-still-fail-after-the-click-making-money-from-creating-websites-co-retail-display-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SnapFrame Outdoor A4 A3 A2 A1 lockable retail sign holder clip display 4 sizes"><img src="{{ '/assets/images/marketplace-covers/913a4ff805385ce7a8cd.jpg' | relative_url }}" alt="Listing image for SnapFrame Outdoor A4 A3 A2 A1 lockable retail sign holder clip display 4 sizes" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=retail+display+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checkout-friction-the-sale-can-still-fail-after-the-click-making-money-from-creating-websites-co-retail-display-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">SnapFrame Outdoor A4 A3 A2 A1 lockable retail sign holder clip display 4 sizes</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=retail+display+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checkout-friction-the-sale-can-still-fail-after-the-click-making-money-from-creating-websites-co-retail-display-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for retail display sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: retail display sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=retail+display+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checkout-friction-the-sale-can-still-fail-after-the-click-making-money-from-creating-websites-co-retail-display-sign&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=retail+display+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checkout-friction-the-sale-can-still-fail-after-the-click-making-money-from-creating-websites-co-retail-display-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -817,7 +817,7 @@ For large-scale website monetisation systems, merchant screening should therefor
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -837,7 +837,7 @@ For large-scale website monetisation systems, merchant screening should therefor
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -869,7 +869,7 @@ For large-scale website monetisation systems, merchant screening should therefor
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -899,7 +899,7 @@ For large-scale website monetisation systems, merchant screening should therefor
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -957,116 +957,116 @@ For large-scale website monetisation systems, merchant screening should therefor
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: baymard.com  
-   Link: <a href="https://baymard.com/research/checkout-usability" target="_blank" rel="noopener noreferrer nofollow">https://baymard.com/research/checkout-usability</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Baymard InstituteE-Commerce Cart &amp; Checkout Usability ResearchAt Baymard we&#x27;ve tracked the global average cart abandonment rate for 14 ye...</p></details>
+   Link:<a href="https://baymard.com/research/checkout-usability" target="_blank" rel="noopener noreferrer nofollow">https://baymard.com/research/checkout-usability</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Baymard InstituteE-Commerce Cart &amp; Checkout Usability ResearchAt Baymard we&#x27;ve tracked the global average cart abandonment rate for 14 ye...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: baymard.com  
    Title: cart abandonment rate  
-   Link: <a href="https://baymard.com/lists/cart-abandonment-rate" target="_blank" rel="noopener noreferrer nofollow">https://baymard.com/lists/cart-abandonment-rate</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Baymard Institute50 Cart Abandonment Rate Statistics 2026 – Cart &amp; Checkout22 Sept 2025 — Reasons for Abandoning Online Purchases at Chec...</p></details>
+   Link:<a href="https://baymard.com/lists/cart-abandonment-rate" target="_blank" rel="noopener noreferrer nofollow">https://baymard.com/lists/cart-abandonment-rate</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Baymard Institute50 Cart Abandonment Rate Statistics 2026 – Cart &amp; Checkout22 Sept 2025 — Reasons for Abandoning Online Purchases at Chec...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: wecantrack.com  
    Title: Finance affiliates often see 2-5%, while general retail sees 1-3%.Read more  
-   Link: <a href="https://wecantrack.com/insights/affiliate-conversion-statistics/" target="_blank" rel="noopener noreferrer nofollow">https://wecantrack.com/insights/affiliate-conversion-statistics/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>70+ Affiliate Conversion Rate StatisticsMarch 23, 2026 — Average affiliate conversion rates range from 1-5% depending on niche...</p></details>
+   Link:<a href="https://wecantrack.com/insights/affiliate-conversion-statistics/" target="_blank" rel="noopener noreferrer nofollow">https://wecantrack.com/insights/affiliate-conversion-statistics/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>70+ Affiliate Conversion Rate StatisticsMarch 23, 2026 — Average affiliate conversion rates range from 1-5% depending on niche...</p></details>
    Published: March 23, 2026  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: baymard.com  
-   Link: <a href="https://baymard.com/learn/reduce-cart-abandonment" target="_blank" rel="noopener noreferrer nofollow">https://baymard.com/learn/reduce-cart-abandonment</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unexpected costs appear too late · 2. Forced account creation · 3. Overly complex checkout...Read more...</p></details>
+   Link:<a href="https://baymard.com/learn/reduce-cart-abandonment" target="_blank" rel="noopener noreferrer nofollow">https://baymard.com/learn/reduce-cart-abandonment</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unexpected costs appear too late · 2. Forced account creation · 3. Overly complex checkout...Read more...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: makecommerce.net  
    Title: how to reduce cart abandonment in ecommerce 5 easy steps  
-   Link: <a href="https://makecommerce.net/how-to-reduce-cart-abandonment-in-ecommerce-5-easy-steps/" target="_blank" rel="noopener noreferrer nofollow">https://makecommerce.net/how-to-reduce-cart-abandonment-in-ecommerce-5-easy-steps/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Reduce Cart Abandonment in Ecommerce: 5 Easy...10 Feb 2026 — Complex checkout processes remain a leading cause of abandonment, wi...</p></details>
+   Link:<a href="https://makecommerce.net/how-to-reduce-cart-abandonment-in-ecommerce-5-easy-steps/" target="_blank" rel="noopener noreferrer nofollow">https://makecommerce.net/how-to-reduce-cart-abandonment-in-ecommerce-5-easy-steps/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to Reduce Cart Abandonment in Ecommerce: 5 Easy...10 Feb 2026 — Complex checkout processes remain a leading cause of abandonment, wi...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: floatingcta.com  
-   Link: <a href="https://floatingcta.com/insights/affiliate-marketing-conversion-rate/" target="_blank" rel="noopener noreferrer nofollow">https://floatingcta.com/insights/affiliate-marketing-conversion-rate/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Affiliate Marketing Conversion Rates: 2026 Benchmarks by...May 1, 2026 — Awin reports over 50% of affiliate-driven visits come from mobi...</p></details>
+   Link:<a href="https://floatingcta.com/insights/affiliate-marketing-conversion-rate/" target="_blank" rel="noopener noreferrer nofollow">https://floatingcta.com/insights/affiliate-marketing-conversion-rate/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Affiliate Marketing Conversion Rates: 2026 Benchmarks by...May 1, 2026 — Awin reports over 50% of affiliate-driven visits come from mobi...</p></details>
    Published: May 1, 2026  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: baymard.com  
-   Link: <a href="https://baymard.com/learn/audit-checkout-flow-hidden-friction" target="_blank" rel="noopener noreferrer nofollow">https://baymard.com/learn/audit-checkout-flow-hidden-friction</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Baymard InstituteHow to Audit Your Checkout Flow for Hidden FrictionAnalytics show where users drop off; a UX audit tells you why. Use th...</p></details>
+   Link:<a href="https://baymard.com/learn/audit-checkout-flow-hidden-friction" target="_blank" rel="noopener noreferrer nofollow">https://baymard.com/learn/audit-checkout-flow-hidden-friction</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Baymard InstituteHow to Audit Your Checkout Flow for Hidden FrictionAnalytics show where users drop off; a UX audit tells you why. Use th...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: growth-engines.com  
    Title: ecommerce checkout optimization  
-   Link: <a href="https://growth-engines.com/insights/ecommerce/ecommerce-checkout-optimization" target="_blank" rel="noopener noreferrer nofollow">https://growth-engines.com/insights/ecommerce/ecommerce-checkout-optimization</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Baymard&#x27;s checkout usability study found that 19% of users abandoned a checkout in the...Read more...</p></details>
+   Link:<a href="https://growth-engines.com/insights/ecommerce/ecommerce-checkout-optimization" target="_blank" rel="noopener noreferrer nofollow">https://growth-engines.com/insights/ecommerce/ecommerce-checkout-optimization</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Baymard&#x27;s checkout usability study found that 19% of users abandoned a checkout in the...Read more...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: baymard.com  
-   Link: <a href="https://baymard.com/blog/ecommerce-checkout-usability-report-and-benchmark" target="_blank" rel="noopener noreferrer nofollow">https://baymard.com/blog/ecommerce-checkout-usability-report-and-benchmark</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Reasons for Cart Abandonment – Why 70% of Do So21 Sept 2016 — The report is 718 pages long, and outlines 134 design guidelines on how to...</p></details>
+   Link:<a href="https://baymard.com/blog/ecommerce-checkout-usability-report-and-benchmark" target="_blank" rel="noopener noreferrer nofollow">https://baymard.com/blog/ecommerce-checkout-usability-report-and-benchmark</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reasons for Cart Abandonment – Why 70% of Do So21 Sept 2016 — The report is 718 pages long, and outlines 134 design guidelines on how to...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: baymard.com  
    Title: current state of checkout ux  
-   Link: <a href="https://baymard.com/blog/current-state-of-checkout-ux" target="_blank" rel="noopener noreferrer nofollow">https://baymard.com/blog/current-state-of-checkout-ux</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Checkout UX Best Practices 202525 Nov 2025 — During testing, we observed that extensive and strict password rules can cause up to an 19%...</p></details>
+   Link:<a href="https://baymard.com/blog/current-state-of-checkout-ux" target="_blank" rel="noopener noreferrer nofollow">https://baymard.com/blog/current-state-of-checkout-ux</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Checkout UX Best Practices 202525 Nov 2025 — During testing, we observed that extensive and strict password rules can cause up to an 19%...</p></details>
 
 ### Additional References
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: impact.com  
-   Link: <a href="https://impact.com/partnerships/the-holy-grail-of-affiliate-marketing-metrics/" target="_blank" rel="noopener noreferrer nofollow">https://impact.com/partnerships/the-holy-grail-of-affiliate-marketing-metrics/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Holy Grail of Affiliate Marketing MetricsMost affiliate managers recognize that more revenues are better, higher conversion rates and...</p></details>
+   Link:<a href="https://impact.com/partnerships/the-holy-grail-of-affiliate-marketing-metrics/" target="_blank" rel="noopener noreferrer nofollow">https://impact.com/partnerships/the-holy-grail-of-affiliate-marketing-metrics/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Holy Grail of Affiliate Marketing MetricsMost affiliate managers recognize that more revenues are better, higher conversion rates and...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/baymard-institute_how-to-audit-your-checkout-flow-for-hidden-activity-7460629993577021440-dbxT" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/baymard-institute_how-to-audit-your-checkout-flow-for-hidden-activity-7460629993577021440-dbxT</a>  
+   Link:<a href="https://www.linkedin.com/posts/baymard-institute_how-to-audit-your-checkout-flow-for-hidden-activity-7460629993577021440-dbxT" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/baymard-institute_how-to-audit-your-checkout-flow-for-hidden-activity-7460629993577021440-dbxT</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40balaji.y/solving-shopping-cart-abandonment-a-case-study-in-checkout-redesign-b98721f66911" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40balaji.y/solving-shopping-cart-abandonment-a-case-study-in-checkout-redesign-b98721f66911</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Solving Shopping Cart Abandonment: A Case Study in...Unexpected Costs. This is the number one reason for cart abandonment. · Lack...</p></details>
+   Link:<a href="https://medium.com/%40balaji.y/solving-shopping-cart-abandonment-a-case-study-in-checkout-redesign-b98721f66911" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40balaji.y/solving-shopping-cart-abandonment-a-case-study-in-checkout-redesign-b98721f66911</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Solving Shopping Cart Abandonment: A Case Study in...Unexpected Costs. This is the number one reason for cart abandonment. · Lack...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: thrivecart.com  
    Title: affiliate marketers everything you need to know about conversion rates  
-   Link: <a href="https://thrivecart.com/blog/affiliate-marketers-everything-you-need-to-know-about-conversion-rates/?srsltid=AfmBOoqkQcD75ZZ1MkoILOdE0gq3OWElFZQ2komInxW56_8qBYsBJ3xO" target="_blank" rel="noopener noreferrer nofollow">https://thrivecart.com/blog/affiliate-marketers-everything-you-need-to-know-about-conversion-rates/?srsltid=AfmBOoqkQcD75ZZ1MkoILOdE0gq3OWElFZQ2komInxW56_8qBYsBJ3xO</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Compute Affiliate Marketing Conversion Rate31 Mar 2026 — The affiliate marketing conversion rate means the percentage of the numbe...</p></details>
+   Link:<a href="https://thrivecart.com/blog/affiliate-marketers-everything-you-need-to-know-about-conversion-rates/?srsltid=AfmBOoqkQcD75ZZ1MkoILOdE0gq3OWElFZQ2komInxW56_8qBYsBJ3xO" target="_blank" rel="noopener noreferrer nofollow">https://thrivecart.com/blog/affiliate-marketers-everything-you-need-to-know-about-conversion-rates/?srsltid=AfmBOoqkQcD75ZZ1MkoILOdE0gq3OWElFZQ2komInxW56_8qBYsBJ3xO</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to Compute Affiliate Marketing Conversion Rate31 Mar 2026 — The affiliate marketing conversion rate means the percentage of the numbe...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/pulse/why-holiday-shoppers-abandon-carts-how-good-ux-can-prevent-smith-a8ede" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/why-holiday-shoppers-abandon-carts-how-good-ux-can-prevent-smith-a8ede</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ollection raises concerns about misuse and marketing abuse...Read more...</p></details>
+   Link:<a href="https://www.linkedin.com/pulse/why-holiday-shoppers-abandon-carts-how-good-ux-can-prevent-smith-a8ede" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/why-holiday-shoppers-abandon-carts-how-good-ux-can-prevent-smith-a8ede</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ollection raises concerns about misuse and marketing abuse...Read more...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: zipchat.ai  
    Title: Seven in ten shoppers who add a product to a cart do not buy.Read more  
-   Link: <a href="https://www.zipchat.ai/blog/cart-abandonment-benchmarks-and-causes" target="_blank" rel="noopener noreferrer nofollow">https://www.zipchat.ai/blog/cart-abandonment-benchmarks-and-causes</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cart Abandonment Rate Benchmarks &amp; Causes (2026 Data)25 Apr 2026 — Summary: The global cart abandonment rate is 70.19% (Baymard Institute...</p></details>
+   Link:<a href="https://www.zipchat.ai/blog/cart-abandonment-benchmarks-and-causes" target="_blank" rel="noopener noreferrer nofollow">https://www.zipchat.ai/blog/cart-abandonment-benchmarks-and-causes</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cart Abandonment Rate Benchmarks &amp; Causes (2026 Data)25 Apr 2026 — Summary: The global cart abandonment rate is 70.19% (Baymard Institute...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: webeyez.com  
    Title: Conversion Rate Affiliate Marketing  
-   Link: <a href="https://webeyez.com/insights/guides/conversion-rate-affiliate-marketing-optimization-guide" target="_blank" rel="noopener noreferrer nofollow">https://webeyez.com/insights/guides/conversion-rate-affiliate-marketing-optimization-guide</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Conversion rate in affiliate marketing measures how effectively affiliate traffic converts into desired actions such as sales or sign-ups...</p></details>
+   Link:<a href="https://webeyez.com/insights/guides/conversion-rate-affiliate-marketing-optimization-guide" target="_blank" rel="noopener noreferrer nofollow">https://webeyez.com/insights/guides/conversion-rate-affiliate-marketing-optimization-guide</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Conversion rate in affiliate marketing measures how effectively affiliate traffic converts into desired actions such as sales or sign-ups...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: themehigh.com  
    Title: psychology of checkout optimization  
-   Link: <a href="https://www.themehigh.com/blog/psychology-of-checkout-optimization/" target="_blank" rel="noopener noreferrer nofollow">https://www.themehigh.com/blog/psychology-of-checkout-optimization/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Psychology of Checkout Optimization19 Sept 2025 — Cart abandonment rates hover around 70% across industries, and the checkout process...</p></details>
+   Link:<a href="https://www.themehigh.com/blog/psychology-of-checkout-optimization/" target="_blank" rel="noopener noreferrer nofollow">https://www.themehigh.com/blog/psychology-of-checkout-optimization/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Psychology of Checkout Optimization19 Sept 2025 — Cart abandonment rates hover around 70% across industries, and the checkout process...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: reddit.com  
    Title: We recently signup for impact.com  
-   Link: <a href="https://www.reddit.com/r/Affiliatemarketing/comments/1mkmhfv/we_recently_signup_for_impactcom_now_not_sure/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Affiliatemarketing/comments/1mkmhfv/we_recently_signup_for_impactcom_now_not_sure/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Now not sure whats...We recently signed up for impact... Its been almost 21 days... it took them 15 days to get us onboarded properly t...</p></details>
+   Link:<a href="https://www.reddit.com/r/Affiliatemarketing/comments/1mkmhfv/we_recently_signup_for_impactcom_now_not_sure/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Affiliatemarketing/comments/1mkmhfv/we_recently_signup_for_impactcom_now_not_sure/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Now not sure whats...We recently signed up for impact... Its been almost 21 days... it took them 15 days to get us onboarded properly t...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: impact.com  
    Title: affiliate marketing benchmark  
-   Link: <a href="https://impact.com/affiliate/affiliate-marketing-benchmark/" target="_blank" rel="noopener noreferrer nofollow">https://impact.com/affiliate/affiliate-marketing-benchmark/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Affiliate Benchmark 2025: Fewer Buys, Higher Order ValueLonger research, shorter purchase windows. Discover how 2025 shopper behavior imp...</p></details>
+   Link:<a href="https://impact.com/affiliate/affiliate-marketing-benchmark/" target="_blank" rel="noopener noreferrer nofollow">https://impact.com/affiliate/affiliate-marketing-benchmark/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Affiliate Benchmark 2025: Fewer Buys, Higher Order ValueLonger research, shorter purchase windows. Discover how 2025 shopper behavior imp...</p></details>

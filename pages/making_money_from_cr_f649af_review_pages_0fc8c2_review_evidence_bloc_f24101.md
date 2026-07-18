@@ -277,7 +277,7 @@ image: /assets/images/making_money_from_cr_f649af_review_pages_0fc8c2_review_evi
 Affiliate review pages earn trust when readers can see the work behind the recommendation. An evidence block is a section that shows how a reviewer reached a verdict through testing, measurement, comparison, screenshots, source analysis, or documented use. Instead of asking visitors to trust a conclusion, it exposes part of the process that produced it.
 
 <img src="{{ "/assets/images/making_money_from_cr_f649af_review_pages_0fc8c2_review_evidence_bloc_f24101-Illustration-1-dark.svg" | relative_url }}" alt="Evidence Blocks illustration 1" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_review_pages_0fc8c2_review_evidence_bloc_f24101-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_review_pages_0fc8c2_review_evidence_bloc_f24101-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This matters commercially because review traffic is often close to a buying decision. A visitor comparing products may accept weaknesses, [limitations]({{ 'limitations/' | relative_url }}), or trade-offs if the reasoning is visible. What usually destroys trust is unsupported certainty. Google’s review guidance repeatedly encourages first-hand supporting evidence, original insights, and information beyond manufacturer descriptions. [Reviews]({{ 'reviews/' | relative_url }}) that demonstrate experience and evaluation are more aligned with what search systems and readers increasingly expect from product recommendations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://developers.google.com/search/docs/specialty/ecommerce/write-high-quality-reviews" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-snippet">Google for DevelopersWrite high quality reviewsWhen recommending something as the best overall or the best for a certain purpose, include...</span></span></span>
+This matters commercially because review traffic is often close to a buying decision. A visitor comparing products may accept weaknesses, [limitations]({{ 'limitations/' | relative_url }}), or trade-offs if the reasoning is visible. What usually destroys trust is unsupported certainty. Google’s review guidance repeatedly encourages first-hand supporting evidence, original insights, and information beyond manufacturer descriptions. [Reviews]({{ 'reviews/' | relative_url }}) that demonstrate experience and evaluation are more aligned with what search systems and readers increasingly expect from product recommendations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://developers.google.com/search/docs/specialty/ecommerce/write-high-quality-reviews" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-snippet">Google for DevelopersWrite high quality reviewsWhen recommending something as the best overall or the best for a certain purpose, include...</span></span></span>
 
 For affiliate sites operating at scale, evidence blocks are also a structural advantage. They give review templates a repeatable way to prove evaluation without forcing every page into a long narrative. A well-designed evidence section can increase trust, improve conversion quality, and differentiate pages that would otherwise look like rewritten merchant copy.
 
@@ -285,7 +285,7 @@ For affiliate sites operating at scale, evidence blocks are also a structural ad
 
 Not all evidence carries the same weight. Readers are usually looking for proof that a recommendation comes from observation, comparison, or investigation rather than promotion.
 
-The strongest evidence blocks typically contain information that could not have been produced by copying a product page. Google specifically highlights first-hand supporting evidence, original images, comparative analysis, and unique information as signals of high-quality review content. Google for Developers <span class="citation-chip-wrap"><a class="citation-chip" href="https://searchengineland.com/google-releases-march-2022-product-reviews-update-with-additional-ranking-[criteria" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: searchengineland.com">[Search Engine Land]</a><span class="citation-popover" role="note"><span class="citation-popover-source">searchengineland.com</span><span class="citation-popover-snippet">Google releases March 2022 product reviews update with...23 Mar 2022 — The new product reviews update looks for in-depth analysis, actua...</span><span class="citation-popover-meta">Published: march 2022</span></span></span>
+The strongest evidence blocks typically contain information that could not have been produced by copying a product page. Google specifically highlights first-hand supporting evidence, original images, comparative analysis, and unique information as signals of high-quality review content. Google for Developers<span class="citation-chip-wrap"><a class="citation-chip" href="https://searchengineland.com/google-releases-march-2022-product-reviews-update-with-additional-ranking-[criteria" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: searchengineland.com">[Search Engine Land]</a><span class="citation-popover" role="note"><span class="citation-popover-source">searchengineland.com</span><span class="citation-popover-snippet">Google releases March 2022 product reviews update with...23 Mar 2022 — The new product reviews update looks for in-depth analysis, actua...</span><span class="citation-popover-meta">Published: march 2022</span></span></span>
 
 Useful evidence commonly falls into several categories:
 
@@ -361,7 +361,7 @@ Consider two review [verdicts]({{ 'verdicts/' | relative_url }}):
 
 The second statement gives the reader a reason to believe the conclusion.
 
-This distinction matters because review readers are often checking whether a recommendation is trustworthy rather than learning about a product for the first time. Google's review guidance specifically encourages explaining why something is best for a particular purpose and supporting those conclusions with evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://developers.google.com/search/docs/specialty/ecommerce/write-high-quality-reviews" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-snippet">Google for DevelopersWrite high quality reviewsWhen recommending something as the best overall or the best for a certain purpose, include...</span></span></span>
+This distinction matters because review readers are often checking whether a recommendation is trustworthy rather than learning about a product for the first time. Google's review guidance specifically encourages explaining why something is best for a particular purpose and supporting those conclusions with evidence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://developers.google.com/search/docs/specialty/ecommerce/write-high-quality-reviews" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-snippet">Google for DevelopersWrite high quality reviewsWhen recommending something as the best overall or the best for a certain purpose, include...</span></span></span>
 
 Evidence blocks also reduce a common affiliate-site problem: recommendation inflation. When every product is described as excellent, readers stop believing the language. When verdicts are attached to observations, measurements, and examples, positive claims become more credible because they appear earned.
 
@@ -456,7 +456,7 @@ For example:
 
 That statement often builds more trust than pretending to have direct access.
 
-Google's guidance focuses on helpful review information and supporting evidence rather than requiring every review to involve ownership or extensive testing. However, demonstrating real experience where available remains a strong trust signal. <span class="citation-chip-wrap"><a class="citation-chip" href="https://developers.google.com/search/docs/specialty/ecommerce/write-high-quality-reviews" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-snippet">Google for DevelopersWrite high quality reviewsWhen recommending something as the best overall or the best for a certain purpose, include...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://developers.google.com/search/docs/specialty/ecommerce/write-high-quality-reviews" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-snippet">Google for DevelopersWrite high quality reviewsWhen recommending something as the best overall or the best for a certain purpose, include...</span></span></span>
+Google's guidance focuses on helpful review information and supporting evidence rather than requiring every review to involve ownership or extensive testing. However, demonstrating real experience where available remains a strong trust signal.<span class="citation-chip-wrap"><a class="citation-chip" href="https://developers.google.com/search/docs/specialty/ecommerce/write-high-quality-reviews" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-snippet">Google for DevelopersWrite high quality reviewsWhen recommending something as the best overall or the best for a certain purpose, include...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://developers.google.com/search/docs/specialty/ecommerce/write-high-quality-reviews" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-snippet">Google for DevelopersWrite high quality reviewsWhen recommending something as the best overall or the best for a certain purpose, include...</span></span></span>
 
 For affiliate site systems, this creates a practical page classification rule:
 
@@ -549,7 +549,7 @@ The most effective evidence signals are often simple:
 * Acknowledged limitations
 * Dates showing recent verification
 
-Research on endorsements and reviews consistently centres on transparency, honesty, and [disclosure]({{ 'disclosure/' | relative_url }}) rather than hidden persuasion. FTC guidance repeatedly stresses that endorsements should be truthful, not misleading, and should clearly disclose material relationships. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ftc.gov/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-snippet">Federal Trade Commission &#124; Protecting America&#x27;s ConsumersThe official website of the Federal Trade Commission, protecting America&#x27;s consu...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ftc.gov/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-snippet">Federal Trade Commission &#124; Protecting America&#x27;s ConsumersThe official website of the Federal Trade Commission, protecting America&#x27;s consu...</span></span></span>
+Research on endorsements and reviews consistently centres on transparency, honesty, and [disclosure]({{ 'disclosure/' | relative_url }}) rather than hidden persuasion. FTC guidance repeatedly stresses that endorsements should be truthful, not misleading, and should clearly disclose material relationships.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ftc.gov/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-snippet">Federal Trade Commission &#124; Protecting America&#x27;s ConsumersThe official website of the Federal Trade Commission, protecting America&#x27;s consu...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ftc.gov/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-snippet">Federal Trade Commission &#124; Protecting America&#x27;s ConsumersThe official website of the Federal Trade Commission, protecting America&#x27;s consu...</span></span></span>
 
 That principle applies directly to affiliate review evidence. Readers are not demanding laboratory-grade testing. They are looking for proof that the recommendation came from real evaluation.
 
@@ -558,146 +558,146 @@ An affiliate review page becomes more persuasive when it shows enough evidence f
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/54XwUi7Hc0k" title="The Elder Scrolls V: Skyrim Angry Review" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=54XwUi7Hc0k" target="_blank" rel="noopener noreferrer">The Elder Scrolls V: Skyrim Angry Review</a></p><p class="youtube-embed-meta">Channel: AngryJoeShow &middot; Views: 5.8M &middot; Uploaded: November 2011 &middot; Length: 19 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=54XwUi7Hc0k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=54XwUi7Hc0k">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Show the Work Behind the Verdict. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Show the Work Behind the Verdict. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Advertising+by+Claude+C.+Hopkins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Advertising on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=yejoCwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Scientific Advertising" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Scientific+Advertising+by+Claude+C.+Hopkins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Advertising">Scientific Advertising</a>
-        </h4>
-        <p class="fr-book-author">By Claude C. Hopkins</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Advertising+by+Claude+C.+Hopkins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Advertising on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=yejoCwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Scientific Advertising" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Scientific+Advertising+by+Claude+C.+Hopkins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Advertising">Scientific Advertising</a>
+</h4>
+<p class="fr-book-author">By Claude C. Hopkins</p>
         
-        <p class="fr-book-desc">Emphasises testing and evidence‑based marketing — parallels evidence in reviews.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Scientific+Advertising+by+Claude+C.+Hopkins&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Emphasises testing and evidence‑based marketing — parallels evidence in reviews.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Scientific+Advertising+by+Claude+C.+Hopkins&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Speech+and+Language+Processing+by+Dan+Jurafsky&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Speech and Language Processing on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fZmj5UNK8AQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Speech and Language Processing" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Speech+and+Language+Processing+by+Dan+Jurafsky&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Speech and Language Processing">Speech and Language Processing</a>
-        </h4>
-        <p class="fr-book-author">By Dan Jurafsky, James H. Martin</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 6 Google Books ratings</p>
-        <p class="fr-book-desc">Teaches how evidence and social proof build trust, vital for evidence sections.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Speech+and+Language+Processing+by+Dan+Jurafsky&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Speech+and+Language+Processing+by+Dan+Jurafsky&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Speech and Language Processing on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fZmj5UNK8AQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Speech and Language Processing" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Speech+and+Language+Processing+by+Dan+Jurafsky&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Speech and Language Processing">Speech and Language Processing</a>
+</h4>
+<p class="fr-book-author">By Dan Jurafsky, James H. Martin</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 6 Google Books ratings</p>
+<p class="fr-book-desc">Teaches how evidence and social proof build trust, vital for evidence sections.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Speech+and+Language+Processing+by+Dan+Jurafsky&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=They+Ask+You+Answer+by+Marcus+Sheridan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open They Ask You Answer on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=qtfPDQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for They Ask You Answer" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=They+Ask+You+Answer+by+Marcus+Sheridan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="They Ask You Answer">They Ask You Answer</a>
-        </h4>
-        <p class="fr-book-author">By Marcus Sheridan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=They+Ask+You+Answer+by+Marcus+Sheridan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open They Ask You Answer on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=qtfPDQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for They Ask You Answer" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=They+Ask+You+Answer+by+Marcus+Sheridan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="They Ask You Answer">They Ask You Answer</a>
+</h4>
+<p class="fr-book-author">By Marcus Sheridan</p>
         
-        <p class="fr-book-desc">Encourages answering buyer questions with helpful evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=They+Ask+You+Answer+by+Marcus+Sheridan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages answering buyer questions with helpful evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=They+Ask+You+Answer+by+Marcus+Sheridan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Epic+Content+Marketing+by+Joe+Pulizzi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Epic Content Marketing on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Epic+Content+Marketing+by+Joe+Pulizzi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Epic Content Marketing">Epic Content Marketing</a>
-        </h4>
-        <p class="fr-book-author">By Joe Pulizzi, Brian W. Piper</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Epic+Content+Marketing+by+Joe+Pulizzi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Epic Content Marketing on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Epic+Content+Marketing+by+Joe+Pulizzi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Epic Content Marketing">Epic Content Marketing</a>
+</h4>
+<p class="fr-book-author">By Joe Pulizzi, Brian W. Piper</p>
         
-        <p class="fr-book-desc">Shows how content strategy uses data and stories as evidence to engage readers.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Epic+Content+Marketing+by+Joe+Pulizzi&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how content strategy uses data and stories as evidence to engage readers.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Epic+Content+Marketing+by+Joe+Pulizzi&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Advertising&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Advertising</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Speech+and+Language+Processing&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Speech and Language Processing</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=They+Ask+You+Answer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">They Ask You Answer</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Advertising&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Advertising</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Speech+and+Language+Processing&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Speech and Language Processing</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=They+Ask+You+Answer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">They Ask You Answer</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-    </div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=review+critique+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-blocks-show-the-work-behind-the-verdict-making-money-from-creating-websites-containing-review-critique-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Funny Bathroom Review Sign 5 Stars Would Poop Here Again Wall Art Print 18X24 In"><img src="{{ '/assets/images/marketplace-covers/68b4098975f7e6d2c07c.jpg' | relative_url }}" alt="Listing image for Funny Bathroom Review Sign 5 Stars Would Poop Here Again Wall Art Print 18X24 In" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=review+critique+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-blocks-show-the-work-behind-the-verdict-making-money-from-creating-websites-containing-review-critique-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Funny Bathroom Review Sign 5 Stars Would Poop Here Again Wall Art Print 18X24 In</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=review+critique+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-blocks-show-the-work-behind-the-verdict-making-money-from-creating-websites-containing-review-critique-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for review critique wall art">Search <span data-ebay-domain-label>eBay.com</span>: review critique wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=review+critique+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-blocks-show-the-work-behind-the-verdict-making-money-from-creating-websites-containing-review-critique-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=review+critique+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-blocks-show-the-work-behind-the-verdict-making-money-from-creating-websites-containing-review-critique-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Funny Bathroom Review Sign 5 Stars Would Poop Here Again Wall Art Print 18X24 In"><img src="{{ '/assets/images/marketplace-covers/68b4098975f7e6d2c07c.jpg' | relative_url }}" alt="Listing image for Funny Bathroom Review Sign 5 Stars Would Poop Here Again Wall Art Print 18X24 In" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=review+critique+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-blocks-show-the-work-behind-the-verdict-making-money-from-creating-websites-containing-review-critique-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Funny Bathroom Review Sign 5 Stars Would Poop Here Again Wall Art Print 18X24 In</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=review+critique+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-blocks-show-the-work-behind-the-verdict-making-money-from-creating-websites-containing-review-critique-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for review critique wall art">Search<span data-ebay-domain-label>eBay.com</span>: review critique wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=review+critique+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-blocks-show-the-work-behind-the-verdict-making-money-from-creating-websites-containing-review-critique-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=review+critique+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-blocks-show-the-work-behind-the-verdict-making-money-from-creating-websites-containing-review-critique-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Review Sign 5 Stars Would Poop Here Again Funny Bathroom Wall Art Print 18X24 In"><img src="{{ '/assets/images/marketplace-covers/80e9479ba9899bc4511e.jpg' | relative_url }}" alt="Listing image for Review Sign 5 Stars Would Poop Here Again Funny Bathroom Wall Art Print 18X24 In" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=review+critique+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-blocks-show-the-work-behind-the-verdict-making-money-from-creating-websites-containing-review-critique-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Review Sign 5 Stars Would Poop Here Again Funny Bathroom Wall Art Print 18X24 In</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=review+critique+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-blocks-show-the-work-behind-the-verdict-making-money-from-creating-websites-containing-review-critique-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for review critique wall art">Search <span data-ebay-domain-label>eBay.com</span>: review critique wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=review+critique+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-blocks-show-the-work-behind-the-verdict-making-money-from-creating-websites-containing-review-critique-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=review+critique+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-blocks-show-the-work-behind-the-verdict-making-money-from-creating-websites-containing-review-critique-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=review+critique+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-blocks-show-the-work-behind-the-verdict-making-money-from-creating-websites-containing-review-critique-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Review Sign 5 Stars Would Poop Here Again Funny Bathroom Wall Art Print 18X24 In"><img src="{{ '/assets/images/marketplace-covers/80e9479ba9899bc4511e.jpg' | relative_url }}" alt="Listing image for Review Sign 5 Stars Would Poop Here Again Funny Bathroom Wall Art Print 18X24 In" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=review+critique+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-blocks-show-the-work-behind-the-verdict-making-money-from-creating-websites-containing-review-critique-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Review Sign 5 Stars Would Poop Here Again Funny Bathroom Wall Art Print 18X24 In</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=review+critique+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-blocks-show-the-work-behind-the-verdict-making-money-from-creating-websites-containing-review-critique-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for review critique wall art">Search<span data-ebay-domain-label>eBay.com</span>: review critique wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=review+critique+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-blocks-show-the-work-behind-the-verdict-making-money-from-creating-websites-containing-review-critique-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=review+critique+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-blocks-show-the-work-behind-the-verdict-making-money-from-creating-websites-containing-review-critique-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -713,7 +713,7 @@ An affiliate review page becomes more persuasive when it shows enough evidence f
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -733,7 +733,7 @@ An affiliate review page becomes more persuasive when it shows enough evidence f
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -765,7 +765,7 @@ An affiliate review page becomes more persuasive when it shows enough evidence f
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -795,7 +795,7 @@ An affiliate review page becomes more persuasive when it shows enough evidence f
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -853,107 +853,107 @@ An affiliate review page becomes more persuasive when it shows enough evidence f
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: developers.google.com  
-   Link: <a href="https://developers.google.com/search/docs/specialty/ecommerce/write-high-quality-reviews" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/docs/specialty/ecommerce/write-high-quality-reviews</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Google for DevelopersWrite high quality reviewsWhen recommending something as the best overall or the best for a certain purpose, include...</p></details>
+   Link:<a href="https://developers.google.com/search/docs/specialty/ecommerce/write-high-quality-reviews" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/docs/specialty/ecommerce/write-high-quality-reviews</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Google for DevelopersWrite high quality reviewsWhen recommending something as the best overall or the best for a certain purpose, include...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: developers.google.com  
-   Link: <a href="https://developers.google.com/search/blog/2022/03/product-review-ranking-one-year-on" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/blog/2022/03/product-review-ranking-one-year-on</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Product Review ranking, one year on23 Mar 2022 — Are product review updates relevant to ranked lists and comparison reviews? Yes. Product...</p></details>
+   Link:<a href="https://developers.google.com/search/blog/2022/03/product-review-ranking-one-year-on" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/blog/2022/03/product-review-ranking-one-year-on</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Product Review ranking, one year on23 Mar 2022 — Are product review updates relevant to ranked lists and comparison reviews? Yes. Product...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: ftc.gov  
-   Link: <a href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade CommissionFTC&#x27;s Endorsement Guides: What People Are Asking29 Jun 2023 — The Guides, at their core, reflect the basic truth...</p></details>
+   Link:<a href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade CommissionFTC&#x27;s Endorsement Guides: What People Are Asking29 Jun 2023 — The Guides, at their core, reflect the basic truth...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: ftc.gov  
-   Link: <a href="https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews</a>  
+   Link:<a href="https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: developers.google.com  
    Title: creating helpful content  
-   Link: <a href="https://developers.google.com/search/docs/fundamentals/creating-helpful-content" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/docs/fundamentals/creating-helpful-content</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Helpful, Reliable, People-First ContentGoogle&#x27;s ranking systems are designed to present helpful, reliable information that&#x27;s created to b...</p></details>
+   Link:<a href="https://developers.google.com/search/docs/fundamentals/creating-helpful-content" target="_blank" rel="noopener noreferrer nofollow">https://developers.google.com/search/docs/fundamentals/creating-helpful-content</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Helpful, Reliable, People-First ContentGoogle&#x27;s ranking systems are designed to present helpful, reliable information that&#x27;s created to b...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: support.google.com  
-   Link: <a href="https://support.google.com/product-documentation/answer/10115141?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/product-documentation/answer/10115141?hl=en</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Store review guidelinesCustomer reviews of Google Hardware products should accurately represent the products in question. Where reviews d...</p></details>
+   Link:<a href="https://support.google.com/product-documentation/answer/10115141?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/product-documentation/answer/10115141?hl=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Store review guidelinesCustomer reviews of Google Hardware products should accurately represent the products in question. Where reviews d...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: ftc.gov  
-   Link: <a href="https://www.ftc.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade Commission | Protecting America&#x27;s ConsumersThe official website of the Federal Trade Commission, protecting America&#x27;s consu...</p></details>
+   Link:<a href="https://www.ftc.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade Commission | Protecting America&#x27;s ConsumersThe official website of the Federal Trade Commission, protecting America&#x27;s consu...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: ftc.gov  
-   Link: <a href="https://www.ftc.gov/sites/default/files/attachments/press-releases/ftc-publishes-final-guides-governing-endorsements-testimonials/091005revisedendorsementguides.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/sites/default/files/attachments/press-releases/ftc-publishes-final-guides-governing-endorsements-testimonials/091005revisedendorsementguides.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>person for the clinic, this endorsement is likely to be deceptive.Read more...</p></details>
+   Link:<a href="https://www.ftc.gov/sites/default/files/attachments/press-releases/ftc-publishes-final-guides-governing-endorsements-testimonials/091005revisedendorsementguides.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/sites/default/files/attachments/press-releases/ftc-publishes-final-guides-governing-endorsements-testimonials/091005revisedendorsementguides.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>person for the clinic, this endorsement is likely to be deceptive.Read more...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: searchengineland.com  
-   Link: <a href="https://searchengineland.com/google-releases-march-2022-product-reviews-update-with-additional-ranking-[criteria" target="_blank" rel="noopener noreferrer nofollow">https://searchengineland.com/google-releases-march-2022-product-reviews-update-with-additional-ranking-[criteria</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Google releases March 2022 product reviews update with...23 Mar 2022 — The new product reviews update looks for in-depth analysis, actua...</p></details>
+   Link:<a href="https://searchengineland.com/google-releases-march-2022-product-reviews-update-with-additional-ranking-[criteria" target="_blank" rel="noopener noreferrer nofollow">https://searchengineland.com/google-releases-march-2022-product-reviews-update-with-additional-ranking-[criteria</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Google releases March 2022 product reviews update with...23 Mar 2022 — The new product reviews update looks for in-depth analysis, actua...</p></details>
    Published: march 2022  
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: ecfr.gov  
-   Link: <a href="https://www.ecfr.gov/current/title-16/chapter-I/subchapter-B/part-255" target="_blank" rel="noopener noreferrer nofollow">https://www.ecfr.gov/current/title-16/chapter-I/subchapter-B/part-255</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>16 CFR Part 255 -- Guides Concerning Use of...The Guides address the application of section 5 of the FTC Act, 15 USC 45, to the use of e...</p></details>
+   Link:<a href="https://www.ecfr.gov/current/title-16/chapter-I/subchapter-B/part-255" target="_blank" rel="noopener noreferrer nofollow">https://www.ecfr.gov/current/title-16/chapter-I/subchapter-B/part-255</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>16 CFR Part 255 -- Guides Concerning Use of...The Guides address the application of section 5 of the FTC Act, 15 USC 45, to the use of e...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: federalregister.gov  
    Title: guides concerning the use of endorsements and testimonials in advertising  
-   Link: <a href="https://www.federalregister.gov/documents/2023/07/26/2023-14795/guides-concerning-the-use-of-endorsements-and-testimonials-in-advertising" target="_blank" rel="noopener noreferrer nofollow">https://www.federalregister.gov/documents/2023/07/26/2023-14795/guides-concerning-the-use-of-endorsements-and-testimonials-in-advertising</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Guides Concerning the Use of Endorsements and...26 Jul 2023 — The Federal Trade Commission (FTC or Commission) is adopting revised Guide...</p></details>
+   Link:<a href="https://www.federalregister.gov/documents/2023/07/26/2023-14795/guides-concerning-the-use-of-endorsements-and-testimonials-in-advertising" target="_blank" rel="noopener noreferrer nofollow">https://www.federalregister.gov/documents/2023/07/26/2023-14795/guides-concerning-the-use-of-endorsements-and-testimonials-in-advertising</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Guides Concerning the Use of Endorsements and...26 Jul 2023 — The Federal Trade Commission (FTC or Commission) is adopting revised Guide...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: agg.com  
-   Link: <a href="https://www.agg.com/news-insights/publications/a-guide-to-understanding-ftcs-regulations-for-endorsements-and-testimonials-in-influencer-advertising/" target="_blank" rel="noopener noreferrer nofollow">https://www.agg.com/news-insights/publications/a-guide-to-understanding-ftcs-regulations-for-endorsements-and-testimonials-in-influencer-advertising/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Guide to Understanding FTC&#x27;s Regulations for...20 June 2024 — The FTC Act also requires a disclosure of typical results when the repor...</p></details>
+   Link:<a href="https://www.agg.com/news-insights/publications/a-guide-to-understanding-ftcs-regulations-for-endorsements-and-testimonials-in-influencer-advertising/" target="_blank" rel="noopener noreferrer nofollow">https://www.agg.com/news-insights/publications/a-guide-to-understanding-ftcs-regulations-for-endorsements-and-testimonials-in-influencer-advertising/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Guide to Understanding FTC&#x27;s Regulations for...20 June 2024 — The FTC Act also requires a disclosure of typical results when the repor...</p></details>
    Published: June 2024  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: steptoe.com  
-   Link: <a href="https://www.steptoe.com/en/news-publications/ftc-unveils-new-endorsement-guides-and-proposed-rule-on-consumer-reviews-what-your-business-needs-to-know-and-opportunities-to-shape-whats-next.html" target="_blank" rel="noopener noreferrer nofollow">https://www.steptoe.com/en/news-publications/ftc-unveils-new-endorsement-guides-and-proposed-rule-on-consumer-reviews-what-your-business-needs-to-know-and-opportunities-to-shape-whats-next.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FTC Unveils New Endorsement Guides and Proposed...11 Jul 2023 — The Endorsement Guides advise the public on advertising practices the Co...</p></details>
+   Link:<a href="https://www.steptoe.com/en/news-publications/ftc-unveils-new-endorsement-guides-and-proposed-rule-on-consumer-reviews-what-your-business-needs-to-know-and-opportunities-to-shape-whats-next.html" target="_blank" rel="noopener noreferrer nofollow">https://www.steptoe.com/en/news-publications/ftc-unveils-new-endorsement-guides-and-proposed-rule-on-consumer-reviews-what-your-business-needs-to-know-and-opportunities-to-shape-whats-next.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FTC Unveils New Endorsement Guides and Proposed...11 Jul 2023 — The Endorsement Guides advise the public on advertising practices the Co...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: dglaw.com  
-   Link: <a href="https://www.dglaw.com/the-deep-dive-ftc-updates-endorsement-guides-for-modern-marketing-and-advertising/" target="_blank" rel="noopener noreferrer nofollow">https://www.dglaw.com/the-deep-dive-ftc-updates-endorsement-guides-for-modern-marketing-and-advertising/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Deep Dive: FTC Updates Endorsement Guides...11 Jul 2023 — On June 29, the FTC announced new Endorsement Guides (Endorsement Guides)...</p></details>
+   Link:<a href="https://www.dglaw.com/the-deep-dive-ftc-updates-endorsement-guides-for-modern-marketing-and-advertising/" target="_blank" rel="noopener noreferrer nofollow">https://www.dglaw.com/the-deep-dive-ftc-updates-endorsement-guides-for-modern-marketing-and-advertising/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Deep Dive: FTC Updates Endorsement Guides...11 Jul 2023 — On June 29, the FTC announced new Endorsement Guides (Endorsement Guides)...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: kelleydrye.com  
    Title: ftc addresses frequently asked questions about the revised endorsement guides  
-   Link: <a href="https://www.kelleydrye.com/viewpoints/blogs/ad-law-access/ftc-addresses-frequently-asked-questions-about-the-revised-endorsement-guides" target="_blank" rel="noopener noreferrer nofollow">https://www.kelleydrye.com/viewpoints/blogs/ad-law-access/ftc-addresses-frequently-asked-questions-about-the-revised-endorsement-guides</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>typical testimonials be accompanied by a clear and conspicuous disclosure of generally expected results. On June 23, 2010, the FTC Bureau...</p></details>
+   Link:<a href="https://www.kelleydrye.com/viewpoints/blogs/ad-law-access/ftc-addresses-frequently-asked-questions-about-the-revised-endorsement-guides" target="_blank" rel="noopener noreferrer nofollow">https://www.kelleydrye.com/viewpoints/blogs/ad-law-access/ftc-addresses-frequently-asked-questions-about-the-revised-endorsement-guides</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>typical testimonials be accompanied by a clear and conspicuous disclosure of generally expected results. On June 23, 2010, the FTC Bureau...</p></details>
    Published: June 23, 2010  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: rioseo.com  
    Title: googles product reviews updates boost your business with trustworthy feedback  
-   Link: <a href="https://www.rioseo.com/blog/googles-product-reviews-updates-boost-your-business-with-trustworthy-feedback/" target="_blank" rel="noopener noreferrer nofollow">https://www.rioseo.com/blog/googles-product-reviews-updates-boost-your-business-with-trustworthy-feedback/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Google&#x27;s Product Reviews Updates: Boost Your Business23 Feb 2023 — In this post, we&#x27;ll deep dive into Google&#x27;s six product review updates...</p></details>
+   Link:<a href="https://www.rioseo.com/blog/googles-product-reviews-updates-boost-your-business-with-trustworthy-feedback/" target="_blank" rel="noopener noreferrer nofollow">https://www.rioseo.com/blog/googles-product-reviews-updates-boost-your-business-with-trustworthy-feedback/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Google&#x27;s Product Reviews Updates: Boost Your Business23 Feb 2023 — In this post, we&#x27;ll deep dive into Google&#x27;s six product review updates...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=aX2IOJT15vY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=aX2IOJT15vY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How Wirecutter Tests ProductsWe rigorously test every product we recommend (or don&#x27;t recommend). Here are a few examples of how Wirecutte...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=aX2IOJT15vY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=aX2IOJT15vY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How Wirecutter Tests ProductsWe rigorously test every product we recommend (or don&#x27;t recommend). Here are a few examples of how Wirecutte...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: swlaw.com  
    Title: truth or consequences ftc revised endorsement guides class action risk  
-   Link: <a href="https://www.swlaw.com/publication/truth-or-consequences-ftc-revised-endorsement-guides-class-action-risk/" target="_blank" rel="noopener noreferrer nofollow">https://www.swlaw.com/publication/truth-or-consequences-ftc-revised-endorsement-guides-class-action-risk/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FTC Revised Endorsement Guides &amp; Class Action Risk8 Aug 2023 — The FTC has updated its guidance on endorsement and testimonial advertisin...</p></details>
+   Link:<a href="https://www.swlaw.com/publication/truth-or-consequences-ftc-revised-endorsement-guides-class-action-risk/" target="_blank" rel="noopener noreferrer nofollow">https://www.swlaw.com/publication/truth-or-consequences-ftc-revised-endorsement-guides-class-action-risk/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FTC Revised Endorsement Guides &amp; Class Action Risk8 Aug 2023 — The FTC has updated its guidance on endorsement and testimonial advertisin...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: wildcatdigital.co.uk  
    Title: google ranking factors does google consider first hand experience  
-   Link: <a href="https://wildcatdigital.co.uk/blog/google-ranking-factors-does-google-consider-first-hand-experience/" target="_blank" rel="noopener noreferrer nofollow">https://wildcatdigital.co.uk/blog/google-ranking-factors-does-google-consider-first-hand-experience/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>First Hand Experience as a Google Ranking Factor27 Feb 2026 — Google prioritises first-hand experience as a core ranking factor through E...</p></details>
+   Link:<a href="https://wildcatdigital.co.uk/blog/google-ranking-factors-does-google-consider-first-hand-experience/" target="_blank" rel="noopener noreferrer nofollow">https://wildcatdigital.co.uk/blog/google-ranking-factors-does-google-consider-first-hand-experience/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>First Hand Experience as a Google Ranking Factor27 Feb 2026 — Google prioritises first-hand experience as a core ranking factor through E...</p></details>

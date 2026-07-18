@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /making-money-from-cr-f649af/
 description: Focused pages that expand on Support Pages.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: making_money_from_cr_f649af_informational_suppor_3ecae4
 parent_title: Support Pages
@@ -16,7 +16,7 @@ parent_permalink: /support-pages/
 
 # Explore Topics in Support Pages
 
-The following pages expand on the main **[Support Pages]({{ '/support-pages/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Support Pages]({{ '/support-pages/' | relative_url }})** page and cover its key branches in.
 
 - [Decision Tools]({{ '/decision-tools/' | relative_url }})
 - [Diagnosis Pages]({{ '/diagnosis-pages/' | relative_url }})

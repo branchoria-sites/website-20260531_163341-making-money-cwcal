@@ -271,7 +271,7 @@ image: /assets/images/making_money_from_cr_f649af_comparison_pages_2aff90_decisi
 A versus page becomes valuable when it highlights the small number of differences that genuinely change a buying decision. Readers searching for “A vs B” have usually already shortlisted the options. They do not need a repeat of each product’s marketing copy. They need help deciding which option better matches their situation.
 
 <img src="{{ "/assets/images/making_money_from_cr_f649af_comparison_pages_2aff90_decision_attributes_f835b6-Illustration-1-dark.svg" | relative_url }}" alt="Attributes illustration 1" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_comparison_pages_2aff90_decision_attributes_f835b6-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_comparison_pages_2aff90_decision_attributes_f835b6-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-For affiliate websites, this distinction matters because decision-focused comparison pages often sit close to the conversion point. The more precisely a page identifies the factors that influence choice, the more likely a reader is to reach a confident decision and click through to an offer. Research on comparison-table usability consistently finds that people use comparison content to evaluate alternatives against relevant attributes, not to read long lists of features or generic descriptions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.linkedin.com/posts/nielsen-norman-group_comparison-tables-for-products-services-activity-6244577571720216577-U-vc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: linkedin.com">[Nielsen Norman Group]</a><span class="citation-popover" role="note"><span class="citation-popover-source">linkedin.com</span><span class="citation-popover-snippet">Nielsen Norman Group&#x27;s PostConsistency in content, scannability, and a simple layout are some of the most important qualities of successf...</span></span></span>
+For affiliate websites, this distinction matters because decision-focused comparison pages often sit close to the conversion point. The more precisely a page identifies the factors that influence choice, the more likely a reader is to reach a confident decision and click through to an offer. Research on comparison-table usability consistently finds that people use comparison content to evaluate alternatives against relevant attributes, not to read long lists of features or generic descriptions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.linkedin.com/posts/nielsen-norman-group_comparison-tables-for-products-services-activity-6244577571720216577-U-vc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: linkedin.com">[Nielsen Norman Group]</a><span class="citation-popover" role="note"><span class="citation-popover-source">linkedin.com</span><span class="citation-popover-snippet">Nielsen Norman Group&#x27;s PostConsistency in content, scannability, and a simple layout are some of the most important qualities of successf...</span></span></span>
 
 ## How to Choose Decision-Changing Criteria
 
@@ -301,7 +301,7 @@ For example, in a comparison between two email marketing platforms, the followin
 * Pricing structure
 * Subscriber limits
 * Automation capabilities
-* Integrations <span class="citation-chip-wrap"><a class="citation-chip" href="https://suitecompete.com/blog/getting-started-with-software-comparison/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: suitecompete.com">[suitecompete.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">suitecompete.com</span><span class="citation-popover-title">claims, evaluate pricing models, test integrations,</span><span class="citation-popover-snippet">How to Compare Software Solutions: A Framework for B2B...October 8, 2025 — 8 Oct 2025 — Step-by-step framework to compare software: defi...</span><span class="citation-popover-meta">Published: October 8, 2025</span></span></span>
+* Integrations<span class="citation-chip-wrap"><a class="citation-chip" href="https://suitecompete.com/blog/getting-started-with-software-comparison/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: suitecompete.com">[suitecompete.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">suitecompete.com</span><span class="citation-popover-title">claims, evaluate pricing models, test integrations,</span><span class="citation-popover-snippet">How to Compare Software Solutions: A Framework for B2B...October 8, 2025 — 8 Oct 2025 — Step-by-step framework to compare software: defi...</span><span class="citation-popover-meta">Published: October 8, 2025</span></span></span>
 * Ease of use
 * Reporting features
 * Migration difficulty
@@ -310,7 +310,7 @@ For example, in a comparison between two email marketing platforms, the followin
 
 In contrast, listing the number of menu items, company history, or minor interface details rarely changes the outcome.
 
-The most effective comparison content focuses on trade-offs rather than feature inventories. Buyers want to understand where one option is stronger, weaker, cheaper, easier, or safer. That is the information that resolves uncertainty. <span class="citation-chip-wrap"><a class="citation-chip" href="https://unbounce.com/landing-page-examples/saas-comparison-pages/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unbounce.com">[Unbounce]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unbounce.com</span><span class="citation-popover-title">Focus on the decision-making factors that actually matter.Read more</span><span class="citation-popover-snippet">Build SaaS comparison pages buyers actually trustApril 13, 2026 — 14 Apr 2026 — The strongest comparison pages help buyers evalua...</span><span class="citation-popover-meta">Published: April 13, 2026</span></span></span>
+The most effective comparison content focuses on trade-offs rather than feature inventories. Buyers want to understand where one option is stronger, weaker, cheaper, easier, or safer. That is the information that resolves uncertainty.<span class="citation-chip-wrap"><a class="citation-chip" href="https://unbounce.com/landing-page-examples/saas-comparison-pages/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unbounce.com">[Unbounce]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unbounce.com</span><span class="citation-popover-title">Focus on the decision-making factors that actually matter.Read more</span><span class="citation-popover-snippet">Build SaaS comparison pages buyers actually trustApril 13, 2026 — 14 Apr 2026 — The strongest comparison pages help buyers evalua...</span><span class="citation-popover-meta">Published: April 13, 2026</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/POsaV2YzRr8" title="Comparison Tables: 5 Scenarios When Not to Use Them" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=POsaV2YzRr8" target="_blank" rel="noopener noreferrer">Comparison Tables: 5 Scenarios When Not to Use Them</a></p><p class="youtube-embed-meta">Channel: NNgroup &middot; Views: 3.1K &middot; Uploaded: April 2025 &middot; Length: 3 minutes 5 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=POsaV2YzRr8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=POsaV2YzRr8">Open on YouTube</a></p></div></div></div>
 
@@ -326,7 +326,7 @@ The strongest comparison attributes often include:
 
 Decision AreaWhy It MattersPricing modelDetermines long-term costIntegrationsAffects compatibility with existing toolsAutomation and workflowsChanges productivityEase of setupInfluences implementation effortSupport qualityReduces operational riskReporting and analyticsAffects business outcomesScalabilityDetermines future suitability
 
-For example, a CRM comparison may be won by integration depth rather than feature count. A project-management tool may lose despite having more features if implementation complexity is substantially higher. Software buyers frequently evaluate pricing, functionality, integrations, and operational fit together rather than treating features in isolation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://suitecompete.com/blog/getting-started-with-software-comparison/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: suitecompete.com">[suitecompete.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">suitecompete.com</span><span class="citation-popover-title">claims, evaluate pricing models, test integrations,</span><span class="citation-popover-snippet">How to Compare Software Solutions: A Framework for B2B...October 8, 2025 — 8 Oct 2025 — Step-by-step framework to compare software: defi...</span><span class="citation-popover-meta">Published: October 8, 2025</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gartner.com/en/documents/6862867" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gartner.com">[gartner]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gartner.com</span><span class="citation-popover-snippet">more...</span></span></span> This has implications for affiliate monetisation. Software comparison pages often earn more by matching visitors to the right product than by declaring a universal winner. A page that explains "Choose A if you need advanced automation; choose B if you want simplicity" can send qualified traffic to both affiliate partners.
+For example, a CRM comparison may be won by integration depth rather than feature count. A project-management tool may lose despite having more features if implementation complexity is substantially higher. Software buyers frequently evaluate pricing, functionality, integrations, and operational fit together rather than treating features in isolation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://suitecompete.com/blog/getting-started-with-software-comparison/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: suitecompete.com">[suitecompete.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">suitecompete.com</span><span class="citation-popover-title">claims, evaluate pricing models, test integrations,</span><span class="citation-popover-snippet">How to Compare Software Solutions: A Framework for B2B...October 8, 2025 — 8 Oct 2025 — Step-by-step framework to compare software: defi...</span><span class="citation-popover-meta">Published: October 8, 2025</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gartner.com/en/documents/6862867" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gartner.com">[gartner]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gartner.com</span><span class="citation-popover-snippet">more...</span></span></span> This has implications for affiliate monetisation. Software comparison pages often earn more by matching visitors to the right product than by declaring a universal winner. A page that explains "Choose A if you need advanced automation; choose B if you want simplicity" can send qualified traffic to both affiliate partners.
 
 ### Physical Product Comparisons
 
@@ -364,7 +364,7 @@ This creates three problems.
 
 ### The Real Differences Become Harder to See
 
-Usability research on comparison [tables]({{ 'tables/' | relative_url }}) emphasises simplicity, scannability, and clear presentation of meaningful differences. When dozens of low-value rows are included, genuinely important distinctions become harder to find. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.linkedin.com/posts/nielsen-norman-group_comparison-tables-for-products-services-activity-6244577571720216577-U-vc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: linkedin.com">[Nielsen Norman Group]</a><span class="citation-popover" role="note"><span class="citation-popover-source">linkedin.com</span><span class="citation-popover-snippet">Nielsen Norman Group&#x27;s PostConsistency in content, scannability, and a simple layout are some of the most important qualities of successf...</span></span></span> LinkedIn A reader comparing hosting platforms may care deeply about pricing <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.linkedin.com/pulse/key-factors-influencing-software-purchase-decisions-trends-robalinho-ahlsf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: linkedin.com">[linkedin.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">linkedin.com</span><span class="citation-popover-snippet">Key Factors Influencing Software Purchase Decisions and...Buyers weigh features against costs, seeking the best balance.... pri...</span></span></span>, performance, support, and migration assistance. Adding twenty minor rows about secondary settings can bury the information that actually matters.
+Usability research on comparison [tables]({{ 'tables/' | relative_url }}) emphasises simplicity, scannability, and clear presentation of meaningful differences. When dozens of low-value rows are included, genuinely important distinctions become harder to find.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.linkedin.com/posts/nielsen-norman-group_comparison-tables-for-products-services-activity-6244577571720216577-U-vc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: linkedin.com">[Nielsen Norman Group]</a><span class="citation-popover" role="note"><span class="citation-popover-source">linkedin.com</span><span class="citation-popover-snippet">Nielsen Norman Group&#x27;s PostConsistency in content, scannability, and a simple layout are some of the most important qualities of successf...</span></span></span> LinkedIn A reader comparing hosting platforms may care deeply about pricing<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.linkedin.com/pulse/key-factors-influencing-software-purchase-decisions-trends-robalinho-ahlsf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: linkedin.com">[linkedin.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">linkedin.com</span><span class="citation-popover-snippet">Key Factors Influencing Software Purchase Decisions and...Buyers weigh features against costs, seeking the best balance.... pri...</span></span></span>, performance, support, and migration assistance. Adding twenty minor rows about secondary settings can bury the information that actually matters.
 
 ### Information Overload Delays Decisions
 
@@ -374,7 +374,7 @@ Excessive criteria often have the opposite effect. Instead of helping visitors c
 
 When readers cannot quickly identify meaningful differences, they often leave the page or continue searching elsewhere. That weakens both user satisfaction and affiliate revenue potential.
 
-Research on comparison interfaces repeatedly shows that users compare alternatives against specific criteria relevant to their goals rather than attempting to absorb every available data point. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.linkedin.com/posts/nielsen-norman-group_comparison-tables-for-products-services-activity-6244577571720216577-U-vc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: linkedin.com">[Nielsen Norman Group]</a><span class="citation-popover" role="note"><span class="citation-popover-source">linkedin.com</span><span class="citation-popover-snippet">Nielsen Norman Group&#x27;s PostConsistency in content, scannability, and a simple layout are some of the most important qualities of successf...</span></span></span>
+Research on comparison interfaces repeatedly shows that users compare alternatives against specific criteria relevant to their goals rather than attempting to absorb every available data point.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.linkedin.com/posts/nielsen-norman-group_comparison-tables-for-products-services-activity-6244577571720216577-U-vc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: linkedin.com">[Nielsen Norman Group]</a><span class="citation-popover" role="note"><span class="citation-popover-source">linkedin.com</span><span class="citation-popover-snippet">Nielsen Norman Group&#x27;s PostConsistency in content, scannability, and a simple layout are some of the most important qualities of successf...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4f8Kzf3Y_l0" title="3 Rules for Better Comparison Tables" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4f8Kzf3Y_l0" target="_blank" rel="noopener noreferrer">3 Rules for Better Comparison Tables</a></p><p class="youtube-embed-meta">Channel: NNgroup &middot; Views: 22.8K &middot; Uploaded: May 2018 &middot; Length: 2 minutes 39 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4f8Kzf3Y_l0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4f8Kzf3Y_l0">Open on YouTube</a></p></div></div></div>
 
@@ -391,7 +391,7 @@ For example:
 
 When a page gives both equal prominence, readers may question whether the comparison is designed to help them decide or simply to fill space.
 
-Trust is particularly important for affiliate content because the monetisation model depends on persuading readers that the recommendation is credible. Effective affiliate comparisons work because they transparently explain differences rather than obscuring them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.postaffiliatepro.com/faq/effective-product-comparisons-affiliate-content/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: postaffiliatepro.com">[Post Affiliate Pro]</a><span class="citation-popover" role="note"><span class="citation-popover-source">postaffiliatepro.com</span><span class="citation-popover-title">Post Affiliate Pro What Makes Product Comparisons Effective for Affiliate</span><span class="citation-popover-snippet">Post Affiliate ProWhat Makes Product Comparisons Effective for Affiliate...November 28, 2025 — Product comparisons are effective for aff...</span><span class="citation-popover-meta">Published: November 28, 2025</span></span></span>
+Trust is particularly important for affiliate content because the monetisation model depends on persuading readers that the recommendation is credible. Effective affiliate comparisons work because they transparently explain differences rather than obscuring them.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.postaffiliatepro.com/faq/effective-product-comparisons-affiliate-content/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: postaffiliatepro.com">[Post Affiliate Pro]</a><span class="citation-popover" role="note"><span class="citation-popover-source">postaffiliatepro.com</span><span class="citation-popover-title">Post Affiliate Pro What Makes Product Comparisons Effective for Affiliate</span><span class="citation-popover-snippet">Post Affiliate ProWhat Makes Product Comparisons Effective for Affiliate...November 28, 2025 — Product comparisons are effective for aff...</span><span class="citation-popover-meta">Published: November 28, 2025</span></span></span>
 
 <img src="{{ "/assets/images/making_money_from_cr_f649af_comparison_pages_2aff90_decision_attributes_f835b6-Illustration-3-dark.svg" | relative_url }}" alt="Attributes illustration 3" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_comparison_pages_2aff90_decision_attributes_f835b6-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_comparison_pages_2aff90_decision_attributes_f835b6-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## A Practical Framework for Selecting Attributes
@@ -424,197 +424,197 @@ The strongest [versus pages]({{ 'versus-pages/' | relative_url }}) are not featu
 
 Instead of trying to compare everything, they identify the few attributes that meaningfully separate the alternatives and explain why those differences matter.
 
-For affiliate websites, this creates a direct commercial benefit. Pages that focus on decision-changing criteria help readers reach conclusions faster, build trust more effectively, and move more naturally towards the next step in the buying journey. Comparison content becomes more valuable when it helps visitors understand trade-offs, self-qualify, and choose the option that best matches their needs rather than simply declaring a winner. <span class="citation-chip-wrap"><a class="citation-chip" href="https://unbounce.com/landing-page-examples/saas-comparison-pages/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unbounce.com">[Unbounce]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unbounce.com</span><span class="citation-popover-title">Focus on the decision-making factors that actually matter.Read more</span><span class="citation-popover-snippet">Build SaaS comparison pages buyers actually trustApril 13, 2026 — 14 Apr 2026 — The strongest comparison pages help buyers evalua...</span><span class="citation-popover-meta">Published: April 13, 2026</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.linkedin.com/posts/nielsen-norman-group_comparison-tables-for-products-services-activity-6244577571720216577-U-vc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: linkedin.com">[Nielsen Norman Group]</a><span class="citation-popover" role="note"><span class="citation-popover-source">linkedin.com</span><span class="citation-popover-snippet">Nielsen Norman Group&#x27;s PostConsistency in content, scannability, and a simple layout are some of the most important qualities of successf...</span></span></span>
+For affiliate websites, this creates a direct commercial benefit. Pages that focus on decision-changing criteria help readers reach conclusions faster, build trust more effectively, and move more naturally towards the next step in the buying journey. Comparison content becomes more valuable when it helps visitors understand trade-offs, self-qualify, and choose the option that best matches their needs rather than simply declaring a winner.<span class="citation-chip-wrap"><a class="citation-chip" href="https://unbounce.com/landing-page-examples/saas-comparison-pages/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unbounce.com">[Unbounce]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unbounce.com</span><span class="citation-popover-title">Focus on the decision-making factors that actually matter.Read more</span><span class="citation-popover-snippet">Build SaaS comparison pages buyers actually trustApril 13, 2026 — 14 Apr 2026 — The strongest comparison pages help buyers evalua...</span><span class="citation-popover-meta">Published: April 13, 2026</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.linkedin.com/posts/nielsen-norman-group_comparison-tables-for-products-services-activity-6244577571720216577-U-vc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: linkedin.com">[Nielsen Norman Group]</a><span class="citation-popover" role="note"><span class="citation-popover-source">linkedin.com</span><span class="citation-popover-snippet">Nielsen Norman Group&#x27;s PostConsistency in content, scannability, and a simple layout are some of the most important qualities of successf...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Which Details Belong in a Versus Page?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Which Details Belong in a Versus Page?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Conversion+Optimization+by+Khalid+Saleh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Conversion Optimization on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=USIKL4celYcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Conversion Optimization" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Conversion+Optimization+by+Khalid+Saleh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Conversion Optimization">Conversion Optimization</a>
-        </h4>
-        <p class="fr-book-author">By Khalid Saleh, Ayat Shukairy</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Conversion+Optimization+by+Khalid+Saleh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Conversion Optimization on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=USIKL4celYcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Conversion Optimization" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Conversion+Optimization+by+Khalid+Saleh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Conversion Optimization">Conversion Optimization</a>
+</h4>
+<p class="fr-book-author">By Khalid Saleh, Ayat Shukairy</p>
         
-        <p class="fr-book-desc">Teaches which attributes drive purchase decisions, directly relevant to versus-page criteria</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Conversion+Optimization+by+Khalid+Saleh&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Teaches which attributes drive purchase decisions, directly relevant to versus-page criteria</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Conversion+Optimization+by+Khalid+Saleh&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Don%27t+Make+Me+Think%2C+Revisited+by+Steve+Krug&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Don&#x27;t Make Me Think, Revisited on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=qahpAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Don&#x27;t Make Me Think, Revisited" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Don%27t+Make+Me+Think%2C+Revisited+by+Steve+Krug&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Don&#x27;t Make Me Think, Revisited">Don&#x27;t Make Me Think, Revisited</a>
-        </h4>
-        <p class="fr-book-author">By Steve Krug</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Don%27t+Make+Me+Think%2C+Revisited+by+Steve+Krug&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Don&#x27;t Make Me Think, Revisited on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=qahpAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Don&#x27;t Make Me Think, Revisited" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Don%27t+Make+Me+Think%2C+Revisited+by+Steve+Krug&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Don&#x27;t Make Me Think, Revisited">Don&#x27;t Make Me Think, Revisited</a>
+</h4>
+<p class="fr-book-author">By Steve Krug</p>
         
-        <p class="fr-book-desc">Helps understand which page details influence user decisions and clicks</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Don%27t+Make+Me+Think%2C+Revisited+by+Steve+Krug&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps understand which page details influence user decisions and clicks</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Don%27t+Make+Me+Think%2C+Revisited+by+Steve+Krug&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Hooked+by+Nir+Eyal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Hooked on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KLJPEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Hooked" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Hooked+by+Nir+Eyal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hooked">Hooked</a>
-        </h4>
-        <p class="fr-book-author">By Nir Eyal</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Hooked+by+Nir+Eyal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Hooked on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KLJPEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Hooked" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Hooked+by+Nir+Eyal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hooked">Hooked</a>
+</h4>
+<p class="fr-book-author">By Nir Eyal</p>
         
-        <p class="fr-book-desc">Explains behavioral triggers that can influence attribute weighting in comparisons</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Hooked+by+Nir+Eyal&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains behavioral triggers that can influence attribute weighting in comparisons</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Hooked+by+Nir+Eyal&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Made+to+Stick+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Made to Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=7XGPEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Made to Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Made+to+Stick+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Made to Stick">Made to Stick</a>
-        </h4>
-        <p class="fr-book-author">By Chip Heath, Dan Heath</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Made+to+Stick+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Made to Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=7XGPEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Made to Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Made+to+Stick+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Made to Stick">Made to Stick</a>
+</h4>
+<p class="fr-book-author">By Chip Heath, Dan Heath</p>
         
-        <p class="fr-book-desc">Covers clarity and relevance in messaging, helping identify decision-critical attributes</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Made+to+Stick+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers clarity and relevance in messaging, helping identify decision-critical attributes</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Made+to+Stick+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Conversion+Optimization&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Conversion Optimization</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Don%27t+Make+Me+Think%2C+Revisited&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make Me Think, Revisited</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Hooked&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Hooked</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Conversion+Optimization&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Conversion Optimization</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Don%27t+Make+Me+Think%2C+Revisited&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make Me Think, Revisited</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Hooked&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Hooked</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=comparison+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-details-belong-in-a-versus-page-comparison-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comparison chart poster" data-ebay-reference="which-details-belong-in-a-versus-page-comparison-chart-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Christmas Present Fun Height Comparison Chart Legendary Football Players"><img src="https://i.ebayimg.com/images/g/LX0AAOSwU8hY52Ux/s-l225.jpg" alt="Listing image for Christmas Present Fun Height Comparison Chart Legendary Football Players" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=comparison+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-details-belong-in-a-versus-page-comparison-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comparison chart poster" data-ebay-reference="which-details-belong-in-a-versus-page-comparison-chart-poster" target="_blank" rel="sponsored noopener noreferrer">Christmas Present Fun Height Comparison Chart Legendary Football Players</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=comparison+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-details-belong-in-a-versus-page-comparison-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comparison chart poster" data-ebay-reference="which-details-belong-in-a-versus-page-comparison-chart-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for comparison chart poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: comparison chart poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=comparison+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-details-belong-in-a-versus-page-comparison-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comparison chart poster" data-ebay-reference="which-details-belong-in-a-versus-page-comparison-chart-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=comparison+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-details-belong-in-a-versus-page-comparison-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comparison chart poster" data-ebay-reference="which-details-belong-in-a-versus-page-comparison-chart-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Christmas Present Fun Height Comparison Chart Legendary Football Players"><img src="https://i.ebayimg.com/images/g/LX0AAOSwU8hY52Ux/s-l225.jpg" alt="Listing image for Christmas Present Fun Height Comparison Chart Legendary Football Players" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=comparison+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-details-belong-in-a-versus-page-comparison-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comparison chart poster" data-ebay-reference="which-details-belong-in-a-versus-page-comparison-chart-poster" target="_blank" rel="sponsored noopener noreferrer">Christmas Present Fun Height Comparison Chart Legendary Football Players</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=comparison+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-details-belong-in-a-versus-page-comparison-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comparison chart poster" data-ebay-reference="which-details-belong-in-a-versus-page-comparison-chart-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for comparison chart poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: comparison chart poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=comparison+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-details-belong-in-a-versus-page-comparison-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comparison chart poster" data-ebay-reference="which-details-belong-in-a-versus-page-comparison-chart-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=comparison+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-details-belong-in-a-versus-page-comparison-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comparison chart poster" data-ebay-reference="which-details-belong-in-a-versus-page-comparison-chart-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for WWII Poster Comparison Chart US ARMY NAVY Coast Guard Marine Corps print vintage"><img src="https://i.ebayimg.com/images/g/cZoAAOSwFyhaKTgx/s-l225.jpg" alt="Listing image for WWII Poster Comparison Chart US ARMY NAVY Coast Guard Marine Corps print vintage" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=comparison+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-details-belong-in-a-versus-page-comparison-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comparison chart poster" data-ebay-reference="which-details-belong-in-a-versus-page-comparison-chart-poster" target="_blank" rel="sponsored noopener noreferrer">WWII Poster Comparison Chart US ARMY NAVY Coast Guard Marine Corps print vintage</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=comparison+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-details-belong-in-a-versus-page-comparison-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comparison chart poster" data-ebay-reference="which-details-belong-in-a-versus-page-comparison-chart-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for comparison chart poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: comparison chart poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=comparison+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-details-belong-in-a-versus-page-comparison-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comparison chart poster" data-ebay-reference="which-details-belong-in-a-versus-page-comparison-chart-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=comparison+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-details-belong-in-a-versus-page-comparison-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comparison chart poster" data-ebay-reference="which-details-belong-in-a-versus-page-comparison-chart-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for WWII Poster Comparison Chart US ARMY NAVY Coast Guard Marine Corps print vintage"><img src="https://i.ebayimg.com/images/g/cZoAAOSwFyhaKTgx/s-l225.jpg" alt="Listing image for WWII Poster Comparison Chart US ARMY NAVY Coast Guard Marine Corps print vintage" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=comparison+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-details-belong-in-a-versus-page-comparison-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comparison chart poster" data-ebay-reference="which-details-belong-in-a-versus-page-comparison-chart-poster" target="_blank" rel="sponsored noopener noreferrer">WWII Poster Comparison Chart US ARMY NAVY Coast Guard Marine Corps print vintage</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=comparison+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-details-belong-in-a-versus-page-comparison-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comparison chart poster" data-ebay-reference="which-details-belong-in-a-versus-page-comparison-chart-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for comparison chart poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: comparison chart poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=comparison+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-details-belong-in-a-versus-page-comparison-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comparison chart poster" data-ebay-reference="which-details-belong-in-a-versus-page-comparison-chart-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=comparison+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-details-belong-in-a-versus-page-comparison-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comparison chart poster" data-ebay-reference="which-details-belong-in-a-versus-page-comparison-chart-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bullet Caliber Comparison Chart Poster 24inx36in Poster"><img src="https://i.ebayimg.com/images/g/-fcAAOSwXExk5Nfb/s-l225.jpg" alt="Listing image for Bullet Caliber Comparison Chart Poster 24inx36in Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=comparison+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-details-belong-in-a-versus-page-comparison-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comparison chart poster" data-ebay-reference="which-details-belong-in-a-versus-page-comparison-chart-poster" target="_blank" rel="sponsored noopener noreferrer">Bullet Caliber Comparison Chart Poster 24inx36in Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=comparison+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-details-belong-in-a-versus-page-comparison-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comparison chart poster" data-ebay-reference="which-details-belong-in-a-versus-page-comparison-chart-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for comparison chart poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: comparison chart poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=comparison+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-details-belong-in-a-versus-page-comparison-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comparison chart poster" data-ebay-reference="which-details-belong-in-a-versus-page-comparison-chart-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=comparison+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-details-belong-in-a-versus-page-comparison-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comparison chart poster" data-ebay-reference="which-details-belong-in-a-versus-page-comparison-chart-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bullet Caliber Comparison Chart Poster 24inx36in Poster"><img src="https://i.ebayimg.com/images/g/-fcAAOSwXExk5Nfb/s-l225.jpg" alt="Listing image for Bullet Caliber Comparison Chart Poster 24inx36in Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=comparison+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-details-belong-in-a-versus-page-comparison-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comparison chart poster" data-ebay-reference="which-details-belong-in-a-versus-page-comparison-chart-poster" target="_blank" rel="sponsored noopener noreferrer">Bullet Caliber Comparison Chart Poster 24inx36in Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=comparison+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-details-belong-in-a-versus-page-comparison-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comparison chart poster" data-ebay-reference="which-details-belong-in-a-versus-page-comparison-chart-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for comparison chart poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: comparison chart poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=comparison+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-details-belong-in-a-versus-page-comparison-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comparison chart poster" data-ebay-reference="which-details-belong-in-a-versus-page-comparison-chart-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=comparison+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-details-belong-in-a-versus-page-comparison-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comparison chart poster" data-ebay-reference="which-details-belong-in-a-versus-page-comparison-chart-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NEW (LAMINATED) Size Comparison (61X91CM) Educational CHART PICTURE PRINT"><img src="https://i.ebayimg.com/images/g/FDoAAOSwraVoUoJP/s-l225.jpg" alt="Listing image for NEW (LAMINATED) Size Comparison (61X91CM) Educational CHART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=comparison+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-details-belong-in-a-versus-page-comparison-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comparison chart poster" data-ebay-reference="which-details-belong-in-a-versus-page-comparison-chart-poster" target="_blank" rel="sponsored noopener noreferrer">NEW (LAMINATED) Size Comparison (61X91CM) Educational CHART PICTURE PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=comparison+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-details-belong-in-a-versus-page-comparison-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comparison chart poster" data-ebay-reference="which-details-belong-in-a-versus-page-comparison-chart-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for comparison chart poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: comparison chart poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=comparison+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-details-belong-in-a-versus-page-comparison-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comparison chart poster" data-ebay-reference="which-details-belong-in-a-versus-page-comparison-chart-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=comparison+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-details-belong-in-a-versus-page-comparison-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comparison chart poster" data-ebay-reference="which-details-belong-in-a-versus-page-comparison-chart-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=comparison+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-details-belong-in-a-versus-page-comparison-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comparison chart poster" data-ebay-reference="which-details-belong-in-a-versus-page-comparison-chart-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NEW (LAMINATED) Size Comparison (61X91CM) Educational CHART PICTURE PRINT"><img src="https://i.ebayimg.com/images/g/FDoAAOSwraVoUoJP/s-l225.jpg" alt="Listing image for NEW (LAMINATED) Size Comparison (61X91CM) Educational CHART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=comparison+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-details-belong-in-a-versus-page-comparison-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comparison chart poster" data-ebay-reference="which-details-belong-in-a-versus-page-comparison-chart-poster" target="_blank" rel="sponsored noopener noreferrer">NEW (LAMINATED) Size Comparison (61X91CM) Educational CHART PICTURE PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=comparison+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-details-belong-in-a-versus-page-comparison-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comparison chart poster" data-ebay-reference="which-details-belong-in-a-versus-page-comparison-chart-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for comparison chart poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: comparison chart poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=comparison+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-details-belong-in-a-versus-page-comparison-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comparison chart poster" data-ebay-reference="which-details-belong-in-a-versus-page-comparison-chart-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=comparison+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-details-belong-in-a-versus-page-comparison-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="comparison chart poster" data-ebay-reference="which-details-belong-in-a-versus-page-comparison-chart-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -630,7 +630,7 @@ For affiliate websites, this creates a direct commercial benefit. Pages that foc
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -650,7 +650,7 @@ For affiliate websites, this creates a direct commercial benefit. Pages that foc
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -682,7 +682,7 @@ For affiliate websites, this creates a direct commercial benefit. Pages that foc
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -734,7 +734,7 @@ For affiliate websites, this creates a direct commercial benefit. Pages that foc
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -779,7 +779,7 @@ For affiliate websites, this creates a direct commercial benefit. Pages that foc
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -820,122 +820,122 @@ For affiliate websites, this creates a direct commercial benefit. Pages that foc
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: unbounce.com  
    Title: Focus on the decision-making factors that actually matter.Read more  
-   Link: <a href="https://unbounce.com/landing-page-examples/saas-comparison-pages/" target="_blank" rel="noopener noreferrer nofollow">https://unbounce.com/landing-page-examples/saas-comparison-pages/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Build SaaS comparison pages buyers actually trustApril 13, 2026 — 14 Apr 2026 — The strongest comparison pages help buyers evalua...</p></details>
+   Link:<a href="https://unbounce.com/landing-page-examples/saas-comparison-pages/" target="_blank" rel="noopener noreferrer nofollow">https://unbounce.com/landing-page-examples/saas-comparison-pages/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Build SaaS comparison pages buyers actually trustApril 13, 2026 — 14 Apr 2026 — The strongest comparison pages help buyers evalua...</p></details>
    Published: April 13, 2026  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: suitecompete.com  
    Title: claims, evaluate pricing models, test integrations,  
-   Link: <a href="https://suitecompete.com/blog/getting-started-with-software-comparison/" target="_blank" rel="noopener noreferrer nofollow">https://suitecompete.com/blog/getting-started-with-software-comparison/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Compare Software Solutions: A Framework for B2B...October 8, 2025 — 8 Oct 2025 — Step-by-step framework to compare software: defi...</p></details>
+   Link:<a href="https://suitecompete.com/blog/getting-started-with-software-comparison/" target="_blank" rel="noopener noreferrer nofollow">https://suitecompete.com/blog/getting-started-with-software-comparison/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to Compare Software Solutions: A Framework for B2B...October 8, 2025 — 8 Oct 2025 — Step-by-step framework to compare software: defi...</p></details>
    Published: October 8, 2025  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: gartner.com  
-   Link: <a href="https://www.gartner.com/en/documents/6862867" target="_blank" rel="noopener noreferrer nofollow">https://www.gartner.com/en/documents/6862867</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>more...</p></details>
+   Link:<a href="https://www.gartner.com/en/documents/6862867" target="_blank" rel="noopener noreferrer nofollow">https://www.gartner.com/en/documents/6862867</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/pulse/key-factors-influencing-software-purchase-decisions-trends-robalinho-ahlsf" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/key-factors-influencing-software-purchase-decisions-trends-robalinho-ahlsf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Key Factors Influencing Software Purchase Decisions and...Buyers weigh features against costs, seeking the best balance.... pri...</p></details>
+   Link:<a href="https://www.linkedin.com/pulse/key-factors-influencing-software-purchase-decisions-trends-robalinho-ahlsf" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/key-factors-influencing-software-purchase-decisions-trends-robalinho-ahlsf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Key Factors Influencing Software Purchase Decisions and...Buyers weigh features against costs, seeking the best balance.... pri...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/nielsen-norman-group_comparison-tables-for-products-services-activity-6244577571720216577-U-vc" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/nielsen-norman-group_comparison-tables-for-products-services-activity-6244577571720216577-U-vc</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Nielsen Norman Group&#x27;s PostConsistency in content, scannability, and a simple layout are some of the most important qualities of successf...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/nielsen-norman-group_comparison-tables-for-products-services-activity-6244577571720216577-U-vc" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/nielsen-norman-group_comparison-tables-for-products-services-activity-6244577571720216577-U-vc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nielsen Norman Group&#x27;s PostConsistency in content, scannability, and a simple layout are some of the most important qualities of successf...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/nielsen-norman-group_comparison-tables-for-products-services-activity-7164262029220909057-JpKs" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/nielsen-norman-group_comparison-tables-for-products-services-activity-7164262029220909057-JpKs</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Comparison Tables for Products, Services, and FeaturesComparison Tables for Products, Services, and Features nngroup.com... Comparing op...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/nielsen-norman-group_comparison-tables-for-products-services-activity-7164262029220909057-JpKs" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/nielsen-norman-group_comparison-tables-for-products-services-activity-7164262029220909057-JpKs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Comparison Tables for Products, Services, and FeaturesComparison Tables for Products, Services, and Features nngroup.com... Comparing op...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/nielsen-norman-group_3-tips-for-creating-visual-hierarchy-in-ux-activity-7257115230382518276-st3o" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/nielsen-norman-group_3-tips-for-creating-visual-hierarchy-in-ux-activity-7257115230382518276-st3o</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Nielsen Norman Group&#x27;s PostMastering visual hierarchy helps create clear, intuitive designs that engage users to successfully complete th...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/nielsen-norman-group_3-tips-for-creating-visual-hierarchy-in-ux-activity-7257115230382518276-st3o" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/nielsen-norman-group_3-tips-for-creating-visual-hierarchy-in-ux-activity-7257115230382518276-st3o</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nielsen Norman Group&#x27;s PostMastering visual hierarchy helps create clear, intuitive designs that engage users to successfully complete th...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: nngroup.com  
-   Link: <a href="https://www.nngroup.com/articles/comparison-tables/" target="_blank" rel="noopener noreferrer nofollow">https://www.nngroup.com/articles/comparison-tables/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Nielsen Norman GroupComparison Tables for Products, Services, and FeaturesFeb 9, 2024 — A table that uses columns for products (or servic...</p></details>
+   Link:<a href="https://www.nngroup.com/articles/comparison-tables/" target="_blank" rel="noopener noreferrer nofollow">https://www.nngroup.com/articles/comparison-tables/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nielsen Norman GroupComparison Tables for Products, Services, and FeaturesFeb 9, 2024 — A table that uses columns for products (or servic...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: nngroup.com  
    Title: data tables  
-   Link: <a href="https://www.nngroup.com/articles/data-tables/" target="_blank" rel="noopener noreferrer nofollow">https://www.nngroup.com/articles/data-tables/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Nielsen Norman GroupData Tables: Four Major User TasksApr 3, 2022 — Table design should support four common user tasks: find records that...</p></details>
+   Link:<a href="https://www.nngroup.com/articles/data-tables/" target="_blank" rel="noopener noreferrer nofollow">https://www.nngroup.com/articles/data-tables/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nielsen Norman GroupData Tables: Four Major User TasksApr 3, 2022 — Table design should support four common user tasks: find records that...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: postaffiliatepro.com  
    Title: Post Affiliate Pro What Makes Product Comparisons Effective for Affiliate  
-   Link: <a href="https://www.postaffiliatepro.com/faq/effective-product-comparisons-affiliate-content/" target="_blank" rel="noopener noreferrer nofollow">https://www.postaffiliatepro.com/faq/effective-product-comparisons-affiliate-content/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Post Affiliate ProWhat Makes Product Comparisons Effective for Affiliate...November 28, 2025 — Product comparisons are effective for aff...</p></details>
+   Link:<a href="https://www.postaffiliatepro.com/faq/effective-product-comparisons-affiliate-content/" target="_blank" rel="noopener noreferrer nofollow">https://www.postaffiliatepro.com/faq/effective-product-comparisons-affiliate-content/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Post Affiliate ProWhat Makes Product Comparisons Effective for Affiliate...November 28, 2025 — Product comparisons are effective for aff...</p></details>
    Published: November 28, 2025  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: ixdf.org  
    Title: visual hierarchy  
-   Link: <a href="https://ixdf.org/literature/topics/visual-hierarchy" target="_blank" rel="noopener noreferrer nofollow">https://ixdf.org/literature/topics/visual-hierarchy</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What is Visual Hierarchy? — updated 2026Visual hierarchy is the principle of arranging elements so that people instantly recognize their...</p></details>
+   Link:<a href="https://ixdf.org/literature/topics/visual-hierarchy" target="_blank" rel="noopener noreferrer nofollow">https://ixdf.org/literature/topics/visual-hierarchy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What is Visual Hierarchy? — updated 2026Visual hierarchy is the principle of arranging elements so that people instantly recognize their...</p></details>
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: iab.com  
-   Link: <a href="https://www.iab.com/wp-content/uploads/2016/11/IAB-Affiliate-Marketing-Handbook_2016.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.iab.com/wp-content/uploads/2016/11/IAB-Affiliate-Marketing-Handbook_2016.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AFFILIATE MARKETING HANDBOOKAffiliate Marketing is the practice whereby a digital publisher or website promotes an online retailer and ea...</p></details>
+   Link:<a href="https://www.iab.com/wp-content/uploads/2016/11/IAB-Affiliate-Marketing-Handbook_2016.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.iab.com/wp-content/uploads/2016/11/IAB-Affiliate-Marketing-Handbook_2016.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AFFILIATE MARKETING HANDBOOKAffiliate Marketing is the practice whereby a digital publisher or website promotes an online retailer and ea...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: iso.org  
-   Link: <a href="https://www.iso.org/files/live/sites/isoorg/files/styleguide/resources/How_People_Read_on_the_Web.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.iso.org/files/live/sites/isoorg/files/styleguide/resources/How_People_Read_on_the_Web.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How People Read on the Web, the Eyetracking EvidenceWe sell these reports to fund independent, unbiased usability research; we do not hav...</p></details>
+   Link:<a href="https://www.iso.org/files/live/sites/isoorg/files/styleguide/resources/How_People_Read_on_the_Web.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.iso.org/files/live/sites/isoorg/files/styleguide/resources/How_People_Read_on_the_Web.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How People Read on the Web, the Eyetracking EvidenceWe sell these reports to fund independent, unbiased usability research; we do not hav...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/400166580_Comparison_of_the_influence_of_influencer_marketing_and_affiliate_marketing_on_digital_consumer_purchasing_decisions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/400166580_Comparison_of_the_influence_of_influencer_marketing_and_affiliate_marketing_on_digital_consumer_purchasing_decisions</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Comparison of the influence of influencer marketing and...10 Dec 2025 — This research conducts a comparative analysis of how influencer...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/400166580_Comparison_of_the_influence_of_influencer_marketing_and_affiliate_marketing_on_digital_consumer_purchasing_decisions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/400166580_Comparison_of_the_influence_of_influencer_marketing_and_affiliate_marketing_on_digital_consumer_purchasing_decisions</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Comparison of the influence of influencer marketing and...10 Dec 2025 — This research conducts a comparative analysis of how influencer...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=POsaV2YzRr8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=POsaV2YzRr8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Comparison Tables: 5 Scenarios When Not to Use ThemUse these five questions to help you decide whether or not a comparison table would be...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=POsaV2YzRr8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=POsaV2YzRr8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Comparison Tables: 5 Scenarios When Not to Use ThemUse these five questions to help you decide whether or not a comparison table would be...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: powerdigitalmarketing.com  
    Title: how review or comparison sites are beneficial to affiliate programs  
-   Link: <a href="https://powerdigitalmarketing.com/blog/how-review-or-comparison-sites-are-beneficial-to-affiliate-programs/" target="_blank" rel="noopener noreferrer nofollow">https://powerdigitalmarketing.com/blog/how-review-or-comparison-sites-are-beneficial-to-affiliate-programs/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How Review or Comparison Sites are Beneficial to Affiliate...8 Dec 2020 — Having an established and credible review platform for an affi...</p></details>
+   Link:<a href="https://powerdigitalmarketing.com/blog/how-review-or-comparison-sites-are-beneficial-to-affiliate-programs/" target="_blank" rel="noopener noreferrer nofollow">https://powerdigitalmarketing.com/blog/how-review-or-comparison-sites-are-beneficial-to-affiliate-programs/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How Review or Comparison Sites are Beneficial to Affiliate...8 Dec 2020 — Having an established and credible review platform for an affi...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: simon-kucher.com  
    Title: how b2b businesses can get maximum value price management software  
-   Link: <a href="https://www.simon-kucher.com/en/insights/how-b2b-businesses-can-get-maximum-value-price-management-software" target="_blank" rel="noopener noreferrer nofollow">https://www.simon-kucher.com/en/insights/how-b2b-businesses-can-get-maximum-value-price-management-software</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Maximizing value from pricing software in B2B28 Jun 2023 — Is your B2B price management software adding value? Three key recommendations...</p></details>
+   Link:<a href="https://www.simon-kucher.com/en/insights/how-b2b-businesses-can-get-maximum-value-price-management-software" target="_blank" rel="noopener noreferrer nofollow">https://www.simon-kucher.com/en/insights/how-b2b-businesses-can-get-maximum-value-price-management-software</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Maximizing value from pricing software in B2B28 Jun 2023 — Is your B2B price management software adding value? Three key recommendations...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: iieta.org  
-   Link: <a href="https://www.iieta.org/download/file/fid/5504" target="_blank" rel="noopener noreferrer nofollow">https://www.iieta.org/download/file/fid/5504</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>eria such as “How much more important is a row criterion than the column criterion in...Read more...</p></details>
+   Link:<a href="https://www.iieta.org/download/file/fid/5504" target="_blank" rel="noopener noreferrer nofollow">https://www.iieta.org/download/file/fid/5504</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>eria such as “How much more important is a row criterion than the column criterion in...Read more...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: jasper.ai  
-   Link: <a href="https://www.jasper.ai/blog/affiliate-marketing-content" target="_blank" rel="noopener noreferrer nofollow">https://www.jasper.ai/blog/affiliate-marketing-content</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ns; Produce resource pages that organize recommendations with helpful context.Read more...</p></details>
+   Link:<a href="https://www.jasper.ai/blog/affiliate-marketing-content" target="_blank" rel="noopener noreferrer nofollow">https://www.jasper.ai/blog/affiliate-marketing-content</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ns; Produce resource pages that organize recommendations with helpful context.Read more...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: austinheaton.com  
    Title: how saas comparison pages win high intent traffic  
-   Link: <a href="https://www.austinheaton.com/blog/how-saas-comparison-pages-win-high-intent-traffic" target="_blank" rel="noopener noreferrer nofollow">https://www.austinheaton.com/blog/how-saas-comparison-pages-win-high-intent-traffic</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How SaaS Comparison Pages Win High-Intent Traffic22 May 2026 — SaaS comparison pages capture high-intent traffic by matching commercial s...</p></details>
+   Link:<a href="https://www.austinheaton.com/blog/how-saas-comparison-pages-win-high-intent-traffic" target="_blank" rel="noopener noreferrer nofollow">https://www.austinheaton.com/blog/how-saas-comparison-pages-win-high-intent-traffic</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How SaaS Comparison Pages Win High-Intent Traffic22 May 2026 — SaaS comparison pages capture high-intent traffic by matching commercial s...</p></details>
    Published: May 2026  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: stephaniewalter.design  
    Title: essential resources design complex data tables  
-   Link: <a href="https://stephaniewalter.design/blog/essential-resources-design-complex-data-tables/" target="_blank" rel="noopener noreferrer nofollow">https://stephaniewalter.design/blog/essential-resources-design-complex-data-tables/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Enterprise UX: essential resources to design complex data...8 Sept 2022 — According to NNgroup&#x27;s “Data Tables: Four Major User Tasks“, t...</p></details>
+   Link:<a href="https://stephaniewalter.design/blog/essential-resources-design-complex-data-tables/" target="_blank" rel="noopener noreferrer nofollow">https://stephaniewalter.design/blog/essential-resources-design-complex-data-tables/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Enterprise UX: essential resources to design complex data...8 Sept 2022 — According to NNgroup&#x27;s “Data Tables: Four Major User Tasks“, t...</p></details>

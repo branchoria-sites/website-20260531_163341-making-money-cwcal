@@ -319,7 +319,7 @@ image: /assets/images/making_money_from_cr_f649af_revenue_per_visitor_c37335-ove
 Revenue per visitor is a decision model for affiliate websites because it explains why equal traffic does not produce equal earnings. A page earns only when the visitor’s intent, the page’s click-through behaviour, the merchant’s conversion ability, and the commission value work together. In simple terms, a page with 1,000 visitors can outperform a page with 10,000 visitors if its readers are closer to buying, its affiliate links are better placed, its merchants convert reliably, and its payout per sale is higher.
 
 <img src="{{ "/assets/images/making_money_from_cr_f649af_revenue_per_visitor_c37335-overview.webp" | relative_url }}" alt="Overview image for Revenue Model" loading="eager" decoding="sync" fetchpriority="high">
-For websites built around affiliate links, this model is more useful than traffic volume alone. Affiliate networks track clicks, conversions, basket values and commission outcomes, which means the publisher can judge pages by commercial performance rather than page views alone. Awin describes affiliate tracking as a way to see which online activity generates visitors, conversions and clicks, while Amazon Associates pays commission only on qualifying purchases made after users follow tracked links from an Associate’s site. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.awin.com/gb/affiliate-marketing/everything-you-need-to-know-about-affiliate-tracking" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: awin.com">[Awin]</a><span class="citation-popover" role="note"><span class="citation-popover-source">awin.com</span><span class="citation-popover-title">What is affiliate link tracking and how to use it?</span><span class="citation-popover-snippet">What is affiliate link tracking and how to use it?June 4, 2020 — 22 Nov 2022 — Why is affiliate tracking important? Find out how to t...</span><span class="citation-popover-meta">Published: June 4, 2020</span></span></span>
+For websites built around affiliate links, this model is more useful than traffic volume alone. Affiliate networks track clicks, conversions, basket values and commission outcomes, which means the publisher can judge pages by commercial performance rather than page views alone. Awin describes affiliate tracking as a way to see which online activity generates visitors, conversions and clicks, while Amazon Associates pays commission only on qualifying purchases made after users follow tracked links from an Associate’s site.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.awin.com/gb/affiliate-marketing/everything-you-need-to-know-about-affiliate-tracking" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: awin.com">[Awin]</a><span class="citation-popover" role="note"><span class="citation-popover-source">awin.com</span><span class="citation-popover-title">What is affiliate link tracking and how to use it?</span><span class="citation-popover-snippet">What is affiliate link tracking and how to use it?June 4, 2020 — 22 Nov 2022 — Why is affiliate tracking important? Find out how to t...</span><span class="citation-popover-meta">Published: June 4, 2020</span></span></span>
 
 The practical model is:
 
@@ -342,7 +342,7 @@ A useful affiliate page therefore has four linked parts:
 
 </div>
 
-Affiliate platforms make this chain measurable. Awin says advertisers can record and report data points including basket value, product type, new or existing customer status, coupon use and click-to-sale lag time. Its publisher tools also give visibility into sales, order value, click-to-sale lag and contribution where a publisher influenced a sale but did not secure the last click. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.awin.com/gb/advertisers/tools" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: awin.com">[Awin]</a><span class="citation-popover" role="note"><span class="citation-popover-source">awin.com</span><span class="citation-popover-snippet">Open source on awin.com.</span></span></span>
+Affiliate platforms make this chain measurable. Awin says advertisers can record and report data points including basket value, product type, new or existing customer status, coupon use and click-to-sale lag time. Its publisher tools also give visibility into sales, order value, click-to-sale lag and contribution where a publisher influenced a sale but did not secure the last click.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.awin.com/gb/advertisers/tools" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: awin.com">[Awin]</a><span class="citation-popover" role="note"><span class="citation-popover-source">awin.com</span><span class="citation-popover-snippet">Open source on awin.com.</span></span></span>
 
 This matters because a page can be strong at one part of the chain and weak at another. A well-written guide may attract engaged readers but generate few clicks because the buying moment is hidden. A product roundup may get clicks but send users to a merchant with weak product pages, poor stock or unattractive prices. A high-commission programme may still produce low revenue per visitor if the merchant converts poorly.
 
@@ -359,7 +359,7 @@ Page typeVisitor intentAffiliate click-throughMerchant conversionCommissionEstim
 
 The traffic number is identical, but the page economics are not. The general information article sends only 50 visitors to a merchant; at 2% conversion and £5 commission, that produces roughly one sale and £5. The comparison page sends 1,000 visitors; at 5% conversion and £20 commission, that produces 50 sales and £1,000.
 
-The numbers are illustrative, but the logic reflects how affiliate reporting works. Earnings per click, or EPC, is widely used in affiliate marketing to show average earnings from affiliate clicks. PartnerStack defines EPC as the average dollar value earned each time someone clicks an affiliate link, while Post Affiliate Pro frames it as a way to compare campaigns and forecast earnings from click volume. <span class="citation-chip-wrap"><a class="citation-chip" href="https://partnerstack.com/glossary/earnings-per-click-epc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: partnerstack.com">[PartnerStack]</a><span class="citation-popover" role="note"><span class="citation-popover-source">partnerstack.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The numbers are illustrative, but the logic reflects how affiliate reporting works. Earnings per click, or EPC, is widely used in affiliate marketing to show average earnings from affiliate clicks. PartnerStack defines EPC as the average dollar value earned each time someone clicks an affiliate link, while Post Affiliate Pro frames it as a way to compare campaigns and forecast earnings from click volume.<span class="citation-chip-wrap"><a class="citation-chip" href="https://partnerstack.com/glossary/earnings-per-click-epc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: partnerstack.com">[PartnerStack]</a><span class="citation-popover" role="note"><span class="citation-popover-source">partnerstack.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 Revenue per visitor is slightly broader than EPC. EPC starts after the affiliate click. Revenue per visitor includes the page’s ability to create the click in the first place. For a content site, that distinction is crucial. A merchant with a strong EPC may still perform badly on a page where readers are not ready to click. Equally, a page with strong click-through can disappoint if the merchant fails to convert.
 
@@ -371,7 +371,7 @@ The revenue per visitor model is most useful when it shows exactly where a page 
 
 A topic can look valuable because search volume is high, but if the query is informational rather than commercial, the earning path may be weak. A recipe-style article, definition page or broad advice guide may still have a role in a site, but it should not be judged as though every visitor is ready to buy.
 
-Baymard has warned against comparing conversion rates without accounting for traffic source and buyer journey. The same ecommerce site can show very different conversion rates depending on whether traffic comes from broad visitors or highly related buying keywords such as “buy cellphone battery”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://baymard.com/blog/comparing-conversion-rates-is-nonsense" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: baymard.com">[Baymard Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">baymard.com</span><span class="citation-popover-title">Institute Comparing Conversion Rates is Nonsense</span><span class="citation-popover-snippet">Institute Comparing Conversion Rates is Nonsense</span></span></span>
+Baymard has warned against comparing conversion rates without accounting for traffic source and buyer journey. The same ecommerce site can show very different conversion rates depending on whether traffic comes from broad visitors or highly related buying keywords such as “buy cellphone battery”.<span class="citation-chip-wrap"><a class="citation-chip" href="https://baymard.com/blog/comparing-conversion-rates-is-nonsense" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: baymard.com">[Baymard Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">baymard.com</span><span class="citation-popover-title">Institute Comparing Conversion Rates is Nonsense</span><span class="citation-popover-snippet">Institute Comparing Conversion Rates is Nonsense</span></span></span>
 
 For affiliate sites, this means topic selection should score the buying situation, not just the keyword volume. Queries containing words such as “best”, “review”, “alternatives”, “vs”, “for”, “discount”, “cheap”, “near me”, “compatible with” or “replacement” often indicate a decision point. A page generation system should treat those as different commercial classes from “what is”, “history of”, “meaning of” or “how does”.
 
@@ -383,13 +383,13 @@ Some pages provide useful information but do not explain why a product, service 
 
 For example, a page about “how to stop trainers smelling” may earn little if it only explains causes. It becomes more commercially useful when it maps symptoms to solutions: deodorising spray for odour, washable insoles for sweat, shoe dryers for damp storage, or replacement running shoes when the midsole is worn out. The affiliate link is then attached to a decision, not dropped into unrelated text.
 
-Nielsen Norman Group’s ecommerce product-page guidance emphasises that online shoppers need product questions answered, help comparing options, customer experiences and a way to start the purchase process. Those same tasks apply one step earlier on an affiliate page: the publisher’s page should prepare the reader to make sense of the merchant page, not merely send a blind click. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nngroup.com/articles/ecommerce-product-pages/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nngroup.com">[Nielsen Norman Group]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nngroup.com</span><span class="citation-popover-title">Nielsen Norman Group UX Guidelines for Ecommerce Product Pages</span><span class="citation-popover-snippet">Nielsen Norman Group UX Guidelines for Ecommerce Product Pages</span></span></span>
+Nielsen Norman Group’s ecommerce product-page guidance emphasises that online shoppers need product questions answered, help comparing options, customer experiences and a way to start the purchase process. Those same tasks apply one step earlier on an affiliate page: the publisher’s page should prepare the reader to make sense of the merchant page, not merely send a blind click.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nngroup.com/articles/ecommerce-product-pages/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nngroup.com">[Nielsen Norman Group]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nngroup.com</span><span class="citation-popover-title">Nielsen Norman Group UX Guidelines for Ecommerce Product Pages</span><span class="citation-popover-snippet">Nielsen Norman Group UX Guidelines for Ecommerce Product Pages</span></span></span>
 
 ### The merchant receives clicks but loses the sale
 
 Affiliate publishers do not control the merchant checkout, product stock, delivery promise or [trust signals]({{ 'trust-signals/' | relative_url }}). Yet those factors still affect publisher earnings because the commission depends on the merchant converting the referred visitor.
 
-This is why offer selection should not be based only on commission percentage. A merchant paying 12% can be worse than one paying 4% if the higher-paying merchant has poor availability, weak product pages, confusing delivery information or a checkout flow that users abandon. Baymard’s product-page UX benchmark found that only 49% of ecommerce sites had “decent” or “good” product-page UX, with 51% rated mediocre or worse, so merchant-side friction is a real variable rather than a theoretical detail. <span class="citation-chip-wrap"><a class="citation-chip" href="https://baymard.com/blog/comparing-conversion-rates-is-nonsense" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: baymard.com">[Baymard Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">baymard.com</span><span class="citation-popover-title">Institute Comparing Conversion Rates is Nonsense</span><span class="citation-popover-snippet">Institute Comparing Conversion Rates is Nonsense</span></span></span>
+This is why offer selection should not be based only on commission percentage. A merchant paying 12% can be worse than one paying 4% if the higher-paying merchant has poor availability, weak product pages, confusing delivery information or a checkout flow that users abandon. Baymard’s product-page UX benchmark found that only 49% of ecommerce sites had “decent” or “good” product-page UX, with 51% rated mediocre or worse, so merchant-side friction is a real variable rather than a theoretical detail.<span class="citation-chip-wrap"><a class="citation-chip" href="https://baymard.com/blog/comparing-conversion-rates-is-nonsense" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: baymard.com">[Baymard Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">baymard.com</span><span class="citation-popover-title">Institute Comparing Conversion Rates is Nonsense</span><span class="citation-popover-snippet">Institute Comparing Conversion Rates is Nonsense</span></span></span>
 
 For a scalable affiliate site, merchant testing should therefore include more than the headline commission. The useful question is: “How much revenue does this merchant produce per visitor we send from this page type?” That blends conversion rate, order value, payout rules and user fit.
 
@@ -397,7 +397,7 @@ For a scalable affiliate site, merchant testing should therefore include more th
 
 Commission value is not just “the programme pays X%”. It depends on programme rules, qualifying purchases, excluded categories, bounty events, cookie windows, basket value, cancellations and attribution.
 
-Amazon Associates UK, for example, states that commission income is calculated as a percentage of qualifying revenue and that qualifying purchases depend on users clicking through special links. It also lists different standard commission rates by category, including 4% for categories such as beauty, luggage, personal care appliances and sports and fitness, 2.5% for appliances and mobile electronics, 1% for some grocery and video game categories, and 0% for certain gift card and related categories. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pwskills.com/blog/digital-marketing/amazon-associates" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pwskills.com">[Amazon Associates]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pwskills.com</span><span class="citation-popover-snippet">amazon associates</span></span></span>
+Amazon Associates UK, for example, states that commission income is calculated as a percentage of qualifying revenue and that qualifying purchases depend on users clicking through special links. It also lists different standard commission rates by category, including 4% for categories such as beauty, luggage, personal care appliances and sports and fitness, 2.5% for appliances and mobile electronics, 1% for some grocery and video game categories, and 0% for certain gift card and related categories.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pwskills.com/blog/digital-marketing/amazon-associates" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pwskills.com">[Amazon Associates]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pwskills.com</span><span class="citation-popover-snippet">amazon associates</span></span></span>
 
 That means two product recommendations with similar prices can have different earning value. A £100 item at 4% produces £4 before adjustments; a £100 item at 1% produces £1. If both require the same content effort and attract similar traffic, the page pointing to the higher effective commission has a different commercial ceiling.
 
@@ -413,7 +413,7 @@ This is where revenue per visitor becomes more than an analytics metric. It beco
 
 The model also helps avoid a common affiliate mistake: chasing the highest commission first. A high payout is only one part of the equation. A niche software offer may pay far more per conversion than a low-cost physical product, but if the traffic is early-stage and the merchant requires a long sign-up journey, the page may not produce the expected revenue per visitor. Conversely, a lower-commission retailer with strong brand trust and fast checkout may outperform a generous but unfamiliar merchant.
 
-Awin’s pricing examples show how affiliate payouts can be set as a percentage of transaction value, while Amazon’s policies show how rates vary by product category. These programme economics should be combined with page-level behaviour, not read in isolation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.awin.com/gb/publishers/tools" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: awin.com">[Awin]</a><span class="citation-popover" role="note"><span class="citation-popover-source">awin.com</span><span class="citation-popover-snippet">Open source on awin.com.</span></span></span>
+Awin’s pricing examples show how affiliate payouts can be set as a percentage of transaction value, while Amazon’s policies show how rates vary by product category. These programme economics should be combined with page-level behaviour, not read in isolation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.awin.com/gb/publishers/tools" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: awin.com">[Awin]</a><span class="citation-popover" role="note"><span class="citation-popover-source">awin.com</span><span class="citation-popover-snippet">Open source on awin.com.</span></span></span>
 
 <img src="{{ "/assets/images/making_money_from_cr_f649af_revenue_per_visitor_c37335-Illustration-2-dark.svg" | relative_url }}" alt="Revenue Model illustration 2" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_revenue_per_visitor_c37335-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_revenue_per_visitor_c37335-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The page type should match the commercial moment
@@ -430,7 +430,7 @@ A **problem-solution article** can earn when it connects symptoms to buying path
 
 A **definition or background page** usually has lower direct revenue per visitor, but it can still support the site by explaining terms and linking readers towards commercial pages. The mistake is treating it as equal to a high-intent page in production planning.
 
-Nielsen Norman Group notes that ecommerce pages should help users compare products and start the purchase process; Baymard’s research similarly shows that product-page UX problems can cause users to abandon otherwise suitable products. For affiliate publishers, the lesson is that page templates should reduce decision friction before the visitor leaves the site. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nngroup.com/articles/ecommerce-product-pages/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nngroup.com">[Nielsen Norman Group]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nngroup.com</span><span class="citation-popover-title">Nielsen Norman Group UX Guidelines for Ecommerce Product Pages</span><span class="citation-popover-snippet">Nielsen Norman Group UX Guidelines for Ecommerce Product Pages</span></span></span>
+Nielsen Norman Group notes that ecommerce pages should help users compare products and start the purchase process; Baymard’s research similarly shows that product-page UX problems can cause users to abandon otherwise suitable products. For affiliate publishers, the lesson is that page templates should reduce decision friction before the visitor leaves the site.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nngroup.com/articles/ecommerce-product-pages/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nngroup.com">[Nielsen Norman Group]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nngroup.com</span><span class="citation-popover-title">Nielsen Norman Group UX Guidelines for Ecommerce Product Pages</span><span class="citation-popover-snippet">Nielsen Norman Group UX Guidelines for Ecommerce Product Pages</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/pufJdX8XVSE" title="312% + Your Affiliate Marketing Income Using EPC formula" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=pufJdX8XVSE" target="_blank" rel="noopener noreferrer">312% + Your Affiliate Marketing Income Using EPC formula</a></p><p class="youtube-embed-meta">Channel: Harsh Agrawal - AI &amp; Digital Transformation &middot; Views: 2.3K &middot; Uploaded: February 2023 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=pufJdX8XVSE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=pufJdX8XVSE">Open on YouTube</a></p></div></div></div>
 
@@ -452,7 +452,7 @@ Offer matching should consider:
 
 </div>
 
-The compliance point is not separate from revenue. In the UK, the Advertising Standards Authority says affiliate content may need additional [disclosure]({{ 'disclosure/' | relative_url }}) so that it is obviously identifiable as a marketing communication, especially where the wider context looks editorial. The UK government’s guidance for creators similarly says commercial content must be correctly labelled and clearly identifiable, and that affiliate links alone are not enough. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.asa.org.uk/advice-online/affiliate-marketing.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asa.org.uk">[Asa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asa.org.uk</span><span class="citation-popover-title">affiliate marketing</span><span class="citation-popover-snippet">affiliate marketing</span></span></span>
+The compliance point is not separate from revenue. In the UK, the Advertising Standards Authority says affiliate content may need additional [disclosure]({{ 'disclosure/' | relative_url }}) so that it is obviously identifiable as a marketing communication, especially where the wider context looks editorial. The UK government’s guidance for creators similarly says commercial content must be correctly labelled and clearly identifiable, and that affiliate links alone are not enough.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.asa.org.uk/advice-online/affiliate-marketing.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asa.org.uk">[Asa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asa.org.uk</span><span class="citation-popover-title">affiliate marketing</span><span class="citation-popover-snippet">affiliate marketing</span></span></span>
 
 For a scalable website system, disclosure should be standardised rather than improvised page by page. Clear disclosure protects trust and prevents the commercial model from being hidden in a way that undermines the reader’s ability to judge recommendations.
 
@@ -470,7 +470,7 @@ The most useful evidence is not one metric in isolation. It is the pattern acros
 * **Refunds, reversals and excluded transactions** show whether gross earnings are reliable.
 * **Internal-[link paths]({{ 'link-paths/' | relative_url }})** show which supporting pages feed commercial pages.
 
-Affiliate attribution also complicates the picture. Rakuten Advertising explains that different programmes may use last-click, first-click or multi-touch attribution models to decide which partner receives credit for a conversion. Awin’s publisher tools also refer to “influence contribution”, where a publisher had a touchpoint in a sale but did not secure the last click. <span class="citation-chip-wrap"><a class="citation-chip" href="https://blog.rakutenadvertising.com/marketing-strategies/how-affiliate-tracking-works-the-complete-guide-for-brands-publishers/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.rakutenadvertising.com">[Rakuten Advertising Blog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.rakutenadvertising.com</span><span class="citation-popover-title">Rakuten Advertising Blog How Affiliate Tracking Works</span><span class="citation-popover-snippet">Rakuten Advertising Blog How Affiliate Tracking Works</span></span></span>
+Affiliate attribution also complicates the picture. Rakuten Advertising explains that different programmes may use last-click, first-click or multi-touch attribution models to decide which partner receives credit for a conversion. Awin’s publisher tools also refer to “influence contribution”, where a publisher had a touchpoint in a sale but did not secure the last click.<span class="citation-chip-wrap"><a class="citation-chip" href="https://blog.rakutenadvertising.com/marketing-strategies/how-affiliate-tracking-works-the-complete-guide-for-brands-publishers/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.rakutenadvertising.com">[Rakuten Advertising Blog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.rakutenadvertising.com</span><span class="citation-popover-title">Rakuten Advertising Blog How Affiliate Tracking Works</span><span class="citation-popover-snippet">Rakuten Advertising Blog How Affiliate Tracking Works</span></span></span>
 
 That means a page may be commercially useful even if it is not always the final converting page. A buying guide may introduce a reader to a category, while a later coupon, brand search or retargeting touchpoint captures the last click. For internal decision-making, the site should still distinguish direct revenue pages from assist pages. Both can be useful, but they should not be judged by the same narrow metric.
 
@@ -509,276 +509,276 @@ The central discipline is to avoid scaling traffic for its own sake. A website-g
 
 Revenue per visitor can sound purely mechanical, but it has an editorial consequence: the page must be genuinely useful at the moment where money could be made. If the content does not help the reader decide, the click is weak. If the recommendation does not fit the intent, the merchant may not convert. If the commercial relationship is hidden, trust and compliance suffer.
 
-Research into affiliate [disclosures]({{ 'disclosures/' | relative_url }}) on YouTube and Pinterest found that only around one-tenth of affiliate marketing content contained any disclosure, and that users often failed to understand short, non-explanatory disclosures. That study was about social platforms rather than affiliate websites, but it underlines a broader point: monetised recommendations work best when users can recognise the commercial relationship and still find the advice useful. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1809.00620" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Research into affiliate [disclosures]({{ 'disclosures/' | relative_url }}) on YouTube and Pinterest found that only around one-tenth of affiliate marketing content contained any disclosure, and that users often failed to understand short, non-explanatory disclosures. That study was about social platforms rather than affiliate websites, but it underlines a broader point: monetised recommendations work best when users can recognise the commercial relationship and still find the advice useful.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1809.00620" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 For public-facing affiliate websites, the durable approach is not to maximise clicks at any cost. It is to maximise qualified clicks: clicks from readers who understand the recommendation, know there may be a commission, and are being sent to a merchant that fits their decision. Those are the clicks most likely to convert, produce commission, and justify building more pages in the same pattern.
 
 Revenue per visitor is therefore a practical decision model for affiliate publishing. It shows why traffic alone is incomplete, why intent matters, why page type and offer matching should be planned together, and why the best patterns are the ones that can be measured, repeated and improved without relying on guesswork.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Equal Traffic Does Not Mean Equal Earnings. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Equal Traffic Does Not Mean Equal Earnings. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Lean+Analytics+by+Alistair+Croll&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Lean Analytics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=mIk6x8WNQAwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Lean Analytics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Lean+Analytics+by+Alistair+Croll&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Lean Analytics">Lean Analytics</a>
-        </h4>
-        <p class="fr-book-author">By Alistair Croll, Benjamin Yoskovitz</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Lean+Analytics+by+Alistair+Croll&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Lean Analytics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=mIk6x8WNQAwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Lean Analytics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Lean+Analytics+by+Alistair+Croll&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Lean Analytics">Lean Analytics</a>
+</h4>
+<p class="fr-book-author">By Alistair Croll, Benjamin Yoskovitz</p>
         
-        <p class="fr-book-desc">Directly supports measuring the commercial chain behind revenue per visitor and prioritising pages.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Lean+Analytics+by+Alistair+Croll&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly supports measuring the commercial chain behind revenue per visitor and prioritising pages.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Lean+Analytics+by+Alistair+Croll&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Conversion+Optimization+by+Khalid+Saleh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Conversion Optimization on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=USIKL4celYcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Conversion Optimization" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Conversion+Optimization+by+Khalid+Saleh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Conversion Optimization">Conversion Optimization</a>
-        </h4>
-        <p class="fr-book-author">By Khalid Saleh, Ayat Shukairy</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Conversion+Optimization+by+Khalid+Saleh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Conversion Optimization on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=USIKL4celYcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Conversion Optimization" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Conversion+Optimization+by+Khalid+Saleh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Conversion Optimization">Conversion Optimization</a>
+</h4>
+<p class="fr-book-author">By Khalid Saleh, Ayat Shukairy</p>
         
-        <p class="fr-book-desc">Explains conversion rate, testing, friction, and page-level monetisation mechanics.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Conversion+Optimization+by+Khalid+Saleh&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains conversion rate, testing, friction, and page-level monetisation mechanics.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Conversion+Optimization+by+Khalid+Saleh&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Lean+Startup+by+Eric+Ries&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Lean Startup on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=r9x-OXdzpPcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Lean Startup" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Lean+Startup+by+Eric+Ries&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Lean Startup">The Lean Startup</a>
-        </h4>
-        <p class="fr-book-author">By Eric Ries</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 5 Google Books ratings</p>
-        <p class="fr-book-desc">Affiliate page systems benefit from testing assumptions, measuring outcomes, and iterating.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Lean+Startup+by+Eric+Ries&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Lean+Startup+by+Eric+Ries&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Lean Startup on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=r9x-OXdzpPcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Lean Startup" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Lean+Startup+by+Eric+Ries&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Lean Startup">The Lean Startup</a>
+</h4>
+<p class="fr-book-author">By Eric Ries</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 5 Google Books ratings</p>
+<p class="fr-book-desc">Affiliate page systems benefit from testing assumptions, measuring outcomes, and iterating.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Lean+Startup+by+Eric+Ries&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Traction+by+Gabriel+Weinberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Traction on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=sNyBrgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Traction" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Traction+by+Gabriel+Weinberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Traction">Traction</a>
-        </h4>
-        <p class="fr-book-author">By Gabriel Weinberg, Justin Mares</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Traction+by+Gabriel+Weinberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Traction on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=sNyBrgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Traction" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Traction+by+Gabriel+Weinberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Traction">Traction</a>
+</h4>
+<p class="fr-book-author">By Gabriel Weinberg, Justin Mares</p>
         
-        <p class="fr-book-desc">Helps compare traffic sources and understand why equal traffic channels do not produce equal value.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Traction+by+Gabriel+Weinberg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps compare traffic sources and understand why equal traffic channels do not produce equal value.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Traction+by+Gabriel+Weinberg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Lean+Analytics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Lean Analytics</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Conversion+Optimization&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Conversion Optimization</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Lean+Startup&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Lean Startup</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Lean+Analytics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Lean Analytics</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Conversion+Optimization&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Conversion Optimization</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Lean+Startup&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Lean Startup</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=business+office+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=revenue-model-why-equal-traffic-does-not-mean-equal-earnings-making-money-from-creating-websites-business-office-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Wall-Mounted Metal Office Sign, Enamelware Business Entrance Reception Sign"><img src="{{ '/assets/images/marketplace-covers/150bade1561109274f27.jpg' | relative_url }}" alt="Listing image for Wall-Mounted Metal Office Sign, Enamelware Business Entrance Reception Sign" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=business+office+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=revenue-model-why-equal-traffic-does-not-mean-equal-earnings-making-money-from-creating-websites-business-office-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Wall-Mounted Metal Office Sign, Enamelware Business Entrance Reception Sign</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=business+office+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=revenue-model-why-equal-traffic-does-not-mean-equal-earnings-making-money-from-creating-websites-business-office-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for business office sign">Search <span data-ebay-domain-label>eBay.com</span>: business office sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=business+office+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=revenue-model-why-equal-traffic-does-not-mean-equal-earnings-making-money-from-creating-websites-business-office-sign&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=business+office+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=revenue-model-why-equal-traffic-does-not-mean-equal-earnings-making-money-from-creating-websites-business-office-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Wall-Mounted Metal Office Sign, Enamelware Business Entrance Reception Sign"><img src="{{ '/assets/images/marketplace-covers/150bade1561109274f27.jpg' | relative_url }}" alt="Listing image for Wall-Mounted Metal Office Sign, Enamelware Business Entrance Reception Sign" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=business+office+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=revenue-model-why-equal-traffic-does-not-mean-equal-earnings-making-money-from-creating-websites-business-office-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Wall-Mounted Metal Office Sign, Enamelware Business Entrance Reception Sign</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=business+office+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=revenue-model-why-equal-traffic-does-not-mean-equal-earnings-making-money-from-creating-websites-business-office-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for business office sign">Search<span data-ebay-domain-label>eBay.com</span>: business office sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=business+office+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=revenue-model-why-equal-traffic-does-not-mean-equal-earnings-making-money-from-creating-websites-business-office-sign&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=business+office+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=revenue-model-why-equal-traffic-does-not-mean-equal-earnings-making-money-from-creating-websites-business-office-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Custom Engraved 4x6 Gray Office Suite Sign | Small Business Wall Door Plaque"><img src="{{ '/assets/images/marketplace-covers/0513bbe4ec1c3577eddd.jpg' | relative_url }}" alt="Listing image for Custom Engraved 4x6 Gray Office Suite Sign | Small Business Wall Door Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=business+office+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=revenue-model-why-equal-traffic-does-not-mean-equal-earnings-making-money-from-creating-websites-business-office-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Custom Engraved 4x6 Gray Office Suite Sign | Small Business Wall Door Plaque</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=business+office+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=revenue-model-why-equal-traffic-does-not-mean-equal-earnings-making-money-from-creating-websites-business-office-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for business office sign">Search <span data-ebay-domain-label>eBay.com</span>: business office sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=business+office+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=revenue-model-why-equal-traffic-does-not-mean-equal-earnings-making-money-from-creating-websites-business-office-sign&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=business+office+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=revenue-model-why-equal-traffic-does-not-mean-equal-earnings-making-money-from-creating-websites-business-office-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Custom Engraved 4x6 Gray Office Suite Sign | Small Business Wall Door Plaque"><img src="{{ '/assets/images/marketplace-covers/0513bbe4ec1c3577eddd.jpg' | relative_url }}" alt="Listing image for Custom Engraved 4x6 Gray Office Suite Sign | Small Business Wall Door Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=business+office+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=revenue-model-why-equal-traffic-does-not-mean-equal-earnings-making-money-from-creating-websites-business-office-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Custom Engraved 4x6 Gray Office Suite Sign | Small Business Wall Door Plaque</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=business+office+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=revenue-model-why-equal-traffic-does-not-mean-equal-earnings-making-money-from-creating-websites-business-office-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for business office sign">Search<span data-ebay-domain-label>eBay.com</span>: business office sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=business+office+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=revenue-model-why-equal-traffic-does-not-mean-equal-earnings-making-money-from-creating-websites-business-office-sign&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=business+office+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=revenue-model-why-equal-traffic-does-not-mean-equal-earnings-making-money-from-creating-websites-business-office-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Custom Acrylic Business Logo Sign | Personalized Floating Acrylic Business Sign"><img src="{{ '/assets/images/marketplace-covers/aec974676abd0aecd48c.jpg' | relative_url }}" alt="Listing image for Custom Acrylic Business Logo Sign | Personalized Floating Acrylic Business Sign" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=business+office+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=revenue-model-why-equal-traffic-does-not-mean-equal-earnings-making-money-from-creating-websites-business-office-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Custom Acrylic Business Logo Sign | Personalized Floating Acrylic Business Sign</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=business+office+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=revenue-model-why-equal-traffic-does-not-mean-equal-earnings-making-money-from-creating-websites-business-office-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for business office sign">Search <span data-ebay-domain-label>eBay.com</span>: business office sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=business+office+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=revenue-model-why-equal-traffic-does-not-mean-equal-earnings-making-money-from-creating-websites-business-office-sign&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=business+office+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=revenue-model-why-equal-traffic-does-not-mean-equal-earnings-making-money-from-creating-websites-business-office-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Custom Acrylic Business Logo Sign | Personalized Floating Acrylic Business Sign"><img src="{{ '/assets/images/marketplace-covers/aec974676abd0aecd48c.jpg' | relative_url }}" alt="Listing image for Custom Acrylic Business Logo Sign | Personalized Floating Acrylic Business Sign" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=business+office+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=revenue-model-why-equal-traffic-does-not-mean-equal-earnings-making-money-from-creating-websites-business-office-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Custom Acrylic Business Logo Sign | Personalized Floating Acrylic Business Sign</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=business+office+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=revenue-model-why-equal-traffic-does-not-mean-equal-earnings-making-money-from-creating-websites-business-office-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for business office sign">Search<span data-ebay-domain-label>eBay.com</span>: business office sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=business+office+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=revenue-model-why-equal-traffic-does-not-mean-equal-earnings-making-money-from-creating-websites-business-office-sign&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=business+office+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=revenue-model-why-equal-traffic-does-not-mean-equal-earnings-making-money-from-creating-websites-business-office-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Wall-Mounted Metal Entrance Sign, Enamelware Business Entrance Reception Welcome"><img src="{{ '/assets/images/marketplace-covers/6f81fa246aef3b7c2f93.jpg' | relative_url }}" alt="Listing image for Wall-Mounted Metal Entrance Sign, Enamelware Business Entrance Reception Welcome" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=business+office+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=revenue-model-why-equal-traffic-does-not-mean-equal-earnings-making-money-from-creating-websites-business-office-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Wall-Mounted Metal Entrance Sign, Enamelware Business Entrance Reception Welcome</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=business+office+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=revenue-model-why-equal-traffic-does-not-mean-equal-earnings-making-money-from-creating-websites-business-office-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for business office sign">Search <span data-ebay-domain-label>eBay.com</span>: business office sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=business+office+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=revenue-model-why-equal-traffic-does-not-mean-equal-earnings-making-money-from-creating-websites-business-office-sign&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=business+office+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=revenue-model-why-equal-traffic-does-not-mean-equal-earnings-making-money-from-creating-websites-business-office-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=business+office+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=revenue-model-why-equal-traffic-does-not-mean-equal-earnings-making-money-from-creating-websites-business-office-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Wall-Mounted Metal Entrance Sign, Enamelware Business Entrance Reception Welcome"><img src="{{ '/assets/images/marketplace-covers/6f81fa246aef3b7c2f93.jpg' | relative_url }}" alt="Listing image for Wall-Mounted Metal Entrance Sign, Enamelware Business Entrance Reception Welcome" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=business+office+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=revenue-model-why-equal-traffic-does-not-mean-equal-earnings-making-money-from-creating-websites-business-office-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Wall-Mounted Metal Entrance Sign, Enamelware Business Entrance Reception Welcome</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=business+office+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=revenue-model-why-equal-traffic-does-not-mean-equal-earnings-making-money-from-creating-websites-business-office-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for business office sign">Search<span data-ebay-domain-label>eBay.com</span>: business office sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=business+office+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=revenue-model-why-equal-traffic-does-not-mean-equal-earnings-making-money-from-creating-websites-business-office-sign&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=business+office+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=revenue-model-why-equal-traffic-does-not-mean-equal-earnings-making-money-from-creating-websites-business-office-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=business+office+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=revenue-model-why-equal-traffic-does-not-mean-equal-earnings-making-money-from-creating-websites-business-office-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Custom Laser Cut Business Sign | Raised 3D Lettering | Office &amp; Lobby Branding"><img src="{{ '/assets/images/marketplace-covers/f14a82dafad2d23bc103.jpg' | relative_url }}" alt="Listing image for Custom Laser Cut Business Sign | Raised 3D Lettering | Office &amp; Lobby Branding" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=business+office+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=revenue-model-why-equal-traffic-does-not-mean-equal-earnings-making-money-from-creating-websites-business-office-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Custom Laser Cut Business Sign | Raised 3D Lettering | Office &amp; Lobby Branding</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=business+office+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=revenue-model-why-equal-traffic-does-not-mean-equal-earnings-making-money-from-creating-websites-business-office-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for business office sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: business office sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=business+office+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=revenue-model-why-equal-traffic-does-not-mean-equal-earnings-making-money-from-creating-websites-business-office-sign&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=business+office+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=revenue-model-why-equal-traffic-does-not-mean-equal-earnings-making-money-from-creating-websites-business-office-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Custom Laser Cut Business Sign | Raised 3D Lettering | Office &amp; Lobby Branding"><img src="{{ '/assets/images/marketplace-covers/f14a82dafad2d23bc103.jpg' | relative_url }}" alt="Listing image for Custom Laser Cut Business Sign | Raised 3D Lettering | Office &amp; Lobby Branding" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=business+office+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=revenue-model-why-equal-traffic-does-not-mean-equal-earnings-making-money-from-creating-websites-business-office-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Custom Laser Cut Business Sign | Raised 3D Lettering | Office &amp; Lobby Branding</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=business+office+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=revenue-model-why-equal-traffic-does-not-mean-equal-earnings-making-money-from-creating-websites-business-office-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for business office sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: business office sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=business+office+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=revenue-model-why-equal-traffic-does-not-mean-equal-earnings-making-money-from-creating-websites-business-office-sign&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=business+office+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=revenue-model-why-equal-traffic-does-not-mean-equal-earnings-making-money-from-creating-websites-business-office-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Sign Here Stickers, Coloured Sign Here Tabs Date Here Sticker Office Business UK"><img src="{{ '/assets/images/marketplace-covers/5d1586470e6aeb8dc84e.jpg' | relative_url }}" alt="Listing image for Sign Here Stickers, Coloured Sign Here Tabs Date Here Sticker Office Business UK" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=business+office+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=revenue-model-why-equal-traffic-does-not-mean-equal-earnings-making-money-from-creating-websites-business-office-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Sign Here Stickers, Coloured Sign Here Tabs Date Here Sticker Office Business UK</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=business+office+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=revenue-model-why-equal-traffic-does-not-mean-equal-earnings-making-money-from-creating-websites-business-office-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for business office sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: business office sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=business+office+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=revenue-model-why-equal-traffic-does-not-mean-equal-earnings-making-money-from-creating-websites-business-office-sign&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=business+office+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=revenue-model-why-equal-traffic-does-not-mean-equal-earnings-making-money-from-creating-websites-business-office-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Sign Here Stickers, Coloured Sign Here Tabs Date Here Sticker Office Business UK"><img src="{{ '/assets/images/marketplace-covers/5d1586470e6aeb8dc84e.jpg' | relative_url }}" alt="Listing image for Sign Here Stickers, Coloured Sign Here Tabs Date Here Sticker Office Business UK" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=business+office+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=revenue-model-why-equal-traffic-does-not-mean-equal-earnings-making-money-from-creating-websites-business-office-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Sign Here Stickers, Coloured Sign Here Tabs Date Here Sticker Office Business UK</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=business+office+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=revenue-model-why-equal-traffic-does-not-mean-equal-earnings-making-money-from-creating-websites-business-office-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for business office sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: business office sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=business+office+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=revenue-model-why-equal-traffic-does-not-mean-equal-earnings-making-money-from-creating-websites-business-office-sign&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=business+office+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=revenue-model-why-equal-traffic-does-not-mean-equal-earnings-making-money-from-creating-websites-business-office-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Acrylic Business Plaque House Number Sign Printed Logo Address Signage"><img src="{{ '/assets/images/marketplace-covers/5003fee9801cfe58ed17.jpg' | relative_url }}" alt="Listing image for Acrylic Business Plaque House Number Sign Printed Logo Address Signage" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=business+office+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=revenue-model-why-equal-traffic-does-not-mean-equal-earnings-making-money-from-creating-websites-business-office-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Acrylic Business Plaque House Number Sign Printed Logo Address Signage</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=business+office+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=revenue-model-why-equal-traffic-does-not-mean-equal-earnings-making-money-from-creating-websites-business-office-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for business office sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: business office sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=business+office+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=revenue-model-why-equal-traffic-does-not-mean-equal-earnings-making-money-from-creating-websites-business-office-sign&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=business+office+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=revenue-model-why-equal-traffic-does-not-mean-equal-earnings-making-money-from-creating-websites-business-office-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Acrylic Business Plaque House Number Sign Printed Logo Address Signage"><img src="{{ '/assets/images/marketplace-covers/5003fee9801cfe58ed17.jpg' | relative_url }}" alt="Listing image for Acrylic Business Plaque House Number Sign Printed Logo Address Signage" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=business+office+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=revenue-model-why-equal-traffic-does-not-mean-equal-earnings-making-money-from-creating-websites-business-office-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Acrylic Business Plaque House Number Sign Printed Logo Address Signage</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=business+office+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=revenue-model-why-equal-traffic-does-not-mean-equal-earnings-making-money-from-creating-websites-business-office-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for business office sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: business office sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=business+office+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=revenue-model-why-equal-traffic-does-not-mean-equal-earnings-making-money-from-creating-websites-business-office-sign&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=business+office+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=revenue-model-why-equal-traffic-does-not-mean-equal-earnings-making-money-from-creating-websites-business-office-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Custom Dibond Aluminium Sign 3mm Outdoor Business Shop Safety Signs UK"><img src="{{ '/assets/images/marketplace-covers/7d15a34dac865102ce5e.jpg' | relative_url }}" alt="Listing image for Custom Dibond Aluminium Sign 3mm Outdoor Business Shop Safety Signs UK" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=business+office+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=revenue-model-why-equal-traffic-does-not-mean-equal-earnings-making-money-from-creating-websites-business-office-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Custom Dibond Aluminium Sign 3mm Outdoor Business Shop Safety Signs UK</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=business+office+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=revenue-model-why-equal-traffic-does-not-mean-equal-earnings-making-money-from-creating-websites-business-office-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for business office sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: business office sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=business+office+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=revenue-model-why-equal-traffic-does-not-mean-equal-earnings-making-money-from-creating-websites-business-office-sign&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=business+office+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=revenue-model-why-equal-traffic-does-not-mean-equal-earnings-making-money-from-creating-websites-business-office-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=business+office+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=revenue-model-why-equal-traffic-does-not-mean-equal-earnings-making-money-from-creating-websites-business-office-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Custom Dibond Aluminium Sign 3mm Outdoor Business Shop Safety Signs UK"><img src="{{ '/assets/images/marketplace-covers/7d15a34dac865102ce5e.jpg' | relative_url }}" alt="Listing image for Custom Dibond Aluminium Sign 3mm Outdoor Business Shop Safety Signs UK" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=business+office+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=revenue-model-why-equal-traffic-does-not-mean-equal-earnings-making-money-from-creating-websites-business-office-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Custom Dibond Aluminium Sign 3mm Outdoor Business Shop Safety Signs UK</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=business+office+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=revenue-model-why-equal-traffic-does-not-mean-equal-earnings-making-money-from-creating-websites-business-office-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for business office sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: business office sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=business+office+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=revenue-model-why-equal-traffic-does-not-mean-equal-earnings-making-money-from-creating-websites-business-office-sign&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=business+office+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=revenue-model-why-equal-traffic-does-not-mean-equal-earnings-making-money-from-creating-websites-business-office-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -794,7 +794,7 @@ Revenue per visitor is therefore a practical decision model for affiliate publis
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -814,7 +814,7 @@ Revenue per visitor is therefore a practical decision model for affiliate publis
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -846,7 +846,7 @@ Revenue per visitor is therefore a practical decision model for affiliate publis
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -876,7 +876,7 @@ Revenue per visitor is therefore a practical decision model for affiliate publis
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -934,234 +934,234 @@ Revenue per visitor is therefore a practical decision model for affiliate publis
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: awin.com  
    Title: What is affiliate link tracking and how to use it?  
-   Link: <a href="https://www.awin.com/gb/affiliate-marketing/everything-you-need-to-know-about-affiliate-tracking" target="_blank" rel="noopener noreferrer nofollow">https://www.awin.com/gb/affiliate-marketing/everything-you-need-to-know-about-affiliate-tracking</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>What is affiliate link tracking and how to use it?June 4, 2020 — 22 Nov 2022 — Why is affiliate tracking important? Find out how to t...</p></details>
+   Link:<a href="https://www.awin.com/gb/affiliate-marketing/everything-you-need-to-know-about-affiliate-tracking" target="_blank" rel="noopener noreferrer nofollow">https://www.awin.com/gb/affiliate-marketing/everything-you-need-to-know-about-affiliate-tracking</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What is affiliate link tracking and how to use it?June 4, 2020 — 22 Nov 2022 — Why is affiliate tracking important? Find out how to t...</p></details>
    Published: June 4, 2020  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: awin.com  
-   Link: <a href="https://www.awin.com/gb/advertisers/tools" target="_blank" rel="noopener noreferrer nofollow">https://www.awin.com/gb/advertisers/tools</a>  
+   Link:<a href="https://www.awin.com/gb/advertisers/tools" target="_blank" rel="noopener noreferrer nofollow">https://www.awin.com/gb/advertisers/tools</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: awin.com  
-   Link: <a href="https://www.awin.com/gb/publishers/tools" target="_blank" rel="noopener noreferrer nofollow">https://www.awin.com/gb/publishers/tools</a>  
+   Link:<a href="https://www.awin.com/gb/publishers/tools" target="_blank" rel="noopener noreferrer nofollow">https://www.awin.com/gb/publishers/tools</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: partnerstack.com  
-   Link: <a href="https://partnerstack.com/glossary/earnings-per-click-epc" target="_blank" rel="noopener noreferrer nofollow">https://partnerstack.com/glossary/earnings-per-click-epc</a>  
+   Link:<a href="https://partnerstack.com/glossary/earnings-per-click-epc" target="_blank" rel="noopener noreferrer nofollow">https://partnerstack.com/glossary/earnings-per-click-epc</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: baymard.com  
    Title: Institute Comparing Conversion Rates is Nonsense  
-   Link: <a href="https://baymard.com/blog/comparing-conversion-rates-is-nonsense" target="_blank" rel="noopener noreferrer nofollow">https://baymard.com/blog/comparing-conversion-rates-is-nonsense</a>  
+   Link:<a href="https://baymard.com/blog/comparing-conversion-rates-is-nonsense" target="_blank" rel="noopener noreferrer nofollow">https://baymard.com/blog/comparing-conversion-rates-is-nonsense</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: baymard.com  
-   Link: <a href="https://baymard.com/research/product-page" target="_blank" rel="noopener noreferrer nofollow">https://baymard.com/research/product-page</a>  
+   Link:<a href="https://baymard.com/research/product-page" target="_blank" rel="noopener noreferrer nofollow">https://baymard.com/research/product-page</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: awin.com  
-   Link: <a href="https://www.awin.com/gb/pricing/advertisers" target="_blank" rel="noopener noreferrer nofollow">https://www.awin.com/gb/pricing/advertisers</a>  
+   Link:<a href="https://www.awin.com/gb/pricing/advertisers" target="_blank" rel="noopener noreferrer nofollow">https://www.awin.com/gb/pricing/advertisers</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: baymard.com  
    Title: current state ecommerce product page ux  
-   Link: <a href="https://baymard.com/blog/current-state-ecommerce-product-page-ux" target="_blank" rel="noopener noreferrer nofollow">https://baymard.com/blog/current-state-ecommerce-product-page-ux</a>  
+   Link:<a href="https://baymard.com/blog/current-state-ecommerce-product-page-ux" target="_blank" rel="noopener noreferrer nofollow">https://baymard.com/blog/current-state-ecommerce-product-page-ux</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/1809.00620" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1809.00620</a>  
+   Link:<a href="https://arxiv.org/abs/1809.00620" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1809.00620</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: baymard.com  
-   Link: <a href="https://baymard.com/" target="_blank" rel="noopener noreferrer nofollow">https://baymard.com/</a>  
+   Link:<a href="https://baymard.com/" target="_blank" rel="noopener noreferrer nofollow">https://baymard.com/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: baymard.com  
-   Link: <a href="https://baymard.com/research/checkout-usability" target="_blank" rel="noopener noreferrer nofollow">https://baymard.com/research/checkout-usability</a>  
+   Link:<a href="https://baymard.com/research/checkout-usability" target="_blank" rel="noopener noreferrer nofollow">https://baymard.com/research/checkout-usability</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: baymard.com  
-   Link: <a href="https://baymard.com/research/mcommerce-usability" target="_blank" rel="noopener noreferrer nofollow">https://baymard.com/research/mcommerce-usability</a>  
+   Link:<a href="https://baymard.com/research/mcommerce-usability" target="_blank" rel="noopener noreferrer nofollow">https://baymard.com/research/mcommerce-usability</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: baymard.com  
-   Link: <a href="https://baymard.com/resources" target="_blank" rel="noopener noreferrer nofollow">https://baymard.com/resources</a>  
+   Link:<a href="https://baymard.com/resources" target="_blank" rel="noopener noreferrer nofollow">https://baymard.com/resources</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: baymard.com  
-   Link: <a href="https://baymard.com/ux-benchmark" target="_blank" rel="noopener noreferrer nofollow">https://baymard.com/ux-benchmark</a>  
+   Link:<a href="https://baymard.com/ux-benchmark" target="_blank" rel="noopener noreferrer nofollow">https://baymard.com/ux-benchmark</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: affiliate-program.amazon.com  
-   Link: <a href="https://affiliate-program.amazon.com/help/node/topic/GRXPHT8U84RAYDXZ" target="_blank" rel="noopener noreferrer nofollow">https://affiliate-program.amazon.com/help/node/topic/GRXPHT8U84RAYDXZ</a>  
+   Link:<a href="https://affiliate-program.amazon.com/help/node/topic/GRXPHT8U84RAYDXZ" target="_blank" rel="noopener noreferrer nofollow">https://affiliate-program.amazon.com/help/node/topic/GRXPHT8U84RAYDXZ</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: awin.com  
    Title: how to use affiliate marketing to drive low cost conversions for your brand  
-   Link: <a href="https://www.awin.com/us/how-to-use-awin/how-to-use-affiliate-marketing-to-drive-low-cost-conversions-for-your-brand" target="_blank" rel="noopener noreferrer nofollow">https://www.awin.com/us/how-to-use-awin/how-to-use-affiliate-marketing-to-drive-low-cost-conversions-for-your-brand</a>  
+   Link:<a href="https://www.awin.com/us/how-to-use-awin/how-to-use-affiliate-marketing-to-drive-low-cost-conversions-for-your-brand" target="_blank" rel="noopener noreferrer nofollow">https://www.awin.com/us/how-to-use-awin/how-to-use-affiliate-marketing-to-drive-low-cost-conversions-for-your-brand</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: success.awin.com  
    Title: how are transactions tracked and correctly allocated to publishers  
-   Link: <a href="https://success.awin.com/s/article/how-are-transactions-tracked-and-correctly-allocated-to-publishers" target="_blank" rel="noopener noreferrer nofollow">https://success.awin.com/s/article/how-are-transactions-tracked-and-correctly-allocated-to-publishers</a>  
+   Link:<a href="https://success.awin.com/s/article/how-are-transactions-tracked-and-correctly-allocated-to-publishers" target="_blank" rel="noopener noreferrer nofollow">https://success.awin.com/s/article/how-are-transactions-tracked-and-correctly-allocated-to-publishers</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: awin.com  
-   Link: <a href="https://www.awin.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.awin.com/</a>  
+   Link:<a href="https://www.awin.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.awin.com/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: success.awin.com  
    Title: How can I see the sales commissions I am earning  
-   Link: <a href="https://success.awin.com/s/article/How-can-I-see-the-sales-commissions-I-am-earning" target="_blank" rel="noopener noreferrer nofollow">https://success.awin.com/s/article/How-can-I-see-the-sales-commissions-I-am-earning</a>  
+   Link:<a href="https://success.awin.com/s/article/How-can-I-see-the-sales-commissions-I-am-earning" target="_blank" rel="noopener noreferrer nofollow">https://success.awin.com/s/article/How-can-I-see-the-sales-commissions-I-am-earning</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: help.awin.com  
    Title: understanding affiliate tracking  
-   Link: <a href="https://help.awin.com/docs/understanding-affiliate-tracking" target="_blank" rel="noopener noreferrer nofollow">https://help.awin.com/docs/understanding-affiliate-tracking</a>  
+   Link:<a href="https://help.awin.com/docs/understanding-affiliate-tracking" target="_blank" rel="noopener noreferrer nofollow">https://help.awin.com/docs/understanding-affiliate-tracking</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: success.awin.com  
    Title: How can I ensure my affiliate sales are tracked correctly  
-   Link: <a href="https://success.awin.com/s/article/How-can-I-ensure-my-affiliate-sales-are-tracked-correctly" target="_blank" rel="noopener noreferrer nofollow">https://success.awin.com/s/article/How-can-I-ensure-my-affiliate-sales-are-tracked-correctly</a>  
+   Link:<a href="https://success.awin.com/s/article/How-can-I-ensure-my-affiliate-sales-are-tracked-correctly" target="_blank" rel="noopener noreferrer nofollow">https://success.awin.com/s/article/How-can-I-ensure-my-affiliate-sales-are-tracked-correctly</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: awin.com  
-   Link: <a href="https://www.awin.com/gb/publishers/content-creator-influencer" target="_blank" rel="noopener noreferrer nofollow">https://www.awin.com/gb/publishers/content-creator-influencer</a>  
+   Link:<a href="https://www.awin.com/gb/publishers/content-creator-influencer" target="_blank" rel="noopener noreferrer nofollow">https://www.awin.com/gb/publishers/content-creator-influencer</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: awin.com  
    Title: affiliate tracking masterclass  
-   Link: <a href="https://www.awin.com/gb/sector-insights/affiliate-tracking-masterclass" target="_blank" rel="noopener noreferrer nofollow">https://www.awin.com/gb/sector-insights/affiliate-tracking-masterclass</a>  
+   Link:<a href="https://www.awin.com/gb/sector-insights/affiliate-tracking-masterclass" target="_blank" rel="noopener noreferrer nofollow">https://www.awin.com/gb/sector-insights/affiliate-tracking-masterclass</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: awin.com  
    Title: what the cap code means for affiliates  
-   Link: <a href="https://www.awin.com/gb/compliance-and-regulations/what-the-cap-code-means-for-affiliates" target="_blank" rel="noopener noreferrer nofollow">https://www.awin.com/gb/compliance-and-regulations/what-the-cap-code-means-for-affiliates</a>  
+   Link:<a href="https://www.awin.com/gb/compliance-and-regulations/what-the-cap-code-means-for-affiliates" target="_blank" rel="noopener noreferrer nofollow">https://www.awin.com/gb/compliance-and-regulations/what-the-cap-code-means-for-affiliates</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=I-O2_L-xD1U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=I-O2_L-xD1U</a>  
+   Link:<a href="https://www.youtube.com/watch?v=I-O2_L-xD1U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=I-O2_L-xD1U</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=YjdQHuG_Fbs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=YjdQHuG_Fbs</a>  
+   Link:<a href="https://www.youtube.com/watch?v=YjdQHuG_Fbs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=YjdQHuG_Fbs</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: youtube.com  
    Title: 312% + Your Affiliate Marketing Income Using EPC formula Affiliate e Book  
-   Link: <a href="https://www.youtube.com/watch?v=pufJdX8XVSE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=pufJdX8XVSE</a>  
+   Link:<a href="https://www.youtube.com/watch?v=pufJdX8XVSE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=pufJdX8XVSE</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: youtube.com  
    Title: EPC and How to Use it in the Affiliate Channel  
-   Link: <a href="https://www.youtube.com/watch?v=1dmLqgfT4IU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1dmLqgfT4IU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Earnings Per Click Explained - How Conversion Rates Help Your EPC...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=1dmLqgfT4IU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1dmLqgfT4IU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Earnings Per Click Explained - How Conversion Rates Help Your EPC...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: youtube.com  
    Title: Earnings Per Click Explained  
-   Link: <a href="https://www.youtube.com/watch?v=tkiUM_pp7G4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tkiUM_pp7G4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>3x Affiliate Marketing Revenue by Calculating EPC (Earning Per Click)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=tkiUM_pp7G4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tkiUM_pp7G4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>3x Affiliate Marketing Revenue by Calculating EPC (Earning Per Click)...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: youtube.com  
    Title: 3x Affiliate Marketing Revenue by Calculating EPC (Earning Per Click)  
-   Link: <a href="https://www.youtube.com/watch?v=sGTd0szG9YM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sGTd0szG9YM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Earnings Per Click? Pay Attention to This Metric...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=sGTd0szG9YM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sGTd0szG9YM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Earnings Per Click? Pay Attention to This Metric...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: youtube.com  
    Title: Earnings Per Click? Pay Attention to This Metric!  
-   Link: <a href="https://www.youtube.com/watch?v=bpPY5wGy5mQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bpPY5wGy5mQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mastering Affiliate Marketing: Essential KPIs for Success in 2024 | Wati...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=bpPY5wGy5mQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bpPY5wGy5mQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mastering Affiliate Marketing: Essential KPIs for Success in 2024 | Wati...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=PYrfMu72UpA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PYrfMu72UpA</a>  
+   Link:<a href="https://www.youtube.com/watch?v=PYrfMu72UpA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PYrfMu72UpA</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: affiliate-program.amazon.co.uk  
-   Link: <a href="https://affiliate-program.amazon.co.uk/help/node/topic/GWJ4AHCH7U5LCL86" target="_blank" rel="noopener noreferrer nofollow">https://affiliate-program.amazon.co.uk/help/node/topic/GWJ4AHCH7U5LCL86</a>  
+   Link:<a href="https://affiliate-program.amazon.co.uk/help/node/topic/GWJ4AHCH7U5LCL86" target="_blank" rel="noopener noreferrer nofollow">https://affiliate-program.amazon.co.uk/help/node/topic/GWJ4AHCH7U5LCL86</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: nngroup.com  
    Title: Nielsen Norman Group UX Guidelines for Ecommerce Product Pages  
-   Link: <a href="https://www.nngroup.com/articles/ecommerce-product-pages/" target="_blank" rel="noopener noreferrer nofollow">https://www.nngroup.com/articles/ecommerce-product-pages/</a>  
+   Link:<a href="https://www.nngroup.com/articles/ecommerce-product-pages/" target="_blank" rel="noopener noreferrer nofollow">https://www.nngroup.com/articles/ecommerce-product-pages/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: affiliate-program.amazon.co.uk  
-   Link: <a href="https://affiliate-program.amazon.co.uk/help/operating/policies" target="_blank" rel="noopener noreferrer nofollow">https://affiliate-program.amazon.co.uk/help/operating/policies</a>  
+   Link:<a href="https://affiliate-program.amazon.co.uk/help/operating/policies" target="_blank" rel="noopener noreferrer nofollow">https://affiliate-program.amazon.co.uk/help/operating/policies</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: affiliate-program.amazon.co.uk  
-   Link: <a href="https://affiliate-program.amazon.co.uk/help/node/topic/GRXPHT8U84RAYDXZ" target="_blank" rel="noopener noreferrer nofollow">https://affiliate-program.amazon.co.uk/help/node/topic/GRXPHT8U84RAYDXZ</a>  
+   Link:<a href="https://affiliate-program.amazon.co.uk/help/node/topic/GRXPHT8U84RAYDXZ" target="_blank" rel="noopener noreferrer nofollow">https://affiliate-program.amazon.co.uk/help/node/topic/GRXPHT8U84RAYDXZ</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: asa.org.uk  
    Title: affiliate marketing  
-   Link: <a href="https://www.asa.org.uk/advice-online/affiliate-marketing.html" target="_blank" rel="noopener noreferrer nofollow">https://www.asa.org.uk/advice-online/affiliate-marketing.html</a>  
+   Link:<a href="https://www.asa.org.uk/advice-online/affiliate-marketing.html" target="_blank" rel="noopener noreferrer nofollow">https://www.asa.org.uk/advice-online/affiliate-marketing.html</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: blog.rakutenadvertising.com  
    Title: Rakuten Advertising Blog How Affiliate Tracking Works  
-   Link: <a href="https://blog.rakutenadvertising.com/marketing-strategies/how-affiliate-tracking-works-the-complete-guide-for-brands-publishers/" target="_blank" rel="noopener noreferrer nofollow">https://blog.rakutenadvertising.com/marketing-strategies/how-affiliate-tracking-works-the-complete-guide-for-brands-publishers/</a>  
+   Link:<a href="https://blog.rakutenadvertising.com/marketing-strategies/how-affiliate-tracking-works-the-complete-guide-for-brands-publishers/" target="_blank" rel="noopener noreferrer nofollow">https://blog.rakutenadvertising.com/marketing-strategies/how-affiliate-tracking-works-the-complete-guide-for-brands-publishers/</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: omr.com  
    Title: affiliate tracking  
-   Link: <a href="https://omr.com/en/[reviews" target="_blank" rel="noopener noreferrer nofollow">https://omr.com/en/[reviews</a>  
+   Link:<a href="https://omr.com/en/[reviews" target="_blank" rel="noopener noreferrer nofollow">https://omr.com/en/[reviews</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/baymard-institute_product-list-ux-best-practices-2025-baymard-activity-7371921940611231744-8YD1" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/baymard-institute_product-list-ux-best-practices-2025-baymard-activity-7371921940611231744-8YD1</a>  
+   Link:<a href="https://www.linkedin.com/posts/baymard-institute_product-list-ux-best-practices-2025-baymard-activity-7371921940611231744-8YD1" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/baymard-institute_product-list-ux-best-practices-2025-baymard-activity-7371921940611231744-8YD1</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: pwskills.com  
    Title: amazon associates  
-   Link: <a href="https://pwskills.com/blog/digital-marketing/amazon-associates" target="_blank" rel="noopener noreferrer nofollow">https://pwskills.com/blog/digital-marketing/amazon-associates</a>  
+   Link:<a href="https://pwskills.com/blog/digital-marketing/amazon-associates" target="_blank" rel="noopener noreferrer nofollow">https://pwskills.com/blog/digital-marketing/amazon-associates</a>  
 
 ### Additional References
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: ftc.gov  
-   Link: <a href="https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews</a>  
+   Link:<a href="https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: impact.com  
-   Link: <a href="https://impact.com/affiliate/5-effective-affiliate-commission-structures/" target="_blank" rel="noopener noreferrer nofollow">https://impact.com/affiliate/5-effective-affiliate-commission-structures/</a>  
+   Link:<a href="https://impact.com/affiliate/5-effective-affiliate-commission-structures/" target="_blank" rel="noopener noreferrer nofollow">https://impact.com/affiliate/5-effective-affiliate-commission-structures/</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: wecantrack.com  
-   Link: <a href="https://wecantrack.com/insights/affiliate-conversion-statistics/" target="_blank" rel="noopener noreferrer nofollow">https://wecantrack.com/insights/affiliate-conversion-statistics/</a>  
+   Link:<a href="https://wecantrack.com/insights/affiliate-conversion-statistics/" target="_blank" rel="noopener noreferrer nofollow">https://wecantrack.com/insights/affiliate-conversion-statistics/</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: theapma.co.uk  
-   Link: <a href="https://theapma.co.uk/wp-content/uploads/2024/01/The-APMA-Tracking-Guide-2021.pdf" target="_blank" rel="noopener noreferrer nofollow">https://theapma.co.uk/wp-content/uploads/2024/01/The-APMA-Tracking-Guide-2021.pdf</a>  
+   Link:<a href="https://theapma.co.uk/wp-content/uploads/2024/01/The-APMA-Tracking-Guide-2021.pdf" target="_blank" rel="noopener noreferrer nofollow">https://theapma.co.uk/wp-content/uploads/2024/01/The-APMA-Tracking-Guide-2021.pdf</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: trackier.com  
-   Link: <a href="https://trackier.com/affiliate-attribution-modelstypes-and-how-it-works/" target="_blank" rel="noopener noreferrer nofollow">https://trackier.com/affiliate-attribution-modelstypes-and-how-it-works/</a>  
+   Link:<a href="https://trackier.com/affiliate-attribution-modelstypes-and-how-it-works/" target="_blank" rel="noopener noreferrer nofollow">https://trackier.com/affiliate-attribution-modelstypes-and-how-it-works/</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: wecantrack.com  
-   Link: <a href="https://wecantrack.com/insights/affiliate-click-through-rate-statistics/" target="_blank" rel="noopener noreferrer nofollow">https://wecantrack.com/insights/affiliate-click-through-rate-statistics/</a>  
+   Link:<a href="https://wecantrack.com/insights/affiliate-click-through-rate-statistics/" target="_blank" rel="noopener noreferrer nofollow">https://wecantrack.com/insights/affiliate-click-through-rate-statistics/</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: affonso.io  
-   Link: <a href="https://affonso.io/resources/affiliate-commission-calculator" target="_blank" rel="noopener noreferrer nofollow">https://affonso.io/resources/affiliate-commission-calculator</a>  
+   Link:<a href="https://affonso.io/resources/affiliate-commission-calculator" target="_blank" rel="noopener noreferrer nofollow">https://affonso.io/resources/affiliate-commission-calculator</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: salsify.com  
-   Link: <a href="https://www.salsify.com/glossary/affiliate-commission-rate-meaning" target="_blank" rel="noopener noreferrer nofollow">https://www.salsify.com/glossary/affiliate-commission-rate-meaning</a>  
+   Link:<a href="https://www.salsify.com/glossary/affiliate-commission-rate-meaning" target="_blank" rel="noopener noreferrer nofollow">https://www.salsify.com/glossary/affiliate-commission-rate-meaning</a>  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: coinis.com  
-   Link: <a href="https://coinis.com/glossary/affiliate-network" target="_blank" rel="noopener noreferrer nofollow">https://coinis.com/glossary/affiliate-network</a>  
+   Link:<a href="https://coinis.com/glossary/affiliate-network" target="_blank" rel="noopener noreferrer nofollow">https://coinis.com/glossary/affiliate-network</a>  
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: thebcma.info  
-   Link: <a href="https://www.thebcma.info/onewebmedia/DOWNLOADABLE%20DOCUMENTS/BCMA%20Influencer%20Marketing%20Guidelines%20and%20Best%20Practice%20UK.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.thebcma.info/onewebmedia/DOWNLOADABLE%20DOCUMENTS/BCMA%20Influencer%20Marketing%20Guidelines%20and%20Best%20Practice%20UK.pdf</a>
+   Link:<a href="https://www.thebcma.info/onewebmedia/DOWNLOADABLE%20DOCUMENTS/BCMA%20Influencer%20Marketing%20Guidelines%20and%20Best%20Practice%20UK.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.thebcma.info/onewebmedia/DOWNLOADABLE%20DOCUMENTS/BCMA%20Influencer%20Marketing%20Guidelines%20and%20Best%20Practice%20UK.pdf</a>
