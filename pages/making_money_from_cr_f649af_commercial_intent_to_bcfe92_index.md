@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /making-money-from-cr-f649af-commercial/
 description: Focused pages that expand on Intent Topics.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: making_money_from_cr_f649af_commercial_intent_to_bcfe92
 parent_title: Intent Topics

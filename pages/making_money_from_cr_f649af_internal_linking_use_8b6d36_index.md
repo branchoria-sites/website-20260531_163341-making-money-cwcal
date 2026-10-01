@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /making-money-from-cr-f649af-internal/
 description: Focused pages that expand on User Journeys.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: making_money_from_cr_f649af_internal_linking_use_8b6d36
 parent_title: User Journeys

@@ -203,6 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-31 15:44:09'
+last_modified_at: '2026-05-31 15:44:09'
 parent_title: Why Equal Traffic Does Not Mean Equal Earnings
 parent_permalink: /revenue-model/
 parent_nav_short_title: Revenue Model
