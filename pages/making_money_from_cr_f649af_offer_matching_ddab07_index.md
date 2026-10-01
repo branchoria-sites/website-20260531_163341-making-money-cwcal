@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /making-money-from-cr-f649af-offer/
 description: Focused pages that expand on Offer Fit.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: making_money_from_cr_f649af_offer_matching_ddab07
 parent_title: Offer Fit

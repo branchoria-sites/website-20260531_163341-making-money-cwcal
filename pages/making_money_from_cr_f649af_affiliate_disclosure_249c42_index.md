@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /making-money-from-cr-f649af-affiliate/
 description: Focused pages that expand on Trust Rules.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: making_money_from_cr_f649af_affiliate_disclosure_249c42
 parent_title: Trust Rules
