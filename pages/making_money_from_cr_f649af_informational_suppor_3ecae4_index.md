@@ -14,7 +14,7 @@ parent_nav_short_title: Support Pages
 parent_permalink: /support-pages/
 ---
 
-# Explore Topics in Support Pages
+## Explore Topics in Support Pages
 
 The following pages expand on the main **[Support Pages]({{ '/support-pages/' | relative_url }})** page and cover its key branches in.
 
