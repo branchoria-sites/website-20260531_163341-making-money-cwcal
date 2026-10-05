@@ -6,7 +6,8 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /making-money-from-cr-f649af-best-of/
 description: Focused pages that expand on Best Lists.
-date: '2026'
+date: '2026-01-01 00:00:00'
+last_modified_at: '2026-01-01 00:00:00'
 layout: default
 parent_basename: making_money_from_cr_f649af_best_of_pages_dd07ed
 parent_title: Best Lists

@@ -203,6 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-31 15:40:49'
+last_modified_at: '2026-05-31 15:40:49'
 parent_title: Why A Versus B Pages Drive Clicks
 parent_permalink: /comparisons/
 parent_nav_short_title: Comparisons
