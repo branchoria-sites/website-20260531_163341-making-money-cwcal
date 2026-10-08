@@ -222,7 +222,7 @@ site_image_description: A desk with a laptop showing product comparison cards, a
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="6 pages" aria-label="6 pages" aria-expanded="false">6 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: What Makes a Best Of Page Convert? | Making Money From" aria-expanded="false" aria-controls="home-vertical-children-node-making-money-from-cr-f649af-best-of-pages-dd07ed"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'best-lists/' | relative_url }}" title="What Makes a Best Of Page Convert? | Making Money From" aria-label="Read more about What Makes a Best Of Page Convert? | Making Money From">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'best-lists/' | relative_url }}" title="What Makes a Best Of Page Convert? | How Affiliate Websites Actually Make Money" aria-label="Read more about What Makes a Best Of Page Convert? | How Affiliate Websites Actually Make Money">Read more</a>
 </div>
 </div>
 </div>
@@ -242,7 +242,7 @@ site_image_description: A desk with a laptop showing product comparison cards, a
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'tables/' | relative_url }}" title="How comparison tables speed up buying decisions | Making Money From Cr F649 Af Best Of Pages" aria-label="Read more about How comparison tables speed up buying decisions | Making Money From Cr F649 Af Best Of Pages">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'tables/' | relative_url }}" title="How comparison tables speed up buying decisions | What Makes a Best Of Page Convert? | How Affiliate Websites Actually Make Money" aria-label="Read more about How comparison tables speed up buying decisions | What Makes a Best Of Page Convert? | How Affiliate Websites Actually Make Money">Read more</a>
 </div>
 </div>
 </div>
@@ -262,7 +262,7 @@ site_image_description: A desk with a laptop showing product comparison cards, a
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'link-paths/' | relative_url }}" title="Turning shortlists into profitable click paths | Making Money From Cr F649 Af Best Of Pages" aria-label="Read more about Turning shortlists into profitable click paths | Making Money From Cr F649 Af Best Of Pages">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'link-paths/' | relative_url }}" title="Turning shortlists into profitable click paths | What Makes a Best Of Page Convert? | How Affiliate Websites Actually Make Money" aria-label="Read more about Turning shortlists into profitable click paths | What Makes a Best Of Page Convert? | How Affiliate Websites Actually Make Money">Read more</a>
 </div>
 </div>
 </div>
@@ -282,7 +282,7 @@ site_image_description: A desk with a laptop showing product comparison cards, a
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'criteria/' | relative_url }}" title="What makes a best of shortlist believable? | Making Money From Cr F649 Af Best Of Pages" aria-label="Read more about What makes a best of shortlist believable? | Making Money From Cr F649 Af Best Of Pages">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'criteria/' | relative_url }}" title="What makes a best of shortlist believable? | What Makes a Best Of Page Convert? | How Affiliate Websites Actually Make Money" aria-label="Read more about What makes a best of shortlist believable? | What Makes a Best Of Page Convert? | How Affiliate Websites Actually Make Money">Read more</a>
 </div>
 </div>
 </div>
@@ -302,7 +302,7 @@ site_image_description: A desk with a laptop showing product comparison cards, a
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'best-for-labels/' | relative_url }}" title="Why best for labels beat plain rankings | Making Money From Cr F649 Af Best Of Pages" aria-label="Read more about Why best for labels beat plain rankings | Making Money From Cr F649 Af Best Of Pages">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'best-for-labels/' | relative_url }}" title="Why best for labels beat plain rankings | What Makes a Best Of Page Convert? | How Affiliate Websites Actually Make Money" aria-label="Read more about Why best for labels beat plain rankings | What Makes a Best Of Page Convert? | How Affiliate Websites Actually Make Money">Read more</a>
 </div>
 </div>
 </div>
@@ -322,7 +322,7 @@ site_image_description: A desk with a laptop showing product comparison cards, a
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'thin-pages/' | relative_url }}" title="Why thin best of pages lose trust | Making Money From Cr F649 Af Best Of Pages" aria-label="Read more about Why thin best of pages lose trust | Making Money From Cr F649 Af Best Of Pages">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'thin-pages/' | relative_url }}" title="Why thin best of pages lose trust | What Makes a Best Of Page Convert? | How Affiliate Websites Actually Make Money" aria-label="Read more about Why thin best of pages lose trust | What Makes a Best Of Page Convert? | How Affiliate Websites Actually Make Money">Read more</a>
 </div>
 </div>
 </div>
@@ -346,7 +346,7 @@ site_image_description: A desk with a laptop showing product comparison cards, a
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="6 pages" aria-label="6 pages" aria-expanded="false">6 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: Why A Versus B Pages Drive Clicks | Making Money From" aria-expanded="false" aria-controls="home-vertical-children-node-making-money-from-cr-f649af-comparison-pages-2aff90"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'comparisons/' | relative_url }}" title="Why A Versus B Pages Drive Clicks | Making Money From" aria-label="Read more about Why A Versus B Pages Drive Clicks | Making Money From">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'comparisons/' | relative_url }}" title="Why A Versus B Pages Drive Clicks | How Affiliate Websites Actually Make Money" aria-label="Read more about Why A Versus B Pages Drive Clicks | How Affiliate Websites Actually Make Money">Read more</a>
 </div>
 </div>
 </div>
@@ -366,7 +366,7 @@ site_image_description: A desk with a laptop showing product comparison cards, a
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'disclosures/' | relative_url }}" title="When Comparison Pages Start Looking Misleading | Making Money From Cr F649 Af Comparison Pages" aria-label="Read more about When Comparison Pages Start Looking Misleading | Making Money From Cr F649 Af Comparison Pages">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'disclosures/' | relative_url }}" title="When Comparison Pages Start Looking Misleading | Why A Versus B Pages Drive Clicks | How Affiliate Websites Actually Make Money" aria-label="Read more about When Comparison Pages Start Looking Misleading | Why A Versus B Pages Drive Clicks | How Affiliate Websites Actually Make Money">Read more</a>
 </div>
 </div>
 </div>
@@ -386,7 +386,7 @@ site_image_description: A desk with a laptop showing product comparison cards, a
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'verdicts/' | relative_url }}" title="When Should a Comparison Page Pick a Winner? | Making Money From Cr F649 Af Comparison Pages" aria-label="Read more about When Should a Comparison Page Pick a Winner? | Making Money From Cr F649 Af Comparison Pages">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'verdicts/' | relative_url }}" title="When Should a Comparison Page Pick a Winner? | Why A Versus B Pages Drive Clicks | How Affiliate Websites Actually Make Money" aria-label="Read more about When Should a Comparison Page Pick a Winner? | Why A Versus B Pages Drive Clicks | How Affiliate Websites Actually Make Money">Read more</a>
 </div>
 </div>
 </div>
@@ -406,7 +406,7 @@ site_image_description: A desk with a laptop showing product comparison cards, a
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'exits/' | relative_url }}" title="Where Should Comparison Pages Send Readers? | Making Money From Cr F649 Af Comparison Pages" aria-label="Read more about Where Should Comparison Pages Send Readers? | Making Money From Cr F649 Af Comparison Pages">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'exits/' | relative_url }}" title="Where Should Comparison Pages Send Readers? | Why A Versus B Pages Drive Clicks | How Affiliate Websites Actually Make Money" aria-label="Read more about Where Should Comparison Pages Send Readers? | Why A Versus B Pages Drive Clicks | How Affiliate Websites Actually Make Money">Read more</a>
 </div>
 </div>
 </div>
@@ -426,7 +426,7 @@ site_image_description: A desk with a laptop showing product comparison cards, a
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'attributes/' | relative_url }}" title="Which Details Belong in a Versus Page? | Making Money From Cr F649 Af Comparison Pages" aria-label="Read more about Which Details Belong in a Versus Page? | Making Money From Cr F649 Af Comparison Pages">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'attributes/' | relative_url }}" title="Which Details Belong in a Versus Page? | Why A Versus B Pages Drive Clicks | How Affiliate Websites Actually Make Money" aria-label="Read more about Which Details Belong in a Versus Page? | Why A Versus B Pages Drive Clicks | How Affiliate Websites Actually Make Money">Read more</a>
 </div>
 </div>
 </div>
@@ -446,7 +446,7 @@ site_image_description: A desk with a laptop showing product comparison cards, a
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'use-cases/' | relative_url }}" title="Why One Winner Is Rarely Enough | Making Money From Cr F649 Af Comparison Pages" aria-label="Read more about Why One Winner Is Rarely Enough | Making Money From Cr F649 Af Comparison Pages">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'use-cases/' | relative_url }}" title="Why One Winner Is Rarely Enough | Why A Versus B Pages Drive Clicks | How Affiliate Websites Actually Make Money" aria-label="Read more about Why One Winner Is Rarely Enough | Why A Versus B Pages Drive Clicks | How Affiliate Websites Actually Make Money">Read more</a>
 </div>
 </div>
 </div>
@@ -470,7 +470,7 @@ site_image_description: A desk with a laptop showing product comparison cards, a
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="6 pages" aria-label="6 pages" aria-expanded="false">6 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: Which Affiliate Topics Are Worth Building? | Making Money From" aria-expanded="false" aria-controls="home-vertical-children-node-making-money-from-cr-f649af-commercial-intent-to-bcfe92"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'intent-topics/' | relative_url }}" title="Which Affiliate Topics Are Worth Building? | Making Money From" aria-label="Read more about Which Affiliate Topics Are Worth Building? | Making Money From">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'intent-topics/' | relative_url }}" title="Which Affiliate Topics Are Worth Building? | How Affiliate Websites Actually Make Money" aria-label="Read more about Which Affiliate Topics Are Worth Building? | How Affiliate Websites Actually Make Money">Read more</a>
 </div>
 </div>
 </div>
@@ -490,7 +490,7 @@ site_image_description: A desk with a laptop showing product comparison cards, a
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'offer-checks/' | relative_url }}" title="Can this topic actually pay? | Making Money From Cr F649 Af Commercial Intent" aria-label="Read more about Can this topic actually pay? | Making Money From Cr F649 Af Commercial Intent">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'offer-checks/' | relative_url }}" title="Can this topic actually pay? | Which Affiliate Topics Are Worth Building? | How Affiliate Websites Actually Make Money" aria-label="Read more about Can this topic actually pay? | Which Affiliate Topics Are Worth Building? | How Affiliate Websites Actually Make Money">Read more</a>
 </div>
 </div>
 </div>
@@ -510,7 +510,7 @@ site_image_description: A desk with a laptop showing product comparison cards, a
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'intent-ladder/' | relative_url }}" title="How close is the reader to buying? | Making Money From Cr F649 Af Commercial Intent" aria-label="Read more about How close is the reader to buying? | Making Money From Cr F649 Af Commercial Intent">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'intent-ladder/' | relative_url }}" title="How close is the reader to buying? | Which Affiliate Topics Are Worth Building? | How Affiliate Websites Actually Make Money" aria-label="Read more about How close is the reader to buying? | Which Affiliate Topics Are Worth Building? | How Affiliate Websites Actually Make Money">Read more</a>
 </div>
 </div>
 </div>
@@ -530,7 +530,7 @@ site_image_description: A desk with a laptop showing product comparison cards, a
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'versus-pages/' | relative_url }}" title="When a versus page earns its click | Making Money From Cr F649 Af Commercial Intent" aria-label="Read more about When a versus page earns its click | Making Money From Cr F649 Af Commercial Intent">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'versus-pages/' | relative_url }}" title="When a versus page earns its click | Which Affiliate Topics Are Worth Building? | How Affiliate Websites Actually Make Money" aria-label="Read more about When a versus page earns its click | Which Affiliate Topics Are Worth Building? | How Affiliate Websites Actually Make Money">Read more</a>
 </div>
 </div>
 </div>
@@ -550,7 +550,7 @@ site_image_description: A desk with a laptop showing product comparison cards, a
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'best-pages/' | relative_url }}" title="Why best pages need sharper shortlists | Making Money From Cr F649 Af Commercial Intent" aria-label="Read more about Why best pages need sharper shortlists | Making Money From Cr F649 Af Commercial Intent">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'best-pages/' | relative_url }}" title="Why best pages need sharper shortlists | Which Affiliate Topics Are Worth Building? | How Affiliate Websites Actually Make Money" aria-label="Read more about Why best pages need sharper shortlists | Which Affiliate Topics Are Worth Building? | How Affiliate Websites Actually Make Money">Read more</a>
 </div>
 </div>
 </div>
@@ -570,7 +570,7 @@ site_image_description: A desk with a laptop showing product comparison cards, a
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'commission-math/' | relative_url }}" title="Why traffic alone does not equal earnings | Making Money From Cr F649 Af Commercial Intent" aria-label="Read more about Why traffic alone does not equal earnings | Making Money From Cr F649 Af Commercial Intent">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'commission-math/' | relative_url }}" title="Why traffic alone does not equal earnings | Which Affiliate Topics Are Worth Building? | How Affiliate Websites Actually Make Money" aria-label="Read more about Why traffic alone does not equal earnings | Which Affiliate Topics Are Worth Building? | How Affiliate Websites Actually Make Money">Read more</a>
 </div>
 </div>
 </div>
@@ -594,7 +594,7 @@ site_image_description: A desk with a laptop showing product comparison cards, a
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="6 pages" aria-label="6 pages" aria-expanded="false">6 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: Are High Commissions Always Better? | Making Money From" aria-expanded="false" aria-controls="home-vertical-children-node-making-money-from-cr-f649af-offer-matching-ddab07"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'offer-fit/' | relative_url }}" title="Are High Commissions Always Better? | Making Money From" aria-label="Read more about Are High Commissions Always Better? | Making Money From">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'offer-fit/' | relative_url }}" title="Are High Commissions Always Better? | How Affiliate Websites Actually Make Money" aria-label="Read more about Are High Commissions Always Better? | How Affiliate Websites Actually Make Money">Read more</a>
 </div>
 </div>
 </div>
@@ -614,7 +614,7 @@ site_image_description: A desk with a laptop showing product comparison cards, a
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'checkout-friction/' | relative_url }}" title="The Sale Can Still Fail After the Click | Making Money From Cr F649 Af Offer Matching" aria-label="Read more about The Sale Can Still Fail After the Click | Making Money From Cr F649 Af Offer Matching">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'checkout-friction/' | relative_url }}" title="The Sale Can Still Fail After the Click | Are High Commissions Always Better? | How Affiliate Websites Actually Make Money" aria-label="Read more about The Sale Can Still Fail After the Click | Are High Commissions Always Better? | How Affiliate Websites Actually Make Money">Read more</a>
 </div>
 </div>
 </div>
@@ -634,7 +634,7 @@ site_image_description: A desk with a laptop showing product comparison cards, a
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'intent-signals/' | relative_url }}" title="What the Reader Really Wants Next | Making Money From Cr F649 Af Offer Matching" aria-label="Read more about What the Reader Really Wants Next | Making Money From Cr F649 Af Offer Matching">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'intent-signals/' | relative_url }}" title="What the Reader Really Wants Next | Are High Commissions Always Better? | How Affiliate Websites Actually Make Money" aria-label="Read more about What the Reader Really Wants Next | Are High Commissions Always Better? | How Affiliate Websites Actually Make Money">Read more</a>
 </div>
 </div>
 </div>
@@ -654,7 +654,7 @@ site_image_description: A desk with a laptop showing product comparison cards, a
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'epc-tests/' | relative_url }}" title="When a Lower Commission Earns More | Making Money From Cr F649 Af Offer Matching" aria-label="Read more about When a Lower Commission Earns More | Making Money From Cr F649 Af Offer Matching">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'epc-tests/' | relative_url }}" title="When a Lower Commission Earns More | Are High Commissions Always Better? | How Affiliate Websites Actually Make Money" aria-label="Read more about When a Lower Commission Earns More | Are High Commissions Always Better? | How Affiliate Websites Actually Make Money">Read more</a>
 </div>
 </div>
 </div>
@@ -674,7 +674,7 @@ site_image_description: A desk with a laptop showing product comparison cards, a
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'amazon-rules/' | relative_url }}" title="Why Amazon Is Not Just a Low Rate | Making Money From Cr F649 Af Offer Matching" aria-label="Read more about Why Amazon Is Not Just a Low Rate | Making Money From Cr F649 Af Offer Matching">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'amazon-rules/' | relative_url }}" title="Why Amazon Is Not Just a Low Rate | Are High Commissions Always Better? | How Affiliate Websites Actually Make Money" aria-label="Read more about Why Amazon Is Not Just a Low Rate | Are High Commissions Always Better? | How Affiliate Websites Actually Make Money">Read more</a>
 </div>
 </div>
 </div>
@@ -694,7 +694,7 @@ site_image_description: A desk with a laptop showing product comparison cards, a
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'small-products/' | relative_url }}" title="Why Help Pages Should Not Always Upsell | Making Money From Cr F649 Af Offer Matching" aria-label="Read more about Why Help Pages Should Not Always Upsell | Making Money From Cr F649 Af Offer Matching">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'small-products/' | relative_url }}" title="Why Help Pages Should Not Always Upsell | Are High Commissions Always Better? | How Affiliate Websites Actually Make Money" aria-label="Read more about Why Help Pages Should Not Always Upsell | Are High Commissions Always Better? | How Affiliate Websites Actually Make Money">Read more</a>
 </div>
 </div>
 </div>
@@ -718,7 +718,7 @@ site_image_description: A desk with a laptop showing product comparison cards, a
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="6 pages" aria-label="6 pages" aria-expanded="false">6 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: Why Equal Traffic Does Not Mean Equal Earnings | Making Money From" aria-expanded="false" aria-controls="home-vertical-children-node-making-money-from-cr-f649af-revenue-per-visitor-c37335"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'revenue-model/' | relative_url }}" title="Why Equal Traffic Does Not Mean Equal Earnings | Making Money From" aria-label="Read more about Why Equal Traffic Does Not Mean Equal Earnings | Making Money From">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'revenue-model/' | relative_url }}" title="Why Equal Traffic Does Not Mean Equal Earnings | How Affiliate Websites Actually Make Money" aria-label="Read more about Why Equal Traffic Does Not Mean Equal Earnings | How Affiliate Websites Actually Make Money">Read more</a>
 </div>
 </div>
 </div>
@@ -738,7 +738,7 @@ site_image_description: A desk with a laptop showing product comparison cards, a
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'buying-moments/' | relative_url }}" title="Turning Help Pages Into Buying Moments | Making Money From Cr F649 Af Revenue Per Visitor" aria-label="Read more about Turning Help Pages Into Buying Moments | Making Money From Cr F649 Af Revenue Per Visitor">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'buying-moments/' | relative_url }}" title="Turning Help Pages Into Buying Moments | Why Equal Traffic Does Not Mean Equal Earnings | How Affiliate Websites Actually Make Money" aria-label="Read more about Turning Help Pages Into Buying Moments | Why Equal Traffic Does Not Mean Equal Earnings | How Affiliate Websites Actually Make Money">Read more</a>
 </div>
 </div>
 </div>
@@ -758,7 +758,7 @@ site_image_description: A desk with a laptop showing product comparison cards, a
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'merchant-risk/' | relative_url }}" title="When Merchant Pages Waste Affiliate Clicks | Making Money From Cr F649 Af Revenue Per Visitor" aria-label="Read more about When Merchant Pages Waste Affiliate Clicks | Making Money From Cr F649 Af Revenue Per Visitor">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'merchant-risk/' | relative_url }}" title="When Merchant Pages Waste Affiliate Clicks | Why Equal Traffic Does Not Mean Equal Earnings | How Affiliate Websites Actually Make Money" aria-label="Read more about When Merchant Pages Waste Affiliate Clicks | Why Equal Traffic Does Not Mean Equal Earnings | How Affiliate Websites Actually Make Money">Read more</a>
 </div>
 </div>
 </div>
@@ -778,7 +778,7 @@ site_image_description: A desk with a laptop showing product comparison cards, a
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'chain-breaks/' | relative_url }}" title="Where Affiliate Page Revenue Breaks Down | Making Money From Cr F649 Af Revenue Per Visitor" aria-label="Read more about Where Affiliate Page Revenue Breaks Down | Making Money From Cr F649 Af Revenue Per Visitor">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'chain-breaks/' | relative_url }}" title="Where Affiliate Page Revenue Breaks Down | Why Equal Traffic Does Not Mean Equal Earnings | How Affiliate Websites Actually Make Money" aria-label="Read more about Where Affiliate Page Revenue Breaks Down | Why Equal Traffic Does Not Mean Equal Earnings | How Affiliate Websites Actually Make Money">Read more</a>
 </div>
 </div>
 </div>
@@ -798,7 +798,7 @@ site_image_description: A desk with a laptop showing product comparison cards, a
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'priority-rules/' | relative_url }}" title="Which Affiliate Pages Deserve More Work | Making Money From Cr F649 Af Revenue Per Visitor" aria-label="Read more about Which Affiliate Pages Deserve More Work | Making Money From Cr F649 Af Revenue Per Visitor">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'priority-rules/' | relative_url }}" title="Which Affiliate Pages Deserve More Work | Why Equal Traffic Does Not Mean Equal Earnings | How Affiliate Websites Actually Make Money" aria-label="Read more about Which Affiliate Pages Deserve More Work | Why Equal Traffic Does Not Mean Equal Earnings | How Affiliate Websites Actually Make Money">Read more</a>
 </div>
 </div>
 </div>
@@ -818,7 +818,7 @@ site_image_description: A desk with a laptop showing product comparison cards, a
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'click-rate/' | relative_url }}" title="Why Affiliate Clicks Matter Before Sales | Making Money From Cr F649 Af Revenue Per Visitor" aria-label="Read more about Why Affiliate Clicks Matter Before Sales | Making Money From Cr F649 Af Revenue Per Visitor">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'click-rate/' | relative_url }}" title="Why Affiliate Clicks Matter Before Sales | Why Equal Traffic Does Not Mean Equal Earnings | How Affiliate Websites Actually Make Money" aria-label="Read more about Why Affiliate Clicks Matter Before Sales | Why Equal Traffic Does Not Mean Equal Earnings | How Affiliate Websites Actually Make Money">Read more</a>
 </div>
 </div>
 </div>
@@ -842,7 +842,7 @@ site_image_description: A desk with a laptop showing product comparison cards, a
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="6 pages" aria-label="6 pages" aria-expanded="false">6 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: Why Thin Reviews Fail Affiliate Buyers | Making Money From" aria-expanded="false" aria-controls="home-vertical-children-node-making-money-from-cr-f649af-review-pages-0fc8c2"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'reviews/' | relative_url }}" title="Why Thin Reviews Fail Affiliate Buyers | Making Money From" aria-label="Read more about Why Thin Reviews Fail Affiliate Buyers | Making Money From">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'reviews/' | relative_url }}" title="Why Thin Reviews Fail Affiliate Buyers | How Affiliate Websites Actually Make Money" aria-label="Read more about Why Thin Reviews Fail Affiliate Buyers | How Affiliate Websites Actually Make Money">Read more</a>
 </div>
 </div>
 </div>
@@ -862,7 +862,7 @@ site_image_description: A desk with a laptop showing product comparison cards, a
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'doubt-blocks/' | relative_url }}" title="Answer the Doubts Before the Click | Making Money From Cr F649 Af Review Pages" aria-label="Read more about Answer the Doubts Before the Click | Making Money From Cr F649 Af Review Pages">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'doubt-blocks/' | relative_url }}" title="Answer the Doubts Before the Click | Why Thin Reviews Fail Affiliate Buyers | How Affiliate Websites Actually Make Money" aria-label="Read more about Answer the Doubts Before the Click | Why Thin Reviews Fail Affiliate Buyers | How Affiliate Websites Actually Make Money">Read more</a>
 </div>
 </div>
 </div>
@@ -882,7 +882,7 @@ site_image_description: A desk with a laptop showing product comparison cards, a
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'evidence-blocks/' | relative_url }}" title="Show the Work Behind the Verdict | Making Money From Cr F649 Af Review Pages" aria-label="Read more about Show the Work Behind the Verdict | Making Money From Cr F649 Af Review Pages">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'evidence-blocks/' | relative_url }}" title="Show the Work Behind the Verdict | Why Thin Reviews Fail Affiliate Buyers | How Affiliate Websites Actually Make Money" aria-label="Read more about Show the Work Behind the Verdict | Why Thin Reviews Fail Affiliate Buyers | How Affiliate Websites Actually Make Money">Read more</a>
 </div>
 </div>
 </div>
@@ -902,7 +902,7 @@ site_image_description: A desk with a laptop showing product comparison cards, a
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'limitations/' | relative_url }}" title="The Flaws That Make Reviews Trustworthy | Making Money From Cr F649 Af Review Pages" aria-label="Read more about The Flaws That Make Reviews Trustworthy | Making Money From Cr F649 Af Review Pages">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'limitations/' | relative_url }}" title="The Flaws That Make Reviews Trustworthy | Why Thin Reviews Fail Affiliate Buyers | How Affiliate Websites Actually Make Money" aria-label="Read more about The Flaws That Make Reviews Trustworthy | Why Thin Reviews Fail Affiliate Buyers | How Affiliate Websites Actually Make Money">Read more</a>
 </div>
 </div>
 </div>
@@ -922,7 +922,7 @@ site_image_description: A desk with a laptop showing product comparison cards, a
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'disclosure/' | relative_url }}" title="Where Should Affiliate Disclosure Appear? | Making Money From Cr F649 Af Review Pages" aria-label="Read more about Where Should Affiliate Disclosure Appear? | Making Money From Cr F649 Af Review Pages">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'disclosure/' | relative_url }}" title="Where Should Affiliate Disclosure Appear? | Why Thin Reviews Fail Affiliate Buyers | How Affiliate Websites Actually Make Money" aria-label="Read more about Where Should Affiliate Disclosure Appear? | Why Thin Reviews Fail Affiliate Buyers | How Affiliate Websites Actually Make Money">Read more</a>
 </div>
 </div>
 </div>
@@ -942,7 +942,7 @@ site_image_description: A desk with a laptop showing product comparison cards, a
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'fit-summary/' | relative_url }}" title="Who Is This Review Really For? | Making Money From Cr F649 Af Review Pages" aria-label="Read more about Who Is This Review Really For? | Making Money From Cr F649 Af Review Pages">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'fit-summary/' | relative_url }}" title="Who Is This Review Really For? | Why Thin Reviews Fail Affiliate Buyers | How Affiliate Websites Actually Make Money" aria-label="Read more about Who Is This Review Really For? | Why Thin Reviews Fail Affiliate Buyers | How Affiliate Websites Actually Make Money">Read more</a>
 </div>
 </div>
 </div>
@@ -966,7 +966,7 @@ site_image_description: A desk with a laptop showing product comparison cards, a
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="6 pages" aria-label="6 pages" aria-expanded="false">6 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: Can Informational Pages Still Earn Revenue? | Making Money From" aria-expanded="false" aria-controls="home-vertical-children-node-making-money-from-cr-f649af-informational-suppor-3ecae4"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'support-pages/' | relative_url }}" title="Can Informational Pages Still Earn Revenue? | Making Money From" aria-label="Read more about Can Informational Pages Still Earn Revenue? | Making Money From">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'support-pages/' | relative_url }}" title="Can Informational Pages Still Earn Revenue? | How Affiliate Websites Actually Make Money" aria-label="Read more about Can Informational Pages Still Earn Revenue? | How Affiliate Websites Actually Make Money">Read more</a>
 </div>
 </div>
 </div>
@@ -986,7 +986,7 @@ site_image_description: A desk with a laptop showing product comparison cards, a
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'diagnosis-pages/' | relative_url }}" title="Can a problem page lead to revenue? | Making Money From Cr F649 Af Informational Suppor" aria-label="Read more about Can a problem page lead to revenue? | Making Money From Cr F649 Af Informational Suppor">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'diagnosis-pages/' | relative_url }}" title="Can a problem page lead to revenue? | Can Informational Pages Still Earn Revenue? | How Affiliate Websites Actually Make Money" aria-label="Read more about Can a problem page lead to revenue? | Can Informational Pages Still Earn Revenue? | How Affiliate Websites Actually Make Money">Read more</a>
 </div>
 </div>
 </div>
@@ -1006,7 +1006,7 @@ site_image_description: A desk with a laptop showing product comparison cards, a
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'decision-tools/' | relative_url }}" title="Do tools make better buying paths? | Making Money From Cr F649 Af Informational Suppor" aria-label="Read more about Do tools make better buying paths? | Making Money From Cr F649 Af Informational Suppor">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'decision-tools/' | relative_url }}" title="Do tools make better buying paths? | Can Informational Pages Still Earn Revenue? | How Affiliate Websites Actually Make Money" aria-label="Read more about Do tools make better buying paths? | Can Informational Pages Still Earn Revenue? | How Affiliate Websites Actually Make Money">Read more</a>
 </div>
 </div>
 </div>
@@ -1026,7 +1026,7 @@ site_image_description: A desk with a laptop showing product comparison cards, a
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'link-fit/' | relative_url }}" title="When does the next link feel earned? | Making Money From Cr F649 Af Informational Suppor" aria-label="Read more about When does the next link feel earned? | Making Money From Cr F649 Af Informational Suppor">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'link-fit/' | relative_url }}" title="When does the next link feel earned? | Can Informational Pages Still Earn Revenue? | How Affiliate Websites Actually Make Money" aria-label="Read more about When does the next link feel earned? | Can Informational Pages Still Earn Revenue? | How Affiliate Websites Actually Make Money">Read more</a>
 </div>
 </div>
 </div>
@@ -1046,7 +1046,7 @@ site_image_description: A desk with a laptop showing product comparison cards, a
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'trust-limits/' | relative_url }}" title="When should information not become a review? | Making Money From Cr F649 Af Informational Suppor" aria-label="Read more about When should information not become a review? | Making Money From Cr F649 Af Informational Suppor">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'trust-limits/' | relative_url }}" title="When should information not become a review? | Can Informational Pages Still Earn Revenue? | How Affiliate Websites Actually Make Money" aria-label="Read more about When should information not become a review? | Can Informational Pages Still Earn Revenue? | How Affiliate Websites Actually Make Money">Read more</a>
 </div>
 </div>
 </div>
@@ -1066,7 +1066,7 @@ site_image_description: A desk with a laptop showing product comparison cards, a
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'question-pages/' | relative_url }}" title="Which questions create buying momentum? | Making Money From Cr F649 Af Informational Suppor" aria-label="Read more about Which questions create buying momentum? | Making Money From Cr F649 Af Informational Suppor">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'question-pages/' | relative_url }}" title="Which questions create buying momentum? | Can Informational Pages Still Earn Revenue? | How Affiliate Websites Actually Make Money" aria-label="Read more about Which questions create buying momentum? | Can Informational Pages Still Earn Revenue? | How Affiliate Websites Actually Make Money">Read more</a>
 </div>
 </div>
 </div>
@@ -1090,7 +1090,7 @@ site_image_description: A desk with a laptop showing product comparison cards, a
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="6 pages" aria-label="6 pages" aria-expanded="false">6 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: How Affiliate Sites Keep Reader Trust | Making Money From" aria-expanded="false" aria-controls="home-vertical-children-node-making-money-from-cr-f649af-affiliate-disclosure-249c42"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'trust-rules/' | relative_url }}" title="How Affiliate Sites Keep Reader Trust | Making Money From" aria-label="Read more about How Affiliate Sites Keep Reader Trust | Making Money From">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'trust-rules/' | relative_url }}" title="How Affiliate Sites Keep Reader Trust | How Affiliate Websites Actually Make Money" aria-label="Read more about How Affiliate Sites Keep Reader Trust | How Affiliate Websites Actually Make Money">Read more</a>
 </div>
 </div>
 </div>
@@ -1110,7 +1110,7 @@ site_image_description: A desk with a laptop showing product comparison cards, a
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'social-posts/' | relative_url }}" title="How Affiliate Disclosures Get Hidden on Social Media | Making Money From Cr F649 Af Affiliate Disclosure" aria-label="Read more about How Affiliate Disclosures Get Hidden on Social Media | Making Money From Cr F649 Af Affiliate Disclosure">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'social-posts/' | relative_url }}" title="How Affiliate Disclosures Get Hidden on Social Media | How Affiliate Sites Keep Reader Trust | How Affiliate Websites Actually Make Money" aria-label="Read more about How Affiliate Disclosures Get Hidden on Social Media | How Affiliate Sites Keep Reader Trust | How Affiliate Websites Actually Make Money">Read more</a>
 </div>
 </div>
 </div>
@@ -1130,7 +1130,7 @@ site_image_description: A desk with a laptop showing product comparison cards, a
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'trust-signals/' | relative_url }}" title="What Makes an Affiliate Recommendation Feel Honest? | Making Money From Cr F649 Af Affiliate Disclosure" aria-label="Read more about What Makes an Affiliate Recommendation Feel Honest? | Making Money From Cr F649 Af Affiliate Disclosure">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'trust-signals/' | relative_url }}" title="What Makes an Affiliate Recommendation Feel Honest? | How Affiliate Sites Keep Reader Trust | How Affiliate Websites Actually Make Money" aria-label="Read more about What Makes an Affiliate Recommendation Feel Honest? | How Affiliate Sites Keep Reader Trust | How Affiliate Websites Actually Make Money">Read more</a>
 </div>
 </div>
 </div>
@@ -1150,7 +1150,7 @@ site_image_description: A desk with a laptop showing product comparison cards, a
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'wording/' | relative_url }}" title="What Should an Affiliate Disclosure Actually Say? | Making Money From Cr F649 Af Affiliate Disclosure" aria-label="Read more about What Should an Affiliate Disclosure Actually Say? | Making Money From Cr F649 Af Affiliate Disclosure">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'wording/' | relative_url }}" title="What Should an Affiliate Disclosure Actually Say? | How Affiliate Sites Keep Reader Trust | How Affiliate Websites Actually Make Money" aria-label="Read more about What Should an Affiliate Disclosure Actually Say? | How Affiliate Sites Keep Reader Trust | How Affiliate Websites Actually Make Money">Read more</a>
 </div>
 </div>
 </div>
@@ -1170,7 +1170,7 @@ site_image_description: A desk with a laptop showing product comparison cards, a
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'before-click/' | relative_url }}" title="Where Disclosure Matters Most Before the Click | Making Money From Cr F649 Af Affiliate Disclosure" aria-label="Read more about Where Disclosure Matters Most Before the Click | Making Money From Cr F649 Af Affiliate Disclosure">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'before-click/' | relative_url }}" title="Where Disclosure Matters Most Before the Click | How Affiliate Sites Keep Reader Trust | How Affiliate Websites Actually Make Money" aria-label="Read more about Where Disclosure Matters Most Before the Click | How Affiliate Sites Keep Reader Trust | How Affiliate Websites Actually Make Money">Read more</a>
 </div>
 </div>
 </div>
@@ -1190,7 +1190,7 @@ site_image_description: A desk with a laptop showing product comparison cards, a
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'page-checks/' | relative_url }}" title="Why Every Affiliate Page Needs Its Own Disclosure | Making Money From Cr F649 Af Affiliate Disclosure" aria-label="Read more about Why Every Affiliate Page Needs Its Own Disclosure | Making Money From Cr F649 Af Affiliate Disclosure">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'page-checks/' | relative_url }}" title="Why Every Affiliate Page Needs Its Own Disclosure | How Affiliate Sites Keep Reader Trust | How Affiliate Websites Actually Make Money" aria-label="Read more about Why Every Affiliate Page Needs Its Own Disclosure | How Affiliate Sites Keep Reader Trust | How Affiliate Websites Actually Make Money">Read more</a>
 </div>
 </div>
 </div>
@@ -1214,7 +1214,7 @@ site_image_description: A desk with a laptop showing product comparison cards, a
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="6 pages" aria-label="6 pages" aria-expanded="false">6 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: How Internal Links Create Affiliate Paths | Making Money From" aria-expanded="false" aria-controls="home-vertical-children-node-making-money-from-cr-f649af-internal-linking-use-8b6d36"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'user-journeys/' | relative_url }}" title="How Internal Links Create Affiliate Paths | Making Money From" aria-label="Read more about How Internal Links Create Affiliate Paths | Making Money From">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'user-journeys/' | relative_url }}" title="How Internal Links Create Affiliate Paths | How Affiliate Websites Actually Make Money" aria-label="Read more about How Internal Links Create Affiliate Paths | How Affiliate Websites Actually Make Money">Read more</a>
 </div>
 </div>
 </div>
@@ -1234,7 +1234,7 @@ site_image_description: A desk with a laptop showing product comparison cards, a
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'trust-links/' | relative_url }}" title="Avoiding Links That Disrupt the Affiliate User Journey | Making Money From Cr F649 Af Internal Linking Use" aria-label="Read more about Avoiding Links That Disrupt the Affiliate User Journey | Making Money From Cr F649 Af Internal Linking Use">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'trust-links/' | relative_url }}" title="Avoiding Links That Disrupt the Affiliate User Journey | How Internal Links Create Affiliate Paths | How Affiliate Websites Actually Make Money" aria-label="Read more about Avoiding Links That Disrupt the Affiliate User Journey | How Internal Links Create Affiliate Paths | How Affiliate Websites Actually Make Money">Read more</a>
 </div>
 </div>
 </div>
@@ -1254,7 +1254,7 @@ site_image_description: A desk with a laptop showing product comparison cards, a
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'template-linking/' | relative_url }}" title="Building Templates That Automate Affiliate Link Placement | Making Money From Cr F649 Af Internal Linking Use" aria-label="Read more about Building Templates That Automate Affiliate Link Placement | Making Money From Cr F649 Af Internal Linking Use">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'template-linking/' | relative_url }}" title="Building Templates That Automate Affiliate Link Placement | How Internal Links Create Affiliate Paths | How Affiliate Websites Actually Make Money" aria-label="Read more about Building Templates That Automate Affiliate Link Placement | How Internal Links Create Affiliate Paths | How Affiliate Websites Actually Make Money">Read more</a>
 </div>
 </div>
 </div>
@@ -1274,7 +1274,7 @@ site_image_description: A desk with a laptop showing product comparison cards, a
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'cluster-links/' | relative_url }}" title="How to Connect Product Reviews for Smarter Comparison Paths | Making Money From Cr F649 Af Internal Linking Use" aria-label="Read more about How to Connect Product Reviews for Smarter Comparison Paths | Making Money From Cr F649 Af Internal Linking Use">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'cluster-links/' | relative_url }}" title="How to Connect Product Reviews for Smarter Comparison Paths | How Internal Links Create Affiliate Paths | How Affiliate Websites Actually Make Money" aria-label="Read more about How to Connect Product Reviews for Smarter Comparison Paths | How Internal Links Create Affiliate Paths | How Affiliate Websites Actually Make Money">Read more</a>
 </div>
 </div>
 </div>
@@ -1294,7 +1294,7 @@ site_image_description: A desk with a laptop showing product comparison cards, a
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'page-mapping/' | relative_url }}" title="How to Guide Users from Information to Top Performing Products | Making Money From Cr F649 Af Internal Linking Use" aria-label="Read more about How to Guide Users from Information to Top Performing Products | Making Money From Cr F649 Af Internal Linking Use">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'page-mapping/' | relative_url }}" title="How to Guide Users from Information to Top Performing Products | How Internal Links Create Affiliate Paths | How Affiliate Websites Actually Make Money" aria-label="Read more about How to Guide Users from Information to Top Performing Products | How Internal Links Create Affiliate Paths | How Affiliate Websites Actually Make Money">Read more</a>
 </div>
 </div>
 </div>
@@ -1314,7 +1314,7 @@ site_image_description: A desk with a laptop showing product comparison cards, a
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'intent-links/' | relative_url }}" title="Where and When to Place Links for Maximum Conversions | Making Money From Cr F649 Af Internal Linking Use" aria-label="Read more about Where and When to Place Links for Maximum Conversions | Making Money From Cr F649 Af Internal Linking Use">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'intent-links/' | relative_url }}" title="Where and When to Place Links for Maximum Conversions | How Internal Links Create Affiliate Paths | How Affiliate Websites Actually Make Money" aria-label="Read more about Where and When to Place Links for Maximum Conversions | How Internal Links Create Affiliate Paths | How Affiliate Websites Actually Make Money">Read more</a>
 </div>
 </div>
 </div>
