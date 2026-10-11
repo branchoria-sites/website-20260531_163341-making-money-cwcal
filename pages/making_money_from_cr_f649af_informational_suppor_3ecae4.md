@@ -507,7 +507,7 @@ This is where informational pages become useful to a website generation system. 
 
 Informational affiliate pages have a built-in tension: readers arrive for help, while the publisher may earn from recommendations. That tension is manageable when the page is transparent, useful and properly linked. It becomes a problem when neutral-sounding advice is shaped mainly around commission.
 
-Disclosure matters because affiliate content can otherwise look like ordinary editorial content. The US Federal Trade Commission’s endorsement guidance answers common questions for bloggers, advertisers and creators, while UK ASA guidance requires affiliate marketing to be identifiable where the commercial relationship affects the content.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-title">s endorsement guides what people are asking</span><span class="citation-popover-snippet">s endorsement guides what people are asking</span></span></span> Research on affiliate disclosures on YouTube and Pinterest found low disclosure rates and found that users often failed to understand short, non-explanatory disclosures, showing why clear wording is more useful than vague labels.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1809.00620" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Disclosure matters because affiliate content can otherwise look like ordinary editorial content. The US Federal Trade Commission’s endorsement guidance answers common questions for bloggers, advertisers and creators, while UK ASA guidance requires affiliate marketing to be identifiable where the commercial relationship affects the content.<span class="citation-chip-wrap">[Federal Trade Commission]<span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-title">s endorsement guides what people are asking</span><span class="citation-popover-snippet">s endorsement guides what people are asking</span></span></span> Research on affiliate disclosures on YouTube and Pinterest found low disclosure rates and found that users often failed to understand short, non-explanatory disclosures, showing why clear wording is more useful than vague labels.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1809.00620" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 For public-facing affiliate websites, this creates a simple rule: disclosure should not be treated as a footer technicality. If a support page includes affiliate links, the reader should understand that the site may earn a commission and still be able to see why the recommendation or internal link is relevant. Clear disclosure and useful page design support each other. A page that explains its commercial relationship plainly and then gives careful, specific guidance is more credible than one that hides affiliate intent behind vague “recommended” buttons.
 
@@ -1206,7 +1206,7 @@ The central rule is simple: an informational page earns revenue by making the ne
 54.<a id="endnote-54"></a>
    Source: ftc.gov  
    Title: s endorsement guides what people are asking  
-   Link:<a href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking</a>  
+   Link:https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking  
 
 55.<a id="endnote-55"></a>
    Source: linkedin.com  
@@ -1250,7 +1250,7 @@ The central rule is simple: an informational page earns revenue by making the ne
 
 63.<a id="endnote-63"></a>
    Source: ftc.gov  
-   Link:<a href="https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews</a>  
+   Link:https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews  
 
 64.<a id="endnote-64"></a>
    Source: iab.com  

@@ -1058,7 +1058,7 @@ When affiliate pages consistently answer that question with evidence rather than
 22.<a id="endnote-22"></a>
    Source: ftc.gov  
    Title: influencers are your materialconnection disclosures clearandconspicuous  
-   Link:<a href="https://www.ftc.gov/business-guidance/blog/2017/04/influencers-are-your-materialconnection-disclosures-clearandconspicuous" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/blog/2017/04/influencers-are-your-materialconnection-disclosures-clearandconspicuous</a>  
+   Link:https://www.ftc.gov/business-guidance/blog/2017/04/influencers-are-your-materialconnection-disclosures-clearandconspicuous  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Influencers, are your #materialconnection #disclosures...19 Apr 2017 — If there is a material connection between an endorser and an adve...</p></details>
 
 23.<a id="endnote-23"></a>
@@ -1069,7 +1069,7 @@ When affiliate pages consistently answer that question with evidence rather than
 24.<a id="endnote-24"></a>
    Source: ftc.gov  
    Title: s endorsement guides what people are asking  
-   Link:<a href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking</a>  
+   Link:https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade CommissionFTC&#x27;s Endorsement Guides: What People Are Asking29 Jun 2023 — Here are answers to some of the most frequently ask...</p></details>
 
 25.<a id="endnote-25"></a>

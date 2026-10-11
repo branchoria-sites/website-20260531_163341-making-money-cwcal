@@ -868,12 +868,12 @@ For affiliate businesses built around large content libraries, disclosure should
 
 1.<a id="endnote-1"></a>
    Source: ftc.gov  
-   Link:<a href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking</a>  
+   Link:https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade CommissionFTC&#x27;s Endorsement Guides: What People Are Asking29 Jun 2023 — The Guides, at their core, reflect the basic truth...</p></details>
 
 2.<a id="endnote-2"></a>
    Source: ftc.gov  
-   Link:<a href="https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews</a>  
+   Link:https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews  
 
 3.<a id="endnote-3"></a>
    Source: manatt.com  
@@ -906,7 +906,7 @@ For affiliate businesses built around large content libraries, disclosure should
 
 8.<a id="endnote-8"></a>
    Source: ftc.gov  
-   Link:<a href="https://www.ftc.gov/legal-library/browse/rules/fair-credit-reporting-act-affiliate-marketing" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/legal-library/browse/rules/fair-credit-reporting-act-affiliate-marketing</a>  
+   Link:https://www.ftc.gov/legal-library/browse/rules/fair-credit-reporting-act-affiliate-marketing  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>The Fair Credit Reporting Act: Affiliate MarketingThe FTC&#x27;s mission is to vigorously enforce the law to protect Americans from anticompet...</p></details>
 
 9.<a id="endnote-9"></a>

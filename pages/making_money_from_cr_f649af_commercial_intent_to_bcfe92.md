@@ -995,12 +995,12 @@ This makes commercial intent topic selection both an SEO decision and a monetisa
 10.<a id="endnote-10"></a>
    Source: ftc.gov  
    Title: Federal Trade Commission FTC's Endorsement Guides: What People Are Asking  
-   Link:<a href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking</a>  
+   Link:https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking  
 
 11.<a id="endnote-11"></a>
    Source: ftc.gov  
    Title: [disclosures](&#123;&#123; 'disclosures/' | relative_url &#125;&#125;) 101 social media influencers  
-   Link:<a href="https://www.ftc.gov/business-guidance/resources/disclosures-101-social-media-influencers" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/resources/disclosures-101-social-media-influencers</a>  
+   Link:https://www.ftc.gov/business-guidance/resources/disclosures-101-social-media-influencers  
 
 12.<a id="endnote-12"></a>
    Source: awin.com  
@@ -1118,7 +1118,7 @@ This makes commercial intent topic selection both an SEO decision and a monetisa
 
 37.<a id="endnote-37"></a>
    Source: ftc.gov  
-   Link:<a href="https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews</a>  
+   Link:https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews  
 
 38.<a id="endnote-38"></a>
    Source: ftc.gov  
