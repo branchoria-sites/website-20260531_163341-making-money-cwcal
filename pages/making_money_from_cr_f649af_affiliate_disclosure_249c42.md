@@ -802,7 +802,6 @@ These practices help meet regulatory standards while maintaining trust and aidin
 
 2.<a id="endnote-2"></a>
    Source: ftc.gov  
-   Link:https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides  
 
 3.<a id="endnote-3"></a>
    Source: termly.io  

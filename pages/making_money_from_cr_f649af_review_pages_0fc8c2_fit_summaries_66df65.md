@@ -1096,5 +1096,4 @@ A fit summary works because it turns a review into a filter. Instead of asking e
 22.<a id="endnote-22"></a>
    Source: seozoom.com  
    Title: google reviews system the algorithm on product reviews  
-   Link:https://www.seozoom.com/google-reviews-system-the-algorithm-on-product-reviews/  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Google Reviews System: the algorithm on product reviews17 Apr 2023 — Guide to Reviews system, the Google algorithm evaluating reviews, an...</p></details>

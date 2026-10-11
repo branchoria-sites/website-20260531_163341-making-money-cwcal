@@ -847,7 +847,6 @@ The key insight is that disclosure effectiveness is measured at the moment of de
 
 1.<a id="endnote-1"></a>
    Source: ftc.gov  
-   Link:https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade CommissionFTC&#x27;s Endorsement Guides: What People Are AskingAdvertisers shouldn&#x27;t encourage endorsements using features that...</p></details>
 
 2.<a id="endnote-2"></a>
@@ -902,7 +901,6 @@ The key insight is that disclosure effectiveness is measured at the moment of de
 
 11.<a id="endnote-11"></a>
    Source: ftc.gov  
-   Link:https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-[reviews  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Endorsements, Influencers, and ReviewsAnswers to questions people are asking about the FTC&#x27;s Endorsement Guides, including information ab...</p></details>
 
 12.<a id="endnote-12"></a>

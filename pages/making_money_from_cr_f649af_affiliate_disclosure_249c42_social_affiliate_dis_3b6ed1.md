@@ -757,7 +757,6 @@ In social media contexts where attention is brief and UI space is limited, **vis
 
 1.<a id="endnote-1"></a>
    Source: ftc.gov  
-   Link:https://www.ftc.gov/influencers  
 
 2.<a id="endnote-2"></a>
    Source: asa.org.uk  
@@ -801,7 +800,6 @@ In social media contexts where attention is brief and UI space is limited, **vis
 8.<a id="endnote-8"></a>
    Source: ftc.gov  
    Title: FT C's Endorsement Guides: What People Are Asking | Federal Trade Commission  
-   Link:https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>THEY WILL FLY ME TO THE LAUNCH AND PUT ME UP IN A HOTEL FOR A COUPLE OF NIGHTS. THEY AREN’T PAYING ME OR GIVING ME ANYTHIN...</p></details>
 
 9.<a id="endnote-9"></a>

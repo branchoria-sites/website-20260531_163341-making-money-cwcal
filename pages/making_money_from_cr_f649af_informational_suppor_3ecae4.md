@@ -1206,7 +1206,6 @@ The central rule is simple: an informational page earns revenue by making the ne
 54.<a id="endnote-54"></a>
    Source: ftc.gov  
    Title: s endorsement guides what people are asking  
-   Link:https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking  
 
 55.<a id="endnote-55"></a>
    Source: linkedin.com  
@@ -1250,7 +1249,6 @@ The central rule is simple: an informational page earns revenue by making the ne
 
 63.<a id="endnote-63"></a>
    Source: ftc.gov  
-   Link:https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews  
 
 64.<a id="endnote-64"></a>
    Source: iab.com  

@@ -912,11 +912,9 @@ The essential principle is that the page earns revenue by making the decision ea
 6.<a id="endnote-6"></a>
    Source: ftc.gov  
    Title: Federal Trade Commission FTC's Endorsement Guides: What People Are Asking  
-   Link:https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking  
 
 7.<a id="endnote-7"></a>
    Source: ftc.gov  
-   Link:https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews  
 
 8.<a id="endnote-8"></a>
    Source: asa.org.uk  

@@ -926,7 +926,6 @@ Clear affiliate disclosures work best when readers do not have to think about th
 1.<a id="endnote-1"></a>
    Source: ftc.gov  
    Title: Federal Trade Commission FTC's Endorsement Guides: What People Are Asking  
-   Link:https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade CommissionFTC&#x27;s Endorsement Guides: What People Are AskingSeptember 7, 2017 — 29 Jun 2023 — Another principle in the Guides...</p></details>
    Published: September 7, 2017  
 
@@ -966,7 +965,6 @@ Clear affiliate disclosures work best when readers do not have to think about th
 8.<a id="endnote-8"></a>
    Source: ftc.gov  
    Title: disclosures 101 social media influencers  
-   Link:https://www.ftc.gov/business-guidance/resources/disclosures-101-social-media-influencers  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>This brochure from FTC staff gives tips on when and how to make good disclosures.Read more...</p></details>
 
 9.<a id="endnote-9"></a>
@@ -1006,7 +1004,6 @@ Clear affiliate disclosures work best when readers do not have to think about th
 
 15.<a id="endnote-15"></a>
    Source: ftc.gov  
-   Link:https://www.ftc.gov/legal-library/browse/rules/fair-credit-reporting-act-affiliate-marketing  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>The Fair Credit Reporting Act: Affiliate MarketingThe.gov means it&#x27;s official. Federal government websites often end in.gov or.mil. Be...</p></details>
 
 16.<a id="endnote-16"></a>

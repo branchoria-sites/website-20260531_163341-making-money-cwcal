@@ -1129,7 +1129,6 @@ Revenue per visitor is therefore a practical decision model for affiliate publis
 
 42.<a id="endnote-42"></a>
    Source: ftc.gov  
-   Link:https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews  
 
 43.<a id="endnote-43"></a>
    Source: impact.com  

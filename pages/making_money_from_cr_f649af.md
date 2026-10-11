@@ -998,12 +998,10 @@ For a website-generation and monetisation system, the central lesson is to treat
 
 35.<a id="endnote-35"></a>
    Source: ftc.gov  
-   Link:https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews  
 
 36.<a id="endnote-36"></a>
    Source: ftc.gov  
    Title: s endorsement guides what people are asking  
-   Link:https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking  
 
 37.<a id="endnote-37"></a>
    Source: affiversemedia.com  
