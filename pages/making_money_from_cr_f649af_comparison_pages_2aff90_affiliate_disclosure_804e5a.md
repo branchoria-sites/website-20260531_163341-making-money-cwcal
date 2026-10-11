@@ -816,7 +816,6 @@ Prioritising honest disclosure **reduces risk, strengthens trust, and supports s
 10.<a id="endnote-10"></a>
    Source: lillianpurge.co.uk  
    Title: Lillian Purge Do affiliate links hurt SEO | Lillian Purge  
-   Link:https://www.lillianpurge.co.uk/do-affiliate-links-hurt-seo  
 
 ### Additional References
 

@@ -879,7 +879,6 @@ By avoiding thin best‑of pages and focusing on *decision support*, an affiliat
 16.<a id="endnote-16"></a>
    Source: lillianpurge.co.uk  
    Title: From experience, Google has publicly acknowledged affil  
-   Link:https://www.lillianpurge.co.uk/do-affiliate-links-hurt-seo  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Do affiliate links hurt SEO | Lillian PurgeAFFILIATE LINKS ARE NOT A RANKING PENALTY BY DEFAULT The first thing to be clear about is this...</p></details>
 
 17.<a id="endnote-17"></a>

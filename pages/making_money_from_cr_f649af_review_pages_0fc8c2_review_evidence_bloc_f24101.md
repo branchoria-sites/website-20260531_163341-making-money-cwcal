@@ -866,12 +866,10 @@ An affiliate review page becomes more persuasive when it shows enough evidence f
 
 3.<a id="endnote-3"></a>
    Source: ftc.gov  
-   Link:https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade CommissionFTC&#x27;s Endorsement Guides: What People Are Asking29 Jun 2023 — The Guides, at their core, reflect the basic truth...</p></details>
 
 4.<a id="endnote-4"></a>
    Source: ftc.gov  
-   Link:https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews  
 
 5.<a id="endnote-5"></a>
    Source: developers.google.com  

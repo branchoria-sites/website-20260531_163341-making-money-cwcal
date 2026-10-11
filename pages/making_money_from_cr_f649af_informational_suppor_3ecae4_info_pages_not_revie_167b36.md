@@ -1094,5 +1094,4 @@ Some pages make money best by increasing trust, clarifying choices, and feeding 
 17.<a id="endnote-17"></a>
    Source: ftc.gov  
    Title: s endorsement guides what people are asking  
-   Link:https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>FTC&#x27;s Endorsement Guides: What People Are AskingJun 29, 2023 — Here are answers to some of the most frequently asked questions from adver...</p></details>

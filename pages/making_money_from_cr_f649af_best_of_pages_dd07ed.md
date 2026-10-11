@@ -1020,7 +1020,6 @@ For affiliate websites, this makes best-of pages one of the most important monet
 
 4.<a id="endnote-4"></a>
    Source: ftc.gov  
-   Link:https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking  
 
 5.<a id="endnote-5"></a>
    Source: affiliate-program.amazon.com  
