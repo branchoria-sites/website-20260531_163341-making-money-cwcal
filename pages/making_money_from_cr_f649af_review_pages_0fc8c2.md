@@ -1114,7 +1114,7 @@ A practical review-page quality test is simple: after reading the page, could a 
 37.<a id="endnote-37"></a>
    Source: ftc.gov  
    Title: s endorsement guides what people are asking  
-   Link:<a href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking</a>  
+   Link:https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking  
 
 38.<a id="endnote-38"></a>
    Source: which.co.uk  
@@ -1186,7 +1186,7 @@ A practical review-page quality test is simple: after reading the page, could a 
 
 52.<a id="endnote-52"></a>
    Source: ftc.gov  
-   Link:<a href="https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews</a>  
+   Link:https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews  
 
 53.<a id="endnote-53"></a>
    Source: ftc.gov  

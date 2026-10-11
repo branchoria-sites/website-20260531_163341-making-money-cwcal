@@ -1001,7 +1001,7 @@ For affiliate websites, the highest-converting shortlist is rarely the one that 
 
 19.<a id="endnote-19"></a>
    Source: ftc.gov  
-   Link:<a href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking</a>  
+   Link:https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade CommissionFTC&#x27;s Endorsement Guides: What People Are Asking29 Jun 2023 — The Guides, at their core, reflect the basic truth...</p></details>
 
 20.<a id="endnote-20"></a>
@@ -1035,7 +1035,7 @@ For affiliate websites, the highest-converting shortlist is rarely the one that 
 
 26.<a id="endnote-26"></a>
    Source: ftc.gov  
-   Link:<a href="https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews</a>  
+   Link:https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Endorsements, Influencers, and ReviewsOne key is to make a good disclosure of your relationship to the brand. This brochure from FTC staf...</p></details>
 
 ### Additional References
@@ -1089,5 +1089,5 @@ For affiliate websites, the highest-converting shortlist is rarely the one that 
 36.<a id="endnote-36"></a>
    Source: seozoom.com  
    Title: google reviews system the algorithm on product reviews  
-   Link:<a href="https://www.seozoom.com/google-reviews-system-the-algorithm-on-product-reviews/" target="_blank" rel="noopener noreferrer nofollow">https://www.seozoom.com/google-reviews-system-the-algorithm-on-product-reviews/</a>  
+   Link:https://www.seozoom.com/google-reviews-system-the-algorithm-on-product-reviews/  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Google Reviews System: the algorithm on product reviews17 Apr 2023 — Guide to Reviews system, the Google algorithm evaluating reviews, an...</p></details>

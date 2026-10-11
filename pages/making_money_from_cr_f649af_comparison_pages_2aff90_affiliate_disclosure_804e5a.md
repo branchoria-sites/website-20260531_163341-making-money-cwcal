@@ -322,7 +322,7 @@ Insufficient disclosure on comparison pages poses a set of practical risks to af
 * **User trust erosion:** Readers who feel misled by hidden monetisation are less likely to return or click affiliate links, reducing revenue potential.
 * **Regulatory enforcement:** Authorities like the ASA enforce clear recognition of marketing communications; vague or buried disclosures can attract sanctions or orders to amend content.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cms.law/en/gbr/legal-updates/asa-upholds-complaints-against-four-misleading-product-review-websites" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cms.law">[CMS Law]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cms.law</span><span class="citation-popover-title">Law ASA Rulings on Misleading Product Review Websites</span><span class="citation-popover-snippet">ASA Rulings on Misleading Product Review WebsitesMay 13, 2026...</span><span class="citation-popover-meta">Published: May 13, 2026</span></span></span>
 * **Brand credibility damage:** Sites known for undisclosed affiliate bias find it harder to build repeat traffic and earn authority, hurting long‑term monetisation.
-* **SEO quality perceptions:** While affiliate links alone don’t harm search performance, search engines treat pages with misleading or thin content more critically. Lack of transparency can compound that quality issue.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lillianpurge.co.uk/do-affiliate-links-hurt-seo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lillianpurge.co.uk">[Lillian Purge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lillianpurge.co.uk</span><span class="citation-popover-title">Lillian Purge Do affiliate links hurt SEO &#124; Lillian Purge</span><span class="citation-popover-snippet">Lillian Purge Do affiliate links hurt SEO &#124; Lillian Purge</span></span></span>
+* **SEO quality perceptions:** While affiliate links alone don’t harm search performance, search engines treat pages with misleading or thin content more critically. Lack of transparency can compound that quality issue.<span class="citation-chip-wrap">[Lillian Purge]<span class="citation-popover" role="note"><span class="citation-popover-source">lillianpurge.co.uk</span><span class="citation-popover-title">Lillian Purge Do affiliate links hurt SEO &#124; Lillian Purge</span><span class="citation-popover-snippet">Lillian Purge Do affiliate links hurt SEO &#124; Lillian Purge</span></span></span>
 
 In short, disclosure is not a nuisance checkbox — it’s a **core component of trust architecture** for comparison pages in affiliate revenue systems. Done well, it protects you legally and commercially; done poorly, it risks both your audience and your affiliate partnerships.
 
@@ -816,7 +816,7 @@ Prioritising honest disclosure **reduces risk, strengthens trust, and supports s
 10.<a id="endnote-10"></a>
    Source: lillianpurge.co.uk  
    Title: Lillian Purge Do affiliate links hurt SEO | Lillian Purge  
-   Link:<a href="https://www.lillianpurge.co.uk/do-affiliate-links-hurt-seo" target="_blank" rel="noopener noreferrer nofollow">https://www.lillianpurge.co.uk/do-affiliate-links-hurt-seo</a>  
+   Link:https://www.lillianpurge.co.uk/do-affiliate-links-hurt-seo  
 
 ### Additional References
 

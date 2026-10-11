@@ -431,7 +431,7 @@ A strong structure often looks like this:
 
 </div>
 
-The disclosure is not just a legal formality. The FTC’s endorsement guidance says that where there is a connection between an endorser and a seller that consumers would not expect and that would affect how they evaluate the endorsement, that connection should be disclosed clearly. Amazon Associates also requires affiliates to include a legally compliant disclosure and identify themselves as Associates when sharing affiliate links.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The disclosure is not just a legal formality. The FTC’s endorsement guidance says that where there is a connection between an endorser and a seller that consumers would not expect and that would affect how they evaluate the endorsement, that connection should be disclosed clearly. Amazon Associates also requires affiliates to include a legally compliant disclosure and identify themselves as Associates when sharing affiliate links.<span class="citation-chip-wrap">[Federal Trade Commission]<span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 Disclosure also protects trust. Research on affiliate [disclosures]({{ 'disclosures/' | relative_url }}) has found that many affiliate marketing disclosures are absent or poorly understood. A study of YouTube and Pinterest affiliate content found that only about one-tenth of affiliate content contained disclosures, and that users often failed to understand short, unexplained disclosures.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1809.00620" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
@@ -1020,7 +1020,7 @@ For affiliate websites, this makes best-of pages one of the most important monet
 
 4.<a id="endnote-4"></a>
    Source: ftc.gov  
-   Link:<a href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking</a>  
+   Link:https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking  
 
 5.<a id="endnote-5"></a>
    Source: affiliate-program.amazon.com  
